@@ -1,0 +1,1924 @@
+Dans les allées d' un jardin , qui contenait encore quelques fleurs tardives , un prêtre se promenait en récitant dévotement son rosaire .
+
+1,6,1,6 NOM_FAC|7,8,7,8 PRON_FAC|14,16,14,16 NOM_PER|21,22,21,22 PRON_PER
+
+Ce prêtre pouvait avoir quarante ans , ou quarante - cinq , peut - être .
+
+0,2,0,2 NOM_PER
+
+Sa figure intelligente et belle , était jeune encore , quoique des cheveux blancs se mêlassent à ses cheveux blonds .
+
+0,1,0,1 PRON_PER|17,18,17,18 PRON_PER
+
+Ce prêtre c' était l' abbé Bernard .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|4,7,4,7 NOM_PER
+
+Sa santé chancelante ne lui permettait pas d' exercer le saint ministère , et il était en visite chez un curé de ses amis .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|14,15,14,15 PRON_PER|19,24,19,24 NOM_PER
+
+Sans doute l' abbé Bernard était toujours prêt à accourir au chevet d' un mourant et , quoiqu' il fût au repos complet , il ne se laissait pas aller à l' inaction .
+
+2,5,2,5 NOM_PER|13,15,13,15 NOM_PER|18,19,18,19 PRON_PER|24,25,24,25 PRON_PER
+
+Le jardin où l' abbé Bernard se promenait , en ce soir d' octobre , appartenait au presbytère , et il était situé sur le bord de l' Océan .
+
+0,2,0,2 NOM_FAC|2,3,2,3 PRON_FAC|3,6,3,6 NOM_PER|16,18,16,18 NOM_FAC|20,21,20,21 PRON_FAC|24,29,24,29 NOM_LOC
+
+Les flots de l' Atlantique venaient battre aux confins mêmes du jardin .
+
+0,5,0,5 NOM_LOC|7,12,7,12 NOM_FAC
+
+L' abbé aimait à contempler l' immensité , qui le portait à méditer sur la grandeur et la puissance du Créateur .
+
+0,2,0,2 NOM_PER|9,10,9,10 PRON_PER|19,21,19,21 NOM_PER
+
+Rien , pour lui , n' était plus impressionnant que l' Océan , car rien , selon lui , ne parlait plus hautement de Dieu .
+
+3,4,3,4 PRON_PER|10,12,10,12 PROP_LOC|17,18,17,18 PRON_PER|24,25,24,25 PROP_PER
+
+La mer avait toujours eu un puissant attrait pour l' abbé Bernard : s' il ne s' était pas consacré au sacerdoce , il n' aurait pas choisi d' autre métier que celui de marin , se disait - il , parfois … Mais la voix de Dieu s' était fait entendre , il n' y avait pas résisté .
+
+0,2,0,2 NOM_LOC|9,12,9,12 NOM_PER|14,15,14,15 PRON_PER|23,24,23,24 PRON_PER|39,40,39,40 PRON_PER|47,48,47,48 PROP_PER|53,54,53,54 PRON_PER
+
+L' abbé Bernard , un peu fatigué de sa promenade , s' assit sur un banc du jardin , dans l' attitude d' une profonde méditation .
+
+0,3,0,3 NOM_PER|8,9,8,9 PRON_PER|16,18,16,18 NOM_FAC
+
+Les flots venaient mourir à ses pieds , et leur clapotage semblait être l' écho d' un hymne d' adoration , qui montait de son âme poétique et pieuse .
+
+0,2,0,2 NOM_LOC|5,6,5,6 PRON_PER|9,10,9,10 PRON_LOC
+
+Tout à coup le prêtre sursauta au bruit d' une voix , qui disait auprès de lui :
+
+3,5,3,5 NOM_PER|16,17,16,17 PRON_PER
+
+— « Est - ce bien à l' abbé Bernard que j' ai l' honneur de parler ?
+
+7,10,7,10 NOM_PER|11,12,11,12 PRON_PER
+
+L' abbé tourna la tête et vit , appuyé au banc où il était assis , un homme à l' allure de marin .
+
+0,2,0,2 NOM_PER|12,13,12,13 PRON_PER|16,23,16,23 NOM_PER
+
+Le prêtre ne l' avait pas entendu arriver .
+
+0,2,0,2 NOM_PER|3,4,3,4 NOM_PER
+
+— « Oui , mon ami , que puis - je faire pour vous ?
+
+4,6,4,6 NOM_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER
+
+— « Veuillez me suivre monsieur l' abbé , je vais vous conduire auprès d' un mourant .
+
+3,4,3,4 PRON_PER|5,8,5,8 NOM_PER|9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|15,17,15,17 NOM_PER
+
+— « Je vous suis .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER
+
+Je cours au presbytère , chercher ce qu' il me faut , et , dans un instant , je suis à vous .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_FAC|18,19,18,19 PRON_PER|21,22,21,22 PRON_PER
+
+L' abbé entra dans le presbytère et se rendit à la bibliothèque .
+
+0,2,0,2 NOM_PER|4,6,4,6 NOM_FAC|10,12,10,12 NOM_FAC
+
+Le prêtre qui lui donnait l' hospitalité n' y était pas .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|8,9,8,9 PRON_FAC
+
+L' abbé Bernard lui écrivit à la hâte quelques mots , pour le prévenir de son absence , puis , il prit un paletot chaud et quelques menus objets , dont il pouvait avoir besoin , et quitta le presbytère .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|20,21,20,21 PRON_PER|31,32,31,32 PRON_PER|38,40,38,40 NOM_FAC
+
+Arrivé au jardin , il aperçut le marin , qui semblait l' attendre avec impatience :
+
+1,3,1,3 NOM_FAC|4,5,4,5 PRON_PER|6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|11,12,11,12 NOM_PER
+
+— « Nous allons par eau , monsieur l' abbé » , dit - il sans préambule .
+
+2,3,2,3 PRON_PER|7,10,7,10 NOM_PER|14,15,14,15 PRON_PER
+
+Le prêtre s' installa sur le banc d' un yacht à la forme étrange , et l' on partit .
+
+0,2,0,2 NOM_PER|8,14,8,14 NOM_VEH|17,18,17,18 PRON_PER
+
+Un silence complet régnait à bord ; on n' entendait que le bruit de la machine faisant mouvoir le yatch .
+
+7,8,7,8 PRON_PER|18,20,18,20 NOM_VEH
+
+L' abbé Bernard essaya bien de poser quelques questions au marin , mais celui - ci ne l' entendit pas , sans doute , car il ne répondit pas .
+
+0,3,0,3 NOM_PER|9,11,9,11 NOM_PER|13,16,13,16 NOM_PER|17,18,17,18 NOM_PER|25,26,25,26 PRON_PER
+
+Au bout d' une heure , à peu près , de cette navigation silencieuse , sur une mer très calme , le marin quitta sa machine et s' approchant du prêtre , lui dit , d' un ton très poli :
+
+16,20,16,20 NOM_LOC|21,23,21,23 NOM_PER|24,25,24,25 PRON_PER|29,31,29,31 NOM_PER|32,33,32,33 PRON_PER
+
+— « Je le regrette , monsieur l' abbé , mais il faut que vous consentiez à vous laisser bander les yeux .
+
+2,3,2,3 PRON_PER|6,9,6,9 NOM_PER|14,15,14,15 PRON_PER
+
+… je refuse , » répondit l' abbé .
+
+1,2,1,2 PRON_PER|6,8,6,8 NOM_PER
+
+— « Il le faut » , reprit son compagnon , sans rudesse , et je vous donne ma parole qu' il ne vous sera fait aucun mal .
+
+8,10,8,10 NOM_PER|15,16,15,16 PRON_PER|16,17,16,17 PRON_PER|18,19,18,19 PRON_PER|23,24,23,24 PRON_PER
+
+Et sans laisser au prêtre le temps de répliquer , il lui jeta sur la tête un sac de toile goudronné , qu' il ficela étroitement .
+
+3,5,3,5 NOM_PER|10,11,10,11 PRON_PER|11,12,11,12 PRON_PER|23,24,23,24 PRON_PER
+
+L' abbé n' essaya même pas de se défendre ; on ne pouvait lui vouloir aucun mal , à lui qui n' avait fait que du bien toute sa vie .
+
+0,2,0,2 NOM_PER|13,14,13,14 PRON_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER|28,29,28,29 PRON_PER
+
+D' ailleurs , il n' était pas de force à lutter contre le robuste matelot .
+
+3,4,3,4 PRON_PER|12,15,12,15 NOM_PER
+
+L' abbé Bernard crut entendre un bruit étrange , comme si les flots se fussent entr' ouverts pour avaler le yacht ; mais il se dit que c' était un jeu de l' imagination , car la navigation continuait rapide et calme ; elle continua encore une heure , au moins , puis il sentit l' embarcation s' arrêter soudain .
+
+0,3,0,3 NOM_PER|11,13,11,13 NOM_LOC|19,21,19,21 NOM_VEH|23,24,23,24 PRON_PER|53,54,53,54 PRON_PER|55,57,55,57 NOM_VEH
+
+Il entendit alors des bruits de voix et des piétinements , puis une main saisit la sienne , et quelqu' un lui dit sans rudesse :
+
+0,1,0,1 PRON_PER|19,21,19,21 PRON_PER|21,22,21,22 PRON_PER
+
+— « Suivez - moi , monsieur l' abbé .
+
+4,5,4,5 PRON_PER|6,9,6,9 NOM_PER
+
+On fit quelques pas — une cinquantaine , peut - être — puis , le prêtre sentit qu' on enlevait son bandeau ; il vit qu' il se trouvait dans une chambre vivement éclairée à l' électricité , au milieu de laquelle , sur un lit d' une extrême propreté , reposait un mourant .
+
+14,16,14,16 NOM_PER|20,21,20,21 PRON_PER|23,24,23,24 PRON_PER|26,27,26,27 PRON_PER|30,37,30,37 NOM_FAC|41,42,41,42 PRON_FAC|52,54,52,54 NOM_PER
+
+Deux ans avant les événements racontés dans le précédent chapitre , un petit paquebot luttait contre les flots de l' Océan Pacifique .
+
+11,14,11,14 NOM_VEH|16,22,16,22 NOM_LOC
+
+Cette mer ne justifie pas toujours son nom , et , en ce jour du quatre juin 1873 , elle présentait un aspect effrayant .
+
+0,2,0,2 NOM_LOC|6,7,6,7 PRON_LOC|19,20,19,20 PRON_LOC
+
+Le paquebot luttait , et luttait bravement , mais le vent soufflait de l' ouest , causant un épouvantable roulis .
+
+0,2,0,2 NOM_VEH
+
+Des paquets de mer embarquaient , ce qui contraignait ceux qui n' étaient pas au service du bord de se réfugier dans leurs cabines ou dans le salon .
+
+9,18,9,18 NOM_PER|22,24,22,24 NOM_FAC|26,28,26,28 NOM_FAC
+
+On pouvait voir à l' arrière du bateau , son nom , écrit en larges lettres noires , sur le bois peinturé en blanc : « Queen of the Waves » , il appartenait à une compagnie de San - Francisco .
+
+4,8,4,8 NOM_FAC|9,10,9,10 PRON_VEH|32,33,32,33 PRON_VEH
+
+Les passagers , peu nombreux , une cinquantaine en tout , étaient des émigrés , mais non des émigrés de basse origine , sans instruction , sans éducation .
+
+0,2,0,2 NOM_PER|12,14,12,14 NOM_PER|17,22,17,22 NOM_PER
+
+Il y avait parmi eux quelques avocats , deux médecins , des ingénieurs , des mécaniciens .
+
+4,5,4,5 PRON_PER|5,7,5,7 NOM_PER|8,10,8,10 NOM_PER|11,13,11,13 NOM_PER|14,16,14,16 NOM_PER
+
+La fortune ne leur avait pas souri chez eux , ils cherchaient un pays plus favorable ; voilà tout .
+
+3,4,3,4 PRON_PER|8,9,8,9 PRON_PER|10,11,10,11 PRON_PER|12,16,12,16 NOM_LOC
+
+Le paquebot continuait toujours son affreux roulis .
+
+0,2,0,2 NOM_VEH|4,5,4,5 PRON_VEH
+
+Tout à coup , une énorme masse d' eau de mer envahit le pont du « Queen of the Waves » , éteignant les feux , et causant de légères explosions .
+
+12,20,12,20 NOM_FAC
+
+Une panique était à craindre , car le paquebot , dont le gouvernail fonctionnait à peine , dans cette tourmente , ne parvenait pas à se maintenir .
+
+7,9,7,9 NOM_VEH|10,11,10,11 PRON_VEH
+
+Le « Queen of the Waves » n' était plus qu' une épave , ballottée de tribord à bâbord .
+
+0,6,0,6 PROP_VEH|11,19,11,19 NOM_VEH
+
+Les passagers se sentaient perdus .
+
+0,2,0,2 NOM_PER
+
+Et pas une terre en vue !
+
+2,4,2,4 NOM_LOC
+
+Les lamentations des femmes , leurs cris désespérés se mêlaient aux bruits de la tempête , tout espoir de salut semblait perdu .
+
+2,4,2,4 NOM_PER|5,6,5,6 PRON_PER
+
+Mais , vers les trois heures de l' après - midi , l' homme de quart cria d' une voix retentissante : « Terre !
+
+12,16,12,16 NOM_PER|23,24,23,24 NOM_LOC
+
+… Terre !
+
+1,2,1,2 NOM_LOC
+
+» Le pont du « Queen of the Waves » se couvrit de passagers à l' instant , et à une distance de cinq milles , à peu près , ils purent voir se dessiner une sorte de promontoire .
+
+1,9,1,9 NOM_FAC|12,14,12,14 NOM_PER|30,31,30,31 PRON_PER|35,39,35,39 NOM_LOC
+
+Était - ce la terre ferme ?
+
+2,3,2,3 PRON_LOC|3,6,3,6 NOM_LOC
+
+… Était - ce seulement une île ?
+
+3,4,3,4 PRON_LOC|5,7,5,7 NOM_LOC
+
+… Mais qu' importe : continent ou île , ce morceau de terre , c' était le salut , si on pouvait l' atteindre .
+
+5,6,5,6 NOM_LOC|7,8,7,8 NOM_LOC|9,13,9,13 NOM_LOC|14,15,14,15 PRON_LOC|16,18,16,18 NOM_LOC|22,23,22,23 NOM_LOC
+
+L' homme à la barre redoubla d' efforts .
+
+0,5,0,5 NOM_PER
+
+Le bateau n' était plus qu' à un mille de terre , quand il donna contre un récif .
+
+0,2,0,2 NOM_VEH|13,14,13,14 PRON_VEH|16,18,16,18 NOM_LOC
+
+Aussitôt , le « Queen of the Waves » se coucha sur le flanc , et on comprit qu' il ne se relèverait plus .
+
+2,8,2,8 PROP_VEH|19,20,19,20 PRON_VEH
+
+Mais les passagers étaient tous des hommes d' intelligence et de cœur .
+
+1,3,1,3 NOM_PER|4,5,4,5 NOM_PER
+
+Ils aidèrent les matelots à mettre les chaloupes à la mer — il n' y en avait que quatre — et , en risquant cent fois leur vie , les passagers furent mis en état de se sauver .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_PER|6,8,6,8 NOM_VEH|9,11,9,11 NOM_LOC|15,16,15,16 PRON_VEH|26,27,26,27 PRON_PER|29,31,29,31 NOM_PER
+
+Malheureusement , la dernière chaloupe , contenant le capitaine et les hommes de l' équipage , effleura un brisant de trop près , et on la vit s' enfoncer dans les flots bouillonnants de l' Océan .
+
+2,5,2,5 NOM_VEH|7,9,7,9 NOM_PER|10,15,10,15 NOM_PER|17,19,17,19 NOM_LOC|24,25,24,25 PRON_PER|25,26,25,26 PRON_VEH|30,36,30,36 NOM_LOC
+
+C' était un grand malheur , car , si on parvenait à dégager le paquebot , comment parviendrait - on à lui faire reprendre la mer , sans capitaine et sans matelots !
+
+9,10,9,10 PRON_PER|13,15,13,15 NOM_VEH|19,20,19,20 PRON_PER|21,22,21,22 PRON_VEH|24,26,24,26 NOM_LOC|28,29,28,29 NOM_PER|31,32,31,32 NOM_PER
+
+on ne pouvait s' attarder à pleurer cette perte de l' équipage , il fallait aviser au plus pressé , et le plus vite possible .
+
+0,1,0,1 PRON_PER|10,12,10,12 NOM_PER
+
+Quelques - uns des naufragés se dévouèrent : ils firent plusieurs voyages au bateau échoué , et en rapportèrent des provisions , des couvertures , des armes , etc .
+
+0,5,0,5 PRON_PER|8,9,8,9 PRON_PER|12,15,12,15 NOM_VEH|17,18,17,18 PRON_VEH
+
+Ils firent bien , car deux heures plus tard , le « Queen of the Waves » se brisait contre les récifs , et il n' en resta plus , bientôt , que des débris flottants , sur la mer en furie .
+
+0,1,0,1 PRON_PER|10,16,10,16 PROP_VEH|20,22,20,22 NOM_LOC|26,27,26,27 PRON_VEH|38,42,38,42 NOM_LOC
+
+Sur quel point du globe était - on ?
+
+1,5,1,5 NOM_LOC|7,8,7,8 PRON_PER
+
+… Les instruments manquant , on ne pouvait faire le point .
+
+5,6,5,6 PRON_PER
+
+La seule chose certaine , c' était qu' on était sur une terre du Pacifique ; il fallait se contenter de ce renseignement , pour le moment .
+
+8,9,8,9 PRON_PER|11,15,11,15 NOM_LOC
+
+Cette terre , sur les côtes de laquelle le « Queen of the Waves » avait fait naufrage , était étrange : ce n' était partout qu' arbres renversés , excavations profondes ; en certains endroits , on eût dit que le granit , qui formait la base du sol , avait été ouvert , séparé en deux par quelque cataclysme .
+
+0,2,0,2 NOM_LOC|4,8,4,8 NOM_LOC|8,14,8,14 PROP_VEH
+
+Évidemment , un tremblement de terre s' était produit là , à une époque peu éloignée : les plus entendus parmi les naufragés fixèrent cette date à deux ou trois ans au plus .
+
+9,10,9,10 NOM_LOC
+
+On ne voyait pas un être vivant , ni homme ni bête .
+
+0,1,0,1 PRON_PER|4,7,4,7 NOM_PER|9,10,9,10 NOM_PER|11,12,11,12 NOM_PER
+
+Et pour le moment , les naufragés durent céder à une préoccupation plus impérieuse : celle de se réconforter par un peu de nourriture et de se reposer , car tous étaient , on le devine , exténués de fatigue .
+
+5,7,5,7 NOM_PER|30,31,30,31 NOM_PER
+
+Sans même prendre la peine d' allumer un feu , chacun improvisa son repas de quelques conserves froides , puis se roula dans sa couverture , et s' endormit , confiant la garde du campement au chien « Turko » , qui appartenait à un jeune ingénieur du nom de Roger de Ville .
+
+35,39,35,39 NOM_PER|41,42,41,42 PRON_PER|44,53,44,53 NOM_PER
+
+Le lendemain , l' orage s' était calmé ; il faisait un soleil radieux , dont les chauds rayons mirent un peu d' espoir au cœur des naufragés .
+
+26,28,26,28 NOM_PER
+
+Lorsqu' on eut déjeuné , et , cette fois , on se paya le luxe de café brûlant , il fut décidé qu' on irait en excursion de découverte .
+
+1,2,1,2 PRON_PER|10,11,10,11 PRON_PER
+
+Il était important de savoir quelle était la nature de la terre sur laquelle on se trouvait ; était - ce une île ou bien le continent ?
+
+10,12,10,12 NOM_LOC|13,14,13,14 PRON_LOC|14,15,14,15 PRON_PER|20,21,20,21 PRON_LOC|21,23,21,23 NOM_LOC|25,27,25,27 NOM_LOC
+
+Tous les naufragés essayaient de se convaincre que cette dernière hypothèse était la bonne , car si l' on était sur le continent , il serait assez facile de regagner les régions habitées ; si , au contraire , on était sur une île inconnue … On ne voulait même pas s' arrêter à cette supposition , elle était trop épouvantable .
+
+0,3,0,3 NOM_PER|18,19,18,19 PRON_PER|21,23,21,23 NOM_LOC|30,33,30,33 NOM_LOC|39,40,39,40 PRON_PER|42,45,42,45 NOM_LOC|46,47,46,47 PRON_PER
+
+Mais dans tous les cas , les pauvres naufragés se confiaient en la Providence , qui ne pouvait pas les abandonner , et leur viendrait certainement en aide .
+
+6,9,6,9 NOM_PER|19,20,19,20 PRON_PER|23,24,23,24 PRON_PER
+
+Deux jeunes gens , Roger de Ville et Paul Lamontagne , offrirent d' aller à la découverte .
+
+0,3,0,3 NOM_PER|4,7,4,7 PROP_PER|8,10,8,10 PROP_PER
+
+Ils voulaient atteindre le sommet d' une montagne , haute de sept ou huit cents pieds , qui se dressait majestueuse , à peu de distance .
+
+0,1,0,1 PRON_PER|17,18,17,18 PRON_LOC
+
+Du haut de cette montagne , on verrait la terre s' étendre à perte de vue , ou bien on apercevrait la mer l' entourant , hélas !
+
+0,5,0,5 NOM_LOC|8,10,8,10 NOM_LOC|21,23,21,23 NOM_LOC|23,24,23,24 NOM_LOC
+
+d' un cercle presque infranchissable pour les naufragés .
+
+1,8,1,8 NOM_LOC
+
+Roger et Paul partirent donc , vers les neuf heures , de l' avant - midi .
+
+0,1,0,1 PROP_PER|2,3,2,3 PROP_PER
+
+Ils emportaient des provisions , deux couvertures de voyage , deux carabines , un câble solide et une lunette marine puissante .
+
+0,1,0,1 PRON_PER
+
+Il fut décidé qu' on laisserait Turko en campement ; mais lorsque le chien vit partir son maître , il fut impossible de le retenir .
+
+6,7,6,7 PROP_PER|12,14,12,14 NOM_PER|16,18,16,18 NOM_PER|23,24,23,24 PRON_PER
+
+Au fond , Roger , n' était pas fâché de l' emmener , il n' aimait pas à être séparé longtemps du fidèle animal .
+
+3,4,3,4 PROP_PER|10,11,10,11 NOM_PER|13,14,13,14 PRON_PER|21,24,21,24 NOM_PER
+
+Les souhaits de bon voyage ne manquèrent pas aux excursionnistes , et on les suivit des yeux , aussi longtemps qu' on put les apercevoir .
+
+8,10,8,10 NOM_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_PER|21,22,21,22 PRON_PER|23,24,23,24 PRON_PER
+
+Ce n' est pas mon intention de vous donner de longs et minutieux détails de cette excursion et de toutes les difficultés que les voyageurs rencontrèrent en route ; essayez , si vous le pouvez , de vous faire une idée de ce que peut être une promenade de ce genre , dans un pays inconnu , coupé de ravins et rendu presque impraticable par mille difficultés naturelles .
+
+23,25,23,25 NOM_PER|59,60,59,60 NOM_LOC
+
+Ce ne fut que vers le soir , que Roger et Paul atteignirent le haut de la montagne .
+
+9,10,9,10 PROP_PER|11,12,11,12 PROP_PER|13,18,13,18 NOM_LOC
+
+Ils n' auraient pu choisir un meilleur observatoire et tous deux , à tour de rôle , promenèrent la lunette marine sur l' horizon .
+
+0,1,0,1 PRON_PER|9,11,9,11 PRON_PER
+
+Puis , ils se regardèrent , et dirent presque simultanément , avec une note de découragement dans la voix :
+
+2,3,2,3 PRON_PER
+
+— « C' est une île .
+
+2,3,2,3 PRON_LOC|4,6,4,6 NOM_LOC
+
+Et Roger ajouta : « Une île volcanique .
+
+1,2,1,2 PROP_PER|5,8,5,8 NOM_LOC
+
+» répondit Paul .
+
+2,3,2,3 PROP_PER
+
+Les deux amis redescendirent dans la vallée et continuèrent leur route , cherchant un endroit favorable pour passer la nuit .
+
+0,3,0,3 NOM_PER|5,7,5,7 NOM_LOC|9,10,9,10 PRON_PER
+
+Ils restaient silencieux , maintenant , n' osant se communiquer les sombres pensées qui les assaillaient .
+
+0,1,0,1 PRON_PER|14,15,14,15 PRON_PER
+
+Quelle horrible nouvelle ils auraient à rapporter à leurs compagnons , le lendemain !
+
+3,4,3,4 PRON_PER|8,10,8,10 NOM_PER
+
+… Et tous deux songeaient : comment sortir d' ici ?
+
+2,4,2,4 PRON_PER|9,10,9,10 NOM_LOC
+
+… Construire un radeau , peut - être , mais comment le diriger ?
+
+2,4,2,4 NOM_VEH|11,12,11,12 PRON_VEH
+
+… on ne savait pas en quelle partie de l' Océan on se trouvait , le « Queen of the Waves » s' étant échoué , après avoir battu la mer comme une épave .
+
+1,2,1,2 PRON_PER|6,11,6,11 NOM_LOC|11,12,11,12 PRON_PER|15,21,15,21 PROP_VEH|29,31,29,31 NOM_LOC
+
+Bientôt , Roger et Paul s' arrêtèrent , ils avaient atteint le bord de la mer , et c' est là qu' ils voulaient passer la nuit .
+
+2,3,2,3 PROP_PER|4,5,4,5 PROP_PER|8,9,8,9 PRON_PER|11,16,11,16 NOM_LOC|20,21,20,21 NOM_LOC|22,23,22,23 PRON_PER
+
+L' endroit était idéal dans sa sauvage beauté , avec ses caps plongeant à pic dans les flots , ses grottes profondes et ses immenses blocs de granit superposés , et qui semblaient n' attendre qu' une poussée de quelque géant pour s' effondrer dans l' eau bouillonnante .
+
+0,2,0,2 NOM_LOC|5,6,5,6 PRON_LOC|10,12,10,12 NOM_LOC|16,18,16,18 NOM_LOC|19,20,19,20 PRON_LOC|23,29,23,29 NOM_LOC|31,32,31,32 PRON_LOC
+
+Mais nul vestige de végétation ne s' y voyait , et par des signes , qui ne pouvaient tromper les yeux experts de Roger , les deux jeunes gens comprirent que cet endroit avait été récemment visité par un tremblement de terre .
+
+7,8,7,8 PRON_LOC|23,24,23,24 PROP_PER|25,29,25,29 NOM_PER|31,33,31,33 NOM_LOC
+
+L' Océan offrait , cependant une particularité , qui ne manqua pas d' intéresser les deux amis malgré les angoisses de l' heure présente ; l' eau était si limpide que le regard pouvait plonger à une grande profondeur : quand les vagues se retiraient , on voyait même le fond de la mer , on apercevait les poissons qui nageaient entre deux eaux .
+
+0,2,0,2 PROP_LOC|14,17,14,17 NOM_PER|52,54,52,54 NOM_LOC|57,59,57,59 NOM_PER|59,60,59,60 PRON_PER
+
+Mais les jeunes gens étaient si fatigués qu' ils ne s' attardèrent pas à de vains commentaires , ils s' enveloppèrent de leur couverture et s' endormirent profondément .
+
+1,4,1,4 NOM_PER|8,9,8,9 PRON_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER
+
+Roger et Paul s' attardèrent à leur déjeuner , le lendemain matin ; ils se concertaient , essayaient d' ébaucher des plans d' évasion , dont ils sentaient l' inutilité .
+
+0,1,0,1 PROP_PER|2,3,2,3 PROP_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|26,27,26,27 PRON_PER
+
+Ils avaient la conviction que les naufragés du « Queen of the Waves » étaient voués à une mort certaine , sur ce rocher désert .
+
+0,1,0,1 PRON_PER|5,13,5,13 NOM_PER|22,25,22,25 NOM_LOC
+
+la vie ne les avait pas traités en enfants gâtés , jusqu' à ce jour , mais ils l' aimaient quand même , cette marâtre , et ils se promirent , avec toute l' énergie de leur vingt ans , de trouver un moyen de s' arracher au sort horrible qui les guettait .
+
+3,4,3,4 PRON_PER|8,10,8,10 NOM_PER|17,18,17,18 PRON_PER|27,28,27,28 PRON_PER|36,37,36,37 PRON_PER|51,52,51,52 PRON_PER
+
+Avant de retourner au campement , ils voulurent explorer davantage les bords de la mer .
+
+6,7,6,7 PRON_PER|10,15,10,15 NOM_LOC
+
+Et , malgré les pensées tragiques qui assombrissaient leur esprit , ils subissaient le charme attirant de cette nature grandiose et terrible .
+
+8,9,8,9 PRON_PER|11,12,11,12 PRON_PER
+
+Cette limpidité de l' eau était si extraordinaire qu' ils croyaient être le jouet d' une illusion .
+
+9,10,9,10 PRON_PER
+
+Tout à coup , Roger posa la main sur le bras de Paul :
+
+4,5,4,5 PROP_PER|12,13,12,13 PROP_PER
+
+— « Vois , donc , dit - il , quel monstre !
+
+8,9,8,9 PRON_PER|10,12,10,12 NOM_PER
+
+Et du doigt , il désignait une forme monstrueuse , en effet , qui restait immobile , à dix pieds à peu près , dans la mer .
+
+4,5,4,5 PRON_PER|6,9,6,9 NOM_PER|13,14,13,14 PRON_PER|25,27,25,27 NOM_LOC
+
+— « Ce n' est ni une baleine , ni un requin , dit Paul , il n' en existe pas de cette taille .
+
+2,3,2,3 PRON_PER|14,15,14,15 PROP_PER
+
+Et disant cela , il fit rouler un quartier de roc dans l' eau , à quelques toises à peine du monstre .
+
+4,5,4,5 PRON_PER|20,22,20,22 NOM_PER
+
+Mais celui - ci resta immobile .
+
+1,4,1,4 NOM_PER
+
+— « C' est singulier , dit Roger , j' ai envie de plonger et d' aller à la découverte .
+
+2,3,2,3 PRON_PER|7,8,7,8 PROP_PER|9,10,9,10 PRON_PER
+
+— « Y songes - tu , répliqua Paul , ce serait courir à une mort certaine , le monstre ne ferait de toi qu' une bouchée .
+
+5,6,5,6 PRON_PER|8,9,8,9 PROP_PER|18,20,18,20 NOM_PER|23,24,23,24 PRON_PER
+
+— « Pourtant , je veux savoir à quoi m' en tenir , reprit Roger , d' un ton déterminé .
+
+4,5,4,5 PRON_PER|7,9,7,9 PRON_PER|14,15,14,15 PROP_PER
+
+Je vais m' attacher le câble autour de la taille et plonger tout simplement .
+
+0,1,0,1 PRON_PER
+
+L' eau est si limpide que tu pourras suivre tous mes mouvements , et si tu vois que je courre un danger , tu haleras le câble , et tout sera dit .
+
+6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|23,24,23,24 PRON_PER
+
+Malgré les remontrances de Paul , Roger fit ce qu' il avait dit , et bientôt il se laissa glisser dans la mer .
+
+4,5,4,5 PROP_PER|6,7,6,7 PROP_PER|10,11,10,11 PRON_PER|16,17,16,17 PRON_PER|21,23,21,23 NOM_LOC
+
+Il n' y resta pas longtemps .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_LOC
+
+D' un coup de talon sur le monstre , il revint à la surface .
+
+6,8,6,8 NOM_PER|9,10,9,10 PRON_PER
+
+— « Hale le câble , cria - t - il , hale , hale !
+
+10,11,10,11 PRON_PER
+
+Puis , lorsqu' il fut revenu auprès de son ami , il continua d' une voix qui tremblait d' émotion :
+
+3,4,3,4 PRON_PER|8,10,8,10 NOM_PER|11,12,11,12 PRON_PER
+
+— « Mon ami , ce n' est pas en vain que j' ai risqué ma vie , je viens de faire une grande découverte , ce monstre que tu vois là , immobile , c' est … tu ne devineras jamais ce que c' est !
+
+2,4,2,4 NOM_PER|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|26,28,26,28 NOM_PER|29,30,29,30 PRON_PER|35,36,35,36 PRON_PER|38,39,38,39 PRON_PER|42,46,42,46 NOM_PER
+
+— « Je n' ai pas l' esprit à chercher des énigmes , en ce moment , répondit Paul gravement ; tu feras mieux de me dire tout de suite ce qu' est cette chose bizarre , à laquelle tu sembles attacher une si grande importance .
+
+2,3,2,3 PRON_PER|18,19,18,19 PROP_PER|21,22,21,22 PRON_PER|25,26,25,26 PRON_PER|30,36,30,36 NOM_PER|38,39,38,39 PRON_PER|39,40,39,40 PRON_PER
+
+c' est le « Nautilus , » le « Nautilus » .
+
+0,1,0,1 PRON_PER|2,5,2,5 PROP_PER|7,10,7,10 PROP_PER
+
+— « Le Nautilus !
+
+2,4,2,4 PROP_PER
+
+» reprit Paul aussi excité que son ami , maintenant ; ce bateau sous - marin , dont les aventures extraordinaires ont tant amusé et intrigué notre imagination d' enfant .
+
+2,3,2,3 PROP_PER|6,7,6,7 PRON_PER|11,16,11,16 NOM_PER|17,18,17,18 PRON_PER|26,27,26,27 PRON_PER
+
+Es - tu bien sûr de ce que tu avances , Roger ?
+
+2,3,2,3 PRON_PER|8,9,8,9 PRON_PER|11,12,11,12 PROP_PER
+
+— « Je te dis que c' est le « Nautilus » , j' ai vu son nom écrit à l' arrière ainsi que sa devise « Mobilis in mobile .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|8,11,8,11 PROP_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|24,25,24,25 PRON_PER
+
+» Maintenant , je me rappelle le récit fait par un certain Cyrus Smith , dans lequel il est question de la mort du capitaine Nemo , et de l' engloutissement de son sous - marin , sur les côtes d' une île inconnue du Pacifique , il y a une couple d' années .
+
+3,4,3,4 PRON_PER|10,14,10,14 PROP_PER|23,26,23,26 NOM_PER|32,33,32,33 PRON_PER|38,46,38,46 NOM_LOC
+
+— « Oui , oui , je me souviens aussi , s' écria Paul , mais alors le « Nautilus » est une tombe , puisqu' il porte dans ses flancs la dépouille de son propriétaire , le capitaine Nemo .
+
+6,7,6,7 PRON_PER|13,14,13,14 PROP_PER|17,20,17,20 PROP_PER|22,24,22,24 NOM_PER|26,27,26,27 PRON_PER|29,30,29,30 PRON_PER|34,36,34,36 NOM_PER
+
+Et , puis à quoi peut nous servir cette découverte ?
+
+6,7,6,7 PRON_PER
+
+Si nous sommes destinés à périr sur ce rocher désert , nous ne pourrons même pas la faire connaître au monde .
+
+1,2,1,2 PRON_PER|7,10,7,10 NOM_LOC|11,12,11,12 PRON_PER|19,21,19,21 NOM_LOC
+
+— « Je ne suis pas si facilement résigné à périr ici , et justement notre découverte nous aidera à fuir cette île dangereuse ; nous allons renflouer le « Nautilus » et nous en servir ensuite pour naviguer .
+
+2,3,2,3 PRON_PER|11,12,11,12 NOM_LOC|15,16,15,16 PRON_PER|17,18,17,18 PRON_PER|21,24,21,24 NOM_LOC|25,26,25,26 PRON_PER|28,31,28,31 PROP_PER|34,35,34,35 PRON_PER
+
+À quoi te sert - il donc d' être mécanicien , s' il faut que je te prête des idées comme celles - ci , qui sont absolument de ton domaine , il me semble .
+
+2,3,2,3 PRON_PER|9,10,9,10 NOM_PER|15,16,15,16 PRON_PER|16,17,16,17 PRON_PER|29,30,29,30 PRON_PER|33,34,33,34 PRON_PER
+
+— « Les idées extravagantes ne sont jamais de mon domaine , répondit Paul en souriant , mais dans la situation où nous nous trouvons , l' entreprise vaut d' être tentée , et je suis certain que tous les naufragés du « Queen of the Waves » penseront de même ; tu peux donc compter sur toutes les bonnes volontés pour mener à bonne fin ton hardi projet .
+
+9,10,9,10 PRON_PER|13,14,13,14 PROP_PER|22,23,22,23 PRON_PER|34,35,34,35 PRON_PER|38,47,38,47 NOM_PER|52,53,52,53 PRON_PER|57,61,57,61 NOM_PER|66,67,66,67 PRON_PER
+
+— « Allons faire part de notre découverte aux autres , qui nous attendent là - bas .
+
+6,7,6,7 PRON_PER|8,10,8,10 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER
+
+Ils partirent d' un pas plus léger ; maintenant que l' espoir leur était revenu , ils se sentaient encore prêts à faire des projets d' avenir .
+
+0,1,0,1 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER
+
+Roger , qui avait une imagination romanesque , et paraissait parfois bien extravagante à son placide ami , lui dit tout à coup :
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|14,17,14,17 NOM_PER|18,19,18,19 PRON_PER
+
+— « Tu ne saurais croire comme cette découverte me bouleverse et m' émeut !
+
+2,3,2,3 PRON_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER
+
+… lorsque je lisais l' histoire du « Nautilus » , je rêvais d' habiter une ville sous - marine , avec un petit peuple de mon choix ; la terre avec toutes ses misères me semblait un domaine trop mesquin .
+
+2,3,2,3 PRON_PER|6,9,6,9 PROP_PER|11,12,11,12 PRON_PER|15,20,15,20 NOM_LOC|26,27,26,27 PRON_PER|35,36,35,36 PRON_PER
+
+Une ville sous - marine , reprit Roger en s' exaltant , ce serait l' idéal .
+
+0,5,0,5 NOM_LOC|7,8,7,8 PROP_PER|12,13,12,13 PRON_LOC|14,16,14,16 NOM_LOC
+
+— « Tu perds la tête , je crois , lui dit son compagnon , qui ne partageait pas son enthousiasme pour le domaine des poissons , mais si tu pouvais promettre aux futurs habitants de ta ville , de les débarrasser de beaucoup d' ennuis qu' on trouve sur cette terre , je crois que la moitié de l' univers te suivrait avec enthousiasme .
+
+2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|12,14,12,14 NOM_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER|22,26,22,26 NOM_LOC|29,30,29,30 PRON_PER|32,38,32,38 NOM_PER|40,41,40,41 PRON_PER|53,54,53,54 PRON_PER|56,61,56,61 NOM_PER|61,62,61,62 PRON_PER
+
+— « Je ne badine pas , reprit Roger , mon rêve est extravagant , je le sais bien , mais il n' est pas irréalisable , et nous verrons bien .
+
+2,3,2,3 PRON_PER|8,9,8,9 PROP_PER|10,11,10,11 PRON_PER|15,16,15,16 PRON_PER|28,29,28,29 PRON_PER
+
+Il ne serait pas si difficile de construire d' autres sous - marins , que nous pourrions relier entre eux par des couloirs - tubes , détachables à loisir ; quand l' un des sous - marins voudrait remonter à la surface , il n' aurait qu' à se détacher des autres ; si la ville entière avait quelquefois , la fantaisie d' aller faire une expédition chez les terriens , on n' aurait encore qu' à détacher les tubes , et chaque habitant de la ville voyagerait ainsi avec toute sa maison .
+
+8,13,8,13 NOM_VEH|14,15,14,15 PRON_VEH|15,16,15,16 PRON_PER|19,20,19,20 PRON_VEH|31,37,31,37 NOM_VEH|43,44,43,44 PRON_VEH|50,52,50,52 NOM_VEH|54,57,54,57 NOM_LOC|68,70,68,70 NOM_PER|82,87,82,87 NOM_PER|90,93,90,93 NOM_FAC
+
+— « Ma foi , ça ne serait pas banal , dit Paul » , à moitié conquis au projet de son ami .
+
+12,13,12,13 PROP_PER|21,22,21,22 PRON_PER
+
+En ce moment , Turko se mit à gambader et à lécher la main de son maître , ce qu' il faisait toujours quand il était content : « Vois , reprit Roger , Turko approuve mon projet , ce doit être de bon augure .
+
+4,5,4,5 PROP_PER|15,17,15,17 NOM_PER|20,21,20,21 PRON_PER|24,25,24,25 PRON_PER|32,33,32,33 PROP_PER|34,35,34,35 PROP_PER|36,37,36,37 PRON_PER
+
+— « Songerais - tu , vraiment à faire part de cette extravagance aux naufragés du « Queen of the Waves » ?
+
+4,5,4,5 PRON_PER|13,21,13,21 NOM_PER
+
+demanda Paul d' un air sérieux .
+
+1,2,1,2 PROP_PER
+
+On pensera certainement que tu as perdu la raison .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER
+
+— « On pensera ce que l' on voudra , répliqua Roger , mais moi je tiens à la réalisation de mon rêve et je ne la laisserai pas s' échapper .
+
+2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|11,12,11,12 PROP_PER|14,15,14,15 PRON_PER|15,16,15,16 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER
+
+J' irai seul habiter sous l' eau , si personne ne veut me suivre , mais j' irai .
+
+0,1,0,1 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER
+
+— « Non , tu n' irais pas seul , car moi , cela est entendu , je te suivrai ; au fond , tu sais , je ne serais pas fâché de faire cette niche à la terre , qui m' a tout refusé , jusqu' à présent , ce que mon ambition avait rêvé : gloire , richesse , amour .
+
+4,5,4,5 PRON_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER|24,25,24,25 PRON_PER|27,28,27,28 PRON_PER|41,42,41,42 PRON_PER|52,53,52,53 PRON_PER
+
+— « Nous passerons sur cette île le temps nécessaire à la construction des sous - marins , continua Roger , comme s' il n' avait pas été interrompu par les plaisanteries de son ami , puis nous quitterons cette région volcanique , où il ne fait pas bon de s' éterniser .
+
+2,3,2,3 PRON_PER|5,7,5,7 NOM_LOC|13,17,13,17 NOM_VEH|19,20,19,20 PROP_PER|23,24,23,24 PRON_PER|33,35,33,35 NOM_PER|37,38,37,38 PRON_PER|39,42,39,42 NOM_LOC|43,44,43,44 PRON_LOC
+
+Les deux amis continuèrent leur chemin en silence .
+
+0,3,0,3 NOM_PER|4,5,4,5 PRON_PER
+
+Leur retour fut salué avec des démonstrations de joie par les autres naufragés , qui écoutèrent avec beaucoup d' intérêt le récit de la découverte merveilleuse .
+
+0,1,0,1 PRON_PER|10,13,10,13 NOM_PER|14,15,14,15 PRON_PER
+
+Tous connaissaient l' histoire du « Nautilus » et du capitaine Nemo , et au grand étonnement de Paul , lorsque Roger , sans beaucoup de préambules , proposa son plan de ville sous - marine , il ne rencontra pas l' opposition qu' il avait redoutée .
+
+0,1,0,1 NOM_PER|4,7,4,7 PROP_PER|9,12,9,12 NOM_PER|18,19,18,19 PROP_PER|21,22,21,22 PROP_PER|29,30,29,30 PRON_PER|32,36,32,36 NOM_LOC|37,38,37,38 PRON_PER|44,45,44,45 PRON_PER
+
+Quelques - uns à peine firent de faibles objections , mais d' autres , parmi ceux qui avaient beaucoup souffert de la méchanceté des hommes sur la terre , témoignèrent un véritable enthousiasme pour l' idée originale du jeune ingénieur .
+
+0,3,0,3 NOM_PER|11,13,11,13 NOM_PER|23,25,23,25 NOM_PER|37,40,37,40 NOM_PER
+
+On décida de renflouer immédiatement le « Nautilus » , et dès le lendemain on se mit à l' œuvre .
+
+0,1,0,1 PRON_PER|5,8,5,8 PROP_PER|14,15,14,15 PRON_PER
+
+Nous avons laissé l' abbé Bernard au chevet d' un mourant .
+
+3,6,3,6 NOM_PER|9,11,9,11 NOM_PER
+
+Tout d' abord , le prêtre s' était cru seul avec le moribond ; mais bientôt , il aperçut un jeune homme assis auprès du lit .
+
+4,6,4,6 NOM_PER|11,13,11,13 NOM_PER|17,18,17,18 PRON_PER|19,26,19,26 NOM_PER
+
+Celui - ci se leva et salua le prêtre :
+
+0,3,0,3 NOM_PER|7,9,7,9 NOM_PER
+
+— « Monsieur l' abbé Bernard , sans doute » , demanda - t - il .
+
+2,6,2,6 NOM_PER|15,16,15,16 PRON_PER
+
+Et , sur un signe affirmatif , il continua : « Je suis le docteur Desmarais , et cet homme est mon patient .
+
+7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|13,16,13,16 NOM_PER|18,20,18,20 NOM_PER|21,23,21,23 NOM_PER
+
+je n' ai pu lui sauver la vie .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER
+
+Il va mourir .
+
+0,1,0,1 PRON_PER
+
+— « Il n' appartient qu' à Dieu de donner la vie ou de la reprendre » , répondit le prêtre .
+
+7,8,7,8 PROP_PER|19,21,19,21 NOM_PER
+
+Puis , il s' approcha du lit .
+
+2,3,2,3 PRON_PER
+
+Le malade semblait dormir .
+
+0,2,0,2 NOM_PER
+
+L' abbé posa sa main sur le front du moribond , et celui - ci ouvrit les yeux .
+
+0,2,0,2 NOM_PER|3,4,3,4 PRON_PER|8,10,8,10 NOM_PER|12,15,12,15 NOM_PER
+
+Il parut à la fois surpris et soulagé de voir le prêtre .
+
+0,1,0,1 PRON_PER|10,12,10,12 NOM_PER
+
+Celui - ci fit signe au médecin de quitter la chambre , puis il s' assit auprès du malade , lui disant doucement des paroles d' encouragement et de consolation .
+
+0,3,0,3 NOM_PER|5,7,5,7 NOM_PER|9,11,9,11 NOM_FAC|13,14,13,14 PRON_PER|17,19,17,19 NOM_PER|20,21,20,21 PRON_PER
+
+— « J' ai beaucoup de choses à dire murmura le moribond , et les instants sont si courts !
+
+2,3,2,3 PRON_PER|10,12,10,12 NOM_PER
+
+— « Parlez , dit le prêtre , ensuite je vous donnerai l' absolution de vos fautes et je vous administrerai les derniers sacrements de l' église .
+
+5,7,5,7 NOM_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|19,20,19,20 PRON_PER
+
+— « Mon père , reprit le malade , je n' ai eu qu' un amour dans ma vie , ma fille , ma Marcelle … Pour elle , pour la voir riche et heureuse , j' étais prêt à aller jusqu' au crime … »
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|20,22,20,22 NOM_PER|23,25,23,25 PROP_PER|27,28,27,28 PRON_PER|30,31,30,31 PRON_PER|36,37,36,37 PRON_PER
+
+Le malade devint d' une telle pâleur que le prêtre crut qu' il allait rendre le dernier soupir ; mais bientôt , il reprit d' une voix qui allait toujours en s' affaiblissant .
+
+0,2,0,2 NOM_PER|8,10,8,10 NOM_PER|12,13,12,13 PRON_PER|22,23,22,23 PRON_PER
+
+— « Un soir — il y a quatorze ans de cela — un de mes amis , Jean Demers , arriva chez moi .
+
+13,17,13,17 NOM_PER|18,20,18,20 PROP_PER|23,24,23,24 PRON_PER
+
+Il venait de perdre sa femme qu' il adorait , et lui - même , se croyant atteint d' un mal qui ne pardonne pas , partait dans quelques heures , pour aller vivre le peu de temps qu' il lui restait à passer sur la terre au pays où il était né , et où il n' avait plus aucun parent .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|11,14,11,14 PRON_PER|40,41,40,41 PRON_PER|47,49,47,49 NOM_LOC|49,50,49,50 PRON_LOC|50,51,50,51 PRON_PER|55,56,55,56 PRON_LOC|56,57,56,57 PRON_PER|60,62,60,62 NOM_PER
+
+Avant de s' en aller mourir là - bas , il avait voulu me confier sa fille , qui avait l' âge de la mienne , six ans .
+
+6,9,6,9 NOM_LOC|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER|23,25,23,25 PRON_PER
+
+Il me fit promettre de l' élever selon sa fortune , qui était considérable , et me remit un portefeuille bien rempli .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|5,6,5,6 NOM_PER|8,9,8,9 PRON_PER|16,17,16,17 PRON_PER
+
+Je promis tout ce qu' il voulut , puis , lorsqu' il se fut éloigné après avoir pressé sa fille dans ses bras , je comptai les valeurs , sans m' occuper de l' enfant qui pleurait en appelant son père … Il faut que je me hâte , soupira le moribond , car je sens que je m' en vais vite … Je constatai donc que le portefeuille contenait pour près d' un demi - million .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|11,12,11,12 PRON_PER|18,20,18,20 NOM_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|30,31,30,31 PRON_PER|33,35,33,35 NOM_PER|35,36,35,36 PRON_PER|39,40,39,40 PRON_PER|45,46,45,46 PRON_PER|50,52,50,52 NOM_PER|54,55,54,55 PRON_PER|57,58,57,58 PRON_PER|63,64,63,64 PRON_PER
+
+Et moi qui venais de perdre toute ma petite fortune dans des spéculations malheureuses … la tentation était trop forte … je succombai .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|21,22,21,22 PRON_PER
+
+Personne n' avait vu entrer cette enfant chez moi , je décidai de la faire disparaître , avant que personne ne soupçonnât son existence dans ma maison … Et sa fortune serait à ma fille …
+
+5,7,5,7 NOM_PER|8,9,8,9 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER|22,23,22,23 PRON_PER|25,27,25,27 NOM_FAC|29,30,29,30 PRON_PER|33,35,33,35 NOM_PER
+
+Je dis donc à la petite que j' allais la ramener à son père et je m' acheminai vers les quais , où elle me suivit sans résistance .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|19,21,19,21 NOM_FAC|22,23,22,23 PRON_FAC|23,24,23,24 PRON_PER|24,25,24,25 PRON_PER
+
+Un bateau était en partance .
+
+0,2,0,2 NOM_VEH
+
+Je remis l' enfant au capitaine de ce bateau — homme au regard fuyant — et je lui remis en même temps la somme de cinq cents dollars .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_PER|4,9,4,9 NOM_PER|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER
+
+Le soir même le bateau partit , et l' enfant de mon ami appartenait désormais au capitaine Laurent .
+
+3,5,3,5 NOM_VEH|8,13,8,13 NOM_PER|15,18,15,18 NOM_PER
+
+Tout me réussit , pendant plusieurs années , mais il y a deux ans , je reçus une lettre de mon ancien ami , Jean Demers !
+
+1,2,1,2 PRON_PER|15,16,15,16 PRON_PER|20,23,20,23 NOM_PER|24,26,24,26 PROP_PER
+
+… Il était guéri et m' annonçait son retour … Affolé par la nouvelle , je décidai de fuir la juste colère de celui que j' avais trahi , et je pris passage à bord du « Queen of the Waves » , qui fit naufrage sur les côtes d' une île inconnue .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|23,28,23,28 NOM_PER|30,31,30,31 PRON_PER|35,41,35,41 PROP_VEH|43,44,43,44 PRON_VEH|47,53,47,53 NOM_LOC
+
+Ensuite , je décidai de me cacher avec ma fille dans cette ville , où personne ne pouvait avoir l' idée de venir me chercher , sous le faux nom que j' avais pris .
+
+2,3,2,3 PRON_PER|8,10,8,10 NOM_PER|11,13,11,13 NOM_GPE|14,15,14,15 PRON_GPE|23,24,23,24 PRON_PER|31,32,31,32 PRON_PER
+
+Je portais désormais le nom de Richard .
+
+0,1,0,1 PRON_PER
+
+— « Mon frère , demanda le prêtre , est - ce sous le secret de la confession que vous me dites ces choses , ou bien désirez - vous que je répare le mal que vous avez fait , s' il est possible .
+
+2,4,2,4 NOM_PER|6,8,6,8 NOM_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER|29,30,29,30 PRON_PER|31,32,31,32 PRON_PER|36,37,36,37 PRON_PER
+
+» râla le mourant .
+
+2,4,2,4 NOM_PER
+
+— « Alors dites - moi ce qu' est devenue cette enfant .
+
+5,6,5,6 PRON_PER|10,12,10,12 NOM_PER
+
+je l' ignore , je ne sais pas … » , souffla presque le malade .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|13,15,13,15 NOM_PER
+
+— « Dites - moi son nom » , dit le prêtre en se penchant à l' oreille du malade , qui semblait épuisé .
+
+4,5,4,5 PRON_PER|5,6,5,6 PRON_PER|10,12,10,12 NOM_PER|18,20,18,20 NOM_PER|21,22,21,22 PRON_PER
+
+Il ne put achever , la mort avait clos ses lèvres à jamais .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER
+
+Hâtivement , le prêtre prononça les paroles qui pardonnent , puis il ferma les yeux du trépassé et appela le docteur Desmarais .
+
+2,4,2,4 NOM_PER|11,12,11,12 PRON_PER|15,17,15,17 NOM_PER|19,22,19,22 NOM_PER
+
+La promptitude avec laquelle il répondit à l' appel de l' abbé fit supposer à celui - ci qu' il ne s' était pas très éloigné , mais le bon prêtre était trop foncièrement honnête pour soupçonner que quelqu' un pût prêter l' oreille aux confidences d' un mourant .
+
+4,5,4,5 PRON_PER|10,12,10,12 NOM_PER|15,18,15,18 NOM_PER|19,20,19,20 PRON_PER|28,31,28,31 NOM_PER|38,40,38,40 PRON_PER|47,49,47,49 NOM_PER
+
+Cependant , le docteur Desmarais était un de ces hommes qui tiennent les yeux toujours baissés , et les gens qui ne savent pas regarder en face ont généralement quelque chose à cacher .
+
+2,5,2,5 NOM_PER|6,10,6,10 NOM_PER|10,11,10,11 PRON_PER|18,20,18,20 NOM_PER|20,21,20,21 PRON_PER
+
+Bientôt un pas léger se fit entendre dans le corridor , la porte de la chambre mortuaire s' ouvrit et une jeune fille d' une vingtaine d' années parut .
+
+8,10,8,10 NOM_FAC|14,17,14,17 NOM_FAC|20,28,20,28 NOM_PER
+
+C' était Marcelle .
+
+0,1,0,1 PRON_PER|2,3,2,3 PROP_PER
+
+Elle se précipita sur la dépouille de son père et se mit à gémir comme une enfant : « Mon père , mon père , mon bon père !
+
+0,1,0,1 PRON_PER|4,9,4,9 NOM_PER|15,17,15,17 NOM_PER|19,20,19,20 PRON_PER|22,23,22,23 PRON_PER|25,26,25,26 PRON_PER
+
+… » Se tournant brusquement vers le prêtre , elle lui dit suppliante : « Oh !
+
+6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER
+
+dites - moi , vous , qu' il n' est pas mort !
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER
+
+L' abbé lui répondit par des paroles de consolation , lui parla de la résignation à la volonté de Dieu .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|10,11,10,11 PRON_PER|19,20,19,20 PROP_PER
+
+Marcelle comprenant enfin que tout espoir était perdu , se livra à une crise de désespoir farouche , qui finit par la terrasser .
+
+0,1,0,1 PROP_PER|21,22,21,22 PRON_PER
+
+Elle tomba inanimée sur le parquet .
+
+0,1,0,1 PRON_PER
+
+Le médecin frappa aussitôt à la porte d' une chambre voisine , et une vieille servante parut .
+
+0,2,0,2 NOM_PER|8,11,8,11 NOM_FAC|13,16,13,16 NOM_PER
+
+— « Mlle Marcelle a besoin de vos soins , » dit simplement le médecin , sans plus s' occuper de la jeune fille .
+
+2,4,2,4 PROP_PER|7,8,7,8 PRON_PER|13,15,13,15 NOM_PER|21,24,21,24 NOM_PER
+
+Il ajouta : « M . Richard est mort .
+
+0,1,0,1 PRON_PER|4,7,4,7 PROP_PER
+
+La vieille servante fit un geste désolé , et sans regarder le mort , elle se pencha sur la jeune fille , l' enleva dans ses bras robustes et l' emporta hors de la chambre funèbre .
+
+0,3,0,3 NOM_PER|11,13,11,13 NOM_PER|14,15,14,15 PRON_PER|18,21,18,21 NOM_PER|22,23,22,23 NOM_PER|25,26,25,26 PRON_PER|29,30,29,30 NOM_PER|33,36,33,36 NOM_FAC
+
+— « Maintenant , dit le prêtre au médecin , une dernière prière pour celui qui vient de rendre son âme à Dieu sonâme à âme à Dieu , et je retourne chez moi .
+
+5,7,5,7 NOM_PER|7,9,7,9 NOM_PER|14,23,14,23 NOM_PER|30,31,30,31 PRON_PER|33,34,33,34 PRON_PER
+
+Comme il achevait sa prière la même vieille servante reparut et lui remit un pli cacheté .
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_PER|5,9,5,9 NOM_PER|11,12,11,12 PRON_PER
+
+L' abbé l' ouvrit et lut ce qui suit :
+
+0,2,0,2 NOM_PER
+
+« Le gouverneur de la ville prie l' abbé Bernard de vouloir bien suivre le guide qu' il lui envoie .
+
+1,6,1,6 NOM_PER|7,10,7,10 NOM_PER|14,16,14,16 NOM_PER|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER
+
+Le gouverneur a des choses importantes à communiquer et une proposition à faire .
+
+0,2,0,2 NOM_PER
+
+L' abbé ne put retenir un mouvement de surprise : Que pouvait bien avoir le gouverneur à lui dire de si pressé ?
+
+0,2,0,2 NOM_PER|14,16,14,16 NOM_PER|17,18,17,18 PRON_PER
+
+Ce fut en se posant cette question que le prêtre suivit son guide .
+
+8,10,8,10 NOM_PER|11,13,11,13 NOM_PER
+
+L' abbé Bernard , suivant son guide , parcourut de longs couloirs extérieurs , tous éclairés à l' électricité .
+
+0,3,0,3 NOM_PER|5,7,5,7 NOM_PER|9,19,9,19 NOM_FAC
+
+Cette promenade dura une quinzaine de minutes au plus , puis , le guide frappa à une porte et un valet vint ouvrir .
+
+12,14,12,14 NOM_PER|19,21,19,21 NOM_PER
+
+« Veuillez me suivre , monsieur l' abbé » dit le valet .
+
+2,3,2,3 PRON_PER|5,8,5,8 NOM_PER|10,12,10,12 NOM_PER
+
+Et le prêtre pénétra dans un salon splendide .
+
+1,3,1,3 NOM_PER|5,8,5,8 NOM_FAC
+
+Il s' assit sur le fauteuil et attendit .
+
+0,1,0,1 PRON_PER
+
+Apercevant un magnifique orgue à l' autre bout de la chambre , il s' en approcha et se mit à jouer , car il était bon musicien .
+
+9,11,9,11 NOM_FAC|12,13,12,13 PRON_PER|23,24,23,24 PRON_PER
+
+Il jouait la prière de Gounod , et mettait si bien toute son âme dans son jeu qu' il n' entendit pas entrer un jeune homme , qui s' arrêta à l' entrée de la pièce pour l' écouter .
+
+0,1,0,1 PRON_PER|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|23,26,23,26 NOM_PER|27,28,27,28 PRON_PER|31,36,31,36 NOM_FAC|37,38,37,38 NOM_PER
+
+L' abbé se retournant enfin , aperçut le nouveau venu , qui lui dit :
+
+0,2,0,2 NOM_PER|7,10,7,10 NOM_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER
+
+— « Permettez - moi de vous féliciter , monsieur l' abbé ; j' ai entendu la prière de Gounod bien des fois , mais jamais je ne l' ai trouvée si belle .
+
+4,5,4,5 PRON_PER|6,7,6,7 PRON_PER|9,12,9,12 NOM_PER|13,14,13,14 PRON_PER|26,27,26,27 PRON_PER
+
+— « J' aime la musique , répondit le prêtre , et je n' ai pas su résister à la tentation d' essayer cet instrument , en attendant le gouverneur .
+
+2,3,2,3 PRON_PER|8,10,8,10 NOM_PER|12,13,12,13 PRON_PER|28,30,28,30 NOM_PER
+
+J' espère qu' il ne tardera pas à venir , car je suis pressé de retourner chez moi .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER
+
+Le jeune homme salua en disant :
+
+0,3,0,3 NOM_PER
+
+— « Je suis le gouverneur de cette ville , et je me nomme Roger de Ville .
+
+2,3,2,3 PRON_PER|4,9,4,9 NOM_PER|11,12,11,12 PRON_PER
+
+L' abbé eut l' air fort surpris , mais il sourit :
+
+0,2,0,2 NOM_PER|9,10,9,10 PRON_PER
+
+— « Excusez - moi , mais je croyais que le gouverneur devait être un vieillard , ou , tout au moins , un homme un peu avancé en âge .
+
+4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|10,12,10,12 NOM_PER|23,30,23,30 NOM_PER
+
+Roger de Ville sourit à son tour :
+
+0,3,0,3 PROP_PER|5,6,5,6 PRON_PER
+
+— « Je n' ai que vingt - quatre ans , monsieur l' abbé , mais j' ai été élu par acclamation .
+
+2,3,2,3 PRON_PER|11,14,11,14 NOM_PER|16,17,16,17 PRON_PER
+
+Tous les habitants de cette ville , à l' exception d' un seul , étaient heureux de me confier une charge aussi importante .
+
+0,6,0,6 NOM_PER|11,13,11,13 NOM_PER|17,18,17,18 PRON_PER
+
+» Et Roger se mit à rire avec l' insouciance de sa jeunesse .
+
+2,3,2,3 PROP_PER|11,12,11,12 PRON_PER
+
+« Monsieur le gouverneur , seriez - vous assez bon de me dire immédiatement ce que vous avez à me communiquer , je suis pressé de retourner chez moi .
+
+1,4,1,4 NOM_PER|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER
+
+Mais permettez - moi de vous dire que vous avez de singulières manières d' agir , dans cette ville … on m' enlève presque , on me bande les yeux … Ces façons ne sauraient avoir mon approbation , vous ne devez pas en douter , monsieur le gouverneur .
+
+3,4,3,4 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|17,19,17,19 NOM_GPE|20,21,20,21 PRON_PER|21,22,21,22 PRON_PER|25,26,25,26 PRON_PER|26,27,26,27 PRON_PER|36,37,36,37 PRON_PER|39,40,39,40 PRON_PER|46,49,46,49 NOM_PER
+
+— « Je regrette que nous ayons été forcés d' agir comme nous l' avons fait , mais il le fallait et , vous ne serez plus fâché quand je vous aurai appris ce que j' ai à vous dire .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|12,13,12,13 PRON_PER|23,24,23,24 PRON_PER|29,30,29,30 PRON_PER|30,31,30,31 PRON_PER|35,36,35,36 PRON_PER|38,39,38,39 PRON_PER
+
+Je dois , d' abord , vous raconter l' origine de cette ville ; elle ne date que de deux ans .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|11,13,11,13 NOM_GPE|14,15,14,15 PRON_GPE
+
+— « Je vous écoute , dit le prêtre .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|7,9,7,9 NOM_PER
+
+Alors , Roger de Ville fit le récit du naufrage du « Queen of the Waves » et de sa découverte du « Nautilus » .
+
+2,5,2,5 PROP_PER|10,16,10,16 PROP_VEH|19,20,19,20 PRON_PER|21,24,21,24 PROP_PER
+
+— « Depuis l' enfance , ajouta - t - il , je rêvais d' habiter une ville sous - marine , et mon rêve s' est réalisé … Certes , nous n' avons pas adopté le système du capitaine Nemo ; nous faisons quelques excursions à terre quand cela nous plaît , mais nous préférons la vie dans la mer , qui nous est bonne .
+
+10,11,10,11 PRON_PER|12,13,12,13 PRON_PER|16,21,16,21 NOM_LOC|23,24,23,24 PRON_PER|31,32,31,32 PRON_PER|38,41,38,41 NOM_PER|42,43,42,43 PRON_PER|50,51,50,51 PRON_PER|54,55,54,55 PRON_PER|59,61,59,61 NOM_LOC|63,64,63,64 PRON_PER
+
+Notre ville , monsieur l' abbé , je vous la ferai voir demain , et je suis certain qu' elle vous intéressera .
+
+0,1,0,1 PRON_PER|3,6,3,6 NOM_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER|9,10,9,10 PRON_GPE|15,16,15,16 PRON_PER|19,20,19,20 PRON_GPE|20,21,20,21 PRON_PER
+
+L' abbé Bernard fut si surpris — ou si émerveillé — de ce qu' il venait d' entendre , qu' il fut quelques instants sans pouvoir répondre .
+
+0,3,0,3 NOM_PER|14,15,14,15 PRON_PER|20,21,20,21 PRON_PER
+
+— « C' est vraiment merveilleux ce que vous venez de me dire , cela tient de la féerie , et je vous félicite d' avoir pu réaliser un rêve si extraordinaire , ajouta - t - il en riant , beaucoup d' hommes qui ont des ambitions plus modestes ne parviennent pas toujours à les satisfaire ; vous êtes un heureux mortel , monsieur le gouverneur , et je me demande ce que vous pouvez bien désirer de moi et ce que je pourrais ajouter à votre bonheur .
+
+8,9,8,9 PRON_PER|21,22,21,22 PRON_PER|22,23,22,23 PRON_PER|37,38,37,38 PRON_PER|41,44,41,44 NOM_PER|44,45,44,45 PRON_PER|58,59,58,59 PRON_PER|60,63,60,63 NOM_PER|64,67,64,67 NOM_PER|69,70,69,70 PRON_PER|74,75,74,75 PRON_PER|79,80,79,80 PRON_PER|83,84,83,84 PRON_PER|87,88,87,88 PRON_PER
+
+oui , monsieur l' abbé , vous pourriez ajouter au bonheur de tous les habitants de Némoville , en acceptant de devenir le curé de cette ville .
+
+2,5,2,5 NOM_PER|6,7,6,7 PRON_PER|12,17,12,17 NOM_PER|22,27,22,27 NOM_PER
+
+Acceptez - vous la proposition ?
+
+2,3,2,3 PRON_PER
+
+Le prêtre hésitait ; il avait écouté le récit de Roger avec intérêt , mais il était loin de s' attendre à une telle proposition .
+
+0,2,0,2 NOM_PER|4,5,4,5 PRON_PER|10,11,10,11 PROP_PER|15,16,15,16 PRON_PER
+
+Cela lui parut d' abord inacceptable ; il secoua la tête en signe de refus .
+
+1,2,1,2 PRON_PER|7,8,7,8 PRON_PER
+
+— « Je ne vous ai pas dit , sans doute , la raison qui me pousse à vous faire cette offre , c' est que tous les habitants de Némoville appartiennent à la religion catholique romaine , et que vous n' y manqueriez pas de bien à faire .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|26,31,26,31 NOM_PER|40,41,40,41 PRON_PER|42,43,42,43 PRON_GPE
+
+Il y a dans cette ville des enfants nés depuis la fondation , et qui n' ont pas encore reçu le baptême , et , si vous aviez refusé de venir ici , ce soir , M . Richard serait mort sans recevoir les consolations de la religion .
+
+4,6,4,6 NOM_GPE|6,12,6,12 NOM_PER|14,15,14,15 PRON_PER|26,27,26,27 PRON_PER|31,32,31,32 NOM_GPE|36,39,36,39 PROP_PER
+
+Cet exposé de faits acheva de convaincre l' abbé , qui ne voulut pas se soustraire au devoir que semblait lui tracer la Providence .
+
+7,9,7,9 NOM_PER|10,11,10,11 PRON_PER|20,21,20,21 PRON_PER
+
+Il accepta immédiatement .
+
+0,1,0,1 PRON_PER
+
+Il tendit la main au gouverneur en disant :
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER
+
+— « J' accepte , monsieur le gouverneur , puisque je pourrai travailler ici à la gloire de Dieu .
+
+2,3,2,3 PRON_PER|5,8,5,8 NOM_PER|10,11,10,11 PRON_PER|13,14,13,14 NOM_GPE|18,19,18,19 PROP_PER
+
+— « Merci , répliqua le gouverneur , vous ne le regretterez pas , je m' en porte garant .
+
+5,7,5,7 NOM_PER|8,9,8,9 PRON_PER|14,15,14,15 PRON_PER
+
+Vous devenez donc , dès ce soir , curé de Némoville .
+
+0,1,0,1 PRON_PER|8,11,8,11 NOM_PER
+
+Voici votre chambre , fit - il , en ouvrant une porte donnant sur le salon .
+
+1,3,1,3 NOM_FAC|6,7,6,7 PRON_PER|14,16,14,16 NOM_FAC
+
+Demain , je vous ferai visiter la ville .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|6,8,6,8 NOM_GPE
+
+En attendant , je vous souhaite une bonne nuit .
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER
+
+On se sépara content de part et d' autre .
+
+0,1,0,1 PRON_PER
+
+Le gouverneur attendait le curé , à la porte de sa chambre , le lendemain matin .
+
+0,2,0,2 NOM_PER|3,5,3,5 NOM_PER|10,12,10,12 NOM_FAC
+
+Après s' être informé de sa santé , il l' accompagna dans la salle à manger , où se trouvait déjà Paul Lamontagne , qui sifflotait joyeusement , en attendant son ami , auprès d' une cage dans laquelle un magnifique canari égrenait des trilles savantes .
+
+5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|9,10,9,10 NOM_PER|12,16,12,16 NOM_FAC|17,18,17,18 PRON_FAC|21,23,21,23 PROP_PER|24,25,24,25 PRON_PER|30,31,30,31 PRON_PER|35,37,35,37 NOM_FAC|38,39,38,39 PRON_FAC|39,42,39,42 NOM_PER
+
+Roger présenta son ami au curé , qui lui fit aussitôt cette remarque en souriant :
+
+0,1,0,1 PROP_PER|2,4,2,4 NOM_PER|4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER
+
+« Décidément , tout le monde a l' air bien heureux ici , jusqu' à ce canari , qui semble n' en être pas moins gai parce qu' il habite le domaine des poissons .
+
+3,6,3,6 NOM_PER|11,12,11,12 NOM_GPE|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER|28,29,28,29 PRON_PER|30,34,30,34 NOM_LOC
+
+— « La bonne humeur est contagieuse chez nous , répliqua Paul , et cela est dû au fait qu' il ne se trouve pas d' usurier à Némoville » , ajouta - t - il en riant de bon cœur .
+
+8,9,8,9 PRON_PER|11,12,11,12 PROP_PER|26,27,26,27 NOM_PER|28,29,28,29 PROP_GPE|35,36,35,36 PRON_PER
+
+Le nouveau curé ne put s' empêcher de rire de cette boutade , et répliqua que , sans doute , quelques - uns des habitants de Némoville avaient dû connaître ces dangereux bipèdes sur la terre , et n' avaient trouvé rien de mieux pour leur échapper que de s' enfoncer sous l' eau .
+
+0,3,0,3 NOM_PER|20,27,20,27 NOM_PER|30,33,30,33 NOM_PER|45,46,45,46 PRON_PER
+
+On prolongea le déjeuner , qui fut des plus joyeux — on n' avait pas l' avantage d' un nouvel hôte souvent à Némoville — et le curé plut à Roger et à Paul par son esprit autant que par sa bonté , dont il donna bientôt des preuves .
+
+0,1,0,1 PRON_PER|18,21,18,21 NOM_PER|23,24,23,24 PROP_GPE|26,28,26,28 NOM_PER|30,31,30,31 PROP_PER|33,34,33,34 PROP_PER|35,36,35,36 PRON_PER|40,41,40,41 PRON_PER|44,45,44,45 PRON_PER
+
+De son côté , l' abbé se sentit immédiatement conquis par la gaîté de bon aloi des jeunes gens .
+
+1,2,1,2 PRON_PER|4,6,4,6 NOM_PER|16,19,16,19 NOM_PER
+
+Il avait appris , au cours de la conversation , que Paul était le secrétaire du gouverneur et l' en félicita .
+
+0,1,0,1 PRON_PER|11,12,11,12 PROP_PER|15,17,15,17 NOM_PER|18,19,18,19 NOM_PER
+
+Ce fut Roger qui répondit .
+
+2,3,2,3 PROP_PER|3,4,3,4 PRON_PER
+
+— « Il aurait dû être le gouverneur , car dans le renflouage du « Nautilus » , Paul a risqué vingt fois sa vie .
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|13,16,13,16 PROP_PER|18,19,18,19 PROP_PER|23,24,23,24 PRON_PER
+
+— « J' ai fait ma part de la besogne , voilà tout , et je n' y avais pas un grand mérite , après tout , puisqu' il s' agissait de me sauver , tout comme les autres .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|15,16,15,16 PRON_PER|32,33,32,33 PRON_PER|37,39,37,39 PRON_PER
+
+Roger voulut protester , mais Paul détourna la conversation , et s' adressant au curé , il lui dit :
+
+0,1,0,1 PROP_PER|5,6,5,6 PROP_PER|13,15,13,15 NOM_PER|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER
+
+— « Vous allez visiter Némoville , ce matin , et faire la connaissance de vos paroissiens , je suis certain que tous seront heureux de votre visite .
+
+2,3,2,3 PRON_PER|5,6,5,6 PROP_GPE|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER|22,23,22,23 NOM_PER|26,27,26,27 PRON_PER
+
+— « Némoville !
+
+2,3,2,3 PROP_GPE
+
+… Vous avez nommé votre ville , je le vois , d' après le capitaine Nemo .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|13,16,13,16 NOM_PER
+
+— « Nous lui devions bien cela , répliqua Roger , puisque nous lui avions pris son bateau , dont il n' avait plus que faire , il est vrai .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|9,10,9,10 PROP_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER
+
+— « Tandis que pour nous , c' était bien différent , ajouta Paul .
+
+5,6,5,6 PRON_PER|13,14,13,14 PROP_PER
+
+Sans le « Nautilus » , nous étions condamnés à périr sur une île volcanique et déserte .
+
+1,4,1,4 PROP_PER|6,7,6,7 PRON_PER
+
+Nous avons donné au capitaine des funérailles dignes de ses goûts et de ses exploits , et nous avons utilisé le bateau pour fuir les régions dangereuses où le naufrage nous avait jetés .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER|17,18,17,18 PRON_PER|20,22,20,22 NOM_PER|24,27,24,27 NOM_LOC|27,28,27,28 PRON_LOC|30,31,30,31 PRON_PER
+
+— « Vous en aviez bien le droit , ajouta le prêtre , en souriant .
+
+2,3,2,3 PRON_PER|10,12,10,12 NOM_PER
+
+» Il reprit : « Maintenant , je suis à vos ordres , monsieur le gouverneur .
+
+1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|13,16,13,16 NOM_PER
+
+— « Partons , dit Roger en se levant .
+
+5,6,5,6 PROP_PER
+
+Némoville avait un mille carré de superficie ; les sous - marins étaient reliés entre eux par des couloirs extérieurs .
+
+0,1,0,1 PROP_GPE|8,12,8,12 NOM_VEH|15,16,15,16 PRON_VEH
+
+Chacun était chez soi dans son sous - marin ; les couloirs étaient les rues de cette ville .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|5,9,5,9 NOM_VEH|16,18,16,18 NOM_GPE
+
+On n' était pas prisonnier à Némoville : chaque sous - marin se détachait facilement des couloirs extérieurs et pouvait seul remonter à la surface de la mer , quand il le désirait .
+
+0,1,0,1 PRON_PER|6,7,6,7 PROP_GPE|8,12,8,12 NOM_VEH|26,28,26,28 NOM_LOC|30,31,30,31 PRON_VEH
+
+Quelquefois , la ville entière montait à la surface de la mer , renouveler sa provision d' air ; et c' était un spectacle bien étrange que de voir surgir de l' eau cette île artificielle , qui pouvait se déplacer à volonté , changer de localité , s' approcher de la côte ou bien replonger au fond de l' Océan .
+
+2,5,2,5 NOM_GPE|10,12,10,12 NOM_LOC|14,15,14,15 PRON_GPE|33,36,33,36 NOM_GPE|37,38,37,38 PRON_GPE|46,47,46,47 NOM_LOC|51,53,51,53 NOM_LOC|56,61,56,61 NOM_LOC
+
+ils étaient bien heureux les gens de Némoville !
+
+0,1,0,1 PRON_PER|4,8,4,8 NOM_PER
+
+La résidence du gouverneur était à l' une des extrémités de la ville ; les autres résidences se groupaient comme dans les rues d' une véritable ville .
+
+0,4,0,4 NOM_PER|6,13,6,13 NOM_LOC|14,17,14,17 NOM_FAC|21,27,21,27 NOM_FAC
+
+L' abbé Bernard , accompagné de Paul et de Roger , fit la visite de sa nouvelle paroisse , et fut accueilli partout avec des démonstrations de la plus vive joie .
+
+0,3,0,3 NOM_PER|6,7,6,7 PROP_PER|9,10,9,10 PROP_PER|15,18,15,18 NOM_GPE
+
+Les mères lui tendaient leurs enfants , afin qu' il les bénit , les malades se sentaient soulagés par ses paroles de consolation et ses conseils de résignation .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|4,6,4,6 NOM_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER|13,15,13,15 NOM_PER|19,20,19,20 PRON_PER|24,25,24,25 PRON_PER
+
+Marcelle , la fille de M . Richard , pleura silencieusement en l' apercevant , car il devait , quelques heures plus tard , procéder aux funérailles de son père .
+
+0,1,0,1 PROP_PER|5,8,5,8 PROP_PER|12,13,12,13 NOM_PER|16,17,16,17 PRON_PER|28,29,28,29 PRON_PER
+
+Le prêtre lui parla doucement de la résignation à la volonté de Dieu .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|12,13,12,13 PROP_PER
+
+En quittant Marcelle , on se dirigea vers une demeure un peu éloignée des autres .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER|8,15,8,15 NOM_FAC
+
+On frappa à la porte et un domestique vint ouvrir .
+
+0,1,0,1 PRON_PER|6,8,6,8 NOM_PER
+
+— « Comment se porte M . Duflot ce matin ?
+
+5,8,5,8 PROP_PER
+
+» demanda Roger .
+
+2,3,2,3 PROP_PER
+
+— « Pas trop mal , monsieur le gouverneur » , répondit le domestique , « monsieur a bien hâte de connaître notre curé .
+
+6,9,6,9 NOM_PER|12,14,12,14 NOM_PER|16,17,16,17 NOM_PER|22,23,22,23 PRON_PER
+
+Dans une pièce richement meublée , un homme était étendu sur une chaise longue .
+
+1,5,1,5 NOM_FAC|6,8,6,8 NOM_PER
+
+Il pouvait avoir cinquante ans .
+
+0,1,0,1 PRON_PER
+
+M . Duflot n' était pas un naufragé du « Queen of the Waves » .
+
+0,3,0,3 PROP_PER|6,14,6,14 NOM_PER
+
+Un jour que Roger et Paul étaient allés à terre , ils virent un homme assis sur un rocher , et qui examinait le « Nautilus » avec attention .
+
+5,6,5,6 PROP_PER|11,12,11,12 PRON_PER|13,19,13,19 NOM_PER|21,22,21,22 PRON_PER|23,26,23,26 PROP_PER
+
+Au moment où les voyageurs allaient se rembarquer , cet homme vint à eux et leur dit : « Est - il vrai qu' il existe une ville sous - marine où l' on peut vivre en paix , loin de toutes les conventions du monde , loin de toutes les niaiseries et de toutes les faussetés qui fleurissent sur la terre ?
+
+3,5,3,5 NOM_PER|9,11,9,11 NOM_PER|13,14,13,14 PRON_PER|15,16,15,16 PRON_PER|26,31,26,31 NOM_GPE|31,32,31,32 PRON_GPE|44,46,44,46 NOM_LOC
+
+— « Oui , monsieur , cette ville existe , et nous l' habitons , répondirent Roger et Paul , voulez - vous être des nôtres ?
+
+4,5,4,5 NOM_PER|11,12,11,12 PRON_PER|12,13,12,13 NOM_GPE|18,19,18,19 PROP_PER|22,23,22,23 PRON_PER|24,26,24,26 NOM_PER
+
+— « Je ne demande pas mieux que de vous suivre immédiatement ; j' ai perdu tous ceux que j' aimais , j' ai été trahi par ceux qui faisaient semblant de m' aimer , maintenant , je suis seul , et vivre loin de la terre , dans le ciel ou sous l' eau , cela m' est bien égal , mais je veux fuir la terre où j' ai trop souffert .
+
+2,3,2,3 PRON_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER|16,21,16,21 NOM_PER|22,23,22,23 PRON_PER|27,34,27,34 NOM_PER|37,38,37,38 PRON_PER|49,51,49,51 NOM_LOC|57,58,57,58 PRON_PER|63,64,63,64 PRON_PER|69,70,69,70 PRON_PER
+
+— « Venez avec nous , dirent les deux amis , sans plus de cérémonies , venez , monsieur … »
+
+4,5,4,5 PRON_PER|7,10,7,10 NOM_PER|18,19,18,19 NOM_PER
+
+— « Je me nomme Duflot » , reprit l' étranger .
+
+2,3,2,3 PRON_PER|9,11,9,11 NOM_PER
+
+— « Un vrai nom de chez nous , riposta Paul , un nom tout à fait comme il faut , dans une ville sous les eaux .
+
+7,8,7,8 PRON_PER|10,11,10,11 PROP_PER|22,27,22,27 NOM_GPE
+
+Je m' appelle Lamontagne , ne trouvez - vous pas que c' est un peu gênant , pour habiter dans un sous - marin ?
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER|20,24,20,24 NOM_VEH
+
+— « Cet homme est votre domestique , sans doute , demanda Roger , en désignant un individu , qui se tenait auprès de M . Duflot .
+
+2,4,2,4 NOM_PER|5,6,5,6 PRON_PER|12,13,12,13 PROP_PER|16,18,16,18 NOM_PER|19,20,19,20 PRON_PER|24,27,24,27 PROP_PER
+
+Il y a place pour lui aussi .
+
+5,6,5,6 PRON_PER
+
+Et c' est ainsi que M . Duflot était devenu habitant de Némoville .
+
+5,8,5,8 PROP_PER|10,13,10,13 NOM_PER
+
+Le curé passa quelque temps chez M . Duflot et partit en promettant de revenir bientôt .
+
+0,2,0,2 NOM_PER|6,9,6,9 PROP_PER
+
+On retourna à la résidence du gouverneur , où un lunch était servi .
+
+0,1,0,1 PRON_PER|3,7,3,7 NOM_PER|8,9,8,9 PRON_PER
+
+Il n' y avait qu' un seul sous - marin qui n' avait pas été visité .
+
+5,10,5,10 NOM_VEH|10,11,10,11 PRON_VEH
+
+Il était au centre de la ville et il semblait aussi grand que le « Nautilus » , mais comme ni Roger ni Paul n' avait proposé de le visiter , le prêtre n' osa pas le demander .
+
+0,1,0,1 PRON_VEH|2,7,2,7 NOM_LOC|8,9,8,9 PRON_VEH|13,16,13,16 PROP_PER|20,24,20,24 PROP_PER|28,29,28,29 PRON_VEH|31,33,31,33 NOM_PER
+
+L' abbé Bernard était très content d' avoir accepté de devenir curé de cette ville .
+
+0,3,0,3 NOM_PER|11,15,11,15 NOM_PER
+
+Les funérailles de M . Richard avaient eu lieu .
+
+3,6,3,6 PROP_PER
+
+Marcelle semblait inconsolable , ou , comme la fille de Rachel , elle ne voulait pas être consolée .
+
+0,1,0,1 PROP_PER|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER
+
+Un seul habitant de Némoville avait accès auprès d' elle : le docteur Desmarais .
+
+0,5,0,5 NOM_PER|9,10,9,10 PRON_PER|11,14,11,14 NOM_PER
+
+On prétendait que Marcelle et le médecin étaient fiancés , mais les mieux renseignés disaient que la jeune fille semblait plutôt craindre qu' aimer le médecin .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_PER|16,19,16,19 NOM_PER|24,26,24,26 NOM_PER
+
+Depuis la mort de son père , on eût dit qu' elle subissait l' influence de ce personnage , qui n' était guère sympathique ; quelqu' un avait même insinué que la fille de M . Richard éprouvait un sentiment plus doux pour le gouverneur , parce que , certains jours , elle avait rougi de plaisir en l' apercevant .
+
+4,5,4,5 PRON_PER|11,12,11,12 PRON_PER|16,18,16,18 NOM_PER|19,20,19,20 PRON_PER|25,27,25,27 PRON_PER|31,37,31,37 PROP_PER|43,45,43,45 NOM_PER|52,53,52,53 PRON_PER|58,59,58,59 NOM_PER
+
+Mais , tout cela n' était que des on - dit , et Roger ne semblait avoir pour Marcelle que la courtoisie ordinaire chez un homme bien élevé .
+
+13,14,13,14 PROP_PER|18,19,18,19 PROP_PER|24,28,24,28 NOM_PER
+
+Il y avait deux jours que le curé Bernard était à Némoville , quand Roger lui proposa de faire une petite excursion de pêche à la surface de la mer .
+
+6,9,6,9 NOM_PER|11,12,11,12 PROP_GPE|14,15,14,15 PROP_PER|15,16,15,16 PRON_PER|28,30,28,30 NOM_LOC
+
+Le curé consentit avec plaisir , et ils partirent tous trois , car Paul était de la partie ; il ne quittait Roger que rarement .
+
+0,2,0,2 NOM_PER|7,8,7,8 PRON_PER|9,11,9,11 PRON_PER|13,14,13,14 PROP_PER|19,20,19,20 PRON_PER|22,23,22,23 PROP_PER
+
+Ce fut vraiment une pêche miraculeuse , et Paul soutint que c' était le curé qui leur portait chance .
+
+8,9,8,9 PROP_PER|11,12,11,12 PRON_PER|13,15,13,15 NOM_PER|15,16,15,16 PRON_PER|16,17,16,17 PRON_PER
+
+Quand on eut une provision considérable de poissons de toutes sortes , on retourna à la ville sous - marine .
+
+1,2,1,2 PRON_PER|7,11,7,11 NOM_PER|12,13,12,13 PRON_PER|15,20,15,20 NOM_GPE
+
+Turko , le chien du gouverneur , accompagnait son maître , selon son habitude .
+
+0,1,0,1 PROP_PER|4,6,4,6 NOM_PER|8,10,8,10 NOM_PER|12,13,12,13 PRON_PER
+
+Or Turko était un chien sage et docile , très populaire à Némoville , il était si bien établi que Turko n' aboyait jamais sans de bonnes raisons , qu' un hurlement du chien fidèle était devenu pour son maître un signal certain qu' il se passait quelque chose d' extraordinaire .
+
+1,2,1,2 PROP_PER|12,13,12,13 PROP_GPE|20,21,20,21 PROP_PER|32,35,32,35 NOM_PER|38,40,38,40 NOM_PER
+
+Roger et Paul furent donc assez surpris , au retour de cette pêche miraculeuse , de voir le chien se dresser sur le bord de l' embarcation et pousser un hurlement prolongé .
+
+2,3,2,3 PROP_PER|17,19,17,19 NOM_PER|25,27,25,27 NOM_VEH
+
+— « Il y a quelque chose d' extraordinaire , dit aussitôt Roger .
+
+12,13,12,13 PROP_PER
+
+— « En effet , répondit Paul , Turko n' a pas coutume d' avoir de ces fantaisies lugubres .
+
+6,7,6,7 PROP_PER|8,9,8,9 PROP_PER
+
+Et tous deux se mirent à examiner la mer avec attention .
+
+1,3,1,3 PRON_PER|7,9,7,9 NOM_LOC
+
+— « Serait - ce cette épave , là bas , qui cause les hurlements de Turko ?
+
+4,5,4,5 PRON_VEH|5,7,5,7 NOM_VEH|11,12,11,12 PRON_VEH|16,17,16,17 PROP_PER
+
+» dit Paul , en désignant une forme vague , qui flottait à quelque distance .
+
+2,3,2,3 PROP_PER|6,9,6,9 NOM_VEH|10,11,10,11 PRON_VEH
+
+— « Allons voir , ajouta Roger , je prends toujours au sérieux les avertissements de Turko , car il m' a donné mille preuves de son flair » , dit - il en s' adressant au curé .
+
+6,7,6,7 PROP_PER|8,9,8,9 PRON_PER|16,17,16,17 PROP_PER|19,20,19,20 PRON_PER|26,27,26,27 PRON_PER|32,33,32,33 PRON_PER|36,38,36,38 NOM_PER
+
+On dirigea l' embarcation du côté de l' épave , et bientôt , on put constater que c' était un canot , qui s' en allait au gré des flots , sans direction .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_VEH|7,9,7,9 NOM_VEH|13,14,13,14 PRON_PER|17,18,17,18 PRON_VEH|19,21,19,21 NOM_VEH|22,23,22,23 PRON_VEH
+
+— « Un canot vide , dit Paul , remorquons - le jusqu' à Némoville .
+
+2,5,2,5 NOM_VEH|7,8,7,8 PROP_PER|11,12,11,12 PRON_VEH|14,15,14,15 PROP_GPE
+
+Mais au moment où le canot de pêche rejoignait l' épave , on s' aperçut avec surprise qu' il n' était pas vide .
+
+4,8,4,8 NOM_VEH|9,11,9,11 NOM_VEH|12,13,12,13 PRON_PER|18,19,18,19 PRON_VEH
+
+Une femme était étendue au fond sans mouvement : elle semblait morte , mais en se penchant sur elle on vit qu' elle respirait encore .
+
+0,2,0,2 NOM_PER|9,10,9,10 PRON_PER|18,19,18,19 PRON_PER|19,20,19,20 PRON_PER|22,23,22,23 PRON_PER
+
+On se hâta de transporter la naufragée à Némoville , et on accosta à la résidence de Marcelle , où le prêtre suggéra de laisser la malade .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_PER|8,9,8,9 PROP_GPE|11,12,11,12 PRON_PER|14,18,14,18 NOM_FAC|19,20,19,20 PRON_FAC|20,22,20,22 NOM_PER|25,27,25,27 NOM_PER
+
+On manda le docteur Desmarais , qui donna des soins efficaces à la jeune fille — car c' était une jeune fille , et elle était fort belle .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_PER|6,7,6,7 PRON_PER|12,15,12,15 NOM_PER|17,18,17,18 PRON_PER|19,22,19,22 NOM_PER|24,25,24,25 PRON_PER
+
+La naufragée reprit bientôt ses sens , et comme on ne pouvait pas convenablement l' installer dans le « Nautilus » , Roger demanda à Marcelle de la garder auprès d' elle , ce que celle - ci accepta avec empressement .
+
+0,2,0,2 NOM_PER|4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|14,15,14,15 NOM_PER|17,20,17,20 PROP_PER|22,23,22,23 PROP_PER|25,26,25,26 PROP_PER|27,28,27,28 PRON_PER|31,32,31,32 PRON_PER|35,38,35,38 NOM_PER
+
+Ce fut en rougissant de plaisir que Marcelle répondit qu' elle était heureuse de lui rendre ce service ; et elle disait la vérité , car elle pensait bien que le gouverneur ne manquerait pas de s' intéresser à celle qu' il avait sauvée de la mort , et lorsqu' il viendrait elle aurait l' occasion de le voir .
+
+7,8,7,8 PROP_PER|10,11,10,11 PRON_PER|14,15,14,15 PRON_PER|20,21,20,21 PRON_PER|26,27,26,27 PRON_PER|30,32,30,32 NOM_PER|39,47,39,47 NOM_PER|50,51,50,51 PRON_PER|52,53,52,53 PRON_PER|57,58,57,58 PRON_PER
+
+La bonté de la jeune fille perdait sans doute un peu de son mérite par cette pensée intéressée , mais qui saurait la blâmer , connaissant le sentiment qu' elle avait au cœur .
+
+3,6,3,6 NOM_PER|22,23,22,23 PRON_PER|29,30,29,30 PRON_PER
+
+L' étrangère fut déposée sur un lit et abandonnée aux soins de la vieille servante , tandis que Marcelle retournait dans le salon , où Roger attendait le verdict du médecin pour prendre congé .
+
+0,2,0,2 NOM_PER|12,15,12,15 NOM_PER|18,19,18,19 PROP_PER|21,23,21,23 NOM_FAC|24,25,24,25 PRON_FAC|25,26,25,26 PROP_PER|29,31,29,31 NOM_PER
+
+Il demanda à Marcelle la permission de revenir s' informer de la malade : « Mademoiselle Marcelle , dit - il , me permettez - vous de revenir prendre des nouvelles de votre protégée ?
+
+0,1,0,1 PRON_PER|3,4,3,4 PROP_PER|11,13,11,13 NOM_PER|15,17,15,17 PROP_PER|20,21,20,21 PRON_PER|22,23,22,23 PRON_PER|25,26,25,26 PRON_PER|32,34,32,34 NOM_PER
+
+C' était la première fois qu' il l' appelait de son petit nom , et la pauvre fille crut y voir l' augure d' un sentiment qui répondait à la flamme secrète de son âme .
+
+6,7,6,7 PRON_PER|7,8,7,8 NOM_PER|10,11,10,11 PRON_PER|15,18,15,18 NOM_PER|33,34,33,34 PRON_PER
+
+Pauvre Marcelle !
+
+0,2,0,2 PROP_PER
+
+Roger , inconscient de l' émotion qu' il venait de causer , attendait la réponse , que la jeune fille articula d' une voix tremblante .
+
+0,1,0,1 PROP_PER|7,8,7,8 PRON_PER|17,20,17,20 NOM_PER
+
+Et Paul , qui était présent , fut seul à deviner le secret de l' orpheline .
+
+1,2,1,2 PROP_PER|3,4,3,4 PRON_PER|14,16,14,16 NOM_PER
+
+Il murmura tout bas : « Pauvre fille !
+
+0,1,0,1 PRON_PER|6,8,6,8 NOM_PER
+
+Marcelle et Gaétane formaient un étrange contraste de beauté , et ce soir - là , en les voyant toutes deux dans le petit salon du sous - marin , il eût été difficile de dire laquelle était la plus belle , de la blonde Marcelle , avec sa profusion de cheveux d' or et son teint de lys et de rose , que trouaient ses grands yeux bleus ; ou de la brune Gaétane aux cheveux noirs , encadrant son visage régulier , très pâle , et que semblaient éclairer ses yeux bruns profonds .
+
+0,1,0,1 PROP_PER|2,3,2,3 PROP_PER|22,29,22,29 NOM_FAC|43,46,43,46 NOM_PER|48,49,48,49 PRON_PER|55,56,55,56 PRON_PER|65,66,65,66 PRON_PER|72,75,72,75 NOM_PER|80,81,80,81 PRON_PER|91,92,91,92 PRON_PER
+
+Huit jours s' étaient écoulés depuis les événements que nous avons racontés , et pour la première fois , les deux jeunes filles passaient la soirée ensemble dans le salon .
+
+28,30,28,30 NOM_FAC
+
+— « Vos reproches me font bien mal , disait la voix douce et chantante de l' étrangère , mais tout en éprouvant une grande reconnaissance pour celui qui m' a sauvé la vie , je ne puis me défendre d' un réel malaise , lorsqu' il me regarde ou m' adresse la parole .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|16,18,16,18 NOM_PER|27,34,27,34 NOM_PER|35,36,35,36 PRON_PER|46,47,46,47 PRON_PER|47,48,47,48 PRON_PER|50,51,50,51 PRON_PER
+
+Je ne le hais pas , ainsi que vous le dites , ce serait une ingratitude dont je suis incapable , mais il me fait peur , réellement peur .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|8,9,8,9 PRON_PER|17,18,17,18 PRON_PER|22,23,22,23 PRON_PER|23,24,23,24 PRON_PER
+
+« Le docteur Desmarais vous fait peur !
+
+1,4,1,4 NOM_PER|4,5,4,5 PRON_PER
+
+… mais il est parfait de bonté pour vous .
+
+2,3,2,3 PRON_PER|8,9,8,9 PRON_PER
+
+Le lecteur a déjà compris , par ce petit dialogue que Marcelle essayait de donner à Gaétane l' impression que le docteur lui avait sauvé la vie .
+
+11,12,11,12 PROP_PER|16,17,16,17 PROP_PER|20,22,20,22 NOM_PER|22,23,22,23 PRON_PER
+
+Pour se mentir à elle - même , Marcelle se disait que le médecin lui avait vraiment sauvé la vie , puisqu' elle n' avait que le souffle , quand le gouverneur la lui avait confiée .
+
+4,7,4,7 PRON_PER|8,9,8,9 PROP_PER|12,14,12,14 NOM_PER|14,15,14,15 PRON_PER|22,23,22,23 PRON_PER|30,32,30,32 NOM_PER|32,33,32,33 PRON_PER|33,34,33,34 PRON_PER
+
+La veille , le médecin avait passé quelque temps avec les jeunes filles et s' était surtout montré aimable pour Gaétane , et il l' avait un peu surprise en lui demandant au cours de la conversation :
+
+3,5,3,5 NOM_PER|14,16,14,16 PRON_PER|20,21,20,21 PROP_PER|23,24,23,24 PRON_PER|24,25,24,25 NOM_PER|30,31,30,31 PRON_PER
+
+— « Votre père , mademoiselle , était - il dans la marine ?
+
+2,4,2,4 NOM_PER|5,6,5,6 NOM_PER|9,10,9,10 PRON_PER|11,13,11,13 PROP_ORG
+
+Elle avait répondu que son père adoptif était , en effet , le capitaine Laurent , et cela avait paru intéresser si vivement le médecin , qu' elle lui avait dit spontanément :
+
+0,1,0,1 PRON_PER|4,7,4,7 NOM_PER|12,15,12,15 NOM_PER|23,25,23,25 NOM_PER|27,28,27,28 PRON_PER|28,29,28,29 PRON_PER
+
+— « L' avez - vous connu , docteur ?
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 NOM_PER
+
+Et le docteur avait dit avec empressement : « Non , non , c' est une simple coïncidence de nom qui m' a fait poser cette question .
+
+1,3,1,3 NOM_PER|21,22,21,22 PRON_PER
+
+Il prit congé presque immédiatement , mais en sortant , il fit un signe à Marcelle , qui le suivit .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER|15,16,15,16 PROP_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER
+
+Ils parlèrent longuement ensemble , et le médecin dit en quittant la jeune fille : « N' oubliez pas que tout dépend de vous , Marcelle ; je vous promets qu' avant trois mois , vous serez la femme du gouverneur , si vous suivez mes conseils ; et moi j' épouserai la fille du capitaine Laurent .
+
+0,1,0,1 PRON_PER|6,8,6,8 NOM_PER|11,14,11,14 NOM_PER|23,24,23,24 PRON_PER|25,26,25,26 PROP_PER|27,28,27,28 PRON_PER|28,29,28,29 PRON_PER|35,36,35,36 PRON_PER|37,41,37,41 NOM_PER|43,44,43,44 PRON_PER|45,46,45,46 PRON_PER|49,50,49,50 PRON_PER|50,51,50,51 PRON_PER|52,57,52,57 NOM_PER
+
+En servant mes intérêts vous servez aussi les vôtres .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER
+
+Marcelle eut un geste résigné , et quand elle rentra chez elle , ses yeux rougis disaient qu' elle avait pleuré .
+
+0,1,0,1 PROP_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|18,19,18,19 PRON_PER
+
+Elle avait à peine repris sa place auprès de Gaétane , lorsque la vieille servante entra , apportant sur un plateau , la carte du gouverneur .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|9,10,9,10 PROP_PER|12,15,12,15 NOM_PER|24,26,24,26 NOM_PER
+
+Marcelle rougit si violemment que sa compagne l' en plaisanta .
+
+0,1,0,1 PROP_PER|5,7,5,7 NOM_PER|7,8,7,8 NOM_PER
+
+— « C' est le gouverneur de Némoville , dit Marcelle , qui demande à être reçu ; il vint souvent » , ajouta - t - elle , en baissant les yeux , comme si elle eût eu peur que Gaétane y pût lire le mensonge qu' elle faisait , en assurant que le gouverneur venait souvent chez elle .
+
+2,3,2,3 PRON_PER|4,8,4,8 NOM_PER|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER|18,19,18,19 PRON_PER|27,28,27,28 PRON_PER|36,37,36,37 PRON_PER|41,42,41,42 PROP_PER|48,49,48,49 PRON_PER|54,56,54,56 NOM_PER|59,60,59,60 PRON_PER
+
+« Celui - là , ajouta - t - elle , j' espère que vous l' aimerez … à cause de moi .
+
+1,4,1,4 NOM_PER|9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|14,15,14,15 PRON_PER|15,16,15,16 NOM_PER|21,22,21,22 PRON_PER
+
+— « Je comprends , fit sa compagne , avec un sourire malin , c' est votre fiancé … »
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|14,15,14,15 PRON_PER|16,17,16,17 PRON_PER
+
+Et Marcelle ne la détrompa pas ; elle feignit de ne pas avoir entendu , et se leva pour aller au devant de Roger , qui entrait .
+
+1,2,1,2 PROP_PER|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|23,24,23,24 PROP_PER|25,26,25,26 PRON_PER
+
+Elle présenta Gaétane , que le jeune homme sembla chercher des yeux , dès qu' il eut franchi le seuil du salon , et tous trois s' assirent et passèrent ensemble une heure de gaie causerie .
+
+0,1,0,1 PRON_PER|2,3,2,3 PROP_PER|4,5,4,5 PRON_PER|5,8,5,8 NOM_PER|15,16,15,16 PRON_PER|18,22,18,22 NOM_FAC|24,26,24,26 PRON_PER
+
+Gaétane , qui avait repris toute la fraîcheur de son âge , était vraiment éblouissante de beauté , lorsque Roger la regardait , rougissante et un peu timide .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|9,10,9,10 PRON_PER|19,20,19,20 PROP_PER|20,21,20,21 PRON_PER
+
+— « Mademoiselle , j' espère que vous ne vous ennuyez pas à Némoville ?
+
+2,3,2,3 NOM_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|13,14,13,14 PROP_GPE
+
+non , répliqua - t - elle , on est si bien ici , je me sens si en sûreté auprès de Marcelle … »
+
+6,7,6,7 PRON_PER|12,13,12,13 NOM_GPE|14,15,14,15 PRON_PER|22,23,22,23 PROP_PER
+
+— « Je ne veux plus que Gaétane me quitte ajouta Marcelle , je suis si seule , depuis la mort de mon père .
+
+2,3,2,3 PRON_PER|7,8,7,8 PROP_PER|8,9,8,9 PRON_PER|11,12,11,12 PROP_PER|13,14,13,14 PRON_PER|22,23,22,23 PRON_PER
+
+En disant cela elle regardait Roger , cherchant dans ses yeux une flamme qu' elle n' y vit pas .
+
+3,4,3,4 PRON_PER|5,6,5,6 PROP_PER|9,10,9,10 PRON_PER|14,15,14,15 PRON_PER
+
+Il l' avait écoutée en regardant sa compagne .
+
+0,1,0,1 PRON_PER|1,2,1,2 NOM_PER|6,8,6,8 NOM_PER
+
+Lorsque Roger reprit le chemin du « Nautilus , » il était distrait et préoccupé , ce qui n' était pas dans ses habitudes ; en entrant chez lui , il rencontra Paul à qui il dit d' où il venait , et celui - ci lui répondit :
+
+1,2,1,2 PROP_PER|5,8,5,8 PROP_PER|10,11,10,11 PRON_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER|30,31,30,31 PRON_PER|32,33,32,33 PROP_PER|33,35,33,35 PRON_PER|35,36,35,36 PRON_PER|38,39,38,39 PRON_FAC|39,40,39,40 PRON_PER|43,46,43,46 NOM_PER|46,47,46,47 PRON_PER
+
+— « Je l' avais déjà deviné à ton air , un air que je ne t' avais jamais vu , avant l' arrivée de cette jolie épave à Némoville .
+
+2,3,2,3 PRON_PER|8,9,8,9 PRON_PER|14,15,14,15 PRON_PER|16,17,16,17 PRON_PER|25,28,25,28 NOM_VEH|29,30,29,30 PROP_GPE
+
+— « Que veux - tu dire ?
+
+5,6,5,6 PRON_PER
+
+demanda Roger , en s' arrêtant devant son ami .
+
+1,2,1,2 PROP_PER|7,9,7,9 NOM_PER
+
+— « Je veux dire que tu es amoureux , et que je le sais depuis le premier jour .
+
+2,3,2,3 PRON_PER|6,7,6,7 PRON_PER|12,13,12,13 PRON_PER
+
+Quiconque eût jeté un coup d' œil sur Némoville , eût envié le sort de ses habitants .
+
+8,9,8,9 PROP_GPE|15,17,15,17 NOM_PER
+
+Cependant tous les Némovilliens n' étaient pas heureux , à commencer par le gouverneur , qui avait perdu beaucoup de son insouciance et de sa belle humeur .
+
+1,4,1,4 NOM_PER|12,14,12,14 NOM_PER|15,16,15,16 PRON_PER|20,21,20,21 PRON_PER|24,25,24,25 PRON_PER
+
+Il ne faisait pas beaucoup de progrès , auprès de Gaétane ; bien au contraire , elle semblait plus réservée et plus froide que jamais avec lui .
+
+0,1,0,1 PRON_PER|10,11,10,11 PROP_PER|16,17,16,17 PRON_PER|26,27,26,27 PRON_PER
+
+Un jour qu' il avait voulu lui baiser la main elle l' avait retirée avec indignation et lui avait dit en colère :
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|17,18,17,18 PRON_PER
+
+— « Quoi , vous osez ?
+
+4,5,4,5 PRON_PER
+
+… » Puis elle avait quitté la chambre avant qu' il pût lui demander l' explication de sa conduite étrange .
+
+3,4,3,4 PRON_PER|6,8,6,8 NOM_FAC|10,11,10,11 PRON_PER|12,13,12,13 PRON_PER|17,18,17,18 PRON_PER
+
+Depuis elle le fuyait ostensiblement .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER
+
+D' un autre côté , ce n' était plus un secret dans Némoville que le docteur Desmarais était très assidu auprès de la belle étrangère ; on le voyait souvent se diriger vers la demeure de Marcelle , mais on savait que ce n' était plus à Mlle Richard qu' il pensait .
+
+12,13,12,13 PROP_GPE|14,17,14,17 NOM_PER|22,25,22,25 NOM_PER|26,27,26,27 PRON_PER|27,28,27,28 PRON_PER|33,37,33,37 NOM_FAC|39,40,39,40 PRON_PER|47,49,47,49 PROP_PER|49,50,49,50 PRON_PER|50,51,50,51 PRON_PER
+
+Un jour que le docteur Desmarais était avec Gaétane , il se jeta à ses genoux , en lui faisant une déclaration d' amour si inattendue qu' elle demeura interdite .
+
+3,6,3,6 NOM_PER|8,9,8,9 PROP_PER|10,11,10,11 PRON_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER|27,28,27,28 PRON_PER
+
+Comme elle faisait un mouvement pour se lever et se soustraire aux protestations du médecin , la porte du salon s' ouvrit et Marcelle entra accompagné de Roger , qui resta interdit devant le groupe romanesque que présentait Gaétane et le médecin .
+
+1,2,1,2 PRON_PER|13,15,13,15 NOM_PER|18,20,18,20 NOM_FAC|23,24,23,24 PROP_PER|27,28,27,28 PROP_PER|29,30,29,30 PRON_PER|40,42,40,42 NOM_PER
+
+— « Je vais vous recevoir dans mon boudoir , avait dit Marcelle en riant , ce serait trop dommage de déranger un si doux tête - à - tête .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|7,9,7,9 NOM_FAC|12,13,12,13 PROP_PER
+
+Roger avait répondu froidement qu' il ne venait que pour prendre des nouvelles de ces dames , mais qu' il avait de pressantes affaires , et il était reparti sans adresser la parole à Gaétane , ce qui l' avait rendue très malheureuse .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER|19,20,19,20 PRON_PER|26,27,26,27 PRON_PER|34,35,34,35 PROP_PER|38,39,38,39 NOM_PER
+
+Il n' avait plus reparu chez Marcelle , depuis .
+
+0,1,0,1 PRON_PER|6,7,6,7 PROP_PER
+
+Quant à Marcelle , elle paraissait de plus en plus sous la domination du docteur Desmarais ; et celui - ci semblait plus actif et plus sournois que jamais .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER|13,16,13,16 NOM_PER|18,21,18,21 NOM_PER
+
+Paul Lamontagne avait , lui aussi , des accès de tristesse dont il était seul à connaître le secret .
+
+0,2,0,2 PROP_PER|4,6,4,6 PRON_PER|12,13,12,13 PRON_PER
+
+L' abbé Bernard était le témoin de la tristesse de ses amis , mais il se taisait , n' osant provoquer des confidences qui ne s' offraient pas .
+
+0,3,0,3 NOM_PER|10,12,10,12 NOM_PER|14,15,14,15 PRON_PER
+
+C' était la veille de Noël ; il y avait juste deux mois que l' abbé Bernard avait accepté la charge de curé de Némoville .
+
+14,17,14,17 NOM_PER|21,25,21,25 NOM_PER
+
+Depuis quelque temps , il était très occupé .
+
+4,5,4,5 PRON_PER
+
+Dès son arrivée , à la ville sous - marine , le curé s' était préoccupé d' improviser une chapelle , où il pourrait dire sa messe chaque matin .
+
+1,2,1,2 PRON_PER|5,10,5,10 NOM_GPE|11,13,11,13 NOM_PER|18,20,18,20 NOM_FAC|21,22,21,22 PRON_FAC|22,23,22,23 PRON_PER|25,26,25,26 PRON_PER
+
+Un sous - marin qui avait été abandonné par une famille qui avait préféré retourner vivre sur la terre , avait été mis à sa disposition .
+
+0,4,0,4 NOM_VEH|4,5,4,5 PRON_VEH|9,11,9,11 NOM_PER|11,12,11,12 PRON_PER|24,25,24,25 PRON_PER
+
+On n' y était pas grandement , surtout le dimanche , car les habitants de Némoville aimaient à assister à la messe et quelques - uns étaient obligés d' entendre l' office divin dans le couloir .
+
+2,3,2,3 PRON_FAC|12,16,12,16 NOM_PER|23,26,23,26 NOM_PER|34,36,34,36 NOM_FAC
+
+Or , ce jour du vingt - quatre décembre , l' abbé était très occupé , car on lui avait demandé de célébrer la messe de minuit , et il aurait voulu donner à cette messe autant de solennité que le permettaient les lieux .
+
+10,12,10,12 NOM_PER|18,19,18,19 PRON_PER|29,30,29,30 PRON_PER|42,44,42,44 NOM_FAC
+
+Vers dix heures , Roger dit à l' abbé :
+
+4,5,4,5 PROP_PER|7,9,7,9 NOM_PER
+
+— « Voulez - vous venir faire une petite promenade avec Paul et moi ?
+
+4,5,4,5 PRON_PER|11,12,11,12 PROP_PER|13,14,13,14 PRON_PER
+
+» Le curé accepta , et Roger le conduisit vers le centre de la ville .
+
+1,3,1,3 NOM_PER|6,7,6,7 PROP_PER|7,8,7,8 PRON_PER|10,15,10,15 NOM_LOC
+
+Tout le monde paraissait gai , ce soir - là à Némoville .
+
+0,3,0,3 NOM_PER|11,12,11,12 PROP_GPE
+
+On parcourut les rues - couloirs , toutes éclairées à l' électricité , et on pénétra dans un sous - marin que le prêtre n' avait pas encore visité .
+
+0,1,0,1 PRON_PER|14,15,14,15 PRON_PER|17,21,17,21 NOM_VEH|21,22,21,22 PRON_VEH|22,24,22,24 NOM_PER
+
+Le prêtre n' était pas curieux , mais le mystère de ce sous - marin , que personne ne paraissait habiter , l' avait parfois intrigué .
+
+0,2,0,2 NOM_PER|11,15,11,15 NOM_VEH|16,17,16,17 PRON_VEH
+
+— « Passez le premier , monsieur l' abbé » , lui dit Roger , et le curé ayant pénétré à l' intérieur du sous - marin , fit une exclamation de surprise et de joie .
+
+3,5,3,5 NOM_PER|6,9,6,9 NOM_PER|11,12,11,12 PRON_PER|13,14,13,14 PROP_PER|16,18,16,18 NOM_PER|21,27,21,27 NOM_FAC
+
+— « Que c' est beau , fit - il , c' est magnifique !
+
+3,4,3,4 PRON_FAC|9,10,9,10 PRON_PER|11,12,11,12 PRON_FAC
+
+— « C' est le cadeau de Noël de Némoville à son curé , répondit le gouverneur .
+
+9,10,9,10 PROP_GPE|11,12,11,12 PRON_GPE|15,17,15,17 NOM_PER
+
+Aimez - vous votre église , monsieur l' abbé ?
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|6,9,6,9 NOM_PER
+
+L' abbé pleurait de joie .
+
+0,2,0,2 NOM_PER
+
+On entendit dans les couloirs des bruits de pas , c' étaient les Némovilliens qui venaient présenter leurs hommages à leur curé , et Roger , au nom de tous , offrit au prêtre l' église sous - marine : « Nous y avons tous travaillé , expliqua - t - il ; les uns ont modelé les statues , les autres ont fait les plans et les enfants eux - mêmes ont fait leur part , en recueillant sur la grève les colimaçons qui ornent le maître - autel .
+
+12,14,12,14 NOM_PER|14,15,14,15 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|24,25,24,25 PROP_PER|29,30,29,30 NOM_PER|32,34,32,34 NOM_PER|41,42,41,42 PRON_PER|44,45,44,45 NOM_PER|51,52,51,52 PRON_PER|53,55,53,55 PRON_PER|60,62,60,62 PRON_PER|67,72,67,72 NOM_PER|74,75,74,75 PRON_PER
+
+» L' abbé était visiblement ému ; il ne pouvait que répéter :
+
+1,3,1,3 NOM_PER|7,8,7,8 PRON_PER
+
+— « Merci , merci , mes bons amis !
+
+6,9,6,9 NOM_PER
+
+Et c' était un spectacle bien étrange que cette scène , qui se passait par ce soir de Noël , sous les flots de l' Océan .
+
+21,26,21,26 NOM_LOC
+
+Les grands transatlantiques , qui passaient à quelque distance , ne contenaient pas une foule plus joyeuse et plus insouciante .
+
+0,3,0,3 NOM_VEH|4,5,4,5 PRON_VEH
+
+Roger donna le signal de retourner chacun chez - soi , en demandant à tous de revenir lorsque la cloche annoncerait la messe de minuit .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER|7,10,7,10 NOM_PER|14,15,14,15 NOM_PER
+
+L' abbé Bernard et Roger sortirent les derniers de l' église , et se dirigèrent vers le « Nautilus , » où l' abbé éprouvait le besoin de se reposer , après tant d' émotions .
+
+0,3,0,3 NOM_PER|4,5,4,5 PROP_PER|6,8,6,8 NOM_PER|16,19,16,19 PROP_PER|21,22,21,22 PRON_PER|22,24,22,24 NOM_PER
+
+La cloche de l' église de Némoville se fait entendre .
+
+6,7,6,7 PROP_GPE
+
+Aussitôt les rues s' emplissent de tous les habitants , qui se dirigent vers l' église ; personne n' aurait voulu manquer cette première messe de minuit .
+
+6,9,6,9 NOM_PER|10,11,10,11 PRON_PER
+
+Bientôt toutes les résidences , à l' exception de celles qui contenaient des malades , furent vides .
+
+1,4,1,4 NOM_FAC|9,14,9,14 NOM_FAC
+
+On avait fait transporter l' orgue du « Nautilus » dans l' église et préparé une belle messe , car les musiciens ne manquaient pas à Némoville .
+
+6,9,6,9 PROP_PER|20,22,20,22 NOM_PER|26,27,26,27 PROP_GPE
+
+Le gouverneur et son secrétaire ayant pris place aux bancs armoriés qu' on avait préparés pour eux , une main habile joua les premiers accords d' un chant de Noël .
+
+3,5,3,5 NOM_PER|16,17,16,17 PRON_PER
+
+À ce moment , la porte de la chapelle se rouvrit , et l' on vit apparaître M . Duflot , dans une chaise à roulette , que poussait son fidèle domestique .
+
+17,20,17,20 PROP_PER|27,28,27,28 PRON_PER|29,30,29,30 PRON_PER
+
+Roger alla au - devant de lui et l' installa auprès de son siège .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER|8,9,8,9 NOM_PER|12,13,12,13 PRON_PER
+
+» En entendant cette voix - là , le gouverneur tressaillit et son voisin , M . Duflot , posa la main sur son cœur , comme pour en arrêter les battements .
+
+8,10,8,10 NOM_PER|12,14,12,14 NOM_PER|15,18,15,18 PROP_PER|23,24,23,24 PRON_PER
+
+Cette voix , c' était celle de Gaétane .
+
+7,8,7,8 PROP_PER
+
+Quand le chant pieux fut terminé , M . Duflot se pencha à l' oreille de Roger et lui demanda : « Qui donc chante ainsi ?
+
+7,10,7,10 PROP_PER|16,17,16,17 PROP_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER
+
+— « C' est mademoiselle Laurent » , répondit le gouverneur .
+
+2,3,2,3 PRON_PER|4,6,4,6 PROP_PER|9,11,9,11 NOM_PER
+
+Les deux hommes ne parlèrent plus tout le temps que dura la messe , mais en sortant de la chapelle , M . Duflot reprit la conversation où il l' avait laissée :
+
+0,3,0,3 NOM_PER|21,24,21,24 PROP_PER|28,29,28,29 PRON_PER
+
+— « Cette jeune fille a vraiment une voix angélique , ne trouvez - vous pas , monsieur le gouverneur ?
+
+2,5,2,5 NOM_PER|14,15,14,15 PRON_PER|17,20,17,20 NOM_PER
+
+— « Angélique , en effet , » répondit Roger .
+
+9,10,9,10 PROP_PER
+
+Il ajouta : « Toute la personne de cette jeune fille a quelque chose d' éthéré , presque de surnaturel ; il semble que rien en elle ne ressemble aux autres femmes .
+
+0,1,0,1 PRON_PER|4,11,4,11 NOM_PER|26,27,26,27 PRON_PER|29,32,29,32 NOM_PER
+
+Vous le constaterez , monsieur Duflot , quand vous la connaîtrez .
+
+0,1,0,1 PRON_PER|4,6,4,6 PROP_PER|8,9,8,9 PRON_PER|9,10,9,10 PRON_PER
+
+Pour me servir d' un vieux cliché , elle a l' air d' un ange égaré sur la terre .
+
+1,2,1,2 PRON_PER|8,9,8,9 PRON_PER|13,19,13,19 NOM_PER
+
+— « Quand un ange descend sur la terre , reprit en souriant M . Duflot , c' est généralement pour faire le bonheur de quelque mortel .
+
+3,5,3,5 NOM_PER|13,16,13,16 PROP_PER|25,27,25,27 NOM_PER
+
+Il lança du côté de Roger un coup d' œil narquois .
+
+0,1,0,1 PRON_PER|5,6,5,6 PROP_PER
+
+Roger sourit , et répondit : « Ou bien pour son malheur .
+
+0,1,0,1 PROP_PER|10,11,10,11 PRON_PER
+
+M . Duflot ne répliqua pas , mais pensa avoir deviné que Roger aimait déjà et sans espoir .
+
+0,3,0,3 PROP_PER|12,13,12,13 PROP_PER
+
+« Il est né le divin Enfant » , à la messe de minuit , ç' avait été au tour de Paul de se sentir remué par la voix de la chanteuse , car il avait reconnu celle de Jeanne , la fille du docteur de Chantal , qu' il aimait .
+
+21,22,21,22 PROP_PER|34,35,34,35 PRON_PER|49,50,49,50 PRON_PER
+
+Après la messe , tous les personnages dont il a été question dans ce chapitre moins les deux jeunes filles , Gaétane et Jeanne , se réunirent chez le gouverneur .
+
+4,7,4,7 NOM_PER|7,8,7,8 PRON_PER|16,20,16,20 NOM_PER|21,22,21,22 PROP_PER|28,30,28,30 NOM_PER
+
+Au nombre des invités se trouvait aussi le curé .
+
+0,4,0,4 NOM_PER|7,9,7,9 NOM_PER
+
+M . Duflot , contre son habitude , avait accepté de dîner en compagnie , ce qu' il ne faisait généralement pas .
+
+0,3,0,3 PROP_PER|5,6,5,6 PRON_PER|17,18,17,18 PRON_PER
+
+Ce n' était pas un convive bien gai que M . Duflot , mais il avait le bon esprit de garder pour lui - même son incurable tristesse , et comme il avait beaucoup voyagé , il était fort intéressant à entendre causer .
+
+0,1,0,1 PRON_PER|4,8,4,8 NOM_PER|9,12,9,12 PROP_PER|14,15,14,15 PRON_PER|22,25,22,25 PRON_PER|25,26,25,26 PRON_PER|31,32,31,32 PRON_PER|36,37,36,37 PRON_PER
+
+Il n' était pas de ceux qui semblent avoir tout vu à travers un verre grossissant , et qui tiennent leurs auditeurs pour des nigauds : il parlait quand on l' interrogeait , et savait se taire au bon moment .
+
+0,1,0,1 PRON_PER|20,22,20,22 NOM_PER|23,25,23,25 NOM_PER|26,27,26,27 PRON_PER|30,31,30,31 NOM_PER
+
+Monsieur le curé , demanda , tout à coup : « M . Duflot , cette jeune fille , qui a si bien chanté « Minuit Chrétiens » , a - t - elle ses parents à Némoville ?
+
+0,3,0,3 NOM_PER|11,14,11,14 PROP_PER|15,18,15,18 NOM_PER|19,20,19,20 PRON_PER|33,34,33,34 PRON_PER|34,36,34,36 NOM_PER|37,38,37,38 PROP_GPE
+
+— « Mlle Durand est orpheline , répliqua le prêtre .
+
+2,4,2,4 PROP_PER|8,10,8,10 NOM_PER
+
+… Son nom n' est - il pas Laurent ?
+
+1,2,1,2 PRON_PER
+
+— « En effet , répondit Roger , son nom est Gaétane Laurent .
+
+6,7,6,7 PROP_PER|8,9,8,9 PRON_PER
+
+… Elle se nomme Gaétane ?
+
+1,2,1,2 PRON_PER
+
+» questionna M . Duflot avec intérêt .
+
+2,5,2,5 PROP_PER
+
+Et l' abbé disait , presque en même temps , Laurent ?
+
+1,3,1,3 NOM_PER
+
+… son nom est Laurent ?
+
+1,2,1,2 PRON_PER
+
+… en êtes - vous bien certain , Roger ?
+
+4,5,4,5 PRON_PER|8,9,8,9 PROP_PER
+
+— « Absolument certain , répliqua Roger , puisque c' est elle qui me l' a dit ; elle est fille d' un capitaine Laurent .
+
+6,7,6,7 PROP_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_PER|18,19,18,19 PRON_PER|20,25,20,25 NOM_PER
+
+Le curé fut préoccupé tout le reste du dîner , et quoi qu' il fît pour paraître gai , M . Duflot était distrait et songeur .
+
+0,2,0,2 NOM_PER|13,14,13,14 PRON_PER|19,22,19,22 PROP_PER
+
+Enfin vers cinq heures du matin , les convives se retirèrent et allèrent
+
+7,9,7,9 NOM_PER
+

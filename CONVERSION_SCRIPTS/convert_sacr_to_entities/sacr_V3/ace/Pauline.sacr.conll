@@ -1,0 +1,1844 @@
+Il y a trois ans , il arriva à Saint - Front , petite ville fort laide qui est située dans nos environs et que je ne vous engage pas à chercher sur la carte , même sur celle de Cassini , une aventure qui fit beaucoup jaser , quoiqu' elle n' eût rien de bien intéressant par elle - même , mais dont les suites , furent fort graves , quoiqu' on n' en ait rien su .
+
+3,5,3,5 NOM_TIME|9,12,9,12 PROP_GPE|21,23,21,23 NOM_LOC|40,41,40,41 PROP_PER
+
+C' était par une nuit sombre et par une pluie froide .
+
+3,6,3,6 NOM_TIME
+
+Une chaise de poste entra dans la cour de l' auberge du Lion - Couronné .
+
+0,4,0,4 NOM_VEH|6,15,6,15 NOM_FAC
+
+Une voix de femme demanda des chevaux , vite , vite !
+
+3,4,3,4 NOM_PER|5,7,5,7 NOM_VEH
+
+… Le postillon vint lui répondre fort lentement que cela était facile à dire ; qu' il n' y avait pas de chevaux , vu que l' épidémie ( cette même épidémie qui est en permanence dans certains relais sur les routes peu fréquentées ) en avait enlevé trente - sept la semaine dernière ; qu' enfin on pourrait partir dans la nuit , mais qu' il fallait attendre que l' attelage qui venait de conduire la patache fût un peu rafraîchi .
+
+1,3,1,3 NOM_PER|22,23,22,23 NOM_VEH|37,44,37,44 NOM_FAC|51,54,51,54 NOM_TIME|57,58,57,58 PRON_PER|61,63,61,63 NOM_TIME|70,72,70,72 NOM_VEH|72,73,72,73 PRON_VEH|76,78,76,78 NOM_VEH
+
+demanda le laquais empaqueté de fourrures qui était installé sur le siége .
+
+1,6,1,6 NOM_PER|6,7,6,7 PRON_PER
+
+— C' est l' affaire d' une heure , répondit le postillon à demi débotté ; nous allons nous mettre tout de suite à manger l' avoine .
+
+6,8,6,8 NOM_TIME|10,12,10,12 NOM_PER|16,17,16,17 PRON_PER
+
+Le domestique jura ; une jeune et jolie femme de chambre qui avançait à la portière sa tête entourée de foulards en désordre , murmura je ne sais quelle plainte touchante sur l' ennui et la fatigue des voyages .
+
+0,2,0,2 NOM_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER
+
+Quant à la personne qu' escortaient ces deux laquais , elle descendit lentement sur le pavé humide et froid , secoua sa pelisse doublée de martre , et prit le chemin de la cuisine sans proférer une seule parole .
+
+2,4,2,4 NOM_PER|4,5,4,5 PRON_PER|6,9,6,9 NOM_PER|10,11,10,11 PRON_PER|21,22,21,22 PRON_PER|32,34,32,34 NOM_FAC
+
+C' était une jeune femme d' une beauté vive et saisissante , mais pâlie par la fatigue .
+
+0,1,0,1 PRON_PER
+
+Elle refusa l' offre d' une chambre , et , tandis que ses valets préféraient s' enfermer et dormir dans la berline , elle s' assit devant le foyer , sur la chaise classique , ingrat et revêche asile du voyageur résigné .
+
+0,1,0,1 PRON_PER|12,14,12,14 NOM_PER|20,22,20,22 NOM_VEH|23,24,23,24 PRON_PER|39,42,39,42 NOM_PER
+
+La servante , chargée de veiller son quart de nuit , se remit à ronfler , le corps plié sur un banc et la face appuyée sur la table .
+
+0,2,0,2 NOM_PER|6,10,6,10 NOM_TIME
+
+Le chat , qui s' était dérangé avec humeur pour faire place à la voyageuse , se blottit de nouveau sur les cendres tièdes .
+
+13,15,13,15 NOM_PER
+
+Pendant quelques instants , il fixa sur elle des yeux verts et luisants pleins de dépit et de méfiance ; mais peu à peu sa prunelle se resserra et s' amoindrit jusqu' à n' être plus qu' une mince raie noire sur un fond d' émeraude .
+
+7,8,7,8 PRON_PER
+
+La voyageuse essaya vainement de s' assoupir .
+
+0,2,0,2 NOM_PER
+
+Mille images confuses passaient dans ses rêves et la réveillaient en sursaut .
+
+5,6,5,6 PRON_PER|8,9,8,9 PRON_PER
+
+Tous ces souvenirs puérils qui obsèdent parfois les imaginations actives se pressèrent dans son cerveau et s' évertuèrent à le fatiguer sans but et sans fruit , jusqu' à ce qu' enfin une pensée dominante s' établît à leur place .
+
+13,14,13,14 PRON_PER
+
+— Oui , c' était une triste ville , pensa la voyageuse , une ville aux rues anguleuses et sombres , au pavé raboteux ; une ville laide et pauvre , comme celle - ci m' est apparue à travers la vapeur qui couvrait les glaces de ma voiture .
+
+3,4,3,4 PRON_GPE|5,8,5,8 NOM_GPE|10,12,10,12 NOM_PER|32,35,32,35 NOM_GPE|35,36,35,36 PRON_PER|47,49,47,49 NOM_VEH
+
+Seulement , il y a dans celle - ci un ou deux , peut - être trois réverbères , et , là - bas , il n' y en avait pas un seul .
+
+6,9,6,9 NOM_GPE|21,24,21,24 NOM_LOC
+
+Chaque piéton marchait avec son falot après l' heure du couvre - feu .
+
+0,2,0,2 NOM_PER|4,5,4,5 PRON_PER|7,13,7,13 NOM_TIME
+
+C' était affreux , cette pauvre ville , et pourtant j' y ai passé des années de jeunesse et de force !
+
+4,7,4,7 NOM_LOC|10,11,10,11 PRON_PER
+
+J' étais bien autre alors … J' étais pauvre de condition , mais j' étais riche d' énergie et d' espoir .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER
+
+Je souffrais bien !
+
+0,1,0,1 PRON_PER
+
+ma vie se consumait dans l' ombre et dans l' inaction ; mais qui me rendra ces souffrances d' une âme agitée par sa propre puissance ?
+
+0,1,0,1 PRON_PER|14,15,14,15 PRON_PER
+
+Puis , après ces apostrophes un peu emphatiques que les têtes exaltées prodiguent parfois à la destinée , sans trop de sujet peut - être , mais par suite d' un besoin inné qu' elles éprouvent de dramatiser leur existence à leurs propres yeux , la jeune femme sourit involontairement , comme si une voix intérieure lui eût répondu qu' elle était heureuse encore ; et elle essaya de s' endormir , en attendant que l' heure fût écoulée .
+
+45,48,45,48 NOM_PER|56,57,56,57 PRON_PER|60,61,60,61 PRON_PER|66,67,66,67 PRON_PER|75,77,75,77 NOM_TIME
+
+La cuisine de l' auberge n' était éclairée que par une lanterne de fer suspendue au plafond .
+
+0,5,0,5 NOM_FAC
+
+Le squelette de ce luminaire dessinait une large étoile d' ombre tremblotante sur tout l' intérieur de la pièce , et rejetait sa pâle clarté vers les solives enfumées du plafond .
+
+13,19,13,19 NOM_FAC
+
+L' étrangère était donc entrée sans rien distinguer autour d' elle , et l' état de demi - sommeil où elle était , l' avait , d' ailleurs , empêchée de faire aucune remarque sur le lieu où elle se trouvait .
+
+0,2,0,2 NOM_PER|10,11,10,11 PRON_PER|20,21,20,21 PRON_PER|23,24,23,24 NOM_PER|35,37,35,37 NOM_LOC|37,38,37,38 PRON_LOC|38,39,38,39 PRON_PER
+
+Les yeux distraits de la voyageuse , suivant machinalement ces ondulations de lumière , s' arrêtèrent tout à coup sur une inscription qui ressortait en blanc sur un des chambranles noircis de la cheminée .
+
+4,6,4,6 NOM_PER
+
+Elle tressaillit alors , passa la main sur ses yeux appesantis , ramassa un bout de branche embrasée pour examiner les caractères , et le laissa retomber en s' écriant d' une voix émue :
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER
+
+où suis - je ?
+
+0,1,0,1 PRON_LOC|3,4,3,4 PRON_PER
+
+est - ce un rêve que je fais ?
+
+6,7,6,7 PRON_PER
+
+À cette exclamation , la servante s' éveilla brusquement , et , se tournant vers elle , lui demanda si elle l' avait appelée .
+
+4,6,4,6 NOM_PER|15,16,15,16 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|21,22,21,22 NOM_PER
+
+— Oui , oui , s' écria l' étrangère ; venez ici .
+
+7,9,7,9 NOM_PER
+
+Dites - moi , qui a écrit ces deux noms sur le mur ?
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER
+
+dit la servante ébahie ; quels noms ?
+
+1,4,1,4 NOM_PER
+
+dit l' étrangère en se parlant avec une sorte d' exaltation , son nom et le mien , Pauline , Laurence !
+
+1,3,1,3 NOM_PER
+
+Et cette date !
+
+1,3,1,3 NOM_TIME
+
+10 février 182 … !
+
+0,3,0,3 NOM_TIME
+
+dites - moi , dites - moi pourquoi ces noms et cette date sont ici ?
+
+2,3,2,3 PRON_PER|6,7,6,7 PRON_PER|11,13,11,13 NOM_TIME
+
+— Madame , répondit la servante , je n' y avais jamais fait attention , et , d' ailleurs , je ne sais pas lire .
+
+1,2,1,2 NOM_PER|4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|20,21,20,21 PRON_PER
+
+— Mais où suis - je donc ?
+
+2,3,2,3 PRON_LOC|5,6,5,6 PRON_PER
+
+comment nommez - vous cette ville ?
+
+3,4,3,4 PRON_PER|4,6,4,6 NOM_GPE
+
+N' est - ce pas Villiers , la première poste après L … ?
+
+3,4,3,4 PRON_GPE|5,6,5,6 PROP_GPE|11,12,11,12 NOM_GPE
+
+— Mais non pas , madame ; vous êtes à Saint - Front , route de Paris , hôtel du Lion - Couronné .
+
+5,6,5,6 NOM_PER|7,8,7,8 PRON_PER|10,13,10,13 PROP_GPE|14,17,14,17 NOM_FAC|18,23,18,23 NOM_FAC
+
+s' écria la voyageuse avec force en se levant tout à coup .
+
+2,4,2,4 NOM_PER
+
+La servante épouvantée la crut folle et voulut s' enfuir ; mais la jeune femme , l' arrêtant :
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|12,15,12,15 NOM_PER|16,17,16,17 NOM_PER
+
+par grâce , restez , dit - elle , et parlez - moi !
+
+7,8,7,8 PRON_PER|12,13,12,13 PRON_PER
+
+Comment se fait - il que je sois ici ?
+
+6,7,6,7 PRON_PER
+
+Dites - moi si je rêve ?
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER
+
+Si je rêve , éveillez - moi ?
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER
+
+— Mais , madame , vous ne rêvez pas , ni moi non plus , je pense , répondit la servante .
+
+3,4,3,4 NOM_PER|5,6,5,6 PRON_PER|11,12,11,12 PRON_PER|15,16,15,16 PRON_PER|19,21,19,21 NOM_PER
+
+Vous vouliez donc aller à Lyon ?
+
+0,1,0,1 PRON_PER|5,6,5,6 PROP_GPE
+
+mon Dieu , vous aurez oublié de l' expliquer au postillon , et , tout naturellement , il aura cru que vous alliez à Paris .
+
+3,4,3,4 PRON_PER|9,11,9,11 NOM_PER|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PROP_GPE
+
+Dans ce temps - ci , toutes les voitures de poste vont à Paris .
+
+1,5,1,5 NOM_TIME|6,11,6,11 NOM_VEH|13,14,13,14 PROP_GPE
+
+— Mais je lui ai dit moi - même que j' allais à Lyon .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 PROP_GPE
+
+dame !
+
+0,1,0,1 NOM_PER
+
+c' est que Baptiste est sourd à ne pas entendre le canon , et avec cela qu' il dort sur son cheval la moitié du temps , et que ses bêtes sont accoutumées à la route de Paris dans ce temps - ci …
+
+3,4,3,4 PROP_PER|17,18,17,18 PRON_PER|20,22,20,22 NOM_VEH|22,26,22,26 NOM_TIME|29,30,29,30 PRON_PER|34,38,34,38 NOM_FAC|39,43,39,43 NOM_TIME
+
+— À Saint - Front !
+
+2,5,2,5 PROP_GPE
+
+répétait l' étrangère .
+
+1,3,1,3 NOM_PER
+
+singulière destinée qui me ramène aux lieux que je voulais fuir !
+
+3,4,3,4 PRON_PER|5,7,5,7 NOM_LOC|7,8,7,8 PRON_LOC|8,9,8,9 PRON_PER
+
+J' ai fait un détour pour ne point passer ici , et , parce que je me suis endormie deux heures , le hasard m' y conduit à mon insu !
+
+0,1,0,1 PRON_PER|9,10,9,10 NOM_LOC|15,16,15,16 PRON_PER|19,21,19,21 NOM_TIME|24,25,24,25 PRON_PER|25,26,25,26 PRON_LOC|28,29,28,29 PRON_PER
+
+Sachons ce que je dois retrouver ici de joie ou de douleur .
+
+3,4,3,4 PRON_PER|6,7,6,7 NOM_LOC
+
+Dites - moi , ma chère , ajouta - t - elle en s' adressant à la fille d' auberge , connaissez - vous dans cette ville mademoiselle Pauline D … ?
+
+2,3,2,3 PRON_PER|4,6,4,6 NOM_PER|11,12,11,12 PRON_PER|16,20,16,20 NOM_PER|23,24,23,24 PRON_PER|25,27,25,27 NOM_GPE|27,30,27,30 NOM_PER
+
+— Je n' y connais personne , madame , répondit la fille ; je ne suis dans ce pays que depuis huit jours .
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_GPE|7,8,7,8 NOM_PER|10,12,10,12 NOM_PER|13,14,13,14 PRON_PER|17,19,17,19 NOM_LOC|21,23,21,23 NOM_TIME
+
+— Mais allez me chercher une autre servante , quelqu' un ?
+
+3,4,3,4 PRON_PER|5,8,5,8 NOM_PER
+
+je veux le savoir .
+
+0,1,0,1 PRON_PER
+
+Puisque je suis ici , je veux tout savoir .
+
+1,2,1,2 PRON_PER|3,4,3,4 NOM_LOC|5,6,5,6 PRON_PER
+
+Est - elle mariée ?
+
+2,3,2,3 PRON_PER
+
+est - elle morte ?
+
+2,3,2,3 PRON_PER
+
+Allez , allez , informez - vous de cela ; courez donc ?
+
+6,7,6,7 PRON_PER
+
+La servante objecta que toutes les servantes étaient couchées , que le garçon d' écurie et les postillons ne connaissaient au monde que leurs chevaux .
+
+0,2,0,2 NOM_PER|4,7,4,7 NOM_PER|11,15,11,15 NOM_PER|16,18,16,18 NOM_PER|23,25,23,25 NOM_VEH
+
+Une prompte libéralité de la jeune dame la décida à aller réveiller le chef , et , après un quart d' heure d' attente , qui parut mortellement long à notre voyageuse , on vint enfin lui apprendre que mademoiselle Pauline D … n' était point mariée , et qu' elle habitait toujours la ville .
+
+4,7,4,7 NOM_PER|7,8,7,8 PRON_PER|12,14,12,14 NOM_PER|18,24,18,24 NOM_TIME|25,26,25,26 PRON_TIME|30,32,30,32 NOM_PER|33,34,33,34 PRON_PER|36,37,36,37 PRON_PER|39,42,39,42 NOM_PER|50,51,50,51 PRON_PER|53,55,53,55 NOM_GPE
+
+Aussitôt l' étrangère ordonna qu' on mît sa voiture sous la remise et qu' on lui préparât une chambre .
+
+1,3,1,3 NOM_PER|7,8,7,8 PRON_PER|10,12,10,12 NOM_FAC|14,15,14,15 PRON_PER|15,16,15,16 PRON_PER|17,19,17,19 NOM_FAC
+
+Elle se mit au lit en attendant le jour , mais elle ne put dormir .
+
+0,1,0,1 PRON_PER|7,9,7,9 NOM_TIME|11,12,11,12 PRON_PER
+
+Ses souvenirs , assoupis ou combattus longtemps , reprenaient alors toute leur puissance ; elle reconnaissait toutes les choses qui frappaient sa vue dans l' auberge du Lion - Couronné .
+
+0,1,0,1 PRON_PER|14,15,14,15 PRON_PER|21,22,21,22 PRON_PER|24,30,24,30 NOM_FAC
+
+Quoique l' antique hôtellerie eût subi de notables améliorations depuis dix ans , le mobilier était resté à peu près le même ; les murs étaient encore revêtus de tapisseries qui représentaient les plus belles scènes de l' Astrée ; les bergères avaient des reprises de fil blanc sur le visage , et les bergers en lambeaux flottaient suspendus à des clous qui leur perçaient la poitrine .
+
+1,4,1,4 NOM_FAC|10,12,10,12 NOM_TIME|40,42,40,42 NOM_PER|53,57,53,57 NOM_PER|63,64,63,64 PRON_PER
+
+Il y avait une monstrueuse tête de guerrier romain dessinée à l' estompe par la fille de l' aubergiste , et encadrée dans quatre baguettes de bois peint en noir ; sur la cheminée , un groupe de cire , représentant Jésus à la crèche , jaunissait sous un dais de verre filé .
+
+6,9,6,9 NOM_PER|14,19,14,19 NOM_PER|41,42,41,42 PROP_PER|43,45,43,45 NOM_FAC
+
+se disait la voyageuse , j' ai habité plusieurs jours cette même chambre , il y a douze ans , lorsque je suis arrivée ici avec ma bonne mère !
+
+2,4,2,4 NOM_PER|5,6,5,6 PRON_PER|8,10,8,10 NOM_TIME|10,13,10,13 NOM_FAC|17,19,17,19 NOM_TIME|21,22,21,22 PRON_PER|24,25,24,25 NOM_LOC|26,29,26,29 NOM_PER
+
+C' est dans cette triste ville que je l' ai vue dépérir de misère et que j' ai failli la perdre .
+
+3,6,3,6 NOM_GPE|7,8,7,8 PRON_PER|8,9,8,9 NOM_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER
+
+J' ai couché dans ce même lit la nuit de mon départ !
+
+0,1,0,1 PRON_PER|7,12,7,12 NOM_TIME
+
+Comme elle pleurait , ma pauvre amie , ma douce Pauline , en m' embrassant sous cette cheminée où je sommeillais tout à l' heure sans savoir où j' étais !
+
+1,2,1,2 PRON_PER|4,7,4,7 NOM_PER|8,11,8,11 PROP_PER|13,14,13,14 PRON_PER|19,20,19,20 PRON_PER|27,28,27,28 PRON_LOC|28,29,28,29 PRON_PER
+
+Comme je pleurais , moi aussi , en écrivant sur le mur son nom au - dessous du mien , avec la date de notre séparation !
+
+1,2,1,2 PRON_PER|12,13,12,13 PRON_PER|21,26,21,26 NOM_TIME
+
+Pauvre Pauline !
+
+0,2,0,2 PROP_PER
+
+quelle existence a été la sienne depuis ce temps - là ?
+
+7,11,7,11 NOM_TIME
+
+L' existence d' une vieille fille de province !
+
+3,8,3,8 NOM_PER
+
+Elle si aimante , si supérieure à tout ce qui l' entourait !
+
+0,1,0,1 PRON_PER
+
+Et pourtant je voulais la fuir , je m' étais promis de ne la revoir jamais !
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|13,14,13,14 PRON_PER
+
+— Je vais peut - être lui apporter un peu de consolation , mettre un jour de bonheur dans sa triste vie !
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|14,18,14,18 NOM_TIME|19,20,19,20 PRON_PER
+
+— Si elle me repoussait pourtant !
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER
+
+Si elle était tombée sous l' empire des préjugés !
+
+1,2,1,2 PRON_PER
+
+cela est évident , ajouta tristement la voyageuse ; comment puis - je en douter ?
+
+6,8,6,8 NOM_PER|12,13,12,13 PRON_PER
+
+N' a - t - elle pas cessé tout à coup de m' écrire en apprenant le parti que j' avais pris ?
+
+5,6,5,6 PRON_PER|12,13,12,13 PRON_PER|19,20,19,20 PRON_PER
+
+Elle aura craint de se corrompre ou de se dégrader dans le contact d' une vie comme la mienne !
+
+0,1,0,1 PRON_PER
+
+Pauline !
+
+0,1,0,1 PROP_PER
+
+elle m' aimait tant , et elle aurait rougi de moi !
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER
+
+… je ne sais plus que penser … À présent que je me sens si près d' elle , à présent que je suis sûre de la retrouver dans la situation où je l' ai connue , je ne peux plus résister au désir de la voir .
+
+1,2,1,2 PRON_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER|22,23,22,23 PRON_PER|26,27,26,27 PRON_PER|32,33,32,33 PRON_PER|33,34,33,34 NOM_PER|37,38,37,38 PRON_PER|45,46,45,46 PRON_PER
+
+je la verrai , dût - elle me repousser !
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER
+
+Si elle le fait , que la honte en retombe sur elle !
+
+1,2,1,2 PRON_PER|11,12,11,12 PRON_PER
+
+J' aurai vaincu les justes défiances de mon orgueil , j' aurai été fidèle à la religion du passé ; c' est elle qui se sera parjurée !
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|17,19,17,19 NOM_TIME|22,23,22,23 PRON_PER|23,24,23,24 PRON_PER
+
+Au milieu de ces agitations , elle vit monter le matin gris et froid derrière les toits inégaux des maisons déjetées qui s' accoudaient disgracieusement les unes aux autres .
+
+6,7,6,7 PRON_PER|18,21,18,21 NOM_FAC|21,22,21,22 PRON_FAC|25,27,25,27 PRON_FAC|27,29,27,29 PRON_FAC
+
+Elle reconnut le clocher qui sonnait jadis ses heures de repos ou de rêverie ; elle vit s' éveiller les bourgeois en classique bonnet de coton ; et de vieilles figures dont elle avait un confus souvenir , apparurent toutes refrognées aux fenêtres de la rue .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_FAC|4,5,4,5 PRON_FAC|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|19,21,19,21 NOM_PER|32,33,32,33 PRON_PER|44,46,44,46 NOM_FAC
+
+Elle entendit l' enclume du forgeron retentir sous les murs d' une maison décrépite ; elle vit arriver au marché les fermiers en manteau bleu et en coiffe de toile cirée ; tout reprenait sa place et conservait son allure comme aux jours du passé .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|11,14,11,14 NOM_FAC|15,16,15,16 PRON_PER|18,20,18,20 NOM_LOC|20,22,20,22 NOM_PER|41,45,41,45 NOM_TIME
+
+Chacune de ces circonstances insignifiantes faisait battre le cœur de la voyageuse , quoique tout lui semblât horriblement laid et pauvre .
+
+10,12,10,12 NOM_PER|15,16,15,16 PRON_PER
+
+disait - elle , j' ai pu vivre ici quatre ans entiers sans mourir !
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|8,9,8,9 NOM_LOC|9,12,9,12 NOM_TIME
+
+j' ai respiré cet air , j' ai parlé à ces gens - là , j' ai dormi sous ces toits couverts de mousse , j' ai marché dans ces rues impraticables !
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|10,14,10,14 NOM_PER|15,16,15,16 PRON_PER|25,26,25,26 PRON_PER|29,32,29,32 NOM_FAC
+
+et Pauline , ma pauvre Pauline vit encore au milieu de tout cela , elle qui était si belle , si aimable , si instruite , elle qui aurait régné et brillé comme moi sur un monde de luxe et d' éclat !
+
+1,2,1,2 PROP_PER|3,6,3,6 PROP_PER|14,15,14,15 PRON_PER|15,16,15,16 PRON_PER|26,27,26,27 PRON_PER|27,28,27,28 PRON_PER|33,34,33,34 PRON_PER
+
+Aussitôt que l' horloge de la ville eut sonné sept heures , elle acheva sa toilette à la hâte ; et , laissant ses domestiques maudire l' auberge et souffrir les incommodités du déplacement avec cette impatience et cette hauteur qui caractérisent les laquais de bonne maison , elle s' enfonça dans une des rues tortueuses qui s' ouvraient devant elle , marchant sur la pointe du pied avec l' adresse d' une Parisienne , et faisant ouvrir de gros yeux à tous les bourgeois de la ville , pour qui une figure nouvelle était un grave événement .
+
+5,7,5,7 NOM_GPE|9,11,9,11 NOM_TIME|12,13,12,13 PRON_PER|14,15,14,15 PRON_PER|23,25,23,25 NOM_PER|26,28,26,28 NOM_FAC|42,47,42,47 NOM_PER|48,49,48,49 PRON_PER|52,56,52,56 NOM_FAC|56,57,56,57 PRON_FAC|60,61,60,61 PRON_PER|72,74,72,74 NOM_PER|82,88,82,88 NOM_PER|90,91,90,91 PRON_PER|91,94,91,94 NOM_PER
+
+La maison de Pauline n' avait rien de pittoresque , quoiqu' elle fût fort ancienne .
+
+0,4,0,4 NOM_FAC|11,12,11,12 PRON_FAC
+
+Elle n' avait conservé , de l' époque où elle fut bâtie , que le froid et l' incommodité de la distribution ; du reste , pas une tradition romanesque , pas un ornement de sculpture élégante ou bizarre , pas le moindre aspect de féodalité romantique .
+
+0,1,0,1 PRON_FAC|6,8,6,8 NOM_TIME|8,9,8,9 PRON_TIME|9,10,9,10 PRON_FAC
+
+Tout y avait l' air sombre et chagrin , depuis la figure de cuivre ciselée sur le marteau de la porte , jusqu' à celle de la vieille servante non moins laide et rechignée qui vint ouvrir , toisa l' étrangère avec dédain , et lui tourna le dos après lui avoir répondu sèchement :
+
+1,2,1,2 PRON_FAC|34,35,34,35 PRON_PER|39,41,39,41 NOM_PER|45,46,45,46 PRON_PER|50,51,50,51 PRON_PER
+
+— Elle y est .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_FAC
+
+La voyageuse éprouva une émotion à la fois douce et déchirante en montant l' escalier en vis auquel une corde luisante servait de rampe .
+
+0,2,0,2 NOM_PER
+
+Cette maison lui rappelait les plus fraîches années de sa vie , les pures scènes de sa jeunesse ; mais , en comparant ces témoins de son passé au luxe de son existence présente , elle ne pouvait s' empêcher de plaindre Pauline , condamnée à végéter là comme la mousse verdâtre qui se traînait sur les murs humides .
+
+0,2,0,2 NOM_FAC|2,3,2,3 PRON_PER|4,11,4,11 NOM_TIME|26,28,26,28 NOM_TIME|31,34,31,34 NOM_TIME|35,36,35,36 PRON_PER|42,43,42,43 PROP_PER|47,48,47,48 NOM_LOC
+
+Elle monta sans bruit et poussa la porte qui roula sur ses gonds en silence .
+
+0,1,0,1 PRON_PER
+
+Rien n' était changé dans la grande pièce , décorée par les hôtes du titre de salon .
+
+5,8,5,8 NOM_FAC|11,17,11,17 NOM_PER
+
+Le carreau de briques rougeâtres bien lavées , les boiseries brunes soigneusement dégagées de poussière , la glace dont le cadre avait été doré jadis , les meubles massifs brodés au petit point par quelque aïeule de la famille , et deux ou trois tableaux de dévotion légués par l' oncle , curé de la ville , tout était précisément resté à la même place et dans le même état de vétusté robuste depuis dix ans , dix ans pendant lesquels l' étrangère avait vécu des siècles !
+
+37,39,37,39 NOM_PER|34,39,34,39 NOM_PER|49,51,49,51 NOM_PER|62,65,62,65 NOM_LOC|74,76,74,76 NOM_TIME|81,83,81,83 NOM_PER|85,87,85,87 NOM_TIME
+
+Aussi tout ce qu' elle voyait la frappait comme un rêve .
+
+4,5,4,5 PRON_PER|6,7,6,7 PRON_PER
+
+La salle , vaste et basse , offrait à l' œil une profondeur terne qui n' était pourtant pas sans charme .
+
+0,2,0,2 NOM_FAC
+
+Il y avait dans le vague de la perspective , de l' austérité et de la méditation , comme dans ces tableaux de Rembrandt où l' on ne distingue , sur le clair - obscur , qu' une vieille figure de philosophe ou d' alchimiste brune et terreuse comme les murs , terne et maladive comme le rayon habilement ménagé où elle nage .
+
+23,24,23,24 PROP_PER|41,42,41,42 NOM_PER|44,45,44,45 NOM_PER|60,61,60,61 PRON_LOC
+
+Une fenêtre à carreaux étroits et montés en plomb , ornée de pots de basilic et de géranium , éclairait seule cette vaste pièce ; mais une suave figure se dessinait dans la lumière de l' embrasure , et semblait placée là , comme à dessein , pour ressortir seule et par sa propre beauté dans le tableau : c' était Pauline .
+
+21,24,21,24 NOM_FAC|41,42,41,42 NOM_LOC|61,62,61,62 PROP_PER
+
+Elle était bien changée , et , comme la voyageuse ne pouvait voir son visage , elle douta longtemps que ce fût elle .
+
+0,1,0,1 PRON_PER|8,10,8,10 NOM_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|22,23,22,23 PRON_PER
+
+Elle avait laissé Pauline plus petite de toute la tête , et maintenant Pauline était grande et d' une ténuité si excessive , qu' on eût dit qu' elle allait se briser en changeant d' attitude .
+
+0,1,0,1 PRON_PER|3,4,3,4 PROP_PER|13,14,13,14 PROP_PER|28,29,28,29 PRON_PER
+
+Elle était vêtue de brun avec une petite collerette d' un blanc scrupuleux et d' une égalité de plis vraiment monastique .
+
+0,1,0,1 PRON_PER
+
+Ses beaux cheveux châtains étaient lissés sur ses tempes avec un soin affecté ; elle se livrait à un ouvrage classique , ennuyeux , odieux à toute organisation pensante : elle faisait de très - petits points réguliers avec une aiguille imperceptible sur un morceau de batiste dont elle comptait la trame fil par fil .
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|14,15,14,15 PRON_PER|30,31,30,31 PRON_PER|48,49,48,49 PRON_PER
+
+La vie de la grande moitié des femmes se consume , en France , à cette solennelle occupation .
+
+3,8,3,8 NOM_PER|12,13,12,13 PROP_GPE
+
+Quand la voyageuse eut fait quelques pas , elle distingua , dans la clarté de la fenêtre , les lignes brillantes du beau profil de Pauline : ses traits réguliers et calmes , ses grands yeux voilés et nonchalants , son front pur et uni , plutôt découvert qu' élevé , sa bouche délicate , qui semblait incapable de sourire .
+
+1,3,1,3 NOM_PER|8,9,8,9 PRON_PER|25,26,25,26 PROP_PER|27,28,27,28 PRON_PER|33,34,33,34 PRON_PER|40,41,40,41 PRON_PER|51,52,51,52 PRON_PER
+
+Elle était toujours admirablement belle et jolie , mais elle était maigre et d' une pâleur uniforme , qu' on pouvait regarder comme passée à l' état chronique .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER
+
+Dans le premier instant , son ancienne amie fut tentée de la plaindre ; mais , en admirant la sérénité profonde de ce front mélancolique doucement penché sur son ouvrage , elle se sentit pénétrée de respect bien plus que de pitié .
+
+1,4,1,4 NOM_TIME|5,6,5,6 PRON_PER|11,12,11,12 PRON_PER|31,32,31,32 PRON_PER
+
+Elle resta donc immobile et muette à la regarder ; mais , comme si sa présence se fût révélée à Pauline par un mouvement instinctif du cœur , celle - ci se tourna tout à coup vers elle et la regarda fixement sans dire un mot et sans changer de visage .
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|14,15,14,15 PRON_PER|20,21,20,21 PROP_PER|28,31,28,31 NOM_PER|37,38,37,38 PRON_PER|39,40,39,40 PRON_PER
+
+— Pauline !
+
+1,2,1,2 PROP_PER
+
+ne me reconnais - tu pas ?
+
+1,2,1,2 PRON_PER
+
+s' écria l' étrangère ; as - tu oublié la figure de Laurence ?
+
+2,4,2,4 NOM_PER|7,8,7,8 PRON_PER|12,13,12,13 PROP_PER
+
+Alors Pauline jeta un cri , se leva , et retomba sans force sur un siége .
+
+1,2,1,2 PROP_PER
+
+Laurence était déjà dans ses bras , et toutes deux pleuraient .
+
+0,1,0,1 PROP_PER|4,5,4,5 PRON_PER|8,10,8,10 NOM_PER
+
+— Tu ne me reconnaissais pas ?
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_PER
+
+dit enfin Laurence .
+
+2,3,2,3 PROP_PER
+
+que dis - tu là ?
+
+3,4,3,4 PRON_PER
+
+répondit Pauline .
+
+1,2,1,2 PROP_PER
+
+Je te reconnaissais bien , mais je n' étais pas étonnée .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER
+
+Tu ne sais pas une chose , Laurence ?
+
+0,1,0,1 PRON_PER|7,8,7,8 PROP_PER
+
+C' est que les personnes qui vivent dans la solitude ont parfois d' étranges idées .
+
+3,5,3,5 NOM_PER|5,6,5,6 PRON_PER
+
+Comment te dirai - je ?
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+Ce sont des souvenirs , des images qui se logent dans leur esprit , et qui semblent passer devant leurs yeux .
+
+11,12,11,12 PRON_PER|19,20,19,20 PRON_PER
+
+Ma mère appelle cela des visions .
+
+0,2,0,2 NOM_PER
+
+Moi , je sais bien que je ne suis pas folle ; mais je pense que Dieu permet souvent , pour me consoler dans mon isolement , que les personnes que j' aime m' apparaissent tout à coup au milieu de mes rêveries .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|28,30,28,30 NOM_PER|30,31,30,31 PRON_PER|31,32,31,32 PRON_PER|33,34,33,34 PRON_PER|38,43,38,43 NOM_TIME
+
+Va , bien souvent je t' ai vue là devant cette porte , debout comme tu étais tout à l' heure , et me regardant d' un air indécis .
+
+4,5,4,5 PRON_PER|5,6,5,6 PRON_PER|15,16,15,16 PRON_PER|23,24,23,24 PRON_PER
+
+J' avais coutume de ne rien dire et de ne pas bouger , pour que l' apparition ne s' envolât pas .
+
+0,1,0,1 PRON_PER
+
+Je n' ai été surprise que quand je t' ai entendue parler .
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER
+
+alors , ta voix m' a réveillée !
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER
+
+elle est venue me frapper jusqu' au cœur !
+
+3,4,3,4 PRON_PER
+
+Chère Laurence !
+
+0,2,0,2 NOM_PER
+
+c' est donc toi vraiment ?
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER
+
+dis - moi bien que c' est toi !
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|7,8,7,8 PRON_PER
+
+Quand Laurence eut timidement exprimé à son amie la crainte qui l' avait empêchée depuis plusieurs années de lui donner des marques de son souvenir , Pauline l' embrassa en pleurant .
+
+1,2,1,2 PROP_PER|6,8,6,8 NOM_PER|11,12,11,12 NOM_PER|15,17,15,17 NOM_TIME|18,19,18,19 PRON_PER|23,24,23,24 PRON_PER|26,27,26,27 PROP_PER|27,28,27,28 NOM_PER
+
+dit - elle , tu as cru que je te méprisais , que je rougissais de toi !
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|8,9,8,9 PRON_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER
+
+moi qui t' ai conservé toujours une si haute estime , moi qui savais si bien que , dans aucune situation de la vie , il n' était possible à une âme comme la tienne de s' égarer !
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER
+
+Laurence rougit et pâlit en écoutant ces paroles ; elle renferma un soupir , et baisa la main de Pauline avec un sentiment de vénération .
+
+0,1,0,1 PROP_PER|9,10,9,10 PRON_PER|19,20,19,20 PROP_PER
+
+— Il est bien vrai , reprit Pauline , que ta condition présente révolte les opinions étroites et intolérantes de toutes les personnes que je vois .
+
+7,8,7,8 PROP_PER|10,11,10,11 PRON_PER|20,26,20,26 NOM_PER
+
+Une seule porte dans sa sévérité un reste d' affection et de regret : c' est ma mère .
+
+14,15,14,15 PRON_PER|16,18,16,18 NOM_PER
+
+Elle te blâme , il faut bien t' attendre à cela ; mais elle cherche à t' excuser , et l' on voit qu' elle lance sur toi l' anathème avec douleur .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|27,28,27,28 PRON_PER
+
+Son esprit n' est pas éclairé , tu le sais ; mais son cœur est bon , pauvre femme !
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|12,13,12,13 PRON_PER|17,19,17,19 NOM_PER
+
+— Comment ferai - je donc pour me faire accueillir ?
+
+4,5,4,5 PRON_PER|7,8,7,8 PRON_PER
+
+demanda Laurence .
+
+1,2,1,2 PROP_PER
+
+répondit Pauline , il serait bien facile de la tromper ; elle est aveugle .
+
+1,2,1,2 PROP_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER
+
+Laurence resta accablée à cette nouvelle , et , songeant à l' affreuse existence de Pauline , elle la regardait fixement avec l' expression d' une compassion profonde et pourtant comprimée par le respect .
+
+0,1,0,1 PROP_PER|15,16,15,16 PROP_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER
+
+Pauline la comprit , et , lui pressant la main avec tendresse , elle lui dit avec une naïveté touchante :
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_PER
+
+— Il y a du bien dans tous les maux que Dieu nous envoie .
+
+12,13,12,13 PRON_PER
+
+J' ai failli me marier il y a cinq ans ; un an après , ma mère a perdu la vue .
+
+0,1,0,1 PRON_PER|8,10,8,10 NOM_TIME|11,13,11,13 NOM_TIME|15,17,15,17 NOM_PER
+
+Vois comme il est heureux que je sois restée fille pour la soigner !
+
+6,7,6,7 PRON_PER|11,12,11,12 PRON_PER
+
+si j' avais été mariée , qui sait si je l' aurais pu ?
+
+1,2,1,2 PRON_PER|9,10,9,10 PRON_PER
+
+Laurence , pénétrée d' admiration , sentit ses yeux se remplir de larmes .
+
+0,1,0,1 PROP_PER|7,8,7,8 PRON_PER
+
+— Il est évident , dit - elle en souriant à son amie à travers ses pleurs , que tu aurais été distraite par mille autres soins également sacrés , et qu' elle eût été plus à plaindre qu' elle ne l' est .
+
+7,8,7,8 PRON_PER|11,13,11,13 NOM_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER|32,33,32,33 PRON_PER|39,40,39,40 PRON_PER
+
+— Je l' entends remuer , dit Pauline .
+
+1,2,1,2 PRON_PER|2,3,2,3 NOM_PER|7,8,7,8 PROP_PER
+
+Et elle passa vivement , mais avec assez d' adresse pour ne pas faire le moindre bruit , dans la chambre voisine .
+
+1,2,1,2 PRON_PER|19,22,19,22 NOM_FAC
+
+Laurence la suivit sur la pointe du pied , et vit la vieille femme aveugle étendue sur son lit en forme de corbillard .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|11,15,11,15 NOM_PER|17,18,17,18 PRON_PER
+
+Elle était jaune et luisante .
+
+0,1,0,1 PRON_PER
+
+Ses yeux , hagards et sans vie , lui donnaient absolument l' aspect d' un cadavre .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER
+
+Laurence recula , saisie d' une terreur involontaire .
+
+0,1,0,1 PROP_PER
+
+Pauline s' approcha de sa mère , pencha doucement son visage vers ce visage affreux , et lui demanda bien bas si elle dormait .
+
+0,1,0,1 PROP_PER|4,6,4,6 NOM_PER|9,10,9,10 PRON_PER|17,18,17,18 PRON_PER|22,23,22,23 PRON_PER
+
+L' aveugle ne répondit rien , et se tourna vers la ruelle du lit .
+
+0,2,0,2 NOM_PER|7,8,7,8 PRON_PER
+
+Pauline arrangea ses couvertures avec soin sur ses membres étiques , referma doucement le rideau , et reconduisit son amie dans le salon .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|18,20,18,20 NOM_PER|21,23,21,23 NOM_FAC
+
+— Causons , lui dit - elle ; ma mère se lève tard ordinairement .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|8,10,8,10 NOM_PER
+
+Nous avons quelques heures pour nous reconnaître ; nous trouverons bien un moyen de réveiller son ancienne amitié pour toi .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_TIME|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER
+
+Peut - être suffira - t - il de lui dire que tu es là !
+
+9,10,9,10 PRON_PER|12,13,12,13 PRON_PER
+
+Mais , dis - moi , Laurence , tu as pu croire que je te … Oh !
+
+4,5,4,5 PRON_PER|6,7,6,7 PROP_PER|8,9,8,9 PRON_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_PER
+
+je ne dirai pas ce mot !
+
+0,1,0,1 PRON_PER
+
+Te mépriser !
+
+0,1,0,1 PRON_PER
+
+Quelle insulte tu m' as faite là !
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER
+
+Mais c' est ma faute après tout .
+
+3,4,3,4 PRON_PER
+
+J' aurais dû prévoir que tu concevrais des doutes sur mon affection , j' aurais dû t' expliquer mes motifs … Hélas !
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|18,19,18,19 PRON_PER
+
+c' était bien difficile à te faire comprendre !
+
+5,6,5,6 PRON_PER
+
+Tu m' aurais accusée de faiblesse , quand , au contraire , il me fallait tant de force pour renoncer à t' écrire , à te suivre , dans ce monde inconnu où malgré moi , mon cœur a été si souvent te chercher !
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|13,14,13,14 PRON_PER|21,22,21,22 PRON_PER|25,26,25,26 PRON_PER|32,33,32,33 PRON_LOC|34,35,34,35 PRON_PER|36,37,36,37 PRON_PER|42,43,42,43 PRON_PER
+
+Et puis je n' osais pas accuser ma mère ; je ne pouvais pas me décider à t' avouer les petitesses de son caractère et les préjugés de son esprit .
+
+2,3,2,3 PRON_PER|7,9,7,9 NOM_PER|10,11,10,11 PRON_PER|17,18,17,18 PRON_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER
+
+J' en étais victime ; mais je rougissais de les raconter .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER
+
+Quand on est si loin de toute amitié , si seule , si triste , toute démarche difficile devient impossible .
+
+1,2,1,2 PRON_PER
+
+On s' observe , on se craint soi - même , et l' on se suicide dans la peur de se laisser mourir .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|13,14,13,14 PRON_PER
+
+À présent que te voilà près de moi , je retrouve toute ma confiance , tout mon abandon .
+
+3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER
+
+Je te dirai tout .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER
+
+Mais d' abord parlons de toi , car mon existence est si monotone , si nulle , si pâle à côté de la tienne !
+
+5,6,5,6 PRON_PER|8,9,8,9 PRON_PER
+
+Que de choses tu dois avoir à me raconter !
+
+3,4,3,4 PRON_PER|7,8,7,8 PRON_PER
+
+Le lecteur doit présumer que Laurence ne raconta pas tout .
+
+5,6,5,6 PROP_PER
+
+Son récit fut même beaucoup moins long que Pauline ne s' y attendait .
+
+0,1,0,1 PRON_PER|8,9,8,9 PROP_PER
+
+Et d' abord , il faut dire que Laurence était née à Paris dans une position médiocre .
+
+8,9,8,9 PROP_PER|12,13,12,13 PROP_GPE
+
+Elle avait reçu une éducation simple mais solide .
+
+0,1,0,1 PRON_PER
+
+Elle avait quinze ans lorsque , sa famille étant tombée dans la misère , il lui fallut quitter Paris et se retirer en province avec sa mère .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_TIME|6,8,6,8 NOM_PER|15,16,15,16 PRON_PER|18,19,18,19 PROP_GPE|20,21,20,21 PRON_PER|23,24,23,24 NOM_LOC|25,27,25,27 NOM_PER
+
+Elle vint habiter Saint - Front , où elle réussit à vivre quatre ans en qualité de sous - maîtresse dans un pensionnat de jeunes filles , et où elle contracta une étroite amitié avec l' aînée de ses élèves , Pauline , âgée de quinze ans comme elle .
+
+0,1,0,1 PRON_PER|3,6,3,6 PROP_GPE|7,8,7,8 PRON_GPE|8,9,8,9 PRON_PER|12,14,12,14 NOM_TIME|21,26,21,26 NOM_FAC|28,29,28,29 PRON_FAC|29,30,29,30 PRON_PER|35,40,35,40 NOM_PER|41,42,41,42 PROP_PER|45,47,45,47 NOM_TIME|48,49,48,49 PRON_PER
+
+Et puis il arriva que Laurence dut à la protection de je ne sais quelle douairière d' être rappelée à Paris , pour y faire l' éducation des filles d' un banquier .
+
+5,6,5,6 PROP_PER|20,21,20,21 PROP_GPE|23,24,23,24 PRON_GPE|27,32,27,32 NOM_PER
+
+Si vous voulez savoir comment une jeune fille pressent et découvre sa vocation , comment elle l' accomplit en dépit de toutes les remontrances et de tous les obstacles , relisez les charmants Mémoires de mademoiselle Hippolyte Clairon , célèbre comédienne du siècle dernier .
+
+5,8,5,8 NOM_PER|11,12,11,12 PRON_PER|15,16,15,16 PRON_PER|35,38,35,38 PROP_PER|41,44,41,44 NOM_TIME
+
+Laurence fit comme tous ces artistes prédestinés : elle passa par toutes les misères , par toutes les souffrances du talent ignoré ou méconnu ; enfin , après avoir traversé les vicissitudes de la vie pénible que l' artiste est forcé de créer lui - même , elle devint une belle et intelligente actrice .
+
+0,1,0,1 PROP_PER|3,7,3,7 NOM_PER|8,9,8,9 PRON_PER|37,39,37,39 NOM_PER|43,46,43,46 PRON_PER|47,48,47,48 PRON_PER
+
+Succès , richesse , hommages , renommée , tout lui vint ensemble et tout à coup .
+
+9,10,9,10 PRON_PER
+
+Désormais elle jouissait d' une position brillante et d' une considération justifiée aux yeux des gens d' esprit par un noble talent et un caractère élevé .
+
+1,2,1,2 PRON_PER|14,18,14,18 NOM_PER
+
+Ses erreurs , ses passions , ses douleurs de femme , ses déceptions et ses repentirs , elle ne les raconta point à Pauline .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 NOM_PER|11,12,11,12 PRON_PER|14,15,14,15 PRON_PER|17,18,17,18 PRON_PER|23,24,23,24 PROP_PER
+
+Il était encore trop tôt : Pauline n' eût pas compris .
+
+6,7,6,7 PROP_PER
+
+Cependant , lorsqu' au coup de midi l' aveugle s' éveilla , Pauline savait toute la vie de Laurence , même ce qui ne lui avait pas été raconté , et cela plus que tout le reste peut - être ; car les personnes qui ont vécu dans le calme et la retraite ont un merveilleux instinct pour se représenter la vie d' autrui pleine d' orages et de désastres qu' elles s' applaudissent en secret d' avoir évités .
+
+6,7,6,7 NOM_TIME|7,9,7,9 NOM_PER|12,13,12,13 PROP_PER|18,19,18,19 PROP_PER|24,25,24,25 PRON_PER|42,44,42,44 NOM_PER|44,45,44,45 PRON_PER|63,64,63,64 PRON_PER|71,72,71,72 PRON_PER
+
+C' est une consolation intérieure qu' il leur faut laisser , car l' amour - propre y trouve bien un peu son compte , et la vertu seule ne suffit pas toujours à dédommager des longs ennuis de la solitude .
+
+7,8,7,8 PRON_PER
+
+dit la mère aveugle en s' asseyant sur le bord de son lit , appuyée sur sa fille , qui est donc là près de nous ?
+
+1,4,1,4 NOM_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|25,26,25,26 PRON_PER
+
+Je sens le parfum d' une belle dame .
+
+0,1,0,1 PRON_PER|5,8,5,8 NOM_PER
+
+Je parie que c' est madame Ducornay , qui est revenue de Paris avec toutes sortes de belles toilettes que je ne pourrai pas voir , et de bonnes senteurs qui nous donnent la migraine .
+
+0,1,0,1 PRON_PER|5,7,5,7 PROP_PER|12,13,12,13 PROP_GPE|20,21,20,21 PRON_PER
+
+— Non , maman , répondit Pauline , ce n' est pas madame Ducornay .
+
+3,4,3,4 NOM_PER|6,7,6,7 PROP_PER|12,14,12,14 PROP_PER
+
+— Qui donc ?
+
+1,2,1,2 PRON_PER
+
+reprit l' aveugle en étendant le bras .
+
+1,3,1,3 NOM_PER
+
+— Devinez , dit Pauline en faisant signe à Laurence de toucher la main de sa mère .
+
+4,5,4,5 PROP_PER|9,10,9,10 PROP_PER|15,17,15,17 NOM_PER
+
+s' écria l' aveugle en passant ses doigts noueux sur ceux de l' actrice .
+
+2,4,2,4 NOM_PER|6,7,6,7 PRON_PER|12,14,12,14 NOM_PER
+
+ce n' est pas madame Ducornay , certainement .
+
+4,6,4,6 PROP_PER
+
+Ce n' est aucune de nos dames ; car , quoi qu' elles fassent , à la patte on reconnaît toujours le lièvre .
+
+5,7,5,7 NOM_PER
+
+Pourtant je connais cette main - là .
+
+1,2,1,2 PRON_PER
+
+Mais c' est quelqu' un que je n' ai pas vu depuis longtemps .
+
+3,5,3,5 PRON_PER|6,7,6,7 PRON_PER
+
+Ne saurait - elle parler ?
+
+3,4,3,4 PRON_PER
+
+— Ma voix a changé comme ma main , répondit Laurence , dont l' organe clair et frais avait pris , dans les études théâtrales , un timbre plus grave et plus sonore .
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER
+
+— Je connais aussi cette voix , dit l' aveugle , et pourtant je ne la reconnais pas .
+
+1,2,1,2 PRON_PER|8,10,8,10 NOM_PER|13,14,13,14 PRON_PER
+
+Elle garda quelques instants le silence sans quitter la main de Laurence , en levant sur elle ses yeux ternes et vitreux , dont la fixité était effrayante .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_TIME|11,12,11,12 PROP_PER|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER
+
+— Me voit - elle ?
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+demanda Laurence bas à Pauline .
+
+1,2,1,2 PROP_PER|4,5,4,5 PROP_PER
+
+— Nullement , répondit celle - ci ; mais elle a toute sa mémoire ; et , d' ailleurs , notre vie compte si peu d' événements , qu' il est impossible qu' elle ne te reconnaisse pas tout à l' heure .
+
+4,7,4,7 NOM_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|20,21,20,21 PRON_PER|33,34,33,34 PRON_PER|35,36,35,36 PRON_PER
+
+À peine Pauline eut - elle prononcé ces mots , que l' aveugle , repoussant la main de Laurence avec un sentiment de dégoût qui allait jusqu' à l' horreur , dit de sa voix sèche et cassée :
+
+2,3,2,3 PROP_PER|5,6,5,6 PRON_PER|11,13,11,13 NOM_PER|18,19,18,19 PROP_PER|33,34,33,34 PRON_PER
+
+c' est cette malheureuse qui joue la comédie !
+
+2,4,2,4 NOM_PER
+
+Que vient - elle chercher ici ?
+
+3,4,3,4 PRON_PER|5,6,5,6 NOM_LOC
+
+Vous ne deviez pas la recevoir , Pauline .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PROP_PER
+
+— Ô ma mère ?
+
+2,4,2,4 NOM_PER
+
+s' écria Pauline en rougissant de honte et de chagrin , et en pressant sa mère dans ses bras pour lui faire comprendre ce qu' elle éprouvait .
+
+2,3,2,3 PROP_PER|14,16,14,16 NOM_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|25,26,25,26 PRON_PER
+
+Laurence pâlit ; puis , se remettant aussitôt :
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER
+
+— Je m' attendais à cela , dit - elle à Pauline avec un sourire dont la douceur et la dignité l' étonnèrent et la troublèrent un peu .
+
+1,2,1,2 PRON_PER|9,10,9,10 PRON_PER|11,12,11,12 PROP_PER|21,22,21,22 NOM_PER|24,25,24,25 PRON_PER
+
+— Allons , reprit l' aveugle , qui craignait instinctivement de déplaire à sa fille , en raison du besoin qu' elle avait de son dévouement , laissez - moi le temps de me remettre un peu ; je suis si surprise !
+
+4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|13,15,13,15 NOM_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|29,30,29,30 PRON_PER|30,32,30,32 NOM_TIME|33,34,33,34 PRON_PER|38,39,38,39 PRON_PER
+
+et comme cela , au réveil , on ne sait trop ce qu' on dit … Je ne voudrais pas vous faire de chagrin , mademoiselle … ou madame … Comment vous appelle - t - on maintenant !
+
+7,8,7,8 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|20,21,20,21 PRON_PER|25,26,25,26 NOM_PER|28,29,28,29 NOM_PER|31,32,31,32 PRON_PER|36,37,36,37 PRON_PER
+
+— Toujours Laurence , répondit l' actrice avec calme .
+
+2,3,2,3 PROP_PER|5,7,5,7 NOM_PER
+
+— Et elle est toujours Laurence , dit avec chaleur la bonne Pauline en l' embrassant , toujours la même âme généreuse , le même noble cœur …
+
+2,3,2,3 PRON_PER|5,6,5,6 PROP_PER|10,13,10,13 PROP_PER|14,15,14,15 NOM_PER
+
+— Allons , arrange - moi , ma fille , dit l' aveugle qui voulait changer de propos , ne pouvant se résoudre ni à contredire sa fille ni à réparer sa dureté envers Laurence ; coiffe - moi donc , Pauline ; j' oublie , moi , que les autres ne sont point aveugles et qu' ils voient en moi quelque chose d' affreux .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|11,13,11,13 NOM_PER|13,14,13,14 PRON_PER|26,27,26,27 PRON_PER|31,32,31,32 PRON_PER|34,35,34,35 PROP_PER|38,39,38,39 PRON_PER|41,42,41,42 PROP_PER|43,44,43,44 PRON_PER|46,47,46,47 PRON_PER|49,51,49,51 PRON_PER|57,58,57,58 PRON_PER|60,61,60,61 PRON_PER
+
+Donne - moi mon voile , mon mantelet … C' est bien , et maintenant apporte - moi mon chocolat de santé , et offres - en aussi à … cette dame .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER|30,32,30,32 NOM_PER
+
+Pauline jeta à son amie un regard suppliant auquel celle - ci répondit par un baiser .
+
+0,1,0,1 PROP_PER|3,4,3,4 PRON_PER|9,12,9,12 NOM_PER
+
+Quand la vieille dame , enveloppée dans sa mante d' indienne brune à grandes fleurs rouges , et coiffée de son bonnet blanc surmonté d' un voile de crêpe noir qui lui cachait la moitié du visage , se fut assise vis - à - vis de son frugal déjeuner , elle s' adoucit peu à peu .
+
+1,4,1,4 NOM_PER|7,8,7,8 PRON_PER|20,21,20,21 PRON_PER|31,32,31,32 PRON_PER|47,48,47,48 PRON_PER|51,52,51,52 PRON_PER
+
+L' âge , l' ennui et les infirmités l' avaient amenée à ce degré d' égoïsme qui fait tout sacrifier , même les préjugés les plus enracinés , aux besoins du bien - être .
+
+8,9,8,9 NOM_PER
+
+L' aveugle vivait dans une telle dépendance de sa fille , qu' une contrariété , une distraction de celle - ci pouvait apporter le trouble dans cette suite d' innombrables petites attentions dont la moindre était nécessaire pour lui rendre la vie tolérable .
+
+0,2,0,2 NOM_PER|8,9,8,9 PRON_PER|18,21,18,21 NOM_PER|38,39,38,39 PRON_PER
+
+Quand l' aveugle était commodément couchée , et qu' elle ne craignait plus aucun danger , aucune privation pour quelques heures , elle se donnait le cruel soulagement de blesser par des paroles aigres et des murmures injustes les gens dont elle n' avait plus besoin ; mais , aux heures de sa dépendance , elle savait fort bien se contenir et enchaîner leur zèle par des manières plus affables .
+
+1,3,1,3 NOM_PER|9,10,9,10 PRON_PER|19,21,19,21 NOM_TIME|22,23,22,23 PRON_PER|38,40,38,40 NOM_PER|40,41,40,41 PRON_PER|41,42,41,42 PRON_PER|49,54,49,54 NOM_TIME|55,56,55,56 PRON_PER|63,64,63,64 PRON_PER
+
+Laurence eut le loisir de faire cette remarque dans le courant de la journée .
+
+0,1,0,1 PROP_PER|9,14,9,14 NOM_TIME
+
+Elle en fit encore une autre qui l' attrista davantage : c' est que la mère avait une peur réelle de sa fille .
+
+0,1,0,1 PRON_PER|7,8,7,8 NOM_PER|14,16,14,16 NOM_PER|21,22,21,22 PRON_PER
+
+On eût dit qu' à travers cet admirable sacrifice de tous les instants , Pauline laissait percer malgré elle un muet mais éternel reproche , que sa mère comprenait fort bien et redoutait affreusement .
+
+10,13,10,13 NOM_TIME|14,15,14,15 PROP_PER|18,19,18,19 PRON_PER|26,28,26,28 NOM_PER
+
+Il semblait que ces deux femmes craignissent de s' éclairer mutuellement sur la lassitude qu' elles éprouvaient d' être ainsi attachées l' une à l' autre , un être moribond et un être vivant : l' un effrayé des mouvements de celui qui pouvait à chaque instant lui enlever son dernier souffle luienlever enlever son dernier souffle et l' autre épouvanté de cette tombe où il craignait d' être entraîné à la suite d' un cadavre .
+
+3,6,3,6 NOM_PER|15,16,15,16 PRON_PER|21,23,21,23 NOM_PER|24,26,24,26 NOM_PER|27,30,27,30 NOM_PER|31,34,31,34 NOM_PER|35,37,35,37 NOM_PER|41,52,41,52 NOM_PER|58,60,58,60 NOM_PER|65,66,65,66 PRON_PER
+
+Laurence , qui était douée d' un esprit judicieux et d' un cœur noble , se dit qu' il n' en pouvait pas être autrement ; que , d' ailleurs , cette souffrance invincible chez Pauline n' ôtait rien à sa patience et ne faisait qu' ajouter à ses mérites .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|35,36,35,36 PROP_PER|40,41,40,41 PRON_PER|48,49,48,49 PRON_PER
+
+Mais , malgré cela , Laurence sentit que l' effroi et l' ennui la gagnaient entre ces deux victimes .
+
+5,6,5,6 PROP_PER|13,14,13,14 PRON_PER|16,19,16,19 NOM_PER
+
+Un nuage passa sur ses yeux et un frisson dans ses veines .
+
+4,5,4,5 PRON_PER|10,11,10,11 PRON_PER
+
+Vers le soir , elle était accablée de fatigue , quoiqu' elle n' eût pas fait un pas de la journée .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|11,12,11,12 PRON_PER|19,21,19,21 NOM_TIME
+
+Déjà l' horreur de la vie réelle se montrait derrière cette poésie , dont au premier moment elle avait , de ses yeux d' artiste , enveloppé la sainte existence de Pauline .
+
+14,17,14,17 NOM_TIME|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER|31,32,31,32 PROP_PER
+
+Elle eût voulu pouvoir persister dans son illusion , la croire heureuse et rayonnante dans son martyre comme une vierge catholique des anciens jours , voir la mère heureuse aussi , oubliant sa misère pour ne songer qu' à la joie d' être aimée et assistée ainsi ; enfin elle eût voulu , puisque ce sombre tableau d' intérieur était sous ses yeux , y contempler des anges de lumière , et non de tristes figures chagrines et froides comme la réalité .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|15,16,15,16 PRON_PER|18,24,18,24 NOM_PER|26,28,26,28 NOM_PER|32,33,32,33 PRON_PER|49,50,49,50 PRON_PER|61,62,61,62 PRON_PER|66,70,66,70 NOM_PER
+
+Le plus léger pli sur le front angélique de Pauline faisait ombre à ce tableau ; un mot prononcé sèchement par cette bouche si pure détruisait la mansuétude mystérieuse que Laurence , au premier abord , y avait vue régner .
+
+9,10,9,10 PROP_PER|30,31,30,31 PROP_PER
+
+Et pourtant ce pli au front était une prière ; ce mot errant sur les lèvres , une parole de sollicitude ou de consolation ; mais tout cela était glacé comme l' égoïsme chrétien , qui nous fait tout supporter en vue de la récompense , et désolé comme le renoncement monastique , qui nous défend de trop adoucir la vie humaine à autrui aussi bien qu' à nous - mêmes .
+
+36,37,36,37 PRON_PER|54,55,54,55 PRON_PER|68,71,68,71 PRON_PER
+
+Tandis que le premier enthousiasme de l' admiration naïve s' affaiblissait chez l' actrice , tout aussi naïvement et en dépit d' elles - mêmes , une modification d' idées s' opérait en sens inverse chez les deux bourgeoises .
+
+12,14,12,14 NOM_PER|22,25,22,25 PRON_PER|36,39,36,39 NOM_PER
+
+La fille , tout en frémissant à l' idée des pompes mondaines où son amie s' était jetée , avait souvent ressenti , peut - être à son insu , des élans de curiosité pour ce monde inconnu , plein de terreurs et de prestiges , où ses principes lui défendaient de porter un seul regard .
+
+0,2,0,2 NOM_PER|13,15,13,15 NOM_PER|27,28,27,28 PRON_PER|47,48,47,48 PRON_PER|49,50,49,50 PRON_PER
+
+En voyant Laurence , en admirant sa beauté , sa grâce , ses manières tantôt nobles comme celles d' une reine de théâtre , tantôt libres et enjouées comme celles d' un enfant ( car l' artiste aimée du public est comme un enfant à qui l' univers sert de famille ) , elle sentait éclore en elle un sentiment à la fois enivrant et douloureux , quelque chose qui tenait le milieu entre l' admiration et la crainte , entre la tendresse et l' envie .
+
+2,3,2,3 PROP_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|35,40,35,40 NOM_PER|42,44,42,44 NOM_PER|45,46,45,46 PRON_PER|50,51,50,51 NOM_PER|53,54,53,54 PRON_PER|57,58,57,58 PRON_PER
+
+Quant à l' aveugle , elle était instinctivement captivée et comme vivifiée par le beau son de cette voix , par la pureté de ce langage , par l' animation de cette causerie intelligente , colorée et profondément naturelle , qui caractérise les vrais artistes , et ceux du théâtre particulièrement .
+
+2,4,2,4 NOM_PER|5,6,5,6 PRON_PER|42,45,42,45 NOM_PER|47,50,47,50 NOM_PER
+
+La mère de Pauline , quoique remplie d' entêtement dévot et de morgue provinciale , était une femme assez distinguée et assez instruite pour le monde où elle avait vécu .
+
+0,4,0,4 NOM_PER|27,28,27,28 PRON_PER
+
+Elle l' était du moins assez pour se sentir frappée et charmée , malgré elle , d' entendre quelque chose de si différent de son entourage habituel et de si supérieur à tout ce qu' elle avait jamais rencontré .
+
+0,1,0,1 PRON_PER|14,15,14,15 PRON_PER|24,27,24,27 NOM_PER|35,36,35,36 PRON_PER
+
+Peut - être ne s' en rendait - elle pas bien compte à elle - même ; mais il est certain que les efforts de Laurence pour la faire revenir de ses préventions réussissaient au delà de ses espérances .
+
+8,9,8,9 PRON_PER|25,26,25,26 PROP_PER|27,28,27,28 PRON_PER|31,32,31,32 PRON_PER|37,38,37,38 PRON_PER
+
+La vieille femme commençait à s' amuser si réellement de la causerie de l' actrice , qu' elle l' entendit avec regret , presque avec effroi , demander des chevaux de poste .
+
+0,3,0,3 NOM_PER|13,15,13,15 NOM_PER|17,18,17,18 PRON_PER|18,19,18,19 NOM_PER|28,32,28,32 NOM_VEH
+
+Elle fit alors un grand effort sur elle - même , et la pria de rester jusqu' au lendemain .
+
+0,1,0,1 PRON_PER|7,10,7,10 PRON_PER|12,13,12,13 PRON_PER
+
+Laurence se fit un peu prier .
+
+0,1,0,1 PROP_PER
+
+Sa mère , retenue à Paris par une indisposition de sa seconde fille , n' avait pu partir avec elle .
+
+0,2,0,2 NOM_PER|5,6,5,6 PROP_GPE|10,13,10,13 NOM_PER|19,20,19,20 PRON_PER
+
+Les engagements de Laurence avec le théâtre d' Orléans l' avaient forcée de les y devancer ; mais elle leur avait donné rendez - vous à Lyon , et Laurence voulait y arriver en même temps qu' elles , sachant bien que sa mère et sa sœur , après quinze jours de séparation ( la première de leur vie ) , l' attendraient impatiemment .
+
+3,4,3,4 PROP_PER|5,9,5,9 NOM_FAC|9,10,9,10 NOM_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_GPE|18,19,18,19 PRON_PER|19,20,19,20 PRON_PER|26,27,26,27 PROP_GPE|29,30,29,30 PROP_PER|31,32,31,32 PRON_GPE|37,38,37,38 PRON_PER|42,44,42,44 NOM_PER|45,47,45,47 NOM_PER|49,53,49,53 NOM_TIME|61,62,61,62 NOM_PER
+
+Cependant l' aveugle insista tellement , et Pauline , à l' idée de se séparer de nouveau , et pour jamais sans doute , de son amie , versa des larmes si sincères , que Laurence céda , écrivit à sa mère de ne pas être inquiète si elle retardait d' un jour son arrivée à Lyon , et ne commanda ses chevaux que pour le lendemain au soir .
+
+1,3,1,3 NOM_PER|7,8,7,8 PROP_PER|25,27,25,27 NOM_PER|35,36,35,36 PROP_PER|40,42,40,42 NOM_PER|48,49,48,49 PRON_PER|51,53,51,53 NOM_TIME|53,54,53,54 PRON_PER|56,57,56,57 PROP_GPE|61,63,61,63 NOM_VEH|65,67,65,67 NOM_TIME|67,69,67,69 NOM_TIME
+
+L' aveugle , entraînée de plus en plus , poussa la gracieuseté jusqu' à vouloir dicter une phrase amicale pour son ancienne connaissance , la mère de Laurence .
+
+0,2,0,2 NOM_PER|20,23,20,23 NOM_PER|24,28,24,28 NOM_PER
+
+— Cette pauvre madame S … ajouta - t - elle lorsqu' elle eut entendu plier la lettre et pétiller la cire à cacheter , c' était une bien excellente personne , spirituelle , gaie , confiante … et bien étourdie !
+
+1,5,1,5 PROP_PER|10,11,10,11 PRON_PER|12,13,12,13 PRON_PER|25,26,25,26 PRON_PER|27,31,27,31 NOM_PER
+
+car enfin , ma pauvre enfant , c' est elle qui répondra devant Dieu du malheur que tu as eu de monter sur les planches .
+
+3,4,3,4 PRON_PER|9,10,9,10 PRON_PER|17,18,17,18 PRON_PER
+
+Elle pouvait s' y opposer , et elle ne l' a pas fait !
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER
+
+Je lui ai écrit trois lettres à cette occasion , et Dieu sait si elle les a lues !
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,9,7,9 NOM_TIME|14,15,14,15 PRON_PER
+
+si elle m' eût écoutée , tu n' en serais pas là !
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|6,7,6,7 PRON_PER
+
+— Nous serions dans la plus profonde misère , répondit Laurence avec une douce vivacité , et nous souffririons de ne pouvoir rien faire l' une pour l' autre , tandis qu' aujourd' hui j' ai la joie de voir ma bonne mère rajeunir au sein d' une honnête aisance ; et elle est plus heureuse que moi , s' il est possible , de devoir son bien - être à mon travail et à ma persévérance .
+
+1,2,1,2 PRON_PER|10,11,10,11 PROP_PER|17,18,17,18 PRON_PER|24,26,24,26 NOM_PER|27,29,27,29 NOM_PER|32,34,32,34 NOM_TIME|34,35,34,35 PRON_PER|40,43,40,43 NOM_PER|52,53,52,53 PRON_PER|57,58,57,58 PRON_PER|66,67,66,67 PRON_PER|71,72,71,72 PRON_PER|75,76,75,76 PRON_PER
+
+c' est une excellente mère , ma bonne madame D … , et , quoique je sois actrice , je vous assure que je l' aime autant que Pauline vous aime .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_PER|6,10,6,10 PROP_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER|23,24,23,24 PRON_PER|24,25,24,25 NOM_PER|28,29,28,29 PROP_PER|29,30,29,30 PRON_PER
+
+— Tu as toujours été une bonne fille , je le sais , dit l' aveugle .
+
+1,2,1,2 PRON_PER|5,8,5,8 NOM_PER|9,10,9,10 PRON_PER|14,16,14,16 NOM_PER
+
+Vous voilà riches , et je comprends que ta mère s' en trouve fort bien , car c' est une femme qui a toujours aimé ses aises et ses plaisirs ; mais l' autre vie , mon enfant , vous n' y songez ni l' une ni l' autre !
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|8,10,8,10 NOM_PER|19,21,19,21 NOM_PER|25,26,25,26 PRON_PER|28,29,28,29 PRON_PER|36,37,36,37 PRON_PER|39,40,39,40 PRON_PER
+
+… Enfin , je me réfugie dans la pensée que tu ne seras pas toujours au théâtre , et qu' un jour viendra où tu feras pénitence .
+
+3,4,3,4 PRON_PER|10,11,10,11 PRON_PER|24,25,24,25 PRON_PER
+
+Cependant le bruit de l' aventure qui avait amené à Saint - Front , route de Paris , une dame en chaise de poste qui croyait aller à Villiers , route de Lyon , s' était répandue dans la petite ville et y donnait lieu , depuis quelques heures , à d' étranges commentaires .
+
+10,13,10,13 PROP_GPE|14,17,14,17 NOM_FAC|18,24,18,24 NOM_PER|24,25,24,25 PRON_PER|28,29,28,29 PROP_GPE|30,33,30,33 NOM_FAC|38,41,38,41 NOM_GPE|42,43,42,43 PRON_GPE|47,49,47,49 NOM_TIME
+
+Par quel hasard , par quel prodige , cette dame de la chaise de poste , après être arrivée là sans le vouloir , se décidait - elle à y rester toute la journée ?
+
+8,15,8,15 NOM_PER|27,28,27,28 PRON_PER|29,30,29,30 PRON_GPE|31,34,31,34 NOM_TIME
+
+et que faisait - elle , bon Dieu !
+
+4,5,4,5 PRON_PER
+
+chez les dames D … ?
+
+1,4,1,4 NOM_PER
+
+comment pouvait - elle les connaître ?
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER
+
+et que pouvaient - elles avoir à se dire depuis si longtemps qu' elles étaient enfermées ensemble ?
+
+4,5,4,5 PRON_PER|13,14,13,14 PRON_PER
+
+Le secrétaire de la mairie , qui faisait sa partie de billard au café situé justement en face de la maison des dames D … , vit ou crut voir passer et repasser derrière les vitres de cette maison la dame étrangère , vêtue singulièrement , disait - il , et même magnifiquement .
+
+0,5,0,5 NOM_PER|6,7,6,7 PRON_PER|8,9,8,9 PRON_PER|12,14,12,14 NOM_FAC|19,24,19,24 NOM_FAC|37,39,37,39 NOM_FAC|39,42,39,42 NOM_PER|48,49,48,49 PRON_PER
+
+La toilette de voyage de Laurence était pourtant d' une simplicité de bon goût ; mais la femme de Paris , et la femme artiste surtout , donne aux moindres atours un prestige éblouissant pour la province .
+
+4,6,4,6 PROP_PER|16,20,16,20 NOM_PER|22,25,22,25 NOM_PER|35,37,35,37 NOM_LOC
+
+Toutes les dames des maisons voisines se collèrent à leurs croisées , les entr' ouvrirent même , et s' enrhumèrent toutes plus ou moins , dans l' espérance de découvrir ce qui se passait chez la voisine .
+
+0,6,0,6 NOM_PER|9,10,9,10 PRON_FAC|35,37,35,37 NOM_PER
+
+On appela la servante comme elle allait au marché , on l' interrogea .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_PER|5,6,5,6 PRON_PER|7,9,7,9 NOM_LOC|10,11,10,11 PRON_PER|11,12,11,12 NOM_PER
+
+Elle ne savait rien , elle n' avait rien entendu , rien compris ; mais la personne en question était fort étrange , selon elle .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|15,19,15,19 NOM_PER|24,25,24,25 PRON_PER
+
+Elle faisait de grands pas , parlait avec une grosse voix , et portait une pelisse fourrée qui la faisait ressembler aux animaux des ménageries ambulantes , soit à une lionne , soit à une tigresse ; la servante ne savait pas bien à laquelle des deux .
+
+0,1,0,1 PRON_PER|18,19,18,19 PRON_PER|37,39,37,39 NOM_PER
+
+Le secrétaire de la mairie décida qu' elle était vêtue d' une peau de panthère , et l' adjoint du maire trouva fort probable que ce fût la duchesse de Berry .
+
+0,5,0,5 NOM_PER|7,8,7,8 PRON_PER|17,21,17,21 NOM_PER|25,26,25,26 PRON_PER|27,31,27,31 NOM_PER
+
+Il avait toujours soupçonné la vieille D … d' être légitimiste au fond du cœur , car elle était dévote .
+
+0,1,0,1 PRON_PER|4,7,4,7 PROP_PER|17,18,17,18 PRON_PER
+
+Le maire , assassiné de questions par les dames de sa famille , trouva un expédient merveilleux pour satisfaire leur curiosité et la sienne propre .
+
+0,2,0,2 NOM_PER|7,12,7,12 NOM_PER|19,20,19,20 PRON_PER
+
+Il ordonna au maître de poste de ne délivrer de chevaux à l' étrangère que sur le vu de son passe - port .
+
+0,1,0,1 PRON_PER|2,6,2,6 NOM_PER|10,11,10,11 NOM_VEH|12,14,12,14 NOM_PER|19,20,19,20 PRON_PER
+
+L' étrangère , se ravisant et remettant son départ au lendemain , fit répondre par son domestique qu' elle montrerait son passe - port au moment où elle redemanderait des chevaux .
+
+0,2,0,2 NOM_PER|9,11,9,11 NOM_TIME|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER|20,21,20,21 PRON_PER|24,26,24,26 NOM_TIME|26,27,26,27 PRON_TIME|27,28,27,28 PRON_PER|29,31,29,31 NOM_VEH
+
+Le domestique , fin matois , véritable Frontin de comédie , s' amusa de la curiosité des citadins de Saint - Front , et leur fit à chacun un conte différent .
+
+0,2,0,2 NOM_PER|16,22,16,22 NOM_PER|24,25,24,25 PRON_PER|27,28,27,28 PRON_PER
+
+Mille versions circulèrent et se croisèrent dans la ville .
+
+7,9,7,9 NOM_GPE
+
+Les esprits furent très - agités ; le maire craignit une émeute ; le procureur du roi intima à la gendarmerie l' ordre de se tenir sur pied , et les chevaux de l' ordre public eurent la selle sur le dos tout le jour .
+
+7,9,7,9 NOM_PER|13,17,13,17 NOM_PER|19,21,19,21 NOM_PER|30,36,30,36 NOM_VEH|42,45,42,45 NOM_TIME
+
+disait le maire , qui était un homme de mœurs douces et un cœur sensible envers le beau sexe .
+
+1,3,1,3 NOM_PER|4,5,4,5 PRON_PER|16,19,16,19 NOM_PER
+
+Je ne puis envoyer un gendarme pour examiner brutalement les papiers d' une dame !
+
+0,1,0,1 PRON_PER|5,6,5,6 NOM_PER|12,14,12,14 NOM_PER
+
+— À votre place , je ne m' en gênerais pas !
+
+2,3,2,3 PRON_PER
+
+disait le substitut , jeune magistrat farouche qui aspirait à être procureur du roi , et qui travaillait à diminuer son embonpoint pour ressembler tout à fait à Junius Brutus .
+
+1,3,1,3 NOM_PER|7,8,7,8 PRON_PER|11,14,11,14 NOM_PER|16,17,16,17 PRON_PER|20,21,20,21 PRON_PER|28,30,28,30 PROP_PER
+
+— Vous voulez que je fasse de l' arbitraire !
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+reprenait le magistrat pacifique .
+
+1,4,1,4 NOM_PER
+
+La mairesse tint conseil avec les femmes des autres autorités , et il fut décidé que M . le maire irait en personne , avec toute la politesse possible , et s' excusant sur la nécessité d' obéir à des ordres supérieurs , demander à l' inconnue son passe - port .
+
+0,2,0,2 NOM_PER|5,10,5,10 NOM_PER|16,20,16,20 PROP_PER|45,47,45,47 NOM_PER|47,48,47,48 PRON_PER
+
+Le maire obéit , et se garda bien de dire que ces ordres supérieurs étaient ceux de sa femme .
+
+0,2,0,2 NOM_PER|17,19,17,19 NOM_PER
+
+La mère D … fut un peu effrayée de cette démarche ; Pauline , qui la comprit fort bien , en fut inquiète et blessée ; Laurence ne fit qu' en rire , et , s' adressant au maire , elle l' appela par son nom , lui demanda des nouvelles de toutes les personnes de sa famille et de son intimité , lui nommant avec une merveilleuse mémoire jusqu' au plus petit de ses enfants , l' intrigua pendant un quart d' heure , et finit par s' en faire reconnaître .
+
+0,3,0,3 NOM_PER|12,13,12,13 PROP_PER|14,15,14,15 PRON_PER|26,27,26,27 PROP_PER|37,39,37,39 NOM_PER|40,41,40,41 PRON_PER|41,42,41,42 NOM_PER|44,45,44,45 PRON_PER|47,48,47,48 PRON_PER|52,58,52,58 NOM_PER|60,61,60,61 PRON_PER|63,64,63,64 PRON_PER|70,76,70,76 NOM_PER|77,78,77,78 NOM_PER|80,84,80,84 NOM_TIME|89,90,89,90 PRON_PER
+
+Elle fut si aimable et si jolie dans ce badinage , que le bon maire en tomba amoureux comme un fou , voulut lui baiser la main , et ne se retira que lorsque madame D … et Pauline lui eurent promis de le faire dîner chez elles ce même jour avec la belle actrice de la capitale .
+
+0,1,0,1 PRON_PER|12,15,12,15 NOM_PER|15,16,15,16 PRON_PER|19,21,19,21 NOM_PER|23,24,23,24 PRON_PER|34,36,34,36 PROP_PER|38,39,38,39 PROP_PER|39,40,39,40 PRON_PER|43,44,43,44 PRON_PER|47,48,47,48 PRON_PER|48,51,48,51 NOM_TIME|52,58,52,58 NOM_PER
+
+Laurence essaya de se débarrasser des impressions tristes qu' elle avait reçues , et voulut récompenser l' aveugle du sacrifice qu' elle lui faisait de ses préjugés en lui donnant quelques heures d' enjouement .
+
+0,1,0,1 PROP_PER|9,10,9,10 PRON_PER|16,18,16,18 NOM_PER|21,22,21,22 PRON_PER|22,23,22,23 PRON_PER|25,26,25,26 PRON_PER|28,29,28,29 PRON_PER|30,34,30,34 NOM_TIME
+
+Elle raconta mille historiettes plaisantes sur ses voyages en province , et même , au dessert , elle consentit à réciter à M . le maire des tirades de vers classiques qui le jetèrent dans un délire d' enthousiasme dont madame la mairesse eût été sans doute fort effrayée .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|14,16,14,16 NOM_TIME|17,18,17,18 PRON_PER|22,26,22,26 PROP_PER|32,33,32,33 PRON_PER|40,43,40,43 PROP_PER
+
+Jamais l' aveugle ne s' était autant amusée ; Pauline était singulièrement agitée ; elle s' étonnait de se sentir triste au milieu de sa joie .
+
+1,3,1,3 NOM_PER|9,10,9,10 PROP_PER|14,15,14,15 PRON_PER|24,25,24,25 PRON_PER
+
+Laurence , tout en voulant divertir les autres , avait fini par se divertir elle - même .
+
+0,1,0,1 PROP_PER|6,8,6,8 PRON_PER
+
+Elle se croyait rajeunie de dix ans en se retrouvant dans ce monde de ses souvenirs , où elle croyait parfois être encore en rêve .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_TIME|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER
+
+On était passé de la salle à manger au salon , et on achevait de prendre le café , lorsqu' un bruit de socques dans l' escalier annonça l' approche d' une visite .
+
+0,1,0,1 PRON_PER|4,8,4,8 NOM_FAC|8,10,8,10 NOM_FAC|12,13,12,13 PRON_PER|25,27,25,27 NOM_FAC
+
+C' était la femme du maire , qui , ne pouvant résister plus longtemps à sa curiosité , venait adroitement et comme par hasard voir madame D … Elle se fût bien gardée d' amener ses filles , elle eût craint de faire tort à leur mariage si elle leur eût laissé entrevoir la comédienne .
+
+2,6,2,6 NOM_PER|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|25,27,25,27 PROP_PER|28,29,28,29 PRON_PER|35,37,35,37 NOM_PER|38,39,38,39 PRON_PER|45,46,45,46 PRON_PER|48,49,48,49 PRON_PER|49,50,49,50 PRON_PER|53,55,53,55 NOM_PER
+
+Ces demoiselles n' en dormirent pas de la nuit , et jamais l' autorité maternelle ne leur sembla plus inique .
+
+0,2,0,2 NOM_PER|7,9,7,9 NOM_TIME|16,17,16,17 PRON_PER
+
+La plus jeune en pleura de dépit .
+
+0,3,0,3 NOM_PER
+
+Madame la mairesse , quoique assez embarrassée de l' accueil qu' elle ferait à Laurence ( celle - ci avait autrefois donné des leçons à ses filles ) , se garda bien d' être impolie .
+
+0,3,0,3 PROP_PER|11,12,11,12 PRON_PER|14,15,14,15 PROP_PER|16,19,16,19 NOM_PER|25,27,25,27 NOM_PER
+
+Elle fut même gracieuse en voyant la dignité calme qui régnait dans ses manières .
+
+0,1,0,1 PRON_PER|12,13,12,13 PRON_PER
+
+Mais , quelques minutes après , une seconde visite étant arrivée , par hasard aussi , la mairesse recula sa chaise et parla un peu moins à l' actrice .
+
+2,4,2,4 NOM_TIME|16,18,16,18 NOM_PER|19,20,19,20 PRON_PER|27,29,27,29 NOM_PER
+
+Elle était observée par une de ses amies intimes , qui n' eût pas manqué de critiquer beaucoup son intimité avec une comédienne .
+
+0,1,0,1 PRON_PER|4,9,4,9 NOM_PER|10,11,10,11 PRON_PER|18,19,18,19 PRON_PER|21,23,21,23 NOM_PER
+
+Cette seconde visiteuse s' était promis de satisfaire aussi sa curiosité en faisant causer Laurence .
+
+0,3,0,3 NOM_PER|9,10,9,10 PRON_PER|14,15,14,15 PROP_PER
+
+Mais , outre que Laurence devint de plus en plus grave et réservée , la présence de la mairesse contraignit et gêna les curiosités subséquentes .
+
+4,5,4,5 PROP_PER
+
+La troisième visite gêna beaucoup les deux premières , et fut à son tour encore plus gênée par l' arrivée de la quatrième .
+
+5,8,5,8 NOM_PER
+
+Enfin , en moins d' une heure , le vieux salon de Pauline fut rempli comme si elle eût invité toute la ville à une grande soirée .
+
+5,7,5,7 NOM_TIME|8,13,8,13 NOM_FAC|17,18,17,18 PRON_PER|20,23,20,23 NOM_PER
+
+Personne n' y pouvait résister ; on voulait , au risque de faire une chose étrange , impolie même , voir cette petite sous - maîtresse dont personne n' avait soupçonné l' intelligence , et qui maintenant était connue et applaudie dans toute la France .
+
+6,7,6,7 PRON_PER|21,26,21,26 NOM_PER|26,27,26,27 PRON_PER|35,36,35,36 PRON_PER|42,45,42,45 PROP_GPE
+
+Pour légitimer la curiosité présente , et pour excuser le peu de discernement qu' on avait eu dans le passé , on affectait de douter encore du talent de Laurence , et on se disait à l' oreille :
+
+14,15,14,15 PRON_PER|18,20,18,20 NOM_TIME|21,22,21,22 PRON_PER|29,30,29,30 PROP_PER|32,33,32,33 PRON_PER
+
+— Est - il bien vrai qu' elle soit l' amie et la protégée de mademoiselle Mars ?
+
+7,8,7,8 PRON_PER|15,17,15,17 NOM_PER|12,17,12,17 NOM_PER
+
+— On dit qu' elle a un si grand succès à Paris !
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|11,12,11,12 PROP_GPE
+
+— Croyez - vous bien que ce soit possible ?
+
+3,4,3,4 PRON_PER
+
+— Il paraît que les plus célèbres auteurs font des pièces pour elle .
+
+4,8,4,8 NOM_PER|12,13,12,13 PRON_PER
+
+— Peut - être exagère - t - on beaucoup tout cela !
+
+8,9,8,9 PRON_PER
+
+— Lui avez - vous parlé ?
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+— Lui parlez - vous ?
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+Personne néanmoins ne pouvait diminuer par ses doutes la grâce et la beauté de Laurence .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|14,15,14,15 PROP_PER
+
+Un instant avant le dîner , elle avait fait venir sa femme de chambre , et , d' un tout petit carton qui ressemblait à ces noix enchantées où les fées font tenir d' un coup de baguette tout le trousseau d' une princesse , était sortie une parure très - simple , mais d' un goût exquis et d' une fraîcheur merveilleuse .
+
+0,2,0,2 NOM_TIME|6,7,6,7 PRON_PER|10,14,10,14 NOM_PER|29,31,29,31 NOM_PER|42,44,42,44 NOM_PER
+
+Pauline ne pouvait comprendre qu' on pût , avec si peu de temps et de soin , se métamorphoser ainsi en voyage , et l' élégance de son amie la frappait d' une sorte de vertige .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER|27,28,27,28 PRON_PER|29,30,29,30 PRON_PER
+
+Les dames de la ville s' étaient flattées d' avoir à critiquer cette toilette et cette tournure qu' on avait annoncées si étranges ; elles étaient forcées d' admirer et de dévorer du regard ces étoffes moelleuses négligées dans leur richesse , ces coupes élégantes d' ajustements sans roideur et sans étalage , nuance à laquelle n' arrivera jamais l' élégante de petite ville , même lorsqu' elle copie exactement l' élégante des grandes villes ; enfin toutes ces recherches de la chaussure , de la manchette et de la coiffure , que les femmes sans goût exagèrent jusqu' à l' absurde ou suppriment jusqu' à la malpropreté .
+
+0,5,0,5 NOM_PER|18,19,18,19 PRON_PER|24,25,24,25 PRON_PER|59,64,59,64 NOM_PER|67,68,67,68 PRON_PER|70,75,70,75 NOM_PER|93,97,93,97 NOM_PER
+
+Ce qui frappait et intimidait plus que tout le reste , c' était l' aisance parfaite de Laurence , ce ton de la meilleure compagnie qu' on ne s' attend guère en province à trouver chez une comédienne , et que , certes , on ne trouvait chez aucune femme à Saint - Front .
+
+17,18,17,18 PROP_PER|26,27,26,27 PRON_PER|32,33,32,33 NOM_LOC|36,38,36,38 NOM_PER|44,45,44,45 PRON_PER|51,54,51,54 PROP_GPE
+
+Laurence était imposante et prévenante à son gré .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER
+
+Elle souriait en elle - même du trouble où elle jetait tous ces petits esprits qui étaient venus à l' insu les uns des autres , chacun croyant être le seul assez hardi pour s' amuser des inconvenances d' une bohémienne , et qui se trouvaient là honteux et embarrassés chacun de la présence des autres , et plus encore du désappointement d' avoir à envier ce qu' il était venu persifler , humilier peut - être !
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|11,15,11,15 NOM_PER|15,16,15,16 PRON_PER|21,23,21,23 PRON_PER|23,25,23,25 NOM_PER|26,27,26,27 PRON_PER|39,41,39,41 NOM_PER|43,44,43,44 PRON_PER|50,51,50,51 PRON_PER|54,56,54,56 NOM_PER
+
+Toutes ces femmes se tenaient d' un côté du salon comme un régiment en déroute , et de l' autre côté , entourée de Pauline , de sa mère et de quelques hommes de bon sens qui ne craignaient pas de causer respectueusement avec elle , Laurence siégeait comme une reine affable qui sourit à son peuple et le tient à distance .
+
+0,3,0,3 NOM_PER|6,10,6,10 NOM_FAC|11,15,11,15 NOM_PER|18,21,18,21 NOM_FAC|24,25,24,25 PROP_PER|27,29,27,29 NOM_PER|31,36,31,36 NOM_PER|36,37,36,37 PRON_PER|44,45,44,45 PRON_PER|46,47,46,47 PROP_PER|49,52,49,52 NOM_PER|52,53,52,53 PRON_PER|55,57,55,57 NOM_PER|58,59,58,59 PRON_PER
+
+On n' osait plus chuchoter , on n' osait même plus regarder , si ce n' est à la dérobée .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER
+
+Enfin , quand le départ des plus désappointées eut éclairci les rangs , on osa s' approcher , mendier une parole , un regard , toucher , demander l' adresse de la lingère , le prix des bijoux , le nom des pièces de théâtre le plus à la mode à Paris , et des billets de spectacle pour le premier voyage qu' on ferait à la capitale .
+
+13,14,13,14 PRON_PER|31,33,31,33 NOM_PER|51,52,51,52 PROP_GPE|63,64,63,64 PRON_PER|66,68,66,68 NOM_GPE
+
+À l' arrivée des premières visites , l' aveugle avait été confuse , puis contrariée , puis blessée .
+
+1,6,1,6 NOM_TIME|7,9,7,9 NOM_PER
+
+Quand elle entendit tout ce monde remplir son salon froid et abandonné depuis si longtemps , elle prit son parti , et , cessant de rougir de l' amitié qu' elle avait témoignée à Laurence , elle en affecta plus encore , et accueillit par des paroles aigres et moqueuses tous ceux qui vinrent la saluer .
+
+1,2,1,2 PRON_PER|3,6,3,6 NOM_PER|7,8,7,8 PRON_PER|16,17,16,17 PRON_PER|18,19,18,19 PRON_PER|30,31,30,31 PRON_PER|34,35,34,35 PROP_PER|36,37,36,37 PRON_PER|50,56,50,56 NOM_PER
+
+— Oui - dà , mesdames , répondait - elle , je me porte mieux que je ne pensais , puisque mes infirmités ne font plus peur à personne .
+
+5,6,5,6 NOM_PER|9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER|21,22,21,22 PRON_PER
+
+Il y a deux ans que l' on n' est venu me tenir compagnie le soir , et c' est un merveilleux hasard qui m' amène toute la ville à la fois .
+
+3,5,3,5 NOM_TIME|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|14,16,14,16 NOM_TIME|26,29,26,29 NOM_PER
+
+Est - ce qu' on aurait dérangé le calendrier , et ma fête , que je croyais passée il y a six mois , tomberait - elle aujourd' hui ?
+
+4,5,4,5 PRON_PER|15,16,15,16 PRON_PER|21,23,21,23 NOM_TIME|27,29,27,29 NOM_TIME
+
+Puis , s' adressant à d' autres qui n' étaient presque jamais venues chez elle , elle poussait la malice jusqu' à leur dire en face et tout haut :
+
+5,7,5,7 NOM_PER|7,8,7,8 PRON_PER|14,15,14,15 PRON_PER|16,17,16,17 PRON_PER|22,23,22,23 PRON_PER
+
+vous faites comme moi , vous faites taire vos scrupules de conscience , et vous venez , malgré vous , rendre hommage au talent ?
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER
+
+C' est toujours ainsi , voyez - vous ; l' esprit triomphe toujours , et de tout .
+
+7,8,7,8 PRON_PER
+
+Vous avez bien blâmé mademoiselle S … de s' être mise au théâtre ; vous avez fait comme moi , vous avez trouvé cela révoltant , affreux !
+
+0,1,0,1 PRON_PER|4,6,4,6 PROP_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER|20,21,20,21 PRON_PER
+
+vous voilà toutes à ses pieds !
+
+0,1,0,1 PRON_PER|2,3,2,3 NOM_PER
+
+Vous ne direz pas le contraire , car enfin je ne crois pas être devenue tout à coup assez aimable et assez jolie pour que l' on vienne en foule jouir de ma société .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|26,27,26,27 PRON_PER|32,33,32,33 PRON_PER
+
+Quant à Pauline , elle fut du commencement à la fin admirable pour son amie .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER|6,8,6,8 NOM_TIME|9,11,9,11 NOM_TIME|13,15,13,15 NOM_PER
+
+Elle ne rougit point d' elle un seul instant , et bravant , avec un courage héroïque en province , le blâme qu' on s' apprêtait à déverser sur elle , elle prit franchement le parti d' être en public à l' égard de Laurence ce qu' elle était en particulier .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|17,19,17,19 NOM_LOC|23,24,23,24 PRON_PER|29,30,29,30 PRON_PER|31,32,31,32 PRON_PER|44,45,44,45 PROP_PER|47,48,47,48 PRON_PER
+
+Elle l' accabla de soins , de prévenances , de respects même ; elle plaça elle - même un tabouret sous ses pieds , elle lui présenta elle - même le plateau de rafraîchissements ; puis elle répondit par un baiser plein d' effusion à son baiser de remercîment , et , quand elle se rassit auprès d' elle , elle tint sa main enlacée à la sienne toute la soirée sur le bras du fauteuil .
+
+0,1,0,1 PRON_PER|13,14,13,14 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|25,26,25,26 PRON_PER|36,37,36,37 PRON_PER|45,46,45,46 PRON_PER|53,54,53,54 PRON_PER|58,59,58,59 PRON_PER|60,61,60,61 PRON_PER|62,63,62,63 PRON_PER|66,67,66,67 PRON_PER|68,71,68,71 NOM_TIME
+
+Ce rôle était beau sans doute , et la présence de Laurence opérait des miracles , car un tel courage eût épouvanté Pauline si on lui en eût annoncé la nécessité la veille ; et maintenant il lui coûtait si peu , qu' elle s' en étonnait elle - même .
+
+11,12,11,12 PROP_PER|22,23,22,23 PROP_PER|24,25,24,25 PRON_PER|25,26,25,26 PRON_PER|31,33,31,33 NOM_TIME|37,38,37,38 PRON_PER|43,44,43,44 PRON_PER
+
+Si elle eût pu descendre au fond de sa conscience , peut - être eût - elle découvert que ce rôle généreux était le seul qui l' élevât au niveau de Laurence à ses propres yeux .
+
+1,2,1,2 PRON_PER|8,9,8,9 PRON_PER|16,17,16,17 PRON_PER|26,27,26,27 NOM_PER|31,32,31,32 PROP_PER|33,34,33,34 PRON_PER
+
+Il est certain que , jusque - là , la grâce , la noblesse et l' intelligence de l' actrice l' avaient déconcertée un peu ; mais , depuis qu' elle l' avait posée auprès d' elle en protégée , Pauline ne s' apercevait plus de cette supériorité , difficile à accepter de femme à femme aussi bien que d' homme à homme .
+
+18,20,18,20 NOM_PER|20,21,20,21 NOM_PER|30,31,30,31 PRON_PER|31,32,31,32 NOM_PER|36,37,36,37 PRON_PER|40,41,40,41 PROP_PER|53,54,53,54 NOM_PER|55,56,55,56 NOM_PER|60,61,60,61 NOM_PER|62,63,62,63 NOM_PER
+
+Il est certain que , lorsque les deux amies et la mère aveugle se retrouvèrent seules ensemble au coin du feu , Pauline fut surprise et même un peu blessée de voir que Laurence reportait toute sa reconnaissance sur la vieille femme .
+
+6,9,6,9 NOM_PER|10,13,10,13 NOM_PER|22,23,22,23 PROP_PER|33,34,33,34 PROP_PER|36,37,36,37 PRON_PER|39,42,39,42 NOM_PER
+
+Ce fut avec une noble franchise que l' actrice , baisant la main de madame D … et l' aidant à reprendre le chemin de sa chambre , lui dit qu' elle sentait tout le prix de ce qu' elle avait fait et de ce qu' elle avait été pour elle durant cette petite épreuve .
+
+7,9,7,9 NOM_PER|14,16,14,16 PROP_PER|18,19,18,19 NOM_PER|25,27,25,27 NOM_FAC|28,29,28,29 PRON_PER|31,32,31,32 PRON_PER|39,40,39,40 PRON_PER|46,47,46,47 PRON_PER|50,51,50,51 PRON_PER
+
+— Quant à toi , ma Pauline , dit - elle à son amie lorsqu' elles furent tête à tête , je te fâcherais si je te faisais le même remercîment .
+
+3,4,3,4 PRON_PER|5,7,5,7 PROP_PER|10,11,10,11 PRON_PER|12,14,12,14 NOM_PER|15,16,15,16 PRON_PER|21,22,21,22 PRON_PER|22,23,22,23 PRON_PER|25,26,25,26 PRON_PER|26,27,26,27 PRON_PER
+
+Tu n' as point de préjugés assez obstinés pour que ton mépris de la sottise provinciale me semble un grand effort .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER|16,17,16,17 PRON_PER
+
+Je te connais , tu ne serais plus toi - même si tu n' avais pas trouvé un vrai plaisir à t' élever de toute ta hauteur au - dessus de ces bégueules .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|8,11,8,11 PRON_PER|12,13,12,13 PRON_PER|21,22,21,22 PRON_PER|25,26,25,26 PRON_PER|31,33,31,33 NOM_PER
+
+— C' est à cause de toi que cela m' est devenu un plaisir , répondit Pauline un peu déconcertée .
+
+6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|16,17,16,17 PROP_PER
+
+reprit Laurence en l' embrassant , c' est à cause de vous - même !
+
+1,2,1,2 PROP_PER|3,4,3,4 NOM_PER|11,14,11,14 PRON_PER
+
+Était - ce un instinct d' ingratitude qui faisait parler ainsi l' amie de Pauline ?
+
+11,15,11,15 NOM_PER
+
+Laurence était la femme la plus droite avec les autres et la plus sincère vis - à - vis d' elle - même .
+
+0,1,0,1 PROP_PER|2,7,2,7 NOM_PER|8,10,8,10 PRON_PER|20,23,20,23 PRON_PER
+
+Si l' effort de son amie lui eût paru sublime , elle ne se serait pas crue humiliée de lui montrer de la reconnaissance ; mais elle avait un sentiment si ferme et si légitime de sa propre dignité , qu' elle croyait le courage de Pauline aussi naturel , aussi facile que le sien .
+
+4,6,4,6 NOM_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER|19,20,19,20 PRON_PER|26,27,26,27 PRON_PER|36,37,36,37 PRON_PER|41,42,41,42 PRON_PER|46,47,46,47 PROP_PER
+
+Elle ne se doutait nullement de l' angoisse secrète qu' elle excitait dans cette âme troublée .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER
+
+Elle ne pouvait la deviner ; elle ne l' eût pas comprise .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER
+
+Pauline , ne voulant pas la quitter d' un instant , exigea qu' elle dormît dans son propre lit .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER|8,10,8,10 NOM_TIME|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER
+
+Elle s' était fait arranger un grand canapé où elle se coucha non loin d' elle , afin de pouvoir causer le plus longtemps possible .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|15,16,15,16 PRON_PER|21,25,21,25 NOM_TIME
+
+Chaque moment augmentait l' inquiétude de la jeune recluse , et son désir de comprendre la vie , les jouissances de l' art et celles de la gloire , celles de l' activité et celles de l' indépendance .
+
+0,2,0,2 NOM_TIME|6,9,6,9 NOM_PER|11,12,11,12 PRON_PER
+
+Laurence éludait ses questions .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER
+
+Il lui semblait imprudent de la part de Pauline de vouloir connaître les avantages d' une position si différente de la sienne ; il lui eût semblé peu délicat à elle - même de lui en faire un tableau séduisant .
+
+1,2,1,2 PRON_PER|8,9,8,9 PROP_PER|24,25,24,25 PRON_PER|34,35,34,35 PRON_PER
+
+Elle s' efforça de répondre à ses questions par d' autres questions ; elle voulut lui faire dire les joies intimes de sa vie évangélique , et tourner toute l' exaltation de leur entretien vers cette poésie du devoir qui lui semblait devoir être le partage d' une âme pieuse et résignée .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|15,16,15,16 PRON_PER|22,23,22,23 PRON_PER|32,33,32,33 PRON_PER|40,41,40,41 PRON_PER
+
+Mais Pauline ne répondit que par des réticences .
+
+1,2,1,2 PROP_PER
+
+Dans leur premier entretien de la matinée , elle avait épuisé tout ce que sa vertu avait d' orgueil et de finesse pour dissimuler sa souffrance .
+
+8,9,8,9 PRON_PER|14,15,14,15 PRON_PER|24,25,24,25 PRON_PER
+
+Le soir , elle ne songeait déjà plus à son rôle .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PRON_PER|9,10,9,10 PRON_PER
+
+Elle l' emporta , et força Laurence à s' abandonner au plaisir le plus grand qu' elle connût , celui d' épancher son âme avec confiance et naïveté .
+
+6,7,6,7 PROP_PER|16,17,16,17 PRON_PER|22,23,22,23 PRON_PER
+
+Laurence aimait son art , non - seulement pour lui - même , mais aussi en raison de la liberté et de l' élévation d' esprit et d' habitudes qu' il lui avait procurées .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|31,32,31,32 PRON_PER
+
+Elle s' honorait de nobles amitiés ; elle avait connu aussi des affections passionnées , et , quoiqu' elle eût la délicatesse de n' en point parler à Pauline , la présence de ces souvenirs encore palpitants donnait à son éloquence naturelle une énergie pleine de charme et d' entraînement .
+
+0,1,0,1 PRON_PER|7,8,7,8 PRON_PER|18,19,18,19 PRON_PER|28,29,28,29 PROP_PER|39,40,39,40 PRON_PER
+
+Pauline dévorait ses paroles .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER
+
+Elles tombaient dans son cœur et dans son cerveau comme une pluie de feu ; pâle , les cheveux épars , l' œil embrasé , le coude appuyé sur son chevet virginal , elle était belle comme une nymphe antique à la lueur pâle de la lampe qui brûlait entre les deux lits .
+
+3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|29,30,29,30 PRON_PER|33,34,33,34 PRON_PER|37,40,37,40 NOM_PER
+
+Laurence la vit et fut frappée de l' expression de ses traits .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|10,11,10,11 PRON_PER
+
+Elle craignit d' en avoir trop dit , et se le reprocha , quoique pourtant toutes ses paroles eussent été pures comme celles d' une mère à sa fille .
+
+0,1,0,1 PRON_PER|16,17,16,17 PRON_PER|24,26,24,26 NOM_PER|27,29,27,29 NOM_PER
+
+Puis , involontairement , revenant à ses idées théâtrales et oubliant tout ce qu' elles venaient de se dire , elle s' écria , frappée de plus en plus :
+
+6,7,6,7 PRON_PER|14,15,14,15 PRON_PER|20,21,20,21 PRON_PER
+
+— Mon Dieu , que tu es belle , ma chère enfant !
+
+5,6,5,6 PRON_PER|9,12,9,12 NOM_PER
+
+Les classiques qui m' ont voulu enseigner le rôle de Phèdre ne t' avaient pas vue ainsi .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER
+
+Voici une pose qui est toute l' école moderne ; mais c' est Phèdre tout entière … non pas la Phèdre de Racine peut - être , mais celle d' Euripide , disant :
+
+11,12,11,12 PRON_PER|13,16,13,16 PROP_PER|19,23,19,23 NOM_PER|28,31,28,31 NOM_PER
+
+que ne suis - je assise à l' ombre des forêts !
+
+4,5,4,5 PRON_PER|9,11,9,11 NOM_LOC
+
+Si je ne te dis pas cela en grec , ajouta Laurence en étouffant un léger bâillement , c' est que je ne sais pas le grec … Je parie que tu le sais , toi …
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_PER|11,12,11,12 PROP_PER|21,22,21,22 PRON_PER|28,29,28,29 PRON_PER|31,32,31,32 PRON_PER|35,36,35,36 PRON_PER
+
+répondit Pauline en s' efforçant de sourire .
+
+1,2,1,2 PROP_PER
+
+Que ferais - je de cela ?
+
+3,4,3,4 PRON_PER
+
+moi , si j' avais , comme toi , le temps d' étudier tout , s' écria Laurence , je voudrais tout savoir !
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|17,18,17,18 PROP_PER|19,20,19,20 PRON_PER
+
+Il se fit quelques instants de silence .
+
+3,7,3,7 NOM_TIME
+
+Pauline fit un douloureux retour sur elle - même ; elle se demanda à quoi , en effet , servaient tous ces merveilleux ouvrages de broderie qui remplissaient ses longues heures de silence et de solitude , et qui n' occupaient ni sa pensée ni son cœur .
+
+0,1,0,1 PROP_PER|6,9,6,9 PRON_PER|10,11,10,11 PRON_PER|42,43,42,43 PRON_PER|45,46,45,46 PRON_PER
+
+Elle fut effrayée de tant de belles années perdues , et il lui sembla qu' elle avait fait de ses plus nobles facultés , comme de son temps le plus précieux , un usage stupide , presque impie .
+
+0,1,0,1 PRON_PER|4,9,4,9 NOM_TIME|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER|26,31,26,31 NOM_TIME
+
+Elle se releva encore sur son coude , et dit à Laurence :
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|11,12,11,12 PROP_PER
+
+— Pourquoi donc me comparais - tu à Phèdre ?
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|8,9,8,9 PROP_PER
+
+Sais - tu que c' est là un type affreux ?
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER
+
+Peux - tu poétiser le vice et le crime ?
+
+2,3,2,3 PRON_PER
+
+Laurence ne répondit pas .
+
+0,1,0,1 PROP_PER
+
+Fatiguée de l' insomnie de la nuit précédente , calme d' ailleurs au fond de l' âme , comme on l' est , malgré tous les orages passagers , lorsqu' on a trouvé au fond de soi le vrai but et le vrai moyen de son existence , elle s' était endormie presque en parlant .
+
+48,49,48,49 PRON_PER
+
+Ce prompt et paisible sommeil augmenta l' angoisse et l' amertume de Pauline .
+
+12,13,12,13 PROP_PER
+
+— Elle est heureuse , pensa - t - elle … heureuse et contente d' elle - même , sans effort , sans combats , sans incertitude … Et moi !
+
+1,2,1,2 PRON_PER|9,10,9,10 PRON_PER|15,18,15,18 PRON_PER|29,30,29,30 PRON_PER
+
+Pauline ne dormit pas de toute la nuit .
+
+0,1,0,1 PROP_PER|5,8,5,8 NOM_TIME
+
+Le lendemain , Laurence s' éveilla aussi paisiblement qu' elle s' était endormie , et se montra au jour fraîche et reposée .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PROP_PER|9,10,9,10 PRON_PER|17,19,17,19 NOM_TIME
+
+Sa femme de chambre arriva avec une jolie robe blanche qui lui servait de peignoir pendant sa toilette .
+
+0,4,0,4 NOM_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER
+
+Tandis que la soubrette lissait et tressait les magnifiques cheveux noirs de Laurence , celle - ci repassait le rôle qu' elle devait jouer à Lyon , à trois jours de là .
+
+2,4,2,4 NOM_PER|12,13,12,13 PROP_PER|14,17,14,17 NOM_PER|21,22,21,22 PRON_PER|25,26,25,26 PROP_GPE|28,30,28,30 NOM_TIME
+
+C' était à son tour d' être belle avec ses cheveux épars et l' expression tragique .
+
+3,4,3,4 PRON_PER|9,10,9,10 PRON_PER
+
+De temps en temps , elle échappait brusquement aux mains de la femme de chambre , et marchait dans l' appartement en s' écriant :
+
+5,6,5,6 PRON_PER|11,15,11,15 NOM_PER|19,21,19,21 NOM_FAC
+
+… je veux le dire comme je le sens !
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER
+
+Et elle laissait échapper des exclamations , des phrases de drame ; elle cherchait des poses devant le vieux miroir de Pauline .
+
+1,2,1,2 PRON_PER|12,13,12,13 PRON_PER|21,22,21,22 PROP_PER
+
+Le sang - froid de la femme de chambre , habituée à toutes ces choses , et l' oubli complet où Laurence semblait être de tous les objets extérieurs , étonnaient au dernier point la jeune provinciale .
+
+5,9,5,9 NOM_PER|21,22,21,22 PROP_PER|34,37,34,37 NOM_PER
+
+Elle ne savait pas si elle devait rire ou s' effrayer de ces airs de pythonisse ; puis elle était frappée de la beauté tragique de Laurence , comme Laurence l' avait été de la sienne quelques heures auparavant .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|18,19,18,19 PRON_PER|26,27,26,27 PROP_PER|29,30,29,30 PROP_PER|36,38,36,38 NOM_TIME
+
+Mais elle se disait :
+
+1,2,1,2 PRON_PER
+
+— Elle fait toutes ces choses de sang - froid , avec une impétuosité préparée , avec une douleur étudiée .
+
+1,2,1,2 PRON_PER
+
+Au fond , elle est fort heureuse ; et moi , qui devrais avoir le calme de Dieu sur le front , il se trouve que je ressemble à Phèdre !
+
+3,4,3,4 PRON_PER|9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|26,27,26,27 PRON_PER|29,30,29,30 PROP_PER
+
+Comme elle pensait cela , Laurence lui dit brusquement :
+
+1,2,1,2 PRON_PER|5,6,5,6 PROP_PER|6,7,6,7 PRON_PER
+
+— Je fais tout ce que je peux pour trouver ta pose d' hier au soir quand tu étais là sur ton coude … je ne peux pas en venir à bout !
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 NOM_TIME|14,16,14,16 NOM_TIME|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER
+
+Je trouverai cela plus tard , par inspiration !
+
+0,1,0,1 PRON_PER
+
+Toute inspiration est une réminiscence , n' est - ce pas , Pauline ?
+
+12,13,12,13 PROP_PER
+
+Tu ne te coiffes pas bien , mon enfant ; tresse donc tes cheveux au lieu de les lisser ainsi en bandeau .
+
+0,1,0,1 PRON_PER|7,9,7,9 NOM_PER|12,13,12,13 PRON_PER
+
+Tiens , Suzette va te montrer .
+
+2,3,2,3 NOM_PER
+
+Et , tandis que la femme de chambre faisait une tresse , Laurence fit l' autre , et en un instant Pauline se trouva si bien coiffée et si embellie , qu' elle fit un cri de surprise .
+
+4,8,4,8 NOM_PER|12,13,12,13 PROP_PER|19,21,19,21 NOM_TIME|21,22,21,22 PROP_PER|32,33,32,33 PRON_PER
+
+s' écria - t - elle ; je ne me coiffais pas ainsi de peur d' y perdre trop de temps , et j' en mettais le double .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|18,21,18,21 NOM_TIME|23,24,23,24 PRON_PER
+
+c' est que , nous autres , répondit Laurence , nous sommes forcées de nous faire belles le plus possible et le plus vite possible .
+
+4,6,4,6 PRON_PER|8,9,8,9 PROP_PER|10,11,10,11 PRON_PER
+
+— Et à quoi cela me servirait - il , à moi ; dit Pauline en laissant tomber ses coudes sur la toilette , et en se regardant au miroir d' un air sombre et désolé .
+
+5,6,5,6 PRON_PER|11,12,11,12 PRON_PER|14,15,14,15 PROP_PER|18,19,18,19 PRON_PER
+
+— Tiens , s' écria Laurence , te voilà encore Phèdre !
+
+5,6,5,6 PROP_PER|7,8,7,8 PRON_PER|10,11,10,11 PROP_PER
+
+Reste comme cela , j' étudie !
+
+4,5,4,5 PRON_PER
+
+Pauline sentit ses yeux se remplir de larmes .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER
+
+Pour que Laurence ne s' en aperçût pas ( et c' est ce que Pauline craignait le plus au monde dans cet instant ) , elle s' enfuit dans une autre pièce et dévora d' amers sanglots .
+
+2,3,2,3 PROP_PER|14,15,14,15 PROP_PER|21,23,21,23 NOM_TIME|25,26,25,26 PRON_PER|29,32,29,32 NOM_FAC
+
+Il y avait de la douleur et de la colère dans son âme , mais elle ne savait pas elle - même pourquoi ces orages s' élevaient en elle .
+
+11,12,11,12 PRON_PER|15,16,15,16 PRON_PER|28,29,28,29 PRON_PER
+
+Le soir , Laurence était partie .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PROP_PER
+
+Pauline avait pleuré en la voyant monter en voiture , et , cette fois , c' était de regret ; car Laurence venait de la faire vivre pendant trente - six heures , et elle pensait avec effroi au lendemain .
+
+0,1,0,1 PROP_PER|4,5,4,5 PRON_PER|8,9,8,9 NOM_VEH|12,14,12,14 NOM_TIME|21,22,21,22 PROP_PER|24,25,24,25 PRON_PER|28,32,28,32 NOM_TIME|34,35,34,35 PRON_PER|38,40,38,40 NOM_TIME
+
+Elle tomba accablée de fatigue dans son lit , et s' endormit brisée , désirant ne plus s' éveiller .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER
+
+Lorsqu' elle s' éveilla , elle jeta un regard de morne épouvante sur ces murailles qui ne gardaient aucune trace du rêve que Laurence y avait évoqué .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER|23,24,23,24 PROP_PER
+
+Elle se leva lentement , s' assit machinalement devant son miroir , et essaya de refaire ses tresses de la veille .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|16,17,16,17 PRON_PER|19,21,19,21 NOM_TIME
+
+Tout à coup , rappelée à la réalité par le chant de son serin qui s' éveillait dans sa cage , toujours gai , toujours indifférent à la captivité , Pauline se leva , ouvrit la cage , puis la fenêtre , et poussa dehors l' oiseau sédentaire , qui ne voulait pas s' envoler .
+
+12,14,12,14 NOM_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER|30,31,30,31 PROP_PER|45,48,45,48 NOM_PER|49,50,49,50 PRON_PER
+
+tu n' es pas digne de la liberté !
+
+0,1,0,1 PRON_PER
+
+dit - elle en le voyant revenir vers elle aussitôt .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|8,9,8,9 PRON_PER
+
+Elle retourna à sa toilette , défit ses tresses avec une sorte de rage , et tomba le visage sur ses mains crispées .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|20,21,20,21 PRON_PER
+
+Elle resta ainsi jusqu' à l' heure où sa mère s' éveillait .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_TIME|7,8,7,8 PRON_TIME|8,10,8,10 NOM_PER
+
+La fenêtre était restée ouverte , Pauline n' avait pas senti le froid .
+
+6,7,6,7 PROP_PER
+
+Le serin était rentré dans sa cage et chantait de toutes ses
+
+0,2,0,2 NOM_PER|5,6,5,6 PRON_PER|11,12,11,12 PRON_PER
+
