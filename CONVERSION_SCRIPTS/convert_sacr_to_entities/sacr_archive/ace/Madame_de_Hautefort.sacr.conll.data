@@ -1,0 +1,12621 @@
+Madame	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+Voici	O	O
+maintenant	O	O
+une	B-NOM_PER	O
+toute	I-NOM_PER	O
+autre	I-NOM_PER	O
+personne	I-NOM_PER	O
+,	O	O
+qui	B-PRON_PER	O
+va	O	O
+nous	B-PRON_METALEPSE	O
+ramener	O	O
+parmi	O	O
+les	O	O
+mêmes	O	O
+événemens	O	O
+,	O	O
+mais	O	O
+qui	B-PRON_PER	O
+y	O	O
+portera	O	O
+un	O	O
+bien	O	O
+différent	O	O
+caractère	O	O
+.	O	O
+
+C	B-PRON_PER	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+encore	O	O	O	O
+une	B-NOM_PER	O	O	O
+ennemie	I-NOM_PER	O	O	O
+,	O	O	O	O
+ce	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+plus	O	O	O	O
+une	O	O	B-NOM_PER	O
+rivale	O	O	I-NOM_PER	O
+de	O	O	I-NOM_PER	O
+Richelieu	O	B-PROP_PER	I-NOM_PER	O
+et	O	I-PROP_PER	I-NOM_PER	O
+de	O	I-PROP_PER	I-NOM_PER	O
+Mazarin	B-PROP_PER	I-PROP_PER	I-NOM_PER	O
+.	O	O	O	O
+
+La	B-NOM_PER	O	O	O
+noble	I-NOM_PER	O	O	O
+femme	I-NOM_PER	O	O	O
+dont	B-PRON_PER	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+allons	O	O	O	O
+retracer	O	O	O	O
+la	O	O	O	O
+vie	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+appartient	O	O	O	O
+point	O	O	O	O
+à	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+histoire	O	O	O	O
+politique	O	O	O	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+point	O	O	O	O
+de	O	O	O	O
+la	O	O	B-NOM_PER	O
+famille	O	O	I-NOM_PER	O
+des	O	B-NOM_PER	I-NOM_PER	O
+hommes	O	I-NOM_PER	I-NOM_PER	O
+d	O	I-NOM_PER	I-NOM_PER	O
+’	O	I-NOM_PER	I-NOM_PER	O
+état	B-NOM_GPE	I-NOM_PER	I-NOM_PER	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+a	O	O	O	O
+point	O	O	O	O
+disputé	O	O	O	O
+aux	B-NOM_PER	O	O	O
+deux	I-NOM_PER	O	O	O
+grands	I-NOM_PER	O	O	O
+cardinaux	I-NOM_PER	O	O	O
+leur	B-PRON_PER	O	O	O
+pouvoir	O	O	O	O
+et	O	O	O	O
+le	O	B-NOM_ORG	O	O
+gouvernement	O	I-NOM_ORG	O	O
+de	O	I-NOM_ORG	O	O
+la	B-PROP_GPE	I-NOM_ORG	O	O
+France	I-PROP_GPE	I-NOM_ORG	O	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+a	O	O	O	O
+refusé	O	O	O	O
+seulement	O	O	O	O
+de	O	O	O	O
+leur	B-PRON_PER	O	O	O
+livrer	O	O	O	O
+son	B-PRON_PER	O	O	O
+âme	O	O	O	O
+,	O	O	O	O
+de	O	O	O	O
+trahir	O	O	O	O
+pour	O	O	O	O
+eux	B-PRON_PER	O	O	O
+ses	B-NOM_PER	O	O	O
+amis	I-NOM_PER	O	O	O
+et	O	O	O	O
+sa	B-PRON_PER	O	O	O
+cause	O	O	O	O
+,	O	O	O	O
+cette	O	O	O	O
+cause	O	O	O	O
+qui	O	O	O	O
+lui	B-PRON_PER	O	O	O
+semblait	O	O	O	O
+celle	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+religion	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+vertu	O	O	O	O
+.	O	O	O	O
+
+Son	B-PRON_PER	O
+grand	O	O
+cœur	O	O
+,	O	O
+qu	O	O
+’	O	O
+animait	O	O
+une	O	O
+flamme	O	O
+héroïque	O	O
+et	O	O
+que	O	O
+servaient	O	O
+une	O	O
+merveilleuse	O	O
+beauté	O	O
+et	O	O
+un	O	O
+esprit	O	O
+adorable	O	O
+,	O	O
+toujours	O	O
+contenu	O	O
+par	O	O
+la	O	O
+dignité	O	O
+et	O	O
+la	O	O
+pudeur	O	O
+,	O	O
+a	O	O
+paru	O	O
+surtout	O	O
+dans	O	O
+ses	B-PRON_PER	O
+sacrifices	O	O
+.	O	O
+
+Après	O	O	O	O
+avoir	O	O	O	O
+été	O	O	O	O
+la	O	B-NOM_PER	O	O
+favorite	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+un	B-NOM_PER	I-NOM_PER	O	O
+roi	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+amie	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+une	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+idole	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	O	I-NOM_PER	O	O
+cour	O	I-NOM_PER	O	O
+la	O	I-NOM_PER	O	O
+plus	O	I-NOM_PER	O	O
+brillante	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+l	B-NOM_LOC	I-NOM_PER	O	O
+’	I-NOM_LOC	I-NOM_PER	O	O
+univers	I-NOM_LOC	I-NOM_PER	O	O
+,	O	O	O	O
+dès	O	O	O	O
+que	O	O	O	O
+le	O	O	O	O
+devoir	O	O	O	O
+a	O	O	O	O
+parlé	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+a	O	O	O	O
+été	O	O	O	O
+au	O	O	O	O
+-	O	O	O	O
+devant	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+disgrâce	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+retirée	O	O	O	O
+du	O	O	O	O
+monde	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+a	O	O	O	O
+caché	O	O	O	O
+et	O	O	O	O
+comme	O	O	O	O
+enseveli	O	O	O	O
+sous	O	O	O	O
+les	O	O	O	O
+voiles	O	O	O	O
+et	O	O	O	O
+dans	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+ombre	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+vertu	O	O	O	O
+les	O	O	O	O
+dons	O	O	O	O
+les	O	O	O	O
+plus	O	O	O	O
+rares	O	O	O	O
+que	O	O	O	O
+Dieu	B-PROP_PER	O	O	O
+ait	O	O	O	O
+jamais	O	O	O	O
+départis	O	O	O	O
+à	O	O	O	O
+une	B-NOM_PER	O	O	O
+créature	I-NOM_PER	O	O	O
+humaine	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+Elle	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+a	O	O	O	O
+point	O	O	O	O
+laissé	O	O	O	O
+de	O	O	O	O
+nom	O	O	O	O
+dans	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+histoire	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+qui	B-PRON_METALEPSE	O	O	O
+entreprenons	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+disputer	O	O	O	O
+à	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+oubli	O	O	O	O
+,	O	O	O	O
+si	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+la	B-PRON_PER	O	O	O
+mettons	O	O	O	O
+à	O	O	O	O
+côté	O	O	O	O
+de	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+,	O	O	O	O
+ce	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+pas	O	O	O	O
+un	O	O	O	O
+parallèle	O	O	O	O
+,	O	O	O	O
+c	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+bien	O	O	O	O
+plutôt	O	O	O	O
+un	O	O	O	O
+contraste	O	O	O	O
+que	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+voulons	O	O	O	O
+établir	O	O	O	O
+,	O	O	O	O
+pour	O	O	O	O
+faire	O	O	O	O
+paraître	O	O	O	O
+sous	O	O	O	O
+ses	B-PRON_PER	O	O	O
+aspects	O	O	O	O
+les	O	O	O	O
+plus	O	O	O	O
+divers	O	O	O	O
+la	O	O	O	O
+grandeur	O	O	O	O
+de	O	O	O	O
+la	O	B-NOM_PER	O	O
+femme	O	I-NOM_PER	O	O
+au	B-NOM_TIME	I-NOM_PER	O	O
+XVIIe	I-NOM_TIME	I-NOM_PER	O	O
+siècle	I-NOM_TIME	I-NOM_PER	O	O
+,	O	O	O	O
+comme	O	O	O	O
+aussi	O	O	O	O
+,	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+avouons	O	O	O	O
+,	O	O	O	O
+avec	O	O	O	O
+le	O	O	O	O
+désir	O	O	O	O
+et	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+incertaine	O	O	O	O
+espérance	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+intéresser	O	O	O	O
+à	O	O	O	O
+cette	O	O	O	O
+fière	O	O	O	O
+et	O	O	O	O
+chaste	O	O	O	O
+mémoire	O	O	O	O
+quelques	O	O	O	O
+âmes	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+élite	O	O	O	O
+çà	O	O	O	O
+et	O	O	O	O
+là	O	O	O	O
+dispersées	O	O	O	O
+.	O	O	O	O
+
+I	O	O	O	O
+Marie	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+naquit	O	O	O	O
+le	B-NOM_TIME	O	O	O
+5	I-NOM_TIME	O	O	O
+février	I-NOM_TIME	O	O	O
+1616	I-NOM_TIME	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+un	O	B-NOM_FAC	O	O
+vieux	O	I-NOM_FAC	O	O
+château	O	I-NOM_FAC	O	O
+féodal	O	I-NOM_FAC	O	O
+du	B-PROP_GPE	I-NOM_FAC	O	O
+Périgord	I-PROP_GPE	I-NOM_FAC	O	O
+,	O	O	O	O
+qui	B-PRON_FAC	O	O	O
+tour	O	O	O	O
+à	O	O	O	O
+tour	O	O	O	O
+appartint	O	O	O	O
+à	O	O	O	O
+Gui	B-PROP_PER	O	O	O
+le	I-PROP_PER	O	O	O
+Noir	I-PROP_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+Lastours	B-PROP_PER	O	O	O
+,	O	O	O	O
+dit	O	O	O	O
+le	O	O	O	O
+Grand	O	O	O	O
+pour	O	O	O	O
+ses	B-PRON_PER	O	O	O
+exploits	O	O	O	O
+dans	O	O	O	O
+les	B-NOM_HIST	O	O	O
+croisades	I-NOM_HIST	O	O	O
+,	O	O	O	O
+au	B-NOM_PER	O	O	O
+fameux	I-NOM_PER	O	O	O
+poète	I-NOM_PER	O	O	O
+guerrier	I-NOM_PER	O	O	O
+Bertrand	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Born	I-NOM_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+Pierre	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Gontaut	I-PROP_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+à	O	O	O	O
+d	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+autres	O	I-NOM_PER	O	O
+personnages	O	I-NOM_PER	O	O
+illustres	O	I-NOM_PER	O	O
+du	B-NOM_TIME	I-NOM_PER	O	O
+moyen	I-NOM_TIME	I-NOM_PER	O	O
+âge	I-NOM_TIME	I-NOM_PER	O	O
+,	O	O	O	O
+qui	B-PRON_FAC	O	O	O
+servit	O	O	O	O
+souvent	O	O	O	O
+de	O	O	O	O
+rempart	O	O	O	O
+contre	O	O	O	O
+les	O	O	O	O
+incursions	O	O	O	O
+de	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+ennemi	O	O	O	O
+dans	O	O	O	O
+les	O	O	B-NOM_HIST	O
+guerres	O	O	I-NOM_HIST	O
+des	B-NOM_PER	O	I-NOM_HIST	O
+Anglais	I-NOM_PER	O	I-NOM_HIST	O
+au	O	B-NOM_TIME	I-NOM_HIST	O
+XVe	O	I-NOM_TIME	I-NOM_HIST	O
+et	O	I-NOM_TIME	I-NOM_HIST	O
+au	B-NOM_TIME	I-NOM_TIME	I-NOM_HIST	O
+XVIe	I-NOM_TIME	I-NOM_TIME	I-NOM_HIST	O
+siècle	I-NOM_TIME	I-NOM_TIME	I-NOM_HIST	O
+,	O	O	O	O
+et	O	O	O	O
+depuis	O	O	O	O
+est	O	O	O	O
+devenu	O	O	O	O
+une	B-NOM_FAC	O	O	O
+grande	I-NOM_FAC	O	O	O
+et	I-NOM_FAC	O	O	O
+noble	I-NOM_FAC	O	O	O
+résidence	I-NOM_FAC	O	O	O
+,	O	O	O	O
+diminuée	O	O	O	O
+aujourd	B-NOM_TIME	O	O	O
+’	I-NOM_TIME	O	O	O
+hui	I-NOM_TIME	O	O	O
+,	O	O	O	O
+mais	O	O	O	O
+encore	O	O	O	O
+fort	O	O	O	O
+bien	O	O	O	O
+conservée	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+surtout	O	O	O	O
+très	O	O	O	O
+dignement	O	O	O	O
+habitée	O	O	O	O
+.	O	O	O	O
+
+Marie	B-PROP_PER	O	O	O
+était	O	O	O	O
+le	O	B-NOM_PER	O	O
+dernier	O	I-NOM_PER	O	O
+enfant	O	I-NOM_PER	O	O
+du	B-NOM_PER	I-NOM_PER	O	O
+marquis	I-NOM_PER	I-NOM_PER	O	O
+Charles	I-NOM_PER	I-NOM_PER	O	O
+de	I-NOM_PER	I-NOM_PER	O	O
+Hautefort	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+maréchal	O	O	B-NOM_PER	O
+de	O	O	I-NOM_PER	O
+camp	O	O	I-NOM_PER	O
+des	O	B-NOM_ORG	I-NOM_PER	O
+armées	O	I-NOM_ORG	I-NOM_PER	O
+du	B-NOM_PER	I-NOM_ORG	I-NOM_PER	O
+roi	I-NOM_PER	I-NOM_ORG	I-NOM_PER	O
+et	O	O	O	O
+gentilhomme	O	B-NOM_PER	O	O
+ordinaire	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+sa	B-NOM_FAC	I-NOM_PER	O	O
+chambre	I-NOM_FAC	I-NOM_PER	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O
+avait	O	O
+épousé	O	O
+Renée	B-PROP_PER	O
+de	I-PROP_PER	O
+Bellay	I-PROP_PER	O
+,	O	O
+de	O	O
+l	B-NOM_FAC	O
+’	I-NOM_FAC	O
+ancienne	I-NOM_FAC	O
+maison	I-NOM_FAC	O
+de	I-NOM_FAC	O
+La	I-NOM_FAC	O
+Flotte	I-NOM_FAC	O
+Hauterive	I-NOM_FAC	O
+,	O	O
+et	O	O
+de	O	O
+ce	O	O
+mariage	O	O
+étaient	O	O
+sortis	O	O
+deux	B-NOM_PER	O
+fils	I-NOM_PER	O
+et	O	O
+quatre	B-NOM_PER	O
+filles	I-NOM_PER	O
+.	O	O
+
+Le	B-NOM_PER	O	O	O
+fils	I-NOM_PER	O	O	O
+aîné	I-NOM_PER	O	O	O
+,	O	O	O	O
+Jacques	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+François	I-PROP_PER	O	O	O
+,	O	O	O	O
+devint	O	O	O	O
+lieutenant	B-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+général	I-NOM_PER	O	O	O
+,	O	O	O	O
+premier	O	B-NOM_PER	O	O
+écuyer	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+chevalier	O	B-NOM_PER	O	O
+des	O	I-NOM_PER	O	O
+ordres	O	I-NOM_PER	O	O
+du	O	I-NOM_PER	O	O
+roi	O	I-NOM_PER	O	O
+,	O	O	O	O
+fameux	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+fois	O	O	O	O
+par	O	O	O	O
+sa	B-PRON_PER	O	O	O
+parcimonie	O	O	O	O
+pendant	O	O	O	O
+sa	B-PRON_PER	O	O	O
+vie	O	O	O	O
+et	O	O	O	O
+ses	B-PRON_PER	O	O	O
+largesses	O	O	O	O
+après	O	O	O	O
+sa	B-PRON_PER	O	O	O
+mort	O	O	O	O
+.	O	O	O	O
+
+Ne	O	O
+s	O	O
+’	O	O
+étant	O	O
+pas	O	O
+marié	O	O
+,	O	O
+il	B-PRON_PER	O
+laissa	O	O
+son	B-PRON_PER	O
+titre	O	O
+,	O	O
+ainsi	O	O
+que	O	O
+sa	B-PRON_PER	O
+charge	O	O
+de	O	O
+premier	O	O
+écuyer	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+à	O	O
+son	B-NOM_PER	O
+cadet	I-NOM_PER	O
+Gilles	I-NOM_PER	O
+de	I-NOM_PER	O
+Hautefort	I-NOM_PER	O
+,	O	O
+longtemps	O	O
+connu	O	O
+sous	O	O
+le	O	O
+nom	O	O
+de	O	O
+comte	B-NOM_PER	O
+de	I-NOM_PER	O
+Montignac	I-NOM_PER	O
+,	O	O
+qui	B-PRON_PER	O
+suivit	O	O
+avec	O	O
+succès	O	O
+la	O	O
+carrière	O	O
+des	O	O
+armes	O	O
+,	O	O
+et	O	O
+parvint	O	O
+aussi	O	O
+au	O	O
+grade	O	O
+de	O	O
+lieutenant	O	O
+-	O	O
+général	O	O
+.	O	O
+
+C	B-PRON_PER	O
+’	O	O
+est	O	O
+lui	B-PRON_PER	O
+qui	B-PRON_PER	O
+a	O	O
+continué	O	O
+la	B-NOM_PER	O
+famille	I-NOM_PER	O
+;	O	O
+il	B-PRON_PER	O
+épousa	O	O
+en	O	O
+1650	B-NOM_TIME	O
+Marthe	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Estourmel	I-PROP_PER	O
+,	O	O
+dont	B-PRON_PER	O
+il	B-PRON_PER	O
+eut	O	O
+de	O	O
+nombreux	B-NOM_PER	O
+enfans	I-NOM_PER	O
+,	O	O
+et	O	O
+mourut	O	O
+en	O	O
+décembre	B-NOM_TIME	O
+1693	I-NOM_TIME	O
+,	O	O
+âgé	O	O
+de	O	O
+quatre	B-NOM_TIME	O
+-	I-NOM_TIME	O
+vingt	I-NOM_TIME	O
+-	I-NOM_TIME	O
+un	I-NOM_TIME	O
+ans	I-NOM_TIME	O
+.	O	O
+
+Des	B-NOM_PER	O
+quatre	I-NOM_PER	O
+filles	I-NOM_PER	O
+,	O	O
+les	B-NOM_PER	O
+deux	I-NOM_PER	O
+premières	I-NOM_PER	O
+s	O	O
+’	O	O
+éteignirent	O	O
+fort	O	O
+jeunes	O	O
+et	O	O
+n	O	O
+’	O	O
+ont	O	O
+pas	O	O
+laissé	O	O
+de	O	O
+trace	O	O
+.	O	O
+
+La	B-NOM_PER	O
+troisième	I-NOM_PER	O
+au	O	O
+contraire	O	O
+,	O	O
+née	O	O
+en	O	O
+1610	B-NOM_TIME	O
+,	O	O
+prolongea	O	O
+sa	B-PRON_PER	O
+vie	O	O
+jusqu	O	O
+’	O	O
+en	O	O
+1712	B-NOM_TIME	O
+;	O	O
+on	O	O
+l	B-PRON_PER	O
+’	O	O
+appelait	O	O
+mademoiselle	B-NOM_PER	O
+d	I-NOM_PER	O
+’	I-NOM_PER	O
+Escars	I-NOM_PER	O
+.	O	O
+
+En	O	O
+1653	B-NOM_TIME	O
+,	O	O
+elle	B-PRON_PER	O
+fut	O	O
+mariée	O	O
+à	O	O
+François	B-PROP_PER	O
+de	I-PROP_PER	O
+Choiseul	I-PROP_PER	O
+,	O	O
+marquis	O	O
+de	O	O
+Praslin	O	O
+,	O	O
+fils	O	O
+du	O	O
+premier	O	O
+maréchal	O	O
+de	O	O
+ce	O	O
+nom	O	O
+:	O	O
+elle	B-PRON_PER	O
+ne	O	O
+manquait	O	O
+ni	O	O
+de	O	O
+beauté	O	O
+ni	O	O
+d	O	O
+’	O	O
+esprit	O	O
+,	O	O
+mais	O	O
+la	O	O
+figure	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+fit	O	O
+dans	O	O
+le	O	O
+monde	O	O
+ainsi	O	O
+que	O	O
+ses	B-NOM_PER	O
+deux	I-NOM_PER	O
+frères	I-NOM_PER	O
+,	O	O
+ils	B-PRON_PER	O
+la	O	O
+devaient	O	O
+surtout	O	O
+à	O	O
+l	O	O
+’	O	O
+éclat	O	O
+que	O	O
+jeta	O	O
+de	O	O
+bonne	O	O
+heure	O	O
+et	O	O
+à	O	O
+la	O	O
+haute	O	O
+renommée	O	O
+que	O	O
+garda	O	O
+toute	O	O
+sa	B-PRON_PER	O
+vie	O	O
+leur	B-PRON_PER	O
+sœur	O	O
+cadette	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Celle	B-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+ci	I-NOM_PER	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+peine	O	O	O	O
+née	O	O	O	O
+quand	O	O	O	O
+mourut	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+père	O	I-NOM_PER	O	O
+,	O	O	O	O
+que	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+mère	O	I-NOM_PER	O	O
+suivit	O	O	O	O
+bientôt	O	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+sorte	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+resta	O	O	O	O
+en	O	O	O	O
+très	O	O	O	O
+bas	O	O	O	O
+âge	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+presque	O	O	O	O
+sans	O	O	O	O
+biens	O	O	O	O
+,	O	O	O	O
+confiée	O	O	O	O
+aux	O	O	O	O
+soins	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+grand	O	I-NOM_PER	O	O
+mère	O	I-NOM_PER	O	O
+,	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Flotte	I-PROP_PER	O	O	O
+Hauterive	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+Ses	B-NOM_TIME	O
+premières	I-NOM_TIME	O
+années	I-NOM_TIME	O
+s	O	O
+’	O	O
+écoulèrent	O	O
+dans	O	O
+l	O	O
+’	O	O
+obscurité	O	O
+et	O	O
+la	O	O
+monotonie	O	O
+de	O	O
+la	O	O
+vie	O	O
+de	O	O
+province	B-NOM_LOC	O
+.	O	O
+
+La	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+,	O	O
+qui	B-PRON_PER	O
+promettait	O	O
+d	O	O
+’	O	O
+être	O	O
+belle	O	O
+et	O	O
+spirituelle	O	O
+,	O	O
+ne	O	O
+tarda	O	O
+pas	O	O
+à	O	O
+s	O	O
+’	O	O
+y	B-PRON_LOC	O
+ennuyer	O	O
+.	O	O
+
+Souvent	O	O
+,	O	O
+chez	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Flotte	I-PROP_PER	O
+,	O	O
+elle	B-PRON_PER	O
+entendait	O	O
+parler	O	O
+de	O	O
+la	B-NOM_ORG	O
+cour	I-NOM_ORG	O
+,	O	O
+de	O	O
+cette	O	O
+cour	O	O
+brillante	O	O
+et	O	O
+agitée	O	O
+vers	O	O
+laquelle	B-PRON_ORG	O
+étaient	O	O
+tournés	O	O
+tous	O	O
+les	O	O
+regards	O	O
+,	O	O
+et	O	O
+où	B-PRON_ORG	O
+se	O	O
+décidaient	O	O
+les	O	O
+destinées	O	O
+de	O	O
+la	B-PROP_GPE	O
+France	I-PROP_GPE	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+aussi	O	O	O	O
+elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+sentit	O	O	O	O
+appelée	O	O	O	O
+à	O	O	O	O
+y	B-PRON_ORG	O	O	O
+jouer	O	O	O	O
+un	O	O	O	O
+rôle	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+depuis	O	O	O	O
+elle	B-PRON_PER	O	O	O
+racontait	O	O	O	O
+plaisamment	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+douze	O	B-NOM_TIME	O	O
+ou	O	I-NOM_TIME	O	O
+treize	B-NOM_TIME	I-NOM_TIME	O	O
+ans	I-NOM_TIME	I-NOM_TIME	O	O
+,	O	O	O	O
+unissant	O	O	O	O
+déjà	O	O	O	O
+la	O	O	O	O
+plus	O	O	O	O
+sincère	O	O	O	O
+piété	O	O	O	O
+à	O	O	O	O
+cette	O	O	O	O
+ardeur	O	O	O	O
+de	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+âme	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+appelle	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+ambition	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+enfermait	O	O	O	O
+dans	O	O	O	O
+sa	B-NOM_FAC	O	O	O
+chambre	I-NOM_FAC	O	O	O
+pour	O	O	O	O
+prier	O	O	O	O
+Dieu	B-PROP_PER	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+faire	O	O	O	O
+aller	O	O	O	O
+à	O	O	O	O
+la	B-NOM_ORG	O	O	O
+cour	I-NOM_ORG	O	O	O
+.	O	O	O	O
+
+Sa	B-PRON_PER	O
+prière	O	O
+fut	O	O
+exaucée	O	O
+:	O	O
+les	O	O
+affaires	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Flotte	I-PROP_PER	O
+l	B-PRON_PER	O
+’	O	O
+ayant	O	O
+appelée	O	O
+à	O	O
+Paris	B-PROP_GPE	O
+,	O	O
+elle	B-PRON_PER	O
+y	B-PRON_GPE	O
+amena	O	O
+avec	O	O
+elle	B-PRON_PER	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+aimable	I-NOM_PER	O
+enfant	I-NOM_PER	O
+,	O	O
+dont	B-PRON_PER	O
+les	O	O
+grâces	O	O
+naissantes	O	O
+firent	O	O
+partout	O	O
+la	O	O
+plus	O	O
+heureuse	O	O
+impression	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+plut	O	O	O	O
+particulièrement	O	O	O	O
+à	O	O	O	O
+la	B-NOM_PER	O	O	O
+princesse	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Conti	I-NOM_PER	O	O	O
+,	O	O	O	O
+Louise	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+Marguerite	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Guise	I-PROP_PER	O	O	O
+,	O	O	O	O
+fille	O	B-NOM_PER	O	O
+du	O	I-NOM_PER	O	O
+Balafré	B-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+si	O	O	O	O
+célèbre	O	O	O	O
+par	O	O	O	O
+sa	B-PRON_PER	O	O	O
+beauté	O	O	O	O
+,	O	O	O	O
+son	B-PRON_PER	O	O	O
+esprit	O	O	O	O
+et	O	O	O	O
+sa	B-PRON_PER	O	O	O
+galanterie	O	O	O	O
+,	O	O	O	O
+la	O	B-NOM_PER	O	O
+brillante	O	I-NOM_PER	O	O
+maîtresse	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Bassompierre	B-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+auteur	O	B-NOM_PER	O	O
+des	O	I-NOM_PER	O	O
+Amours	O	I-NOM_PER	O	O
+du	O	I-NOM_PER	O	O
+grand	O	I-NOM_PER	O	O
+Alcandre	B-PROP_PER	I-NOM_PER	O	O
+.	O	O	O	O
+
+La	B-NOM_PER	O
+princesse	I-NOM_PER	O
+la	B-PRON_PER	O
+trouva	O	O
+si	O	O
+jolie	O	O
+,	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+voulut	O	O
+la	B-PRON_PER	O
+mener	O	O
+avec	O	O
+elle	B-PRON_PER	O
+à	O	O
+la	O	O
+promenade	O	O
+,	O	O
+et	O	O
+tout	B-NOM_PER	O
+le	I-NOM_PER	O
+monde	I-NOM_PER	O
+cherchait	O	O
+à	O	O
+deviner	O	O
+quelle	B-NOM_PER	O
+était	O	O
+cette	B-NOM_PER	O
+charmante	I-NOM_PER	O
+personne	I-NOM_PER	O
+que	B-PRON_PER	O
+l	O	O
+’	O	O
+on	O	O
+voyait	O	O
+à	O	O
+la	O	O
+portière	O	O
+de	O	O
+son	B-PRON_PER	O
+carrosserie	O	O
+soir	O	O
+,	O	O
+on	O	O
+ne	O	O
+parla	O	O
+que	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+et	O	O
+il	O	O
+ne	O	O
+fut	O	O
+pas	O	O
+difficile	O	O
+d	O	O
+’	O	O
+engager	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+-	I-NOM_PER	O
+mère	I-NOM_PER	O
+,	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Médicis	I-PROP_PER	O
+,	O	O
+à	O	O
+la	B-PRON_PER	O
+prendre	O	O
+parmi	O	O
+ses	B-NOM_PER	O
+filles	I-NOM_PER	O
+d	I-NOM_PER	O
+’	I-NOM_PER	O
+honneur	I-NOM_PER	O
+.	O	O
+
+Voilà	O	O
+donc	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+sur	O	O
+le	B-NOM_FAC	O
+théâtre	I-NOM_FAC	O
+où	B-PRON_FAC	O
+elle	B-PRON_PER	O
+avait	O	O
+tant	O	O
+souhaité	O	O
+paraître	O	O
+;	O	O
+elle	B-PRON_PER	O
+y	B-PRON_FAC	O
+montra	O	O
+des	O	O
+qualités	O	O
+qui	O	O
+en	O	O
+peu	O	O
+de	O	O
+temps	O	O
+la	B-PRON_PER	O
+firent	O	O
+aimer	O	O
+et	O	O
+admirer	O	O
+tout	O	O
+ensemble	O	O
+:	O	O
+un	O	O
+rare	O	O
+mélange	O	O
+de	O	O
+bonté	O	O
+et	O	O
+de	O	O
+fermeté	O	O
+,	O	O
+une	O	O
+piété	O	O
+vive	O	O
+avec	O	O
+infiniment	O	O
+d	O	O
+’	O	O
+esprit	O	O
+,	O	O
+un	O	O
+très	O	O
+grand	O	O
+air	O	O
+tempéré	O	O
+par	O	O
+une	O	O
+retenue	O	O
+presque	O	O
+sévère	O	O
+que	O	O
+relevait	O	O
+une	O	O
+beauté	O	O
+précoce	O	O
+.	O	O
+
+On	O	O
+l	B-PRON_PER	O
+’	O	O
+appelait	O	O
+l	B-PROP_PER	O
+’	I-PROP_PER	O
+Aurore	I-PROP_PER	O
+,	O	O
+pour	O	O
+marquer	O	O
+son	B-PRON_PER	O
+extrême	O	O
+jeunesse	O	O
+et	O	O
+son	B-PRON_PER	O
+innocent	O	O
+éclat	O	O
+.	O	O
+
+En	O	O
+1630	B-NOM_TIME	O
+,	O	O
+elle	B-PRON_PER	O
+suivit	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+-	I-NOM_PER	O
+mère	I-NOM_PER	O
+à	O	O
+Lyon	B-PROP_GPE	O
+,	O	O
+où	B-PRON_GPE	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+était	O	O
+tombé	O	O
+sérieusement	O	O
+malade	O	O
+,	O	O
+pendant	O	O
+que	O	O
+Richelieu	B-PROP_PER	O
+était	O	O
+à	O	O
+la	O	O
+tête	O	O
+de	O	O
+l	B-NOM_ORG	O
+’	I-NOM_ORG	O
+armée	I-NOM_ORG	O
+en	O	O
+Italie	B-PROP_GPE	O
+.	O	O
+
+C	O	O
+’	O	O
+est	O	O
+là	B-NOM_GPE	O
+que	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+la	B-PRON_PER	O
+vit	O	O
+pour	O	O
+la	O	O
+première	O	O
+fois	O	O
+et	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+commença	O	O
+à	O	O
+la	B-PRON_PER	O
+distinguer	O	O
+:	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+avait	O	O
+alors	O	O
+quatorze	B-NOM_TIME	O
+ans	I-NOM_TIME	O
+.	O	O
+
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+était	O	O	O	O
+l	B-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+homme	I-NOM_PER	O	O	O
+du	I-NOM_PER	O	O	O
+monde	I-NOM_PER	O	O	O
+qui	B-PRON_PER	O	O	O
+ressemblait	O	O	O	O
+le	O	O	O	O
+moins	O	O	O	O
+à	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+père	O	I-NOM_PER	O	O
+Henri	O	I-NOM_PER	O	O
+IV	O	I-NOM_PER	O	O
+:	O	O	O	O
+il	B-PRON_PER	O	O	O
+repoussait	O	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+idée	O	O	O	O
+du	O	O	O	O
+moindre	O	O	O	O
+dérèglement	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+les	O	O	O	O
+beautés	O	O	O	O
+faciles	O	O	O	O
+de	O	O	O	O
+la	O	O	B-NOM_ORG	O
+cour	O	O	I-NOM_ORG	O
+de	O	O	I-NOM_ORG	O
+sa	B-PRON_PER	B-NOM_PER	I-NOM_ORG	O
+mère	O	I-NOM_PER	I-NOM_ORG	O
+et	O	O	I-NOM_ORG	O
+de	O	O	I-NOM_ORG	O
+sa	B-PRON_PER	B-NOM_PER	I-NOM_ORG	O
+femme	O	I-NOM_PER	I-NOM_ORG	O
+n	O	O	O	O
+’	O	O	O	O
+attiraient	O	O	O	O
+pas	O	O	O	O
+même	O	O	O	O
+ses	B-PRON_PER	O	O	O
+regards	O	O	O	O
+;	O	O	O	O
+mais	O	O	O	O
+ce	O	O	O	O
+cœur	O	O	O	O
+mélancolique	O	O	O	O
+et	O	O	O	O
+chaste	O	O	O	O
+avait	O	O	O	O
+besoin	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	O	O	O	O
+affection	O	O	O	O
+ou	O	O	O	O
+du	O	O	O	O
+moins	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	O	O	O	O
+habitude	O	O	O	O
+particulière	O	O	O	O
+qui	O	O	O	O
+lui	B-PRON_PER	O	O	O
+tînt	O	O	O	O
+lieu	O	O	O	O
+de	O	O	O	O
+tout	O	O	O	O
+le	O	O	O	O
+reste	O	O	O	O
+et	O	O	O	O
+le	B-PRON_PER	O	O	O
+consolât	O	O	O	O
+des	O	O	O	O
+ennuis	O	O	O	O
+de	O	O	O	O
+la	B-NOM_GPE	O	O	O
+royauté	I-NOM_GPE	O	O	O
+.	O	O	O	O
+
+La	O	O	O	O
+modestie	O	O	O	O
+aussi	O	O	O	O
+bien	O	O	O	O
+que	O	O	O	O
+la	O	O	O	O
+beauté	O	O	O	O
+de	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+le	B-PRON_PER	O	O	O
+touchèrent	O	O	O	O
+;	O	O	O	O
+peu	O	O	O	O
+la	O	O	O	O
+peu	O	O	O	O
+il	B-PRON_PER	O	O	O
+ne	O	O	O	O
+put	O	O	O	O
+se	O	O	O	O
+passer	O	O	O	O
+du	O	O	O	O
+plaisir	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+voir	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+entretenir	O	O	O	O
+avec	O	O	O	O
+elle	B-PRON_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+lorsqu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+son	B-PRON_PER	O	O	O
+retour	O	O	O	O
+de	O	O	O	O
+Lyon	B-PROP_GPE	O	O	O
+,	O	O	O	O
+après	O	O	O	O
+la	O	O	O	O
+fameuse	O	O	O	O
+journée	O	O	O	O
+des	O	O	O	O
+dupes	O	O	O	O
+,	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+intérêt	O	O	O	O
+de	O	O	O	O
+l	B-NOM_GPE	O	O	O
+’	I-NOM_GPE	O	O	O
+état	I-NOM_GPE	O	O	O
+et	O	O	O	O
+sa	B-PRON_PER	O	O	O
+fidélité	O	O	O	O
+à	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+le	B-PRON_PER	O	O	O
+forcèrent	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+éloigner	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+mère	O	I-NOM_PER	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+ôta	O	O	O	O
+la	B-PROP_PER	O	O	O
+jeune	I-PROP_PER	O	O	O
+Marie	I-PROP_PER	O	O	O
+et	O	O	O	O
+la	B-PRON_PER	O	O	O
+donna	O	O	O	O
+à	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+Anne	I-NOM_PER	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+la	B-PRON_PER	O	O	O
+priant	O	O	O	O
+de	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+aimer	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+bien	O	O	O	O
+traiter	O	O	O	O
+pour	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+amour	O	O	O	O
+de	O	O	O	O
+lui	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+En	O	O
+même	O	O
+temps	O	O
+il	B-PRON_PER	O
+fit	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Flotte	I-PROP_PER	O
+Hauterive	I-PROP_PER	O
+dame	O	O
+d	O	O
+’	O	O
+atours	O	O
+à	O	O
+la	O	O
+place	O	O
+de	O	O
+Mme	B-PROP_PER	O
+du	I-PROP_PER	O
+Fargis	I-PROP_PER	O
+,	O	O
+qui	B-PRON_PER	O
+venait	O	O
+d	O	O
+’	O	O
+être	O	O
+exilée	O	O
+.	O	O
+
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+reçut	O	O
+d	O	O
+’	O	O
+abord	O	O
+assez	O	O
+mal	O	O
+le	O	O
+présent	O	O
+qu	O	O
+’	O	O
+on	O	O
+lui	B-PRON_PER	O
+faisait	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+tenait	O	O	O	O
+à	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+du	I-PROP_PER	O	O	O
+Fargis	I-PROP_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+comme	O	O	O	O
+elle	B-PRON_PER	O	O	O
+,	O	O	O	O
+était	O	O	O	O
+du	O	O	O	O
+parti	O	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+mère	I-NOM_PER	O	O	O
+,	O	O	O	O
+de	O	O	O	O
+l	B-PROP_GPE	O	O	O
+’	I-PROP_GPE	O	O	O
+Espagne	I-PROP_GPE	O	O	O
+et	O	O	O	O
+des	O	O	O	O
+mécontens	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+elle	B-PRON_PER	O	O	O
+regarda	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+nouvelle	O	I-NOM_PER	O	O
+fille	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+honneur	O	I-NOM_PER	O	O
+,	O	O	O	O
+non	O	O	O	O
+-	O	O	O	O
+seulement	O	O	O	O
+comme	O	O	O	O
+une	O	O	O	O
+rivale	O	O	O	O
+auprès	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+,	O	O	O	O
+mais	O	O	O	O
+comme	O	O	O	O
+une	O	O	O	O
+surveillante	O	O	O	O
+et	O	O	O	O
+une	O	O	O	O
+ennemie	O	O	O	O
+.	O	O	O	O
+
+Elle	B-PRON_PER	O
+reconnut	O	O
+bientôt	O	O
+à	O	O
+quel	O	O
+point	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+trompée	O	O
+.	O	O
+
+Le	O	O
+trait	O	O
+particulier	O	O
+du	O	O
+caractère	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+par	O	O
+-	O	O
+dessus	O	O
+toutes	O	O
+ses	B-PRON_PER	O
+autres	O	O
+qualités	O	O
+,	O	O
+le	O	O
+fond	O	O
+même	O	O
+de	O	O
+son	B-PRON_PER	O
+âme	O	O
+,	O	O
+était	O	O
+une	O	O
+fierté	O	O
+généreuse	O	O
+,	O	O
+à	O	O
+moitié	O	O
+chevaleresque	O	O
+,	O	O
+à	O	O
+moitié	O	O
+chrétienne	O	O
+,	O	O
+qui	O	O
+la	B-PRON_PER	O
+poussait	O	O
+du	O	O
+côté	O	O
+des	O	O
+opprimés	O	O
+et	O	O
+des	O	O
+faibles	O	O
+.	O	O
+
+La	O	O
+toute	O	O
+-	O	O
+puissance	O	O
+n	O	O
+’	O	O
+avait	O	O
+aucune	O	O
+séduction	O	O
+pour	O	O
+elle	B-PRON_PER	O
+,	O	O
+et	O	O
+la	O	O
+seule	O	O
+apparence	O	O
+de	O	O
+la	O	O
+sénilité	O	O
+la	B-PRON_PER	O
+révoltait	O	O
+.	O	O
+
+Dans	O	O
+cette	B-NOM_PER	O
+belle	I-NOM_PER	O
+enfant	I-NOM_PER	O
+était	O	O
+cachée	O	O
+une	B-NOM_PER	O
+héroïne	I-NOM_PER	O
+qui	B-PRON_PER	O
+parut	O	O
+bien	O	O
+vite	O	O
+dès	O	O
+que	O	O
+les	O	O
+occasions	O	O
+se	O	O
+présentèrent	O	O
+.	O	O
+
+Voyant	O	O
+sa	B-NOM_PER	O
+maîtresse	I-NOM_PER	O
+persécutée	I-NOM_PER	O
+et	I-NOM_PER	O
+malheureuse	I-NOM_PER	O
+,	O	O
+par	O	O
+cela	O	O
+seul	O	O
+elle	B-PRON_PER	O
+se	O	O
+sentit	O	O
+attirée	O	O
+vers	O	O
+elle	B-PRON_PER	O
+,	O	O
+et	O	O
+par	O	O
+goût	O	O
+comme	O	O
+par	O	O
+honneur	O	O
+elle	B-PRON_PER	O
+résolut	O	O
+de	O	O
+la	B-PRON_PER	O
+bien	O	O
+servir	O	O
+.	O	O
+
+Peu	O	O	O	O
+à	O	O	O	O
+peu	O	O	O	O
+sa	B-PRON_PER	O	O	O
+loyauté	O	O	O	O
+,	O	O	O	O
+sa	B-PRON_PER	O	O	O
+parfaite	O	O	O	O
+candeur	O	O	O	O
+,	O	O	O	O
+son	B-PRON_PER	O	O	O
+esprit	O	O	O	O
+et	O	O	O	O
+ses	B-PRON_PER	O	O	O
+grâces	O	O	O	O
+charmèrent	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+presque	O	O	O	O
+autant	O	O	O	O
+que	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+la	O	B-NOM_PER	O	O
+favorite	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Louis	B-PROP_PER	I-NOM_PER	O	O
+XIII	I-PROP_PER	I-NOM_PER	O	O
+devint	O	O	O	O
+aussi	O	O	O	O
+celle	O	B-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+Anne	B-PROP_PER	I-NOM_PER	O	O
+d	I-PROP_PER	I-NOM_PER	O	O
+’	I-PROP_PER	I-NOM_PER	O	O
+Autriche	I-PROP_PER	I-NOM_PER	O	O
+.	O	O	O	O
+
+La	O	O
+première	O	O
+galanterie	O	O
+déclarée	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+envers	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+fut	O	O
+à	O	O
+un	O	O
+sermon	O	O
+où	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+était	O	O
+avec	O	O
+toute	B-NOM_PER	O
+la	I-NOM_PER	O
+cour	I-NOM_PER	O
+.	O	O
+
+Les	B-NOM_PER	O
+filles	I-NOM_PER	O
+d	I-NOM_PER	O
+’	I-NOM_PER	O
+honneur	I-NOM_PER	O
+étaient	O	O
+,	O	O
+selon	O	O
+l	O	O
+’	O	O
+usage	O	O
+du	O	O
+temps	O	O
+,	O	O
+assises	O	O
+par	O	O
+terre	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+prit	O	O
+le	O	O
+carreau	O	O
+de	O	O
+velours	O	O
+sur	O	O
+lequel	O	O
+il	B-PRON_PER	O
+était	O	O
+à	O	O
+genoux	O	O
+,	O	O
+et	O	O
+l	O	O
+’	O	O
+envoya	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+pour	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+se	O	O
+pût	O	O
+commodément	O	O
+asseoir	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+,	O	O
+toute	O	O
+surprise	O	O
+,	O	O
+rougit	O	O
+,	O	O
+et	O	O
+sa	B-PRON_PER	O
+rougeur	O	O
+augmenta	O	O
+sa	B-PRON_PER	O
+beauté	O	O
+.	O	O
+
+Ayant	O	O
+levé	O	O
+les	O	O
+yeux	O	O
+,	O	O
+elle	B-PRON_PER	O
+vit	O	O
+ceux	O	O
+de	O	O
+toute	B-NOM_PER	O
+la	I-NOM_PER	O
+cour	I-NOM_PER	O
+arrêtés	O	O
+sur	O	O
+elle	B-PRON_PER	O
+.	O	O
+
+Elle	B-PRON_PER	O
+reçut	O	O
+ce	O	O
+carreau	O	O
+d	O	O
+’	O	O
+un	O	O
+air	O	O
+si	O	O
+modeste	O	O
+,	O	O
+si	O	O
+respectueux	O	O
+et	O	O
+si	O	O
+grand	O	O
+,	O	O
+qu	O	O
+’	O	O
+il	O	O
+n	O	O
+’	O	O
+y	O	O
+eut	O	O
+personne	B-PRON_PER	O
+qui	B-PRON_PER	O
+ne	O	O
+l	B-PRON_PER	O
+’	O	O
+admirât	O	O
+.	O	O
+
+La	B-NOM_PER	O
+reine	I-NOM_PER	O
+lui	B-PRON_PER	O
+ayant	O	O
+fait	O	O
+signe	O	O
+de	O	O
+le	O	O
+prendre	O	O
+,	O	O
+elle	B-PRON_PER	O
+le	O	O
+mit	O	O
+auprès	O	O
+d	O	O
+’	O	O
+elle	B-PRON_PER	O
+sans	O	O
+vouloir	O	O
+s	O	O
+’	O	O
+en	O	O
+servir	O	O
+.	O	O
+
+Il	O	O
+n	O	O
+’	O	O
+en	O	O
+fallut	O	O
+pas	O	O
+davantage	O	O
+pour	O	O
+lui	B-PRON_PER	O
+attirer	O	O
+encore	O	O
+plus	O	O
+de	O	O
+considération	O	O
+qu	O	O
+’	O	O
+auparavant	O	O
+.	O	O
+
+La	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+fut	O	O	O	O
+la	O	O	O	O
+première	O	O	O	O
+à	O	O	O	O
+la	B-PRON_PER	O	O	O
+rassurer	O	O	O	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+voyait	O	O	O	O
+tant	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+estime	O	O	O	O
+du	O	O	O	O
+côté	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+et	O	O	O	O
+tant	O	O	O	O
+de	O	O	O	O
+vertu	O	O	O	O
+du	O	O	O	O
+côté	O	O	O	O
+de	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+devint	O	O	O	O
+leur	B-PRON_PER	B-NOM_PER	O	O
+confidente	O	I-NOM_PER	O	O
+.	O	O	O	O
+
+Les	O	O
+mémoires	O	O
+du	O	O
+temps	O	O
+abondent	O	O
+en	O	O
+piquans	O	O
+détails	O	O
+sur	O	O
+ces	O	O
+premières	O	O
+et	O	O
+platoniques	O	O
+amours	O	O
+de	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+.	O	O
+
+Écoutons	O	O
+Mademoiselle	B-NOM_PER	O
+:	O	O
+«	O	O
+La	B-NOM_PER	O
+cour	I-NOM_PER	O
+étoit	O	O
+fort	O	O
+agréable	O	O
+alors	O	O
+.	O	O
+
+Les	O	O
+amours	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+pour	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+tâchoit	O	O
+de	O	O
+divertir	O	O
+tous	B-NOM_TIME	O
+les	I-NOM_TIME	O
+jours	I-NOM_TIME	O
+,	O	O
+y	O	O
+contribuaient	O	O
+beaucoup	O	O
+.	O	O
+
+La	O	O
+chasse	O	O
+étoit	O	O
+un	O	O
+des	O	O
+plus	O	O
+grands	O	O
+plaisirs	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+;	O	O
+nous	B-PRON_PER	O
+y	O	O
+allions	O	O
+souvent	O	O
+avec	O	O
+lui	B-PRON_PER	O
+.	O	O
+
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+Chémerault	B-PROP_PER	O	O	O
+et	O	O	O	O
+Saint	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+Louis	I-PROP_PER	O	O	O
+,	O	O	O	O
+filles	O	B-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+;	O	O	O	O
+d	B-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Escars	I-PROP_PER	O	O	O
+,	O	O	O	O
+sœur	O	O	O	O
+de	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+Beaumont	B-PROP_PER	O	O	O
+venoient	O	O	O	O
+avec	O	O	O	O
+moi	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+Nous	B-PRON_PER	O
+étions	O	O
+toutes	O	O
+vêtues	O	O
+de	O	O
+couleur	O	O
+,	O	O
+sur	O	O
+de	O	O
+belles	O	O
+haquenées	O	O
+richement	O	O
+caparaçonnées	O	O
+,	O	O
+et	O	O
+,	O	O
+pour	O	O
+se	O	O
+garantir	O	O
+du	B-NOM_LOC	O
+soleil	I-NOM_LOC	O
+,	O	O
+chacune	B-NOM_PER	O
+avoit	O	O
+un	O	O
+chapeau	O	O
+garni	O	O
+de	O	O
+quantité	O	O
+de	O	O
+plumes	O	O
+.	O	O
+
+L	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+disposoit	O	O	O	O
+toujours	O	O	O	O
+la	O	O	O	O
+chasse	O	O	O	O
+du	O	O	O	O
+côté	O	O	O	O
+de	O	O	O	O
+quelques	B-NOM_FAC	O	O	O
+belles	I-NOM_FAC	O	O	O
+maisons	I-NOM_FAC	O	O	O
+,	O	O	O	O
+où	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+trouvoit	O	O	O	O
+de	O	O	O	O
+grandes	O	O	O	O
+collations	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+au	O	O	O	O
+retour	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+se	O	O	O	O
+mettoit	O	O	O	O
+dans	O	O	O	O
+son	B-PRON_PER	B-NOM_VEH	O	O
+carrosse	O	I-NOM_VEH	O	O
+avec	O	O	O	O
+Mlle	B-PROP_FAC	B-PROP_PER	O	O
+de	I-PROP_FAC	I-PROP_PER	O	O
+Hautefort	I-PROP_FAC	I-PROP_PER	O	O
+et	O	I-PROP_PER	O	O
+moi	B-PRON_PER	I-PROP_PER	O	O
+.	O	O	O	O
+
+Quand	O	O	O	O
+il	B-PRON_PER	O	O	O
+étoit	O	O	O	O
+de	O	O	O	O
+bonne	O	O	O	O
+humeur	O	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+nous	B-PRON_PER	O	O	O
+entretenoit	O	O	O	O
+fort	O	O	O	O
+agréablement	O	O	O	O
+de	O	O	O	O
+toutes	O	O	O	O
+choses	O	O	O	O
+…	O	O	O	O
+L	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+avoit	O	O	O	O
+régulièrement	O	O	O	O
+trois	O	B-NOM_TIME	O	O
+fois	O	I-NOM_TIME	O	O
+la	B-NOM_TIME	I-NOM_TIME	O	O
+semaine	I-NOM_TIME	I-NOM_TIME	O	O
+le	O	O	O	O
+divertissement	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+musique	O	O	O	O
+…	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+la	O	O	O	O
+plupart	O	O	O	O
+des	O	O	O	O
+airs	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+chantoit	O	O	O	O
+étoient	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+composition	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+;	O	O	O	O
+il	B-PRON_PER	O	O	O
+en	O	O	O	O
+faisoit	O	O	O	O
+même	O	O	O	O
+les	O	O	O	O
+paroles	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+le	O	O	O	O
+sujet	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+étoit	O	O	O	O
+jamais	O	O	O	O
+que	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+»	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+était	O	O
+en	O	O
+effet	O	O
+très	O	O
+capable	O	O
+de	O	O
+composer	O	O
+des	O	O
+vers	O	O
+et	O	O
+de	O	O
+les	O	O
+mettre	O	O
+en	O	O
+musique	O	O
+;	O	O
+mais	O	O
+la	O	O
+plupart	O	O
+du	O	O
+temps	O	O
+il	B-PRON_PER	O
+empruntait	O	O
+le	O	O
+secours	O	O
+d	O	O
+’	O	O
+un	O	O
+poète	O	O
+et	O	O
+d	O	O
+’	O	O
+un	O	O
+musicien	O	O
+à	O	O
+la	O	O
+mode	O	O
+.	O	O
+
+On	O	O	O	O
+a	O	O	O	O
+des	O	O	O	O
+Stances	O	O	O	O
+pour	O	O	O	O
+le	B-NOM_PER	O	O	O
+Roi	I-NOM_PER	O	O	O
+à	O	O	O	O
+madame	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+main	O	O	O	O
+de	O	O	O	O
+Benserade	B-PROP_PER	B-PROP_PER	O	O
+et	O	I-PROP_PER	O	O
+de	O	I-PROP_PER	O	O
+Boisset	B-PROP_PER	I-PROP_PER	O	O
+,	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+un	B-NOM_PER	O	O	O
+enfant	I-NOM_PER	O	O	O
+,	O	O	O	O
+représentant	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+Amour	O	O	O	O
+,	O	O	O	O
+adressait	O	O	O	O
+à	O	O	O	O
+un	B-NOM_PER	O	O	O
+autre	I-NOM_PER	O	O	O
+enfant	I-NOM_PER	O	O	O
+,	O	O	O	O
+la	B-PROP_PER	O	O	O
+jeune	I-PROP_PER	O	O	O
+Marie	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+Ne	O	O
+pouvant	O	O
+les	O	O
+chanter	O	O
+,	O	O
+nous	B-PRON_METALEPSE	O
+les	O	O
+supprimons	O	O
+;	O	O
+mais	O	O
+voici	O	O
+un	O	O
+couplet	O	O
+d	O	O
+’	O	O
+une	O	O
+autre	O	O
+chanson	O	O
+dont	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+auteur	I-NOM_PER	O
+est	O	O
+inconnu	O	O
+,	O	O
+et	O	O
+qui	B-PRON_PER	O
+,	O	O
+ce	O	O
+nous	B-PRON_METALEPSE	O
+semble	O	O
+,	O	O
+peint	O	O
+avec	O	O
+assez	O	O
+de	O	O
+grâce	O	O
+le	O	O
+charme	O	O
+qu	O	O
+’	O	O
+exerçait	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+sur	O	O
+l	O	O
+’	O	O
+humeur	O	O
+chagrine	O	O
+de	O	O
+son	B-NOM_PER	O
+royal	I-NOM_PER	O
+amant	I-NOM_PER	O
+:	O	O
+Hautefort	B-PROP_PER	O
+la	I-PROP_PER	O
+merveille	I-PROP_PER	O
+Réveille	O	O
+Tous	O	O
+les	O	O
+sens	O	O
+de	O	O
+Louis	B-PROP_PER	O
+,	O	O
+Quand	O	O
+sa	B-PRON_PER	O
+bouche	O	O
+vermeille	O	O
+Lui	B-PRON_PER	O
+fait	O	O
+voir	O	O
+un	O	O
+souris	O	O
+.	O	O
+
+Quand	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+n	O	O
+’	O	O
+aurait	O	O
+pas	O	O
+été	O	O
+aussi	O	O
+sage	O	O
+que	O	O
+belle	O	O
+,	O	O
+l	O	O
+’	O	O
+amour	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+ne	O	O
+lui	B-PRON_PER	O
+aurait	O	O
+pas	O	O
+été	O	O
+fort	O	O
+dangereux	O	O
+.	O	O
+
+Tous	B-NOM_TIME	O	O	O
+les	I-NOM_TIME	O	O	O
+soirs	I-NOM_TIME	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+entretenait	O	O	O	O
+dans	O	O	O	O
+le	O	B-NOM_FAC	O	O
+salon	O	I-NOM_FAC	O	O
+de	O	I-NOM_FAC	O	O
+la	B-NOM_PER	I-NOM_FAC	O	O
+reine	I-NOM_PER	I-NOM_FAC	O	O
+,	O	O	O	O
+mais	O	O	O	O
+il	B-PRON_PER	O	O	O
+ne	O	O	O	O
+lui	B-PRON_PER	O	O	O
+parlait	O	O	O	O
+la	O	O	O	O
+plupart	O	O	O	O
+du	O	O	O	O
+temps	O	O	O	O
+que	O	O	O	O
+de	O	O	O	O
+chiens	O	O	O	O
+,	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+oiseaux	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+chasses	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+la	B-PRON_PER	O	O	O
+craignant	O	O	O	O
+et	O	O	O	O
+se	O	O	O	O
+craignant	O	O	O	O
+lui	B-PRON_PER	O	O	O
+-	I-PRON_PER	O	O	O
+même	I-PRON_PER	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+osait	O	O	O	O
+à	O	O	O	O
+peine	O	O	O	O
+en	O	O	O	O
+lui	B-PRON_PER	O	O	O
+parlant	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+approcher	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+On	O	O
+raconte	O	O
+qu	O	O
+’	O	O
+un	B-NOM_TIME	O
+jour	I-NOM_TIME	O
+étant	O	O
+entré	O	O
+à	O	O
+l	O	O
+’	O	O
+improviste	O	O
+chez	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+et	O	O
+ayant	O	O
+trouvé	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+tenant	O	O
+un	O	O
+billet	O	O
+qu	O	O
+’	O	O
+on	O	O
+venait	O	O
+de	O	O
+lui	B-PRON_PER	O
+remettre	O	O
+,	O	O
+il	B-PRON_PER	O
+la	B-PRON_PER	O
+pria	O	O
+de	O	O
+lui	B-PRON_PER	O
+laisser	O	O
+voir	O	O
+ce	O	O
+billet	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+garde	O	O
+de	O	O
+le	O	O
+faire	O	O
+,	O	O
+parce	O	O
+qu	O	O
+’	O	O
+il	O	O
+contenait	O	O
+quelque	O	O
+plaisanterie	O	O
+sur	O	O
+sa	B-PRON_PER	O
+faveur	O	O
+nouvelle	O	O
+,	O	O
+et	O	O
+pour	O	O
+le	O	O
+cacher	O	O
+elle	B-PRON_PER	O
+le	O	O
+mit	O	O
+dans	O	O
+son	B-PRON_PER	O
+sein	O	O
+.	O	O
+
+La	B-NOM_PER	O
+reine	I-NOM_PER	O
+en	O	O
+badinant	O	O
+lui	B-PRON_PER	O
+prit	O	O
+les	O	O
+deux	O	O
+mains	O	O
+,	O	O
+et	O	O
+dit	O	O
+au	B-NOM_PER	O
+roi	I-NOM_PER	O
+de	O	O
+le	O	O
+prendre	O	O
+où	O	O
+il	O	O
+était	O	O
+.	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+n	O	O
+’	O	O
+osa	O	O
+se	O	O
+servir	O	O
+de	O	O
+sa	B-PRON_PER	O
+main	O	O
+et	O	O
+prit	O	O
+des	O	O
+pincettes	O	O
+d	O	O
+’	O	O
+argent	O	O
+qui	O	O
+étaient	O	O
+auprès	O	O
+du	O	O
+feu	O	O
+pour	O	O
+essayer	O	O
+s	O	O
+’	O	O
+il	B-PRON_PER	O
+pourrait	O	O
+avoir	O	O
+ce	O	O
+billet	O	O
+;	O	O
+mais	O	O
+elle	B-PRON_PER	O
+l	O	O
+’	O	O
+avait	O	O
+mis	O	O
+trop	O	O
+avant	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+ne	O	O
+put	O	O
+l	O	O
+’	O	O
+atteindre	O	O
+.	O	O
+
+La	B-NOM_PER	O
+reine	I-NOM_PER	O
+la	B-PRON_PER	O
+laissa	O	O
+aller	O	O
+en	O	O
+riant	O	O
+de	O	O
+sa	B-PRON_PER	O
+peur	O	O
+et	O	O
+de	O	O
+celle	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+.	O	O
+
+Si	O	O
+la	O	O
+passion	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+était	O	O
+innocente	O	O
+,	O	O
+elle	O	O
+était	O	O
+trop	O	O
+vive	O	O
+pour	O	O
+n	O	O
+’	O	O
+être	O	O
+pas	O	O
+mêlée	O	O
+de	O	O
+fréquentes	O	O
+et	O	O
+violentes	O	O
+jalousies	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+savait	O	O
+quelle	O	O
+était	O	O
+la	O	O
+conduite	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+et	O	O
+que	O	O
+,	O	O
+parmi	O	O
+tous	B-NOM_PER	O
+les	I-NOM_PER	O
+jeunes	I-NOM_PER	O
+seigneurs	I-NOM_PER	O
+qui	B-PRON_PER	O
+brillaient	O	O
+à	O	O
+la	B-NOM_PER	O
+cour	I-NOM_PER	O
+,	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+en	B-PRON_PER	O
+aimait	O	O
+aucun	O	O
+;	O	O
+mais	O	O
+il	B-PRON_PER	O
+aurait	O	O
+voulu	O	O
+que	O	O
+personne	B-PRON_PER	O
+ne	O	O
+l	B-PRON_PER	O
+’	O	O
+aimât	O	O
+,	O	O
+que	O	O
+personne	B-PRON_PER	O
+ne	O	O
+lui	B-PRON_PER	O
+parlât	O	O
+,	O	O
+que	O	O
+personne	B-PRON_PER	O
+même	O	O
+ne	O	O
+la	B-PRON_PER	O
+regardât	O	O
+avec	O	O
+quelque	O	O
+attention	O	O
+.	O	O
+
+Souvent	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+disait	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+serait	O	O	O	O
+mort	O	O	O	O
+de	O	O	O	O
+déplaisir	O	O	O	O
+si	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+père	O	I-NOM_PER	O	O
+Henri	O	I-NOM_PER	O	O
+le	O	I-NOM_PER	O	O
+Grand	O	I-NOM_PER	O	O
+eût	O	O	O	O
+été	O	O	O	O
+encore	O	O	O	O
+en	O	O	O	O
+vie	O	O	O	O
+,	O	O	O	O
+parce	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+assurément	O	O	O	O
+il	B-PRON_PER	O	O	O
+eût	O	O	O	O
+été	O	O	O	O
+amoureux	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+Ces	O	O
+bizarres	O	O
+jalousies	O	O
+,	O	O
+ces	O	O
+longues	O	O
+et	O	O
+fatigantes	O	O
+assiduités	O	O
+pesaient	O	O
+quelquefois	O	O
+un	O	O
+peu	O	O
+à	O	O
+la	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+,	O	O
+et	O	O
+,	O	O
+avec	O	O
+son	B-PRON_PER	O
+indépendance	O	O
+et	O	O
+sa	B-PRON_PER	O
+fierté	O	O
+,	O	O
+elle	B-PRON_PER	O
+le	O	O
+témoignait	O	O
+.	O	O
+
+Dès	O	O
+qu	O	O
+’	O	O
+il	O	O
+y	O	O
+avait	O	O
+entre	O	O
+eux	B-PRON_PER	O
+quelque	O	O
+brouillerie	O	O
+,	O	O
+tout	O	O
+s	O	O
+’	O	O
+en	O	O
+ressentait	O	O
+,	O	O
+les	O	O
+divertissemens	O	O
+de	O	O
+la	B-NOM_PER	O
+cour	I-NOM_PER	O
+étaient	O	O
+suspendus	O	O
+,	O	O
+et	O	O
+si	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+venait	O	O
+le	B-NOM_TIME	O
+soir	I-NOM_TIME	O
+chez	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+il	B-PRON_PER	O
+s	O	O
+’	O	O
+asseyait	O	O
+dans	O	O
+un	O	O
+coin	O	O
+sans	O	O
+dire	O	O
+un	O	O
+mot	O	O
+,	O	O
+et	O	O
+sans	O	O
+que	O	O
+personne	B-PRON_PER	O
+osât	O	O
+lui	B-PRON_PER	O
+parler	O	O
+.	O	O
+
+«	O	O
+C	O	O
+’	O	O
+étoit	O	O
+,	O	O
+dit	O	O
+Mademoiselle	B-NOM_PER	O
+,	O	O
+une	O	O
+mélancolie	O	O
+qui	O	O
+refroidissoit	O	O
+tout	B-NOM_PER	O
+le	I-NOM_PER	O
+monde	I-NOM_PER	O
+,	O	O
+et	O	O
+,	O	O
+pendant	O	O
+ce	O	O
+chagrin	O	O
+,	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+passoit	O	O
+la	B-NOM_TIME	O
+plus	I-NOM_TIME	O
+grande	I-NOM_TIME	O
+partie	I-NOM_TIME	O
+du	I-NOM_TIME	O
+jour	I-NOM_TIME	O
+à	O	O
+écrire	O	O
+ce	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+avoit	O	O
+dit	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Haute	I-PROP_PER	O
+-	I-PROP_PER	O
+fort	I-PROP_PER	O
+et	O	O
+ce	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+avoit	O	O
+répondu	O	O
+:	O	O
+chose	O	O
+si	O	O
+véritable	O	O
+qu	O	O
+’	O	O
+après	O	O
+sa	B-PRON_PER	O
+mort	O	O
+on	O	O
+a	O	O
+trouvé	O	O
+dans	O	O
+sa	B-PRON_PER	O
+cassette	O	O
+de	O	O
+grands	O	O
+procès	O	O
+-	O	O
+verbaux	O	O
+de	O	O
+tous	O	O
+les	O	O
+démêlés	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+avoit	O	O
+eus	O	O
+avec	O	O
+ses	B-PRON_PER	O
+maîtresses	O	O
+,	O	O
+à	O	O
+la	O	O
+louange	O	O
+desquelles	O	O
+on	O	O
+peut	O	O
+dire	O	O
+aussi	O	O
+bien	O	O
+qu	O	O
+’	O	O
+à	O	O
+la	B-PRON_PER	O
+sienne	I-PRON_PER	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+n	O	O
+’	O	O
+en	O	O
+a	O	O
+jamais	O	O
+aimé	O	O
+que	O	O
+de	O	O
+très	O	O
+vertueuses	O	O
+.	O	O
+
+»	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Motteville	I-PROP_PER	O	O	O
+déclare	O	O	O	O
+fort	O	O	O	O
+nettement	O	O	O	O
+que	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+tout	O	O	O	O
+en	O	O	O	O
+étant	O	O	O	O
+sensible	O	O	O	O
+aux	O	O	O	O
+hommages	O	O	O	O
+de	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+,	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+aucun	O	O	O	O
+goût	O	O	O	O
+pour	O	O	O	O
+lui	B-PRON_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+le	B-PRON_PER	O	O	O
+maltraitait	O	O	O	O
+autant	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+peut	O	O	O	O
+maltraiter	O	O	O	O
+un	O	O	O	O
+roi	O	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+sorte	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+était	O	O	O	O
+,	O	O	O	O
+dit	O	O	O	O
+-	O	O	O	O
+elle	B-PRON_PER	O	O	O
+,	O	O	O	O
+«	O	O	O	O
+malheureux	O	O	O	O
+de	O	O	O	O
+toutes	O	O	O	O
+les	O	O	O	O
+manières	O	O	O	O
+,	O	O	O	O
+car	O	O	O	O
+il	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+aimoit	O	O	O	O
+pas	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+il	B-PRON_PER	O	O	O
+étoit	O	O	O	O
+le	O	B-NOM_PER	O	O
+martyr	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Mlle	B-PROP_PER	I-NOM_PER	O	O
+de	I-PROP_PER	I-NOM_PER	O	O
+Hautefort	I-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+qu	B-PRON_PER	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+aimoit	O	O	O	O
+malgré	O	O	O	O
+lui	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O
+avoit	O	O
+quelque	O	O
+scrupule	O	O
+de	O	O
+l	O	O
+’	O	O
+attachement	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+avoit	O	O
+pour	O	O
+elle	B-PRON_PER	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+ne	O	O
+s	O	O
+’	O	O
+aimoit	O	O
+pas	O	O
+lui	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+.	O	O
+
+Parmi	O	O
+tant	O	O
+de	O	O
+sombres	O	O
+vapeurs	O	O
+et	O	O
+de	O	O
+fâcheuses	O	O
+fantaisies	O	O
+,	O	O
+il	O	O
+sembloit	O	O
+qu	O	O
+’	O	O
+une	O	O
+belle	O	O
+passion	O	O
+ne	O	O
+pouvoit	O	O
+avoir	O	O
+de	O	O
+place	O	O
+dans	O	O
+son	B-PRON_PER	O
+cœur	O	O
+.	O	O
+
+Elle	O	O
+n	O	O
+’	O	O
+y	O	O
+étoit	O	O
+pas	O	O
+aussi	O	O
+à	O	O
+la	O	O
+mode	O	O
+des	B-NOM_PER	O
+autres	I-NOM_PER	O
+hommes	I-NOM_PER	O
+qui	B-PRON_PER	O
+en	O	O
+font	O	O
+leur	B-PRON_PER	O
+plaisir	O	O
+,	O	O
+car	O	O
+cette	B-NOM_PER	O
+âme	I-NOM_PER	O
+,	O	O
+accoutumée	O	O
+à	O	O
+l	O	O
+’	O	O
+amertume	O	O
+,	O	O
+n	O	O
+’	O	O
+avoit	O	O
+de	O	O
+la	O	O
+tendresse	O	O
+que	O	O
+pour	O	O
+sentir	O	O
+davantage	O	O
+ses	B-PRON_PER	O
+peines	O	O
+.	O	O
+
+»	O	O
+Le	O	O
+sujet	O	O
+ordinaire	O	O
+des	O	O
+querelles	O	O
+que	O	O
+faisait	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+était	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+.	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+avait	O	O
+deux	O	O
+motifs	O	O
+pour	O	O
+ne	O	O
+pas	O	O
+l	B-PRON_PER	O
+’	O	O
+aimer	O	O
+,	O	O
+l	O	O
+’	O	O
+un	O	O
+était	O	O
+général	O	O
+et	O	O
+de	O	O
+l	O	O
+’	O	O
+ordre	O	O
+le	O	O
+plus	O	O
+élevé	O	O
+,	O	O
+celui	O	O
+qui	O	O
+le	B-PRON_PER	O
+sépara	O	O
+de	O	O
+sa	B-NOM_PER	O
+mère	I-NOM_PER	O
+,	O	O
+pour	O	O
+laquelle	B-PRON_PER	O
+il	B-PRON_PER	O
+avait	O	O
+une	O	O
+vive	O	O
+tendresse	O	O
+,	O	O
+à	O	O
+savoir	O	O
+l	O	O
+’	O	O
+intérêt	O	O
+de	O	O
+l	B-NOM_GPE	O
+’	I-NOM_GPE	O
+état	I-NOM_GPE	O
+,	O	O
+une	O	O
+politique	O	O
+qui	O	O
+ne	O	O
+fléchit	O	O
+jamais	O	O
+et	O	O
+le	O	O
+ramena	O	O
+toujours	O	O
+à	O	O
+Richelieu	B-PROP_PER	O
+,	O	O
+bien	O	O
+que	O	O
+les	O	O
+façons	O	O
+altières	O	O
+du	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+ne	O	O
+lui	B-PRON_PER	O
+plussent	O	O
+point	O	O
+et	O	O
+qu	O	O
+’	O	O
+il	O	O
+lui	B-PRON_PER	O
+prît	O	O
+souvent	O	O
+des	O	O
+impatiences	O	O
+et	O	O
+des	O	O
+révoltes	O	O
+qui	O	O
+cédaient	O	O
+bientôt	O	O
+à	O	O
+sa	B-PRON_PER	O
+justice	O	O
+et	O	O
+à	O	O
+son	B-PRON_PER	O
+patriotisme	O	O
+.	O	O
+
+Défiant	O	O	O	O
+et	O	O	O	O
+jaloux	O	O	O	O
+depuis	O	O	O	O
+l	O	B-NOM_HIST	O	O
+’	O	I-NOM_HIST	O	O
+affaire	O	I-NOM_HIST	O	O
+de	O	I-NOM_HIST	O	O
+Chalais	B-PROP_GPE	I-NOM_HIST	O	O
+et	O	O	O	O
+ses	B-PRON_GPE	O	O	O
+premières	O	O	O	O
+déclarations	O	O	O	O
+,	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+était	O	O	O	O
+demeuré	O	O	O	O
+convaincu	O	O	O	O
+que	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+entendait	O	O	O	O
+avec	O	O	O	O
+le	B-NOM_PER	O	O	O
+duc	I-NOM_PER	O	O	O
+d	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+Orléans	I-NOM_PER	O	O	O
+et	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+serait	O	O	O	O
+fort	O	O	O	O
+bien	O	O	O	O
+accommodée	O	O	O	O
+de	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+épouser	O	O	O	O
+après	O	O	O	O
+lui	B-PRON_PER	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+partager	O	O	O	O
+son	B-PRON_PER	O	O	O
+trône	O	O	O	O
+.	O	O	O	O
+
+Cette	O	O	O	O
+conviction	O	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+ce	O	O	O	O
+point	O	O	O	O
+enracinée	O	O	O	O
+dans	O	O	O	O
+cet	B-NOM_PER	O	O	O
+esprit	I-NOM_PER	O	O	O
+malade	I-NOM_PER	O	O	O
+,	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+après	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+eut	O	O	O	O
+eu	O	O	O	O
+des	B-NOM_PER	O	O	O
+enfans	I-NOM_PER	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+même	O	O	O	O
+à	O	O	O	O
+son	B-PRON_PER	O	O	O
+lit	O	O	O	O
+de	O	O	O	O
+mort	O	O	O	O
+,	O	O	O	O
+lorsqu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+protesta	O	O	O	O
+avec	O	O	O	O
+larmes	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+était	O	O	O	O
+entièrement	O	O	O	O
+étrangère	O	O	O	O
+à	O	O	O	O
+la	O	B-NOM_HIST	O	O
+conspiration	O	I-NOM_HIST	O	O
+de	O	I-NOM_HIST	O	O
+Chalais	B-PROP_GPE	I-NOM_HIST	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+se	O	O	O	O
+contenta	O	O	O	O
+de	O	O	O	O
+répondre	O	O	O	O
+que	O	O	O	O
+dans	O	O	O	O
+son	B-PRON_PER	O	O	O
+état	O	O	O	O
+il	B-PRON_PER	O	O	O
+était	O	O	O	O
+obligé	O	O	O	O
+de	O	O	O	O
+lui	B-PRON_PER	O	O	O
+pardonner	O	O	O	O
+,	O	O	O	O
+mais	O	O	O	O
+non	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+croire	O	O	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O
+s	O	O
+’	O	O
+efforça	O	O
+de	O	O
+détacher	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+d	O	O
+’	O	O
+une	B-NOM_PER	O
+maîtresse	I-NOM_PER	O
+qu	B-PRON_PER	O
+’	O	O
+il	B-PRON_PER	O
+lui	B-PRON_PER	O
+peignait	O	O
+sous	O	O
+les	O	O
+couleurs	O	O
+les	O	O
+plus	O	O
+défavorables	O	O
+,	O	O
+ne	O	O
+se	O	O
+doutant	O	O
+pas	O	O
+que	O	O
+plus	O	O
+il	B-PRON_PER	O
+s	O	O
+’	O	O
+emportait	O	O
+contre	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+une	I-NOM_PER	O
+,	O	O
+moins	O	O
+il	B-PRON_PER	O
+persuadait	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+autre	I-NOM_PER	O
+,	O	O
+et	O	O
+que	O	O
+la	O	O
+persécution	O	O
+même	O	O
+dont	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+;	O	O
+était	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+objet	I-NOM_PER	O
+exerçait	O	O
+sur	O	O
+ce	B-NOM_PER	O
+jeune	I-NOM_PER	O
+et	I-NOM_PER	O
+noble	I-NOM_PER	O
+cœur	I-NOM_PER	O
+une	O	O
+séduction	O	O
+irrésistible	O	O
+.	O	O
+
+Voyant	O	O
+que	O	O
+tous	O	O
+ses	B-PRON_PER	O
+discours	O	O
+ne	O	O
+réussissaient	O	O
+point	O	O
+,	O	O
+il	B-PRON_PER	O
+finit	O	O
+par	O	O
+lui	B-PRON_PER	O
+dire	O	O
+:	O	O
+«	O	O
+Vous	B-PRON_PER	O
+aimez	O	O
+une	B-NOM_PER	O
+ingrate	I-NOM_PER	O
+,	O	O
+et	O	O
+vous	B-PRON_PER	O
+verrez	O	O
+un	B-NOM_TIME	O
+jour	I-NOM_TIME	O
+comme	O	O
+elle	B-PRON_PER	O
+paiera	O	O
+vos	B-PRON_PER	O
+services	O	O
+.	O	O
+
+»	O	O
+Richelieu	B-PROP_PER	O
+avait	O	O
+vu	O	O
+d	O	O
+’	O	O
+abord	O	O
+avec	O	O
+plaisir	O	O
+le	O	O
+goût	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+pour	O	O
+une	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+qui	B-PRON_PER	O
+n	O	O
+’	O	O
+appartenait	O	O
+à	O	O
+aucun	O	O
+parti	O	O
+,	O	O
+et	O	O
+dont	B-PRON_PER	O
+il	O	O
+n	O	O
+’	O	O
+avait	O	O
+pu	O	O
+deviner	O	O
+le	O	O
+caractère	O	O
+.	O	O
+
+Il	B-PRON_PER	O
+espérait	O	O
+qu	O	O
+’	O	O
+une	O	O
+distraction	O	O
+agréable	O	O
+adoucirait	O	O
+un	O	O
+peu	O	O
+cette	O	O
+humeur	O	O
+sombre	O	O
+et	O	O
+bizarre	O	O
+,	O	O
+qui	O	O
+lui	B-PRON_PER	O
+était	O	O
+un	O	O
+continuel	O	O
+sujet	O	O
+d	O	O
+’	O	O
+inquiétude	O	O
+.	O	O
+
+Il	B-PRON_PER	O	O	O
+prodigua	O	O	O	O
+les	O	O	O	O
+complimens	O	O	O	O
+et	O	O	O	O
+les	O	O	O	O
+caresses	O	O	O	O
+à	O	O	O	O
+la	B-NOM_PER	O	O	O
+jeune	I-NOM_PER	O	O	O
+favorite	I-NOM_PER	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+employa	O	O	O	O
+même	O	O	O	O
+à	O	O	O	O
+dissiper	O	O	O	O
+les	O	O	O	O
+orages	O	O	O	O
+qui	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+élevaient	O	O	O	O
+souvent	O	O	O	O
+dans	O	O	O	O
+ce	O	O	O	O
+commerce	O	O	O	O
+agité	O	O	O	O
+,	O	O	O	O
+croyant	O	O	O	O
+bien	O	O	O	O
+en	O	O	O	O
+retour	O	O	O	O
+la	B-PRON_PER	O	O	O
+gagner	O	O	O	O
+à	O	O	O	O
+sa	B-PRON_PER	O	O	O
+cause	O	O	O	O
+et	O	O	O	O
+la	B-PRON_PER	O	O	O
+mettre	O	O	O	O
+de	O	O	O	O
+son	B-PRON_PER	O	O	O
+côté	O	O	O	O
+;	O	O	O	O
+mais	O	O	O	O
+elle	B-PRON_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+pas	O	O	O	O
+consenti	O	O	O	O
+à	O	O	O	O
+sacrifier	O	O	O	O
+sa	B-NOM_PER	O	O	O
+maîtresse	I-NOM_PER	O	O	O
+au	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+lui	I-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+même	I-NOM_PER	O	O	O
+,	O	O	O	O
+eût	O	O	O	O
+rougi	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+écouter	O	O	O	O
+son	B-NOM_PER	O	O	O
+persécuteur	I-NOM_PER	O	O	O
+:	O	O	O	O
+elle	B-PRON_PER	O	O	O
+rejeta	O	O	O	O
+bien	O	O	O	O
+loin	O	O	O	O
+les	O	O	O	O
+avances	O	O	O	O
+du	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+dédaigna	O	O	O	O
+son	B-PRON_PER	O	O	O
+amitié	O	O	O	O
+dans	O	O	O	O
+un	O	O	O	O
+temps	O	O	O	O
+où	O	O	O	O
+il	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+y	O	O	O	O
+avait	O	O	O	O
+pas	O	O	O	O
+une	O	B-NOM_PER	O	O
+femme	O	I-NOM_PER	O	O
+à	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+cour	I-NOM_PER	I-NOM_PER	O	O
+qui	O	B-PRON_PER	O	O
+ne	O	O	O	O
+fît	O	O	O	O
+des	O	O	O	O
+vœux	O	O	O	O
+pour	O	O	O	O
+en	B-PRON_PER	O	O	O
+être	O	O	O	O
+seulement	O	O	O	O
+regardée	O	O	O	O
+.	O	O	O	O
+
+Aujourd	O	O	O	O
+’	O	O	O	O
+hui	O	O	O	O
+que	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+pouvons	O	O	O	O
+embrasser	O	O	O	O
+le	O	B-NOM_TIME	O	O
+cours	O	I-NOM_TIME	O	O
+entier	O	I-NOM_TIME	O	O
+du	B-NOM_TIME	I-NOM_TIME	O	O
+XVIIe	I-NOM_TIME	I-NOM_TIME	O	O
+siècle	I-NOM_TIME	I-NOM_TIME	O	O
+et	O	O	O	O
+mesurer	O	O	O	O
+son	B-PRON_TIME	O	O	O
+progrès	O	O	O	O
+presque	O	O	O	O
+régulier	O	O	O	O
+depuis	O	O	O	O
+les	O	O	O	O
+glorieux	O	O	O	O
+commencemens	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+Henri	B-PROP_PER	O	O	O
+IV	I-PROP_PER	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+aux	O	O	O	O
+dernières	O	O	O	O
+et	O	O	O	O
+tristes	O	O	O	O
+années	O	O	O	O
+de	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIV	I-PROP_PER	O	O	O
+,	O	O	O	O
+il	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+est	O	O	O	O
+bien	O	O	O	O
+facile	O	O	O	O
+de	O	O	O	O
+comprendre	O	O	O	O
+et	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+absoudre	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+.	O	O	O	O
+
+Nous	B-PRON_METALEPSE	O
+concevons	O	O
+que	O	O
+pour	O	O
+en	O	O
+finir	O	O
+avec	O	O
+les	O	O
+restes	O	O
+.	O	O
+
+de	O	O
+la	B-NOM_ORG	O
+société	I-NOM_ORG	O
+féodale	I-NOM_ORG	O
+,	O	O
+pour	O	O
+mettre	O	O
+irrévocablement	O	O
+le	O	O
+pouvoir	O	O
+royal	O	O
+au	O	O
+-	O	O
+dessus	O	O
+d	O	O
+’	O	O
+une	B-NOM_ORG	O
+aristocratie	I-NOM_ORG	O
+excessive	I-NOM_ORG	O
+,	O	O
+mal	O	O
+réglée	O	O
+,	O	O
+turbulente	O	O
+,	O	O
+pour	O	O
+empêcher	O	O
+les	B-NOM_PER	O
+protestans	I-NOM_PER	O
+de	O	O
+former	O	O
+un	B-NOM_ORG	O
+état	I-NOM_ORG	O
+dans	O	O
+l	B-NOM_GPE	O
+’	I-NOM_GPE	O
+état	I-NOM_GPE	O
+et	O	O
+les	B-PRON_PER	O
+faire	O	O
+ployer	O	O
+sous	O	O
+la	O	O
+loi	O	O
+commune	O	O
+,	O	O
+pour	O	O
+arrêter	O	O
+la	O	O
+maison	O	O
+d	O	O
+’	O	O
+Autriche	B-PROP_GPE	O
+,	O	O
+maîtresse	O	O
+de	O	O
+la	O	O
+moitié	O	O
+de	O	O
+l	B-PROP_GPE	O
+’	I-PROP_GPE	O
+Europe	I-PROP_GPE	O
+,	O	O
+pour	O	O
+agrandir	O	O
+le	B-NOM_LOC	O
+territoire	I-NOM_LOC	O
+français	I-NOM_LOC	O
+,	O	O
+pour	O	O
+introduire	O	O
+un	O	O
+peu	O	O
+d	O	O
+’	O	O
+ordre	O	O
+et	O	O
+d	O	O
+’	O	O
+unité	O	O
+dans	O	O
+la	O	O
+société	O	O
+nouvelle	O	O
+,	O	O
+pleine	O	O
+de	O	O
+force	O	O
+et	O	O
+de	O	O
+vie	O	O
+,	O	O
+mais	O	O
+où	B-PRON_LOC	O
+luttaient	O	O
+les	O	O
+élémens	O	O
+les	O	O
+plus	O	O
+dissemblables	O	O
+,	O	O
+il	O	O
+fallait	O	O
+une	O	O
+vigueur	O	O
+extraordinaire	O	O
+,	O	O
+et	O	O
+peut	O	O
+-	O	O
+être	O	O
+pour	O	O
+quelque	O	O
+temps	O	O
+une	O	O
+dictature	O	O
+éclairée	O	O
+,	O	O
+un	O	O
+despotisme	O	O
+national	O	O
+et	O	O
+intelligent	O	O
+.	O	O
+
+Qui	O	O	O	O
+de	O	O	O	O
+nous	B-PRON_PER	O	O	O
+,	O	O	O	O
+parmi	O	O	O	O
+les	O	B-NOM_PER	O	O
+plus	O	I-NOM_PER	O	O
+fermes	O	I-NOM_PER	O	O
+partisans	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Richelieu	B-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+eût	O	O	O	O
+été	O	O	O	O
+sûr	O	O	O	O
+de	O	O	O	O
+lui	O	O	O	O
+-	O	O	O	O
+même	O	O	O	O
+et	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	O	O	O	O
+admiration	O	O	O	O
+fidèle	O	O	O	O
+devant	O	O	O	O
+tant	O	O	O	O
+de	O	O	O	O
+coups	O	O	O	O
+frappés	O	O	O	O
+sans	O	O	O	O
+pitié	O	O	O	O
+,	O	O	O	O
+devant	O	O	O	O
+tous	O	O	O	O
+ces	O	O	O	O
+exils	O	O	O	O
+,	O	O	O	O
+devant	O	O	O	O
+tous	B-NOM_FAC	O	O	O
+ces	I-NOM_FAC	O	O	O
+échafauds	I-NOM_FAC	O	O	O
+?	O	O	O	O
+
+Les	B-NOM_PER	O	O	O
+contemporains	I-NOM_PER	O	O	O
+ne	O	O	O	O
+virent	O	O	O	O
+guère	O	O	O	O
+que	O	O	O	O
+cela	O	O	O	O
+:	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+laissa	O	O	O	O
+une	O	O	O	O
+mémoire	O	O	O	O
+abhorrée	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+vivant	O	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+eut	O	O	O	O
+pour	O	O	O	O
+lui	B-PRON_PER	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+un	O	O	O	O
+très	O	O	O	O
+petit	O	O	O	O
+nombre	O	O	O	O
+de	O	O	O	O
+politiques	B-NOM_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+tête	O	O	O	O
+desquels	B-PRON_PER	O	O	O
+était	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+;	O	O	O	O
+encore	O	O	O	O
+celui	B-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+ci	I-NOM_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+mort	O	O	O	O
+de	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+redouté	O	I-NOM_PER	O	O
+ministre	O	I-NOM_PER	O	O
+,	O	O	O	O
+en	O	O	O	O
+approuvant	O	O	O	O
+et	O	O	O	O
+en	O	O	O	O
+gardant	O	O	O	O
+le	O	O	O	O
+système	O	O	O	O
+,	O	O	O	O
+fut	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+avis	O	O	O	O
+de	O	O	O	O
+le	O	O	O	O
+pratiquer	O	O	O	O
+différemment	O	O	O	O
+.	O	O	O	O
+
+Mettons	O	O	O	O
+-	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+donc	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+place	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	B-NOM_PER	O	O	O
+jeune	I-NOM_PER	O	O	O
+fille	I-NOM_PER	O	O	O
+sortie	I-NOM_PER	O	O	O
+d	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+une	I-NOM_PER	O	O	O
+race	I-NOM_PER	O	O	O
+féodale	I-NOM_PER	O	O	O
+,	O	O	O	O
+introduite	O	O	O	O
+à	O	O	O	O
+la	B-NOM_ORG	O	O	O
+cour	I-NOM_ORG	O	O	O
+par	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+mère	I-NOM_PER	O	O	O
+et	O	O	O	O
+jetée	O	O	O	O
+à	O	O	O	O
+quinze	B-NOM_TIME	O	O	O
+ans	I-NOM_TIME	O	O	O
+dans	O	O	O	O
+celle	O	B-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+Anne	B-PROP_PER	I-NOM_PER	O	O
+d	I-PROP_PER	I-NOM_PER	O	O
+’	I-PROP_PER	I-NOM_PER	O	O
+Autriche	I-PROP_PER	I-NOM_PER	O	O
+.	O	O	O	O
+
+Disons	O	O
+-	O	O
+le	O	O
+:	O	O
+plus	O	O
+son	B-PRON_PER	O
+cœur	O	O
+était	O	O
+noble	O	O
+,	O	O
+moins	O	O
+son	B-PRON_PER	O
+esprit	O	O
+pouvait	O	O
+voir	O	O
+clair	O	O
+dans	O	O
+le	O	O
+fond	O	O
+des	O	O
+affaires	O	O
+du	O	O
+temps	O	O
+.	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+ne	O	O
+connaissait	O	O
+ni	O	O
+les	O	O
+intérêts	O	O
+de	O	O
+la	B-PROP_GPE	O
+France	I-PROP_GPE	O
+,	O	O
+ni	O	O
+l	O	O
+’	O	O
+état	O	O
+de	O	O
+l	B-PROP_GPE	O
+’	I-PROP_GPE	O
+Europe	I-PROP_GPE	O
+,	O	O
+ni	O	O
+l	O	O
+’	O	O
+histoire	O	O
+,	O	O
+ni	O	O
+la	O	O
+politique	O	O
+.	O	O
+
+Tout	O	O
+son	B-PRON_PER	O
+esprit	O	O
+,	O	O
+si	O	O
+vanté	O	O
+pour	O	O
+sa	B-PRON_PER	O
+vivacité	O	O
+et	O	O
+sa	B-PRON_PER	O
+délicatesse	O	O
+,	O	O
+était	O	O
+incapable	O	O
+de	O	O
+percer	O	O
+les	O	O
+voiles	O	O
+du	B-NOM_PER	O
+passé	I-NOM_PER	O
+et	O	O
+de	O	O
+l	B-NOM_TIME	O
+’	I-NOM_TIME	O
+avenir	I-NOM_TIME	O
+,	O	O
+et	O	O
+le	B-NOM_TIME	O
+présent	I-NOM_TIME	O
+la	B-PRON_PER	O
+blessait	O	O
+dans	O	O
+tous	O	O
+ses	B-PRON_PER	O
+instincts	O	O
+d	O	O
+’	O	O
+honneur	O	O
+et	O	O
+de	O	O
+bonté	O	O
+.	O	O
+
+Gracieusement	O	O
+accueillie	O	O
+par	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Médicis	I-PROP_PER	O
+,	O	O
+au	O	O
+bout	O	O
+de	O	O
+quelques	B-NOM_TIME	O
+mois	I-NOM_TIME	O
+elle	B-PRON_PER	O
+l	B-PRON_PER	O
+’	O	O
+avait	O	O
+vue	O	O
+exilée	O	O
+,	O	O
+et	O	O
+elle	B-PRON_PER	O
+apprenait	O	O
+que	O	O
+sa	B-NOM_PER	O
+première	I-NOM_PER	O
+protectrice	I-NOM_PER	O
+,	O	O
+la	O	O
+femme	O	O
+d	O	O
+’	O	O
+Henri	B-PROP_PER	O
+le	I-PROP_PER	O
+Grand	I-PROP_PER	O
+,	O	O
+la	O	O
+mère	O	O
+de	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+,	O	O
+dont	B-PRON_PER	O
+les	O	O
+torts	O	O
+surpassaient	O	O
+son	B-PRON_PER	O
+intelligence	O	O
+,	O	O
+était	O	O
+réduite	O	O
+à	O	O
+vivre	O	O
+en	O	O
+Belgique	B-PROP_GPE	O
+des	O	O
+secours	O	O
+de	O	O
+l	O	O
+’	O	O
+étranger	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+pas	O	O
+connu	O	O
+la	O	O
+première	O	O
+jeunesse	O	O
+un	O	O
+peu	O	O
+légère	O	O
+d	O	O
+’	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+.	O	O
+
+Depuis	O	O
+1630	B-NOM_TIME	O
+,	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+rien	O	O
+aperçu	O	O
+qui	O	O
+pût	O	O
+choquer	O	O
+la	O	O
+sévérité	O	O
+de	O	O
+ses	B-PRON_PER	O
+regards	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+trouvait	O	O	O	O
+fort	O	O	O	O
+naturel	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+abandonnée	O	O	O	O
+et	O	O	O	O
+maltraitée	O	O	O	O
+par	O	O	O	O
+son	B-PRON_PER	O	O	O
+mari	O	O	O	O
+,	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+en	O	O	O	O
+appelât	O	O	O	O
+à	O	O	O	O
+son	O	B-NOM_PER	O	O
+frère	O	I-NOM_PER	O	O
+le	O	I-NOM_PER	O	O
+roi	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+Espagne	B-PROP_GPE	I-NOM_PER	O	O
+,	O	O	O	O
+et	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+opprimée	O	O	O	O
+par	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+défendît	O	O	O	O
+avec	O	O	O	O
+toutes	O	O	O	O
+les	O	O	O	O
+armes	O	O	O	O
+qui	O	O	O	O
+lui	B-PRON_PER	O	O	O
+étaient	O	O	O	O
+offertes	O	O	O	O
+.	O	O	O	O
+
+Elle	B-PRON_PER	O
+voyait	O	O
+les	O	O
+malheurs	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+et	O	O
+elle	B-PRON_PER	O
+croyait	O	O
+à	O	O
+sa	B-PRON_PER	O
+vertu	O	O
+.	O	O
+
+N	O	O	O	O
+’	O	O	O	O
+oubliez	O	O	O	O
+pas	O	O	O	O
+la	O	O	O	O
+piété	O	O	O	O
+fervente	O	O	O	O
+qui	O	O	O	O
+lui	B-PRON_PER	O	O	O
+faisait	O	O	O	O
+accompagner	O	O	O	O
+avec	O	O	O	O
+joie	O	O	O	O
+Anne	B-PROP_PER	O	O	O
+d	I-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Autriche	I-PROP_PER	O	O	O
+aux	O	B-PROP_GPE	O	O
+Carmélites	O	I-PROP_GPE	O	O
+et	O	I-PROP_GPE	O	O
+au	B-PROP_GPE	I-PROP_GPE	O	O
+Val	I-PROP_GPE	I-PROP_GPE	O	O
+-	I-PROP_GPE	I-PROP_GPE	O	O
+de	I-PROP_GPE	I-PROP_GPE	O	O
+-	I-PROP_GPE	I-PROP_GPE	O	O
+Grâce	I-PROP_GPE	I-PROP_GPE	O	O
+.	O	O	O	O
+
+Là	B-NOM_GPE	O	O	O
+,	O	O	O	O
+on	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+aimait	O	O	O	O
+pas	O	O	O	O
+plus	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+que	O	O	O	O
+plus	O	O	O	O
+tard	O	O	O	O
+on	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+aima	O	O	O	O
+Mazarin	B-PROP_PER	O	O	O
+;	O	O	O	O
+là	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+particulièrement	O	O	O	O
+aux	B-NOM_GPE	O	O	O
+Carmélites	I-NOM_GPE	O	O	O
+,	O	O	O	O
+chez	O	O	O	O
+ces	O	B-NOM_PER	O	O
+dignes	O	I-NOM_PER	O	O
+filles	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+sainte	B-PROP_PER	I-NOM_PER	O	O
+Thérèse	I-PROP_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Bérulle	B-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+on	O	O	O	O
+priait	O	O	O	O
+pour	O	O	O	O
+les	B-NOM_PER	O	O	O
+deux	I-NOM_PER	O	O	O
+reines	I-NOM_PER	O	O	O
+,	O	O	O	O
+bienfaitrices	O	O	O	O
+de	O	O	O	O
+la	B-NOM_FAC	O	O	O
+maison	I-NOM_FAC	O	O	O
+;	O	O	O	O
+on	O	O	O	O
+priait	O	O	O	O
+pour	O	O	O	O
+les	O	B-NOM_PER	O	O
+victimes	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Richelieu	B-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+et	O	O	O	O
+il	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+trouvé	O	O	O	O
+une	B-NOM_PER	O	O	O
+sainte	I-NOM_PER	O	O	O
+religieuse	I-NOM_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+1633	B-NOM_TIME	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+effroi	O	O	O	O
+et	O	O	O	O
+le	O	O	O	O
+silence	O	O	O	O
+universel	O	O	O	O
+,	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+écoutant	O	O	O	O
+que	O	O	O	O
+la	O	O	O	O
+charité	O	O	O	O
+et	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+amitié	O	O	O	O
+,	O	O	O	O
+osa	O	O	O	O
+élever	O	O	O	O
+la	O	O	O	O
+voix	O	O	O	O
+en	O	O	O	O
+faveur	O	O	O	O
+du	B-NOM_PER	O	O	O
+garde	I-NOM_PER	O	O	O
+des	I-NOM_PER	O	O	O
+sceaux	I-NOM_PER	O	O	O
+Michel	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Marillac	I-NOM_PER	O	O	O
+,	O	O	O	O
+exilé	O	O	O	O
+à	O	O	O	O
+Châteaudun	B-PROP_GPE	O	O	O
+,	O	O	O	O
+mit	O	O	O	O
+sur	O	O	O	O
+sa	B-NOM_FAC	O	O	O
+tombe	I-NOM_FAC	O	O	O
+une	O	O	O	O
+épitaphe	O	O	O	O
+magnanime	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+mêla	O	O	O	O
+publiquement	O	O	O	O
+ses	B-PRON_PER	O	O	O
+larmes	O	O	O	O
+à	O	O	O	O
+celles	O	O	O	O
+de	O	O	O	O
+Charlotte	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+Marguerite	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Montmorency	I-PROP_PER	O	O	O
+,	O	O	O	O
+princesse	O	O	O	O
+de	O	O	O	O
+Condé	B-PROP_GPE	O	O	O
+,	O	O	O	O
+quand	O	O	O	O
+la	O	O	O	O
+hache	O	O	O	O
+impitoyable	O	O	O	O
+du	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+faisait	O	O	O	O
+tomber	O	O	O	O
+à	O	O	O	O
+Toulouse	B-PROP_GPE	O	O	O
+la	O	O	O	O
+tête	O	O	O	O
+de	O	O	O	O
+son	B-NOM_PER	O	O	O
+frère	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+En	O	O
+1633	B-NOM_TIME	O
+,	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+avait	O	O
+vu	O	O
+frapper	O	O
+et	O	O
+disperser	O	O
+tout	O	O
+l	O	O
+’	O	O
+intérieur	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+,	O	O
+dont	B-PRON_PER	O
+l	O	O
+’	O	O
+intrépidité	O	O
+devait	O	O
+au	O	O
+moins	O	O
+lui	B-PRON_PER	O
+plaire	O	O
+,	O	O
+chassée	O	O
+de	O	O
+la	B-NOM_PER	O
+cour	I-NOM_PER	O
+pour	O	O
+la	O	O
+deuxième	O	O
+fois	O	O
+,	O	O
+et	O	O
+le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+de	I-NOM_PER	O
+Jars	I-NOM_PER	O
+,	O	O
+condamné	O	O
+à	O	O
+mort	O	O
+,	O	O
+ne	O	O
+recevant	O	O
+sa	B-PRON_PER	O
+grâce	O	O
+que	O	O
+sur	O	O
+l	B-NOM_FAC	O
+’	I-NOM_FAC	O
+échafaud	I-NOM_FAC	O
+.	O	O
+
+Toutes	O	O	O	O
+ces	O	O	O	O
+cruautés	O	O	O	O
+indignaient	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+;	O	O	O	O
+la	O	O	O	O
+courageuse	O	O	O	O
+fidélité	O	O	O	O
+des	O	B-NOM_PER	O	O
+amis	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+excitait	O	O	O	O
+la	O	O	O	O
+sienne	O	O	O	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+brava	O	O	O	O
+donc	O	O	O	O
+les	O	O	O	O
+menaces	O	O	O	O
+prophétiques	O	O	O	O
+de	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+repoussa	O	O	O	O
+toutes	O	O	O	O
+les	O	O	O	O
+offres	O	O	O	O
+de	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+ses	B-PRON_PER	O	O	O
+yeux	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+un	B-NOM_PER	O	O	O
+tyran	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+génie	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+donna	O	O	O	O
+tout	O	O	O	O
+entière	O	O	O	O
+à	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+Anne	I-NOM_PER	O	O	O
+,	O	O	O	O
+fermement	O	O	O	O
+résolue	O	O	O	O
+à	O	O	O	O
+partager	O	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+au	O	O	O	O
+bout	O	O	O	O
+sa	B-PRON_PER	O	O	O
+destinée	O	O	O	O
+.	O	O	O	O
+
+Richelieu	B-PROP_PER	O
+,	O	O
+n	O	O
+’	O	O
+ayant	O	O
+pu	O	O
+la	B-PRON_PER	O
+gagner	O	O
+,	O	O
+entreprit	O	O
+de	O	O
+la	B-PRON_PER	O
+perdre	O	O
+dans	O	O
+l	O	O
+’	O	O
+esprit	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+.	O	O
+
+Plus	O	O
+que	O	O
+jamais	O	O
+il	B-PRON_PER	O
+se	O	O
+mêla	O	O
+de	O	O
+leurs	B-PRON_PER	O
+nombreuses	O	O
+querelles	O	O
+,	O	O
+non	O	O
+plus	O	O
+pour	O	O
+les	B-PRON_PER	O
+accommoder	O	O
+,	O	O
+mais	O	O
+pour	O	O
+les	B-PRON_PER	O
+aigrir	O	O
+.	O	O
+
+D	O	O
+’	O	O
+intermédiaire	B-NOM_PER	O
+bienveillant	I-NOM_PER	O
+,	O	O
+il	B-PRON_PER	O
+devint	O	O
+un	B-NOM_PER	O
+juge	I-NOM_PER	O
+sévère	I-NOM_PER	O
+.	O	O
+
+Aussi	O	O
+,	O	O
+quand	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+était	O	O
+mécontent	O	O
+de	O	O
+la	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+,	O	O
+il	B-PRON_PER	O
+la	B-PRON_PER	O
+menaçait	O	O
+du	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+.	O	O
+
+Celle	B-NOM_PER	O
+-	I-NOM_PER	O
+ci	I-NOM_PER	O
+s	O	O
+’	O	O
+en	O	O
+moquait	O	O
+avec	O	O
+l	O	O
+’	O	O
+étourderie	O	O
+de	O	O
+son	B-PRON_PER	O
+âge	O	O
+et	O	O
+la	O	O
+fierté	O	O
+de	O	O
+son	B-PRON_PER	O
+caractère	O	O
+.	O	O
+
+Richelieu	B-PROP_PER	O
+fit	O	O
+jouer	O	O
+sur	O	O
+le	O	O
+cœur	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+deux	O	O
+ressorts	O	O
+habilement	O	O
+inventés	O	O
+.	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+était	O	O
+défiant	O	O
+et	O	O
+dévot	O	O
+.	O	O
+
+Des	O	O
+rapports	O	O
+perfidement	O	O
+exagérés	O	O
+lui	B-PRON_PER	O
+apprirent	O	O
+que	O	O
+,	O	O
+dans	O	O
+l	O	O
+’	O	O
+intérieur	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+;	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+faisait	O	O
+avec	O	O
+elle	B-PRON_PER	O
+des	O	O
+plaisanteries	O	O
+sur	O	O
+ses	B-PRON_PER	O
+manières	O	O
+,	O	O
+sur	O	O
+son	B-PRON_PER	O
+humeur	O	O
+et	O	O
+sur	O	O
+son	B-PRON_PER	O
+amour	O	O
+.	O	O
+
+D	O	O
+’	O	O
+autre	O	O
+part	O	O
+,	O	O
+lorsque	O	O
+,	O	O
+épris	O	O
+de	O	O
+plus	O	O
+en	O	O
+plus	O	O
+de	O	O
+la	O	O
+beauté	O	O
+toujours	O	O
+croissante	O	O
+de	O	O
+cette	B-NOM_PER	O
+charmante	I-NOM_PER	O
+fille	I-NOM_PER	O
+,	O	O
+dont	B-PRON_PER	O
+les	O	O
+grâces	O	O
+se	O	O
+développaient	O	O
+avec	O	O
+les	B-NOM_TIME	O
+années	I-NOM_TIME	O
+,	O	O
+il	B-PRON_PER	O
+se	O	O
+reprochait	O	O
+un	O	O
+sentiment	O	O
+trop	O	O
+ardent	O	O
+pour	O	O
+être	O	O
+toujours	O	O
+entièrement	O	O
+pur	O	O
+,	O	O
+au	O	O
+lieu	O	O
+d	O	O
+’	O	O
+apaiser	O	O
+comme	O	O
+autrefois	O	O
+les	O	O
+scrupules	O	O
+de	O	O
+sa	B-PRON_PER	O
+conscience	O	O
+,	O	O
+on	O	O
+les	O	O
+nourrissait	O	O
+,	O	O
+et	O	O
+on	O	O
+finit	O	O
+par	O	O
+lui	B-PRON_PER	O
+faire	O	O
+un	O	O
+crime	O	O
+d	O	O
+’	O	O
+un	O	O
+attachement	O	O
+immodéré	O	O
+,	O	O
+condamné	O	O
+par	O	O
+la	O	O
+religion	O	O
+.	O	O
+
+1635	B-NOM_TIME	O
+,	O	O
+à	O	O
+la	O	O
+suite	O	O
+d	O	O
+’	O	O
+une	O	O
+querelle	O	O
+plus	O	O
+vive	O	O
+qu	O	O
+’	O	O
+à	O	O
+l	O	O
+’	O	O
+ordinaire	O	O
+,	O	O
+le	B-NOM_PER	O
+triste	I-NOM_PER	O
+amant	I-NOM_PER	O
+prit	O	O
+le	O	O
+parti	O	O
+de	O	O
+rompre	O	O
+avec	O	O
+une	B-NOM_PER	O
+maîtresse	I-NOM_PER	O
+aussi	I-NOM_PER	O
+peu	I-NOM_PER	O
+complaisante	I-NOM_PER	O
+,	O	O
+et	O	O
+pendant	O	O
+plusieurs	B-NOM_TIME	O
+jours	I-NOM_TIME	O
+il	B-PRON_PER	O
+ne	O	O
+lui	B-PRON_PER	O
+parla	O	O
+plus	O	O
+.	O	O
+
+Il	B-PRON_PER	O
+ne	O	O
+l	B-PRON_PER	O
+’	O	O
+aimait	O	O
+pas	O	O
+moins	O	O
+,	O	O
+et	O	O
+le	B-NOM_TIME	O
+soir	I-NOM_TIME	O
+,	O	O
+chez	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+ses	B-PRON_PER	O
+regards	O	O
+mélancoliques	O	O
+et	O	O
+passionnés	O	O
+avaient	O	O
+peine	O	O
+à	O	O
+s	O	O
+’	O	O
+éloigner	O	O
+de	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+attrayant	I-NOM_PER	O
+visage	I-NOM_PER	O
+.	O	O
+
+Il	B-PRON_PER	O
+la	B-PRON_PER	O
+contemplait	O	O
+en	O	O
+silence	O	O
+,	O	O
+et	O	O
+,	O	O
+quand	O	O
+il	B-PRON_PER	O
+voyait	O	O
+qu	O	O
+’	O	O
+on	O	O
+y	O	O
+prenait	O	O
+garde	O	O
+,	O	O
+il	B-PRON_PER	O
+détournait	O	O
+sa	B-PRON_PER	O
+vue	O	O
+d	O	O
+’	O	O
+un	O	O
+autre	O	O
+côté	O	O
+.	O	O
+
+La	O	O
+rupture	O	O
+était	O	O
+commencée	O	O
+;	O	O
+le	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+la	O	O
+fit	O	O
+durer	O	O
+deux	B-NOM_TIME	O
+années	I-NOM_TIME	O
+entières	I-NOM_TIME	O
+.	O	O
+
+Il	O	O	O	O
+y	O	O	O	O
+avait	O	O	O	O
+alors	O	O	O	O
+parmi	O	O	O	O
+les	O	B-NOM_PER	O	O
+autres	O	I-NOM_PER	O	O
+filles	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+honneur	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+une	O	B-NOM_PER	O	O
+jeune	O	I-NOM_PER	O	O
+personne	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+fort	O	I-NOM_PER	O	O
+bonne	O	I-NOM_PER	O	O
+naissance	O	I-NOM_PER	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+sans	O	O	O	O
+avoir	O	O	O	O
+toute	O	O	O	O
+la	O	O	O	O
+beauté	O	O	O	O
+de	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+était	O	O	O	O
+aussi	O	O	O	O
+très	O	O	O	O
+agréable	O	O	O	O
+.	O	O	O	O
+
+Marie	B-PROP_PER	O
+était	O	O
+une	B-NOM_PER	O
+blonde	I-NOM_PER	O
+éblouissante	I-NOM_PER	O
+,	O	O
+parée	O	O
+de	O	O
+bonne	O	O
+heure	O	O
+des	O	O
+charmes	O	O
+les	O	O
+plus	O	O
+redoutables	O	O
+;	O	O
+Louise	B-PROP_PER	O
+-	I-PROP_PER	O
+Angélique	I-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+était	O	O
+brune	O	O
+et	O	O
+délicate	O	O
+.	O	O
+
+Si	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+pas	O	O
+le	O	O
+grand	O	O
+air	O	O
+de	O	O
+sa	B-PRON_PER	O
+compagne	O	O
+,	O	O
+si	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+enlevait	O	O
+pas	O	O
+l	O	O
+’	O	O
+admiration	O	O
+,	O	O
+elle	B-PRON_PER	O
+plaisait	O	O
+par	O	O
+sa	B-PRON_PER	O
+douceur	O	O
+et	O	O
+sa	B-PRON_PER	O
+modestie	O	O
+.	O	O
+
+À	O	O
+la	O	O
+place	O	O
+de	O	O
+la	O	O
+vivacité	O	O
+et	O	O
+de	O	O
+la	O	O
+grâce	O	O
+,	O	O
+elle	B-PRON_PER	O
+avait	O	O
+du	O	O
+jugement	O	O
+et	O	O
+de	O	O
+la	O	O
+fermeté	O	O
+,	O	O
+avec	O	O
+un	O	O
+cœur	O	O
+porté	O	O
+à	O	O
+la	O	O
+tendresse	O	O
+,	O	O
+mais	O	O
+défendu	O	O
+par	O	O
+une	O	O
+piété	O	O
+sincère	O	O
+.	O	O
+
+Les	O	B-NOM_PER	O	O
+confidens	O	I-NOM_PER	O	O
+du	B-NOM_PER	I-NOM_PER	O	O
+roi	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+de	O	O	O	O
+faciles	O	O	O	O
+serviteurs	O	O	O	O
+,	O	O	O	O
+Saint	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+Simon	I-PROP_PER	O	O	O
+,	O	O	O	O
+favori	O	O	O	O
+émérite	O	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+fait	O	O	O	O
+son	B-PRON_PER	O	O	O
+traité	O	O	O	O
+avec	O	O	O	O
+le	B-NOM_PER	O	O	O
+ministre	I-NOM_PER	O	O	O
+,	O	O	O	O
+Sanguin	O	O	O	O
+,	O	O	O	O
+maître	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+hôtel	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+était	O	O	O	O
+très	O	O	O	O
+familier	O	O	O	O
+avec	O	O	O	O
+lui	B-PRON_PER	O	O	O
+,	O	O	O	O
+bien	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+autres	O	O	O	O
+encore	O	O	O	O
+,	O	O	O	O
+parmi	O	O	O	O
+lesquels	O	O	O	O
+on	O	O	O	O
+met	O	O	O	O
+à	O	O	O	O
+tort	O	O	O	O
+ou	O	O	O	O
+à	O	O	O	O
+raison	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+oncle	O	I-NOM_PER	O	O
+même	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Mlle	B-PROP_PER	I-NOM_PER	O	O
+de	I-PROP_PER	I-NOM_PER	O	O
+La	I-PROP_PER	I-NOM_PER	O	O
+Fayette	I-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+évêque	O	O	O	O
+de	O	O	O	O
+Limoges	O	O	O	O
+,	O	O	O	O
+portèrent	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+à	O	O	O	O
+faire	O	O	O	O
+attention	O	O	O	O
+à	O	O	O	O
+la	B-NOM_PER	O	O	O
+jeune	I-NOM_PER	O	O	O
+fille	I-NOM_PER	O	O	O
+par	O	O	O	O
+tout	O	O	O	O
+le	O	O	O	O
+bien	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+ils	O	O	O	O
+lui	B-PRON_PER	O	O	O
+en	B-PRON_PER	O	O	O
+dirent	O	O	O	O
+.	O	O	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+commença	O	O
+à	O	O
+lui	B-PRON_PER	O
+parler	O	O
+pour	O	O
+faire	O	O
+dépit	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+;	O	O
+mais	O	O
+,	O	O
+comme	O	O
+il	B-PRON_PER	O
+était	O	O
+homme	O	O
+d	O	O
+’	O	O
+habitude	O	O
+,	O	O
+à	O	O
+force	O	O
+de	O	O
+la	B-PRON_PER	O
+voir	O	O
+,	O	O
+l	O	O
+’	O	O
+inclination	O	O
+lui	B-PRON_PER	O
+vint	O	O
+pour	O	O
+elle	B-PRON_PER	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+l	B-PRON_PER	O
+’	O	O
+aima	O	O
+sérieusement	O	O
+.	O	O
+
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+commença	O	O	O	O
+aussi	O	O	O	O
+par	O	O	O	O
+être	O	O	O	O
+flattée	O	O	O	O
+des	O	O	O	O
+hommages	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+;	O	O	O	O
+puis	O	O	O	O
+,	O	O	O	O
+quand	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+ouvrit	O	O	O	O
+son	B-PRON_PER	O	O	O
+cœur	O	O	O	O
+,	O	O	O	O
+quand	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+montra	O	O	O	O
+ses	B-PRON_PER	O	O	O
+tristesses	O	O	O	O
+intérieures	O	O	O	O
+,	O	O	O	O
+ses	B-PRON_PER	O	O	O
+ennuis	O	O	O	O
+profonds	O	O	O	O
+parmi	O	O	O	O
+les	O	O	O	O
+grandeurs	O	O	O	O
+de	O	O	O	O
+la	B-NOM_GPE	O	O	O
+royauté	I-NOM_GPE	O	O	O
+,	O	O	O	O
+quand	O	O	O	O
+elle	B-PRON_PER	O	O	O
+vit	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+un	O	I-NOM_PER	O	O
+des	O	I-NOM_PER	O	O
+plus	O	I-NOM_PER	O	O
+puissans	O	I-NOM_PER	O	O
+monarques	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+l	B-PROP_GPE	I-NOM_PER	O	O
+’	I-PROP_GPE	I-NOM_PER	O	O
+Europe	I-PROP_GPE	I-NOM_PER	O	O
+plus	O	O	O	O
+misérable	O	O	O	O
+que	O	O	O	O
+le	O	O	O	O
+dernier	O	O	O	O
+de	O	O	O	O
+ses	B-PRON_PER	B-NOM_PER	O	O
+sujets	O	I-NOM_PER	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+ne	O	O	O	O
+put	O	O	O	O
+se	O	O	O	O
+défendre	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	O	O	O	O
+compassion	O	O	O	O
+affectueuse	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+entra	O	O	O	O
+dans	O	O	O	O
+ses	B-PRON_PER	O	O	O
+peines	O	O	O	O
+et	O	O	O	O
+les	O	O	O	O
+adoucit	O	O	O	O
+en	O	O	O	O
+les	O	O	O	O
+partageant	O	O	O	O
+.	O	O	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+se	O	O
+trouvant	O	O
+à	O	O
+son	B-PRON_PER	O
+aise	O	O
+pour	O	O
+la	O	O
+première	O	O
+fois	O	O
+de	O	O
+sa	B-PRON_PER	O
+vie	O	O
+avec	O	O
+une	B-NOM_PER	O
+femme	I-NOM_PER	O
+,	O	O
+laissa	O	O
+paraître	O	O
+tout	O	O
+ce	O	O
+qu	O	O
+’	O	O
+il	O	O
+y	O	O
+avait	O	O
+en	O	O
+lui	B-PRON_PER	O
+d	O	O
+’	O	O
+esprit	O	O
+,	O	O
+d	O	O
+’	O	O
+honnêteté	O	O
+,	O	O
+de	O	O
+bonnes	O	O
+intentions	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+connut	O	O
+enfin	O	O
+la	O	O
+paix	O	O
+et	O	O
+la	O	O
+douceur	O	O
+d	O	O
+’	O	O
+une	O	O
+affection	O	O
+réciproque	O	O
+.	O	O
+
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+en	O	O	O	O
+effet	O	O	O	O
+finit	O	O	O	O
+par	O	O	O	O
+aimer	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+;	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Motteville	I-PROP_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+plus	O	O	O	O
+tard	O	O	O	O
+devint	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+amie	O	I-NOM_PER	O	O
+et	O	O	O	O
+reçut	O	O	O	O
+ses	B-PRON_PER	O	O	O
+plus	O	O	O	O
+intimes	O	O	O	O
+confidences	O	O	O	O
+,	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+assure	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+la	B-PRON_PER	O	O	O
+croyons	O	O	O	O
+.	O	O	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+n	O	O
+’	O	O
+aima	O	O
+pas	O	O
+seulement	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+comme	O	O
+un	O	O
+simple	O	O
+gentilhomme	O	O
+,	O	O
+avec	O	O
+le	O	O
+plus	O	O
+entier	O	O
+désintéressement	O	O
+,	O	O
+sans	O	O
+s	O	O
+’	O	O
+enorgueillir	O	O
+ni	O	O
+sans	O	O
+profiter	O	O
+de	O	O
+sa	B-PRON_PER	O
+faveur	O	O
+,	O	O
+elle	B-PRON_PER	O
+l	B-PRON_PER	O
+’	O	O
+aima	O	O
+comme	O	O
+un	O	O
+frère	O	O
+,	O	O
+d	O	O
+’	O	O
+un	O	O
+sentiment	O	O
+aussi	O	O
+pur	O	O
+que	O	O
+tendre	O	O
+.	O	O
+
+Cette	O	O
+liaison	O	O
+dura	O	O
+deux	B-NOM_TIME	O
+années	I-NOM_TIME	O
+,	O	O
+jusqu	O	O
+’	O	O
+en	O	O
+1637	B-NOM_TIME	O
+,	O	O
+toujours	O	O
+noble	O	O
+,	O	O
+touchante	O	O
+et	O	O
+véritablement	O	O
+admirable	O	O
+.	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+,	O	O
+c	O	O
+’	O	O
+est	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Vallière	I-PROP_PER	O
+,	O	O
+mais	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Vallière	I-PROP_PER	O
+qui	B-PRON_PER	O
+n	O	O
+’	O	O
+a	O	O
+pas	O	O
+failli	O	O
+.	O	O
+
+Il	O	O
+est	O	O
+vrai	O	O
+que	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+n	O	O
+’	O	O
+était	O	O
+ni	O	O
+aussi	O	O
+dangereux	O	O
+ni	O	O
+aussi	O	O
+pressant	O	O
+que	O	O
+Louis	B-PROP_PER	O
+XIV	I-PROP_PER	O
+.	O	O
+
+Une	O	O
+fois	O	O
+pourtant	O	O
+,	O	O
+vaincu	O	O
+par	O	O
+sa	B-PRON_PER	O
+tendresse	O	O
+et	O	O
+par	O	O
+le	O	O
+besoin	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+avait	O	O
+de	O	O
+la	B-PRON_PER	O
+voir	O	O
+à	O	O
+toute	O	O
+heure	O	O
+,	O	O
+il	B-PRON_PER	O
+la	B-PRON_PER	O
+conjura	O	O
+de	O	O
+se	O	O
+laisser	O	O
+mettre	O	O
+à	O	O
+Versailles	B-PROP_GPE	O
+pour	O	O
+y	B-PRON_GPE	O
+être	O	O
+toute	O	O
+à	O	O
+lui	B-PRON_PER	O
+;	O	O
+cette	O	O
+parole	O	O
+effraya	O	O
+la	O	O
+vertu	O	O
+de	O	O
+la	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+et	O	O
+l	B-PRON_PER	O
+’	O	O
+avertit	O	O
+du	O	O
+danger	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+courait	O	O
+.	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+ne	O	O
+renouvela	O	O
+jamais	O	O
+la	O	O
+proposition	O	O
+qui	O	O
+lui	B-PRON_PER	O
+était	O	O
+échappée	O	O
+,	O	O
+mais	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+s	O	O
+’	O	O
+en	O	O
+souvint	O	O
+,	O	O
+et	O	O
+elle	B-PRON_PER	O
+résolut	O	O
+de	O	O
+terminer	O	O
+une	O	O
+situation	O	O
+difficile	O	O
+à	O	O
+soutenir	O	O
+d	O	O
+’	O	O
+une	O	O
+façon	O	O
+digne	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+et	O	O
+d	O	O
+’	O	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+:	O	O
+elle	B-PRON_PER	O
+songea	O	O
+à	O	O
+entrer	O	O
+en	O	O
+religion	O	O
+.	O	O
+
+Cependant	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+cessé	O	O
+d	O	O
+’	O	O
+exhorter	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+à	O	O
+se	O	O
+réconcilier	O	O
+avec	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+et	O	O
+à	O	O
+secouer	O	O
+le	O	O
+joug	O	O
+de	O	O
+Richelieu	B-PROP_PER	O
+.	O	O
+
+Ainsi	O	O
+,	O	O
+quand	O	O
+tout	B-NOM_PER	O
+le	I-NOM_PER	O
+monde	I-NOM_PER	O
+,	O	O
+depuis	O	O
+Mathieu	B-PROP_PER	O
+Molé	I-PROP_PER	O
+jusqu	O	O
+’	O	O
+à	O	O
+M	B-PROP_PER	O
+.	I-PROP_PER	O
+le	I-PROP_PER	O
+Prince	I-PROP_PER	O
+,	O	O
+fléchissait	O	O
+et	O	O
+tremblait	O	O
+devant	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+impérieux	I-NOM_PER	O
+cardinal	I-NOM_PER	O
+,	O	O
+deux	B-NOM_PER	O
+jeunes	I-NOM_PER	O
+filles	I-NOM_PER	O
+,	O	O
+sans	O	O
+fortune	O	O
+et	O	O
+placées	O	O
+presque	O	O
+sous	O	O
+sa	B-PRON_PER	O
+main	O	O
+,	O	O
+lui	B-PRON_PER	O
+résistèrent	O	O
+.	O	O
+
+En	O	O
+vain	O	O
+il	B-PRON_PER	O
+essaya	O	O
+de	O	O
+gagner	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+,	O	O
+il	B-PRON_PER	O
+ne	O	O
+réussit	O	O
+pas	O	O
+mieux	O	O
+auprès	O	O
+d	O	O
+’	O	O
+elle	B-PRON_PER	O
+qu	O	O
+’	O	O
+auprès	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Il	B-PRON_PER	O	O	O
+eut	O	O	O	O
+recours	O	O	O	O
+alors	O	O	O	O
+à	O	O	O	O
+ses	B-PRON_PER	O	O	O
+manœuvres	O	O	O	O
+accoutumées	O	O	O	O
+:	O	O	O	O
+il	B-PRON_PER	O	O	O
+fomenta	O	O	O	O
+les	O	O	O	O
+scrupules	O	O	O	O
+des	B-NOM_PER	O	O	O
+deux	I-NOM_PER	O	O	O
+amans	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+après	O	O	O	O
+bien	O	O	O	O
+des	O	O	O	O
+luttes	O	O	O	O
+que	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Motteville	I-PROP_PER	O	O	O
+a	O	O	O	O
+racontées	O	O	O	O
+,	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+se	O	O	O	O
+retira	O	O	O	O
+au	O	O	B-NOM_FAC	O
+couvent	O	O	I-NOM_FAC	O
+des	O	B-NOM_PER	I-NOM_FAC	O
+filles	O	I-NOM_PER	I-NOM_FAC	O
+de	O	I-NOM_PER	I-NOM_FAC	O
+Sainte	B-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+-	I-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+Marie	I-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+de	O	O	I-NOM_FAC	O
+la	B-PROP_FAC	O	I-NOM_FAC	O
+rue	I-PROP_FAC	O	I-NOM_FAC	O
+Saint	I-PROP_FAC	O	I-NOM_FAC	O
+-	I-PROP_FAC	O	I-NOM_FAC	O
+Antoine	I-PROP_FAC	O	I-NOM_FAC	O
+.	O	O	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+alla	O	O
+l	B-PRON_PER	O
+’	O	O
+y	B-PRON_FAC	O
+voir	O	O
+pendant	O	O
+plusieurs	B-NOM_TIME	O
+mois	I-NOM_TIME	O
+.	O	O
+
+La	B-NOM_PER	O	O	O
+noble	I-NOM_PER	O	O	O
+religieuse	I-NOM_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+parla	O	O	O	O
+à	O	O	O	O
+travers	O	O	O	O
+la	O	O	O	O
+grille	O	O	O	O
+du	B-NOM_FAC	O	O	O
+cloître	I-NOM_FAC	O	O	O
+avec	O	O	O	O
+plus	O	O	O	O
+de	O	O	O	O
+force	O	O	O	O
+encore	O	O	O	O
+et	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+autorité	O	O	O	O
+que	O	O	O	O
+dans	O	O	O	O
+leurs	B-PRON_PER	O	O	O
+anciennes	O	O	O	O
+entrevues	O	O	O	O
+;	O	O	O	O
+elle	B-PRON_PER	O	O	O
+ne	O	O	O	O
+put	O	O	O	O
+rien	O	O	O	O
+sur	O	O	O	O
+sa	B-PRON_PER	O	O	O
+politique	O	O	O	O
+,	O	O	O	O
+mais	O	O	O	O
+elle	B-PRON_PER	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+adoucit	O	O	O	O
+un	O	O	O	O
+peu	O	O	O	O
+envers	O	O	O	O
+sa	B-NOM_PER	O	O	O
+femme	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+c	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+un	O	O	O	O
+soir	O	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+revenant	O	O	O	O
+du	O	O	B-NOM_FAC	O
+couvent	O	O	I-NOM_FAC	O
+des	O	B-NOM_PER	I-NOM_FAC	O
+filles	O	I-NOM_PER	I-NOM_FAC	O
+de	O	I-NOM_PER	I-NOM_FAC	O
+Sainte	B-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+-	I-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+Marie	I-PROP_PER	I-NOM_PER	I-NOM_FAC	O
+,	O	O	O	O
+que	O	O	O	O
+,	O	O	O	O
+forcé	O	O	O	O
+par	O	O	O	O
+un	O	O	O	O
+orage	O	O	O	O
+de	O	O	O	O
+ne	O	O	O	O
+pas	O	O	O	O
+retourner	O	O	O	O
+à	O	O	O	O
+Saint	B-PROP_PER	O	O	O
+-	I-PROP_PER	O	O	O
+Maur	I-PROP_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+passer	O	O	O	O
+la	B-NOM_TIME	O	O	O
+nuit	I-NOM_TIME	O	O	O
+au	B-PROP_FAC	O	O	O
+Louvre	I-PROP_FAC	O	O	O
+où	B-PRON_FAC	O	O	O
+était	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+donna	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIV	I-PROP_PER	O	O	O
+à	O	O	O	O
+la	B-PROP_GPE	O	O	O
+France	I-PROP_GPE	O	O	O
+.	O	O	O	O
+
+Mais	O	O	O	O
+,	O	O	O	O
+depuis	O	O	O	O
+la	O	O	O	O
+retraite	O	O	O	O
+de	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+au	B-NOM_TIME	O	O	O
+jour	I-NOM_TIME	O	O	O
+où	B-PRON_TIME	O	O	O
+la	O	B-NOM_HIST	O	O
+grossesse	O	I-NOM_HIST	O	O
+d	O	I-NOM_HIST	O	O
+’	O	I-NOM_HIST	O	O
+Anne	B-PROP_PER	I-NOM_HIST	O	O
+d	I-PROP_PER	I-NOM_HIST	O	O
+’	I-PROP_PER	I-NOM_HIST	O	O
+Autriche	I-PROP_PER	I-NOM_HIST	O	O
+parut	O	O	O	O
+et	O	O	O	O
+mit	O	O	O	O
+un	O	O	O	O
+terme	O	O	O	O
+ou	O	O	O	O
+du	O	O	O	O
+moins	O	O	O	O
+apporta	O	O	O	O
+quelque	O	O	O	O
+adoucissement	O	O	O	O
+à	O	O	O	O
+ses	B-PRON_PER	O	O	O
+malheurs	O	O	O	O
+,	O	O	O	O
+les	O	O	O	O
+plus	O	O	O	O
+étranges	O	O	O	O
+événemens	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+étaient	O	O	O	O
+accomplis	O	O	O	O
+:	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+avait	O	O	O	O
+été	O	O	O	O
+à	O	O	O	O
+deux	O	O	O	O
+doigts	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+perte	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+été	O	O	O	O
+sauvée	O	O	O	O
+que	O	O	O	O
+par	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+intrépide	O	O	O	O
+dévouement	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+jeune	O	O	O	O
+et	O	O	O	O
+fidèle	O	O	O	O
+amie	O	O	O	O
+Marie	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+L	B-NOM_TIME	O
+’	I-NOM_TIME	O
+année	I-NOM_TIME	O
+1637	I-NOM_TIME	O
+est	O	O
+la	O	O
+plus	O	O
+triste	O	O
+et	O	O
+la	O	O
+plus	O	O
+douloureuse	O	O
+que	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+Anne	I-NOM_PER	O
+ait	O	O
+eu	O	O
+à	O	O
+traverser	O	O
+.	O	O
+
+Jamais	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+ne	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+à	O	O	O	O
+ce	O	O	O	O
+point	O	O	O	O
+délaissée	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+elle	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+conservé	O	O	O	O
+autour	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+un	O	O	O	O
+très	O	O	O	O
+petit	O	O	O	O
+nombre	O	O	O	O
+de	O	O	O	O
+serviteurs	O	B-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+amis	B-NOM_PER	I-NOM_PER	O	O
+dont	O	B-PRON_PER	O	O
+elle	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+fait	O	O	O	O
+une	B-NOM_PER	O	O	O
+petite	I-NOM_PER	O	O	O
+cour	I-NOM_PER	O	O	O
+intime	I-NOM_PER	O	O	O
+où	B-PRON_PER	O	O	O
+encore	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+œil	O	O	O	O
+vigilant	O	O	O	O
+du	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+parvenait	O	O	O	O
+souvent	O	O	O	O
+à	O	O	O	O
+pénétrer	O	O	O	O
+.	O	O	O	O
+
+Au	O	O	O	O
+premier	O	O	O	O
+rang	O	O	O	O
+de	O	O	O	O
+ces	B-NOM_PER	O	O	O
+rares	I-NOM_PER	O	O	O
+courtisans	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+l	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+infortune	I-NOM_PER	O	O	O
+était	O	O	O	O
+La	B-PROP_PER	O	O	O
+Rochefoucauld	I-PROP_PER	O	O	O
+,	O	O	O	O
+tout	O	O	O	O
+jeune	O	O	O	O
+encore	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+plein	O	O	O	O
+des	O	O	O	O
+sentimens	O	O	O	O
+que	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+père	O	I-NOM_PER	O	O
+lui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+inspirés	O	O	O	O
+contre	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+débutant	O	O	O	O
+dans	O	O	O	O
+le	O	O	O	O
+monde	O	O	O	O
+embrassa	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+abord	O	O	O	O
+le	O	O	O	O
+parti	O	O	O	O
+des	O	O	O	O
+mécontens	O	O	O	O
+et	O	O	O	O
+la	O	O	O	O
+cause	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+Anne	B-PROP_PER	O	O	O
+d	I-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Autriche	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+Lui	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+a	O	O
+raconté	O	O
+quel	O	O
+agrément	O	O
+il	B-PRON_PER	O
+trouvait	O	O
+alors	O	O
+à	O	O
+servir	O	O
+une	B-NOM_PER	O
+reine	I-NOM_PER	O
+sans	O	O
+crédit	O	O
+,	O	O
+mais	O	O
+environnée	O	O
+de	O	O
+femmes	B-NOM_PER	O
+charmantes	I-NOM_PER	O
+,	O	O
+et	O	O
+quelle	O	O
+liaison	O	O
+il	B-PRON_PER	O
+forma	O	O
+avec	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+dont	B-PRON_PER	O
+il	B-PRON_PER	O
+célèbre	O	O
+la	O	O
+surprenante	O	O
+beauté	O	O
+,	O	O
+ajoutant	O	O
+,	O	O
+comme	O	O
+s	O	O
+’	O	O
+il	B-PRON_PER	O
+avait	O	O
+peur	O	O
+de	O	O
+la	B-PRON_PER	O
+compromettre	O	O
+,	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+avait	O	O
+beaucoup	O	O
+de	O	O
+vertu	O	O
+.	O	O
+
+Nous	B-PRON_METALEPSE	O
+pouvons	O	O
+écarter	O	O
+le	O	O
+voile	O	O
+de	O	O
+ce	O	O
+langage	O	O
+incertain	O	O
+,	O	O
+et	O	O
+nous	B-PRON_METALEPSE	O
+ne	O	O
+voyons	O	O
+pas	O	O
+pourquoi	O	O
+La	B-PROP_PER	O
+Rochefoucauld	I-PROP_PER	O
+,	O	O
+si	O	O
+peu	O	O
+réservé	O	O
+,	O	O
+hélas	O	O
+!	O	O
+
+sur	O	O
+un	O	O
+point	O	O
+bien	O	O
+autrement	O	O
+délicat	O	O
+,	O	O
+montre	O	O
+ici	O	O
+quelque	O	O
+embarras	O	O
+à	O	O
+nous	B-PRON_METALEPSE	O
+dire	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+devint	O	O
+amoureux	O	O
+de	O	O
+la	B-PROP_PER	O
+belle	I-PROP_PER	O
+Marie	I-PROP_PER	O
+.	O	O
+
+C	O	O
+’	O	O
+est	O	O
+peut	O	O
+-	O	O
+être	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+eût	O	O
+fallu	O	O
+avouer	O	O
+que	O	O
+,	O	O
+loin	O	O
+d	O	O
+’	O	O
+être	O	O
+accueillie	O	O
+,	O	O
+cette	O	O
+passion	O	O
+dut	O	O
+se	O	O
+borner	O	O
+à	O	O
+une	O	O
+adoration	O	O
+respectueuse	O	O
+,	O	O
+selon	O	O
+les	O	O
+mœurs	O	O
+de	O	O
+la	O	O
+galanterie	O	O
+du	O	O
+temps	O	O
+ou	O	O
+plutôt	O	O
+selon	O	O
+le	O	O
+goût	O	O
+particulier	O	O
+de	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+héroïne	I-NOM_PER	O
+.	O	O
+
+La	B-PROP_PER	O
+Rochefoucauld	I-PROP_PER	O
+aima	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+sans	O	O
+oser	O	O
+le	O	O
+lui	B-PRON_PER	O
+dire	O	O
+;	O	O
+mais	O	O
+quelque	O	O
+temps	O	O
+après	O	O
+,	O	O
+étant	O	O
+à	O	O
+l	B-NOM_ORG	O
+’	I-NOM_ORG	O
+armée	I-NOM_ORG	O
+et	O	O
+à	O	O
+la	O	O
+veille	O	O
+d	O	O
+’	O	O
+une	O	O
+bataille	O	O
+,	O	O
+il	B-PRON_PER	O
+alla	O	O
+trouver	O	O
+le	B-NOM_PER	O
+marquis	I-NOM_PER	O
+de	I-NOM_PER	O
+Hautefort	I-NOM_PER	O
+avec	O	O
+lequel	B-PRON_PER	O
+il	B-PRON_PER	O
+servait	O	O
+,	O	O
+lui	B-PRON_PER	O
+fit	O	O
+confidence	O	O
+de	O	O
+sa	B-PRON_PER	O
+passion	O	O
+,	O	O
+et	O	O
+lui	B-PRON_PER	O
+donna	O	O
+une	O	O
+lettre	O	O
+pour	O	O
+sa	B-PRON_PER	O
+sœur	O	O
+,	O	O
+en	O	O
+lui	B-PRON_PER	O
+faisant	O	O
+promettre	O	O
+que	O	O
+,	O	O
+s	O	O
+’	O	O
+il	B-PRON_PER	O
+périssait	O	O
+dans	O	O
+le	O	O
+combat	O	O
+,	O	O
+il	B-PRON_PER	O
+la	O	O
+lui	B-PRON_PER	O
+remettrait	O	O
+et	O	O
+lui	B-PRON_PER	O
+dirait	O	O
+de	O	O
+sa	B-PRON_PER	O
+part	O	O
+ce	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+ne	O	O
+lui	B-PRON_PER	O
+avait	O	O
+jamais	O	O
+dit	O	O
+,	O	O
+et	O	O
+que	O	O
+,	O	O
+s	O	O
+’	O	O
+il	B-PRON_PER	O
+n	O	O
+’	O	O
+était	O	O
+pas	O	O
+tué	O	O
+,	O	O
+il	B-PRON_PER	O
+lui	B-PRON_PER	O
+rendrait	O	O
+sa	B-PRON_PER	O
+lettre	O	O
+à	O	O
+lui	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+et	O	O
+lui	B-PRON_PER	O
+garderait	O	O
+fidèlement	O	O
+son	B-PRON_PER	O
+secret	O	O
+.	O	O
+
+C	O	O
+’	O	O
+était	O	O
+là	O	O
+comme	O	O
+on	O	O
+faisait	O	O
+la	O	O
+cour	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Ce	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+pas	O	O	O	O
+ici	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+ailleurs	O	O	O	O
+le	O	O	O	O
+temps	O	O	O	O
+de	O	O	O	O
+parler	O	O	O	O
+de	O	O	O	O
+ses	B-PRON_PER	O	O	O
+conquêtes	O	O	O	O
+;	O	O	O	O
+celui	O	O	O	O
+où	O	O	O	O
+nous	B-PRON_METALEPSE	O	O	O
+en	O	O	O	O
+sommes	O	O	O	O
+arrivés	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+pas	O	O	O	O
+la	O	O	O	O
+saison	O	O	O	O
+des	O	O	O	O
+amours	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+des	O	O	O	O
+choses	O	O	O	O
+plus	O	O	O	O
+sérieuses	O	O	O	O
+et	O	O	O	O
+presque	O	O	O	O
+tragiques	O	O	O	O
+se	O	O	O	O
+passaient	O	O	O	O
+dans	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+intérieur	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+.	O	O	O	O
+
+Lasse	O	O	O	O
+de	O	O	O	O
+souffrir	O	O	O	O
+,	O	O	O	O
+Anne	B-PROP_PER	O	O	O
+d	I-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Autriche	I-PROP_PER	O	O	O
+rêva	O	O	O	O
+quelque	O	O	O	O
+entreprise	O	O	O	O
+désespérée	O	O	O	O
+pour	O	O	O	O
+sortir	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+embarras	O	O	O	O
+,	O	O	O	O
+ou	O	O	O	O
+du	O	O	O	O
+moins	O	O	O	O
+elle	B-PRON_PER	O	O	O
+intrigua	O	O	O	O
+avec	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+,	O	O	O	O
+alors	O	O	O	O
+reléguée	O	O	O	O
+en	O	O	O	O
+Touraine	B-PROP_GPE	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+entretint	O	O	O	O
+une	O	O	O	O
+correspondance	O	O	O	O
+équivoque	O	O	O	O
+avec	O	O	O	O
+ses	B-PRON_PER	B-NOM_PER	O	O
+deux	O	I-NOM_PER	O	O
+frères	O	I-NOM_PER	O	O
+,	O	O	O	O
+le	B-NOM_PER	B-NOM_PER	O	O
+cardinal	I-NOM_PER	I-NOM_PER	O	O
+infant	I-NOM_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+le	B-NOM_PER	I-NOM_PER	O	O
+roi	I-NOM_PER	I-NOM_PER	O	O
+Philippe	I-NOM_PER	I-NOM_PER	O	O
+IV	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+pendant	O	O	O	O
+que	O	O	O	O
+l	B-PROP_GPE	O	O	O
+’	I-PROP_GPE	O	O	O
+Espagne	I-PROP_GPE	O	O	O
+était	O	O	O	O
+en	O	O	O	O
+guerre	O	B-NOM_HIST	O	O
+avec	O	I-NOM_HIST	O	O
+la	B-PROP_GPE	I-NOM_HIST	O	O
+France	I-PROP_GPE	I-NOM_HIST	O	O
+.	O	O	O	O
+
+Un	O	O	B-NOM_PER	O
+de	O	O	I-NOM_PER	O
+ses	B-PRON_PER	B-NOM_PER	I-NOM_PER	O
+domestiques	O	I-NOM_PER	I-NOM_PER	O
+qu	B-PRON_PER	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+employait	O	O	O	O
+à	O	O	O	O
+cette	O	O	O	O
+correspondance	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+tous	O	O	O	O
+ses	B-PRON_PER	O	O	O
+secrets	O	O	O	O
+,	O	O	O	O
+La	B-PROP_PER	O	O	O
+Porte	I-PROP_PER	O	O	O
+,	O	O	O	O
+fut	O	O	O	O
+arrêté	O	O	O	O
+,	O	O	O	O
+jeté	O	O	O	O
+dans	O	O	O	O
+un	O	B-NOM_FAC	O	O
+cachot	O	I-NOM_FAC	O	O
+de	O	I-NOM_FAC	O	O
+la	B-PROP_FAC	I-NOM_FAC	O	O
+Bastille	I-PROP_FAC	I-NOM_FAC	O	O
+,	O	O	O	O
+soumis	O	O	O	O
+aux	O	O	O	O
+plus	O	O	O	O
+terribles	O	O	O	O
+épreuves	O	O	O	O
+.	O	O	O	O
+
+Après	O	O
+avoir	O	O
+commencé	O	O
+par	O	O
+tout	O	O
+nier	O	O
+,	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+pressée	O	O
+par	O	O
+Richelieu	B-PROP_PER	O
+et	O	O
+par	O	O
+des	O	O
+indices	O	O
+irrécusables	O	O
+,	O	O
+craignant	O	O
+les	O	O
+derniers	O	O
+malheurs	O	O
+,	O	O
+fit	O	O
+de	O	O
+grands	O	O
+aveux	O	O
+,	O	O
+que	O	O
+nous	B-PRON_METALEPSE	O
+connaissons	O	O
+bien	O	O
+aujourd	O	O
+’	O	O
+hui	O	O
+,	O	O
+et	O	O
+qui	O	O
+,	O	O
+tout	O	O
+graves	O	O
+qu	O	O
+’	O	O
+ils	O	O
+sont	O	O
+déjà	O	O
+,	O	O
+ne	O	O
+devaient	O	O
+pas	O	O
+être	O	O
+complets	O	O
+,	O	O
+car	O	O
+s	O	O
+’	O	O
+ils	O	O
+l	O	O
+’	O	O
+eussent	O	O
+été	O	O
+,	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+n	O	O
+’	O	O
+avait	O	O
+qu	O	O
+’	O	O
+à	O	O
+faire	O	O
+dire	O	O
+tout	O	O
+simplement	O	O
+à	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+par	O	O
+le	B-NOM_PER	O
+chancelier	I-NOM_PER	O
+Séguier	I-NOM_PER	O
+,	O	O
+et	O	O
+par	O	O
+une	O	O
+lettre	O	O
+de	O	O
+sa	B-PRON_PER	O
+propre	O	O
+main	O	O
+,	O	O
+de	O	O
+déclarer	O	O
+tout	O	O
+ce	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+savait	O	O
+,	O	O
+tandis	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+tint	O	O
+une	O	O
+conduite	O	O
+bien	O	O
+différente	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+considéra	O	O
+son	B-PRON_PER	O
+salut	O	O
+comme	O	O
+suspendu	O	O
+à	O	O
+deux	B-NOM_PER	O
+fils	I-NOM_PER	O
+:	O	O
+il	O	O
+fallait	O	O
+que	O	O
+,	O	O
+selon	O	O
+le	O	O
+tour	O	O
+que	O	O
+prendrait	O	O
+l	O	O
+’	O	O
+affaire	O	O
+,	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+pût	O	O
+fuir	O	O
+ou	O	O
+rester	O	O
+;	O	O
+il	O	O
+fallait	O	O
+surtout	O	O
+que	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+,	O	O
+dans	O	O
+ses	B-PRON_PER	O
+interrogatoires	O	O
+,	O	O
+ne	O	O
+dépassât	O	O
+pas	O	O
+les	O	O
+aveux	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+et	O	O
+aussi	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+avouât	O	O
+tout	O	O
+ce	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+avait	O	O
+avoué	O	O
+,	O	O
+pour	O	O
+donner	O	O
+à	O	O
+leurs	O	O
+déclarations	O	O
+communes	O	O
+une	O	O
+parfaite	O	O
+vraisemblance	O	O
+.	O	O
+
+La	B-NOM_PER	O
+Porte	I-NOM_PER	O
+intimidé	I-NOM_PER	O
+pouvait	O	O
+en	O	O
+dire	O	O
+trop	O	O
+,	O	O
+ou	O	O
+sa	B-PRON_PER	O
+constance	O	O
+à	O	O
+tout	O	O
+nier	O	O
+pouvait	O	O
+inspirer	O	O
+des	O	O
+ombrages	O	O
+;	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+craignait	O	O
+tout	O	O
+ensemble	O	O
+son	B-PRON_PER	O
+énergie	O	O
+et	O	O
+sa	B-PRON_PER	O
+faiblesse	O	O
+.	O	O
+
+Comment	O	O	O	O
+arriver	O	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+La	B-PROP_PER	O	O	O
+Porte	I-PROP_PER	O	O	O
+,	O	O	O	O
+enseveli	O	O	O	O
+dans	O	O	O	O
+un	O	B-NOM_FAC	O	O
+cachot	O	I-NOM_FAC	O	O
+de	O	I-NOM_FAC	O	O
+la	B-PROP_FAC	I-NOM_FAC	O	O
+Bastille	I-PROP_FAC	I-NOM_FAC	O	O
+?	O	O	O	O
+
+Comment	O	O
+même	O	O
+prévenir	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+,	O	O
+ignorante	O	O
+de	O	O
+ce	O	O
+qui	O	O
+se	O	O
+passait	O	O
+,	O	O
+et	O	O
+qui	O	O
+pouvait	O	O
+à	O	O
+tout	O	O
+moment	O	O
+être	O	O
+arrêtée	O	O
+?	O	O
+
+C	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+alors	O	O	O	O
+,	O	O	O	O
+si	O	O	O	O
+on	O	O	O	O
+en	O	O	O	O
+croit	O	O	O	O
+La	B-PROP_PER	O	O	O
+Rochefoucauld	I-PROP_PER	O	O	O
+,	O	O	O	O
+que	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+les	O	O	O	O
+angoisses	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+première	O	O	O	O
+terreur	O	O	O	O
+,	O	O	O	O
+se	O	O	O	O
+croyant	O	O	O	O
+menacée	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+être	O	O	O	O
+répudiée	O	O	O	O
+,	O	O	O	O
+déchue	O	O	O	O
+de	O	O	O	O
+tout	O	O	O	O
+droit	O	O	O	O
+,	O	O	O	O
+enfermée	O	O	O	O
+dans	O	O	O	O
+quelque	B-NOM_FAC	O	O	O
+couvent	I-NOM_FAC	O	O	O
+ou	O	O	O	O
+même	O	O	O	O
+dans	O	O	O	O
+le	B-NOM_FAC	O	O	O
+château	I-NOM_FAC	O	O	O
+du	I-NOM_FAC	O	O	O
+Havre	I-NOM_FAC	O	O	O
+,	O	O	O	O
+qui	B-PRON_FAC	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+,	O	O	O	O
+lui	B-PRON_PER	O	O	O
+aurait	O	O	O	O
+proposé	O	O	O	O
+de	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+enlever	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	B-PRON_PER	O	O
+et	O	I-PRON_PER	O	O
+Mlle	B-PROP_PER	I-PRON_PER	O	O
+de	I-PROP_PER	I-PRON_PER	O	O
+Hautefort	I-PROP_PER	I-PRON_PER	O	O
+,	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+les	B-PRON_PER	O	O	O
+conduire	O	O	O	O
+à	O	O	O	O
+Bruxelles	B-PROP_GPE	O	O	O
+,	O	O	O	O
+proposition	O	O	O	O
+trop	O	O	O	O
+extravagante	O	O	O	O
+pour	O	O	O	O
+avoir	O	O	O	O
+été	O	O	O	O
+faite	O	O	O	O
+sérieusement	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+que	O	O	O	O
+La	B-PROP_PER	O	O	O
+Rochefoucauld	I-PROP_PER	O	O	O
+ne	O	O	O	O
+rapporte	O	O	O	O
+sans	O	O	O	O
+doute	O	O	O	O
+que	O	O	O	O
+pour	O	O	O	O
+peindre	O	O	O	O
+le	O	O	O	O
+danger	O	O	O	O
+du	O	O	O	O
+moment	O	O	O	O
+et	O	O	O	O
+aussi	O	O	O	O
+pour	O	O	O	O
+relever	O	O	O	O
+son	B-PRON_PER	O	O	O
+importance	O	O	O	O
+.	O	O	O	O
+
+C	O	O
+’	O	O
+eût	O	O
+été	O	O
+jouer	O	O
+précisément	O	O
+le	O	O
+jeu	O	O
+du	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+,	O	O
+comme	O	O
+l	O	O
+’	O	O
+avait	O	O
+fait	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Médicis	I-PROP_PER	O
+;	O	O
+il	O	O
+fallait	O	O
+rester	O	O
+,	O	O
+tenir	O	O
+tête	O	O
+au	O	O
+péril	O	O
+,	O	O
+et	O	O
+le	B-PRON_PER	O
+conjurer	O	O
+à	O	O
+force	O	O
+d	O	O
+’	O	O
+adresse	O	O
+et	O	O
+de	O	O
+courage	O	O
+.	O	O
+
+Dans	O	O
+cette	O	O
+grave	O	O
+conjoncture	O	O
+,	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+entreprit	O	O
+de	O	O
+sauver	O	O
+sa	B-NOM_PER	O
+maîtresse	I-NOM_PER	O
+ou	O	O
+de	O	O
+se	O	O
+perdre	O	O
+avec	O	O
+elle	B-PRON_PER	O
+.	O	O
+
+Déjà	O	O
+elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+avait	O	O
+sacrifié	O	O
+la	O	O
+faveur	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+celle	O	O
+de	O	O
+Richelieu	B-PROP_PER	O
+,	O	O
+son	B-PRON_PER	O
+avenir	O	O
+,	O	O
+elle	B-PRON_PER	O
+qui	B-PRON_PER	O
+n	O	O
+’	O	O
+avait	O	O
+rien	O	O
+que	O	O
+sa	B-PRON_PER	O
+beauté	O	O
+et	O	O
+son	B-PRON_PER	O
+esprit	O	O
+,	O	O
+et	O	O
+qui	B-PRON_PER	O
+aimait	O	O
+naturellement	O	O
+la	O	O
+magnificence	O	O
+et	O	O
+l	O	O
+’	O	O
+éclat	O	O
+;	O	O
+elle	B-PRON_PER	O
+fit	O	O
+plus	O	O
+cette	O	O
+fois	O	O
+,	O	O
+elle	B-PRON_PER	O
+risqua	O	O
+pour	O	O
+elle	B-PRON_PER	O
+quelque	O	O
+chose	O	O
+qui	O	O
+lui	B-PRON_PER	O
+était	O	O
+mille	O	O
+fois	O	O
+plus	O	O
+cher	O	O
+que	O	O
+la	O	O
+fortune	O	O
+et	O	O
+la	O	O
+vie	O	O
+,	O	O
+elle	B-PRON_PER	O
+risqua	O	O
+sa	B-PRON_PER	O
+réputation	O	O
+;	O	O
+elle	B-PRON_PER	O
+rejeta	O	O
+cet	O	O
+instinct	O	O
+de	O	O
+pudeur	O	O
+et	O	O
+de	O	O
+retenue	O	O
+qui	O	O
+faisait	O	O
+son	B-PRON_PER	O
+charme	O	O
+et	O	O
+sa	B-PRON_PER	O
+gloire	O	O
+,	O	O
+qui	O	O
+jusque	O	O
+-	O	O
+là	O	O
+avait	O	O
+fermé	O	O
+son	B-PRON_PER	O
+oreille	O	O
+à	O	O
+tout	O	O
+propos	O	O
+flatteur	O	O
+,	O	O
+et	O	O
+ne	O	O
+lui	B-PRON_PER	O
+avait	O	O
+pas	O	O
+même	O	O
+permis	O	O
+d	O	O
+’	O	O
+écrire	O	O
+,	O	O
+sous	O	O
+quelque	O	O
+prétexte	O	O
+que	O	O
+ce	O	O
+fût	O	O
+,	O	O
+le	O	O
+moindre	O	O
+billet	O	O
+à	O	O
+aucun	B-NOM_PER	O
+homme	I-NOM_PER	O
+,	O	O
+et	O	O
+la	B-NOM_PER	O
+superbe	I-NOM_PER	O
+créature	I-NOM_PER	O
+se	O	O
+condamna	O	O
+au	O	O
+rôle	O	O
+le	O	O
+plus	O	O
+opposé	O	O
+à	O	O
+tous	O	O
+ses	B-PRON_PER	O
+goûts	O	O
+et	O	O
+à	O	O
+toutes	O	O
+ses	B-PRON_PER	O
+habitudes	O	O
+.	O	O
+
+D	O	O	O	O
+’	O	O	O	O
+abord	O	O	O	O
+elle	B-PRON_PER	O	O	O
+persuada	O	O	O	O
+à	O	O	O	O
+un	O	B-NOM_PER	O	O
+gentilhomme	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+ses	B-NOM_PER	I-NOM_PER	O	O
+parens	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+M	B-PROP_PER	O	O	O
+.	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Montalais	I-PROP_PER	O	O	O
+,	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+aller	O	O	O	O
+à	O	O	O	O
+Tours	B-PROP_GPE	O	O	O
+dire	O	O	O	O
+à	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+où	O	O	O	O
+les	O	O	O	O
+choses	O	O	O	O
+en	O	O	O	O
+étaient	O	O	O	O
+,	O	O	O	O
+de	O	O	O	O
+ne	O	O	O	O
+pas	O	O	O	O
+remuer	O	O	O	O
+,	O	O	O	O
+tout	O	O	O	O
+en	O	O	O	O
+prenant	O	O	O	O
+ses	B-PRON_PER	O	O	O
+précautions	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+avertirait	O	O	O	O
+de	O	O	O	O
+fuir	O	O	O	O
+ou	O	O	O	O
+de	O	O	O	O
+rester	O	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+lui	B-PRON_PER	O	O	O
+adressant	O	O	O	O
+des	O	O	O	O
+Heures	O	O	O	O
+reliées	O	O	O	O
+en	O	O	O	O
+rouge	O	O	O	O
+ou	O	O	O	O
+en	O	O	O	O
+vert	O	O	O	O
+,	O	O	O	O
+selon	O	O	O	O
+le	O	O	O	O
+parti	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	O	O	O	O
+faudrait	O	O	O	O
+prendre	O	O	O	O
+.	O	O	O	O
+
+Puis	O	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+,	O	O
+elle	B-PRON_PER	O
+se	O	O
+déguise	O	O
+en	O	O
+grisette	O	O
+,	O	O
+barbouille	O	O
+son	B-PRON_PER	O
+beau	O	O
+visage	O	O
+,	O	O
+cache	O	O
+ses	B-PRON_PER	O
+blonds	O	O
+cheveux	O	O
+sous	O	O
+une	O	O
+grande	O	O
+coiffe	O	O
+,	O	O
+et	O	O
+de	O	O
+grand	B-NOM_TIME	O
+matin	I-NOM_TIME	O
+,	O	O
+quand	O	O
+personne	B-PRON_PER	O
+n	O	O
+’	O	O
+est	O	O
+encore	O	O
+éveillé	O	O
+au	B-PROP_FAC	O
+Louvre	I-PROP_FAC	O
+,	O	O
+elle	B-PRON_PER	O
+en	O	O
+sort	O	O
+à	O	O
+la	O	O
+dérobée	O	O
+,	O	O
+prend	O	O
+un	B-NOM_VEH	O
+fiacre	I-NOM_VEH	O
+et	O	O
+se	O	O
+fait	O	O
+conduire	O	O
+à	O	O
+la	B-PROP_FAC	O
+Bastille	I-PROP_FAC	O
+.	O	O
+
+Elle	B-PRON_PER	O
+savait	O	O
+qu	O	O
+’	O	O
+il	O	O
+y	O	O
+avait	O	O
+là	B-NOM_FAC	O
+un	B-NOM_PER	O
+prisonnier	I-NOM_PER	O
+qui	B-PRON_PER	O
+déjà	O	O
+une	O	O
+fois	O	O
+avait	O	O
+joué	O	O
+sa	B-PRON_PER	O
+tête	O	O
+pour	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+déployé	O	O
+dans	O	O
+les	O	O
+fers	O	O
+une	O	O
+constance	O	O
+magnanime	O	O
+,	O	O
+et	O	O
+venait	O	O
+à	O	O
+peine	O	O
+de	O	O
+descendre	O	O
+de	O	O
+l	B-NOM_FAC	O
+’	I-NOM_FAC	O
+échafaud	I-NOM_FAC	O
+,	O	O
+le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+de	I-NOM_PER	O
+Jars	I-NOM_PER	O
+.	O	O
+
+Il	B-PRON_PER	O
+commençait	O	O
+un	O	O
+peu	O	O
+à	O	O
+respirer	O	O
+de	O	O
+cette	O	O
+terrible	O	O
+épreuve	O	O
+,	O	O
+on	O	O
+lui	B-PRON_PER	O
+laissait	O	O
+quelque	O	O
+liberté	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+pouvait	O	O
+recevoir	O	O
+quelques	B-NOM_PER	O
+personnes	I-NOM_PER	O
+.	O	O
+
+La	B-NOM_PER	O
+noble	I-NOM_PER	O
+fille	I-NOM_PER	O
+,	O	O
+jugeant	O	O
+du	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+par	O	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+,	O	O
+crut	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+pouvait	O	O
+lui	B-PRON_PER	O
+demander	O	O
+de	O	O
+jouer	O	O
+sa	B-PRON_PER	O
+tête	O	O
+une	O	O
+seconde	O	O
+fois	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+donna	O	O	O	O
+pour	O	O	O	O
+la	O	B-NOM_PER	O	O
+sœur	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+son	B-NOM_PER	I-NOM_PER	O	O
+valet	I-NOM_PER	I-NOM_PER	O	O
+de	I-NOM_PER	I-NOM_PER	O	O
+chambre	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+venait	O	O	O	O
+lui	B-PRON_PER	O	O	O
+apprendre	O	O	O	O
+que	O	O	O	O
+cet	B-NOM_PER	O	O	O
+homme	I-NOM_PER	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+mort	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+entretenir	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+part	O	O	O	O
+de	O	O	O	O
+choses	O	O	O	O
+pressantes	O	O	O	O
+.	O	O	O	O
+
+Le	B-NOM_PER	O	O	O
+chevalier	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Jars	I-NOM_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+savait	O	O	O	O
+son	B-NOM_PER	O	O	O
+domestique	I-NOM_PER	O	O	O
+en	O	O	O	O
+bonne	O	O	O	O
+santé	O	O	O	O
+,	O	O	O	O
+répugnait	O	O	O	O
+à	O	O	O	O
+se	O	O	O	O
+déranger	O	O	O	O
+pour	O	O	O	O
+une	O	O	O	O
+telle	O	O	O	O
+visite	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+l	B-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+altière	I-NOM_PER	O	O	O
+Marie	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Hautefort	I-NOM_PER	O	O	O
+dut	O	O	O	O
+attendre	O	O	O	O
+quelque	O	O	O	O
+temps	O	O	O	O
+dans	O	O	O	O
+le	B-NOM_FAC	O	O	O
+corps	I-NOM_FAC	O	O	O
+de	I-NOM_FAC	O	O	O
+garde	I-NOM_FAC	O	O	O
+qui	B-PRON_FAC	O	O	O
+était	O	O	O	O
+à	O	O	O	O
+la	O	B-NOM_FAC	O	O
+porte	O	I-NOM_FAC	O	O
+de	O	I-NOM_FAC	O	O
+la	B-PROP_FAC	I-NOM_FAC	O	O
+Bastille	I-PROP_FAC	I-NOM_FAC	O	O
+,	O	O	O	O
+exposée	O	O	O	O
+aux	O	O	O	O
+regards	O	O	O	O
+et	O	O	O	O
+aux	O	O	O	O
+plaisanteries	O	O	O	O
+de	O	O	O	O
+tous	B-NOM_PER	O	O	O
+ceux	I-NOM_PER	O	O	O
+qui	B-PRON_PER	O	O	O
+étaient	O	O	O	O
+là	B-NOM_FAC	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+son	B-PRON_PER	O	O	O
+costume	O	O	O	O
+,	O	O	O	O
+la	B-PRON_PER	O	O	O
+prenaient	O	O	O	O
+pour	O	O	O	O
+une	O	O	O	O
+demoiselle	O	O	O	O
+très	O	O	O	O
+équivoque	O	O	O	O
+.	O	O	O	O
+
+Elle	B-PRON_PER	O
+supporta	O	O
+tout	O	O
+en	O	O
+silence	O	O
+,	O	O
+appliquant	O	O
+bien	O	O
+ses	B-PRON_PER	O
+mains	O	O
+sur	O	O
+sa	B-PRON_PER	O
+coiffe	O	O
+pour	O	O
+qu	O	O
+’	O	O
+on	O	O
+n	O	O
+’	O	O
+aperçût	O	O
+pas	O	O
+sa	B-PRON_PER	O
+figure	O	O
+et	O	O
+ses	B-PRON_PER	O
+yeux	O	O
+.	O	O
+
+Enfin	O	O
+le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+de	I-NOM_PER	O
+Jars	I-NOM_PER	O
+se	O	O
+décida	O	O
+à	O	O
+venir	O	O
+.	O	O
+
+Ne	O	O
+la	B-PRON_PER	O
+reconnaissant	O	O
+pas	O	O
+d	O	O
+’	O	O
+abord	O	O
+,	O	O
+il	B-PRON_PER	O
+allait	O	O
+la	B-PRON_PER	O
+traiter	O	O
+assez	O	O
+mal	O	O
+,	O	O
+lorsque	O	O
+,	O	O
+le	B-PRON_PER	O
+tirant	O	O
+à	O	O
+part	O	O
+et	O	O
+entrant	O	O
+avec	O	O
+lui	B-PRON_PER	O
+dans	O	O
+la	B-NOM_FAC	O
+cour	I-NOM_FAC	O
+,	O	O
+pour	O	O
+toute	O	O
+réponse	O	O
+à	O	O
+ses	B-PRON_PER	O
+propos	O	O
+,	O	O
+elle	B-PRON_PER	O
+leva	O	O
+sa	B-PRON_PER	O
+coiffe	O	O
+,	O	O
+et	O	O
+lui	B-PRON_PER	O
+montra	O	O
+cet	O	O
+adorable	O	O
+visage	O	O
+qu	O	O
+’	O	O
+on	O	O
+ne	O	O
+pouvait	O	O
+oublier	O	O
+quand	O	O
+on	O	O
+l	O	O
+’	O	O
+avait	O	O
+vu	O	O
+une	O	O
+fois	O	O
+:	O	O
+«	O	O
+Ah	O	O
+!	O	O
+
+»	O	O
+s	O	O
+’	O	O
+écria	O	O
+le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+.	O	O
+
+Elle	O	O
+le	B-PRON_PER	O
+fit	O	O
+taire	O	O
+,	O	O
+et	O	O
+lui	B-PRON_PER	O
+expliqua	O	O
+en	O	O
+peu	O	O
+de	O	O
+mots	O	O
+ce	O	O
+que	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+lui	B-PRON_PER	O
+demandait	O	O
+.	O	O
+
+Il	O	O
+s	O	O
+’	O	O
+agissait	O	O
+de	O	O
+faire	O	O
+parvenir	O	O
+à	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+une	O	O
+lettre	O	O
+cachetée	O	O
+où	O	O
+on	O	O
+lui	B-PRON_PER	O
+marquait	O	O
+jusqu	O	O
+’	O	O
+où	O	O
+il	B-PRON_PER	O
+pouvait	O	O
+et	O	O
+devait	O	O
+aller	O	O
+dans	O	O
+ses	B-PRON_PER	O
+déclarations	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+remit	O	O
+cette	O	O
+lettre	O	O
+au	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+en	O	O
+lui	B-PRON_PER	O
+disant	O	O
+:	O	O
+«	O	O
+Voilà	O	O
+,	O	O
+monsieur	B-NOM_PER	O
+,	O	O
+ce	O	O
+que	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+m	B-PRON_PER	O
+’	O	O
+a	O	O
+donné	O	O
+pour	O	O
+vous	B-PRON_PER	O
+;	O	O
+il	O	O
+faut	O	O
+employer	O	O
+votre	B-PRON_PER	O
+adresse	O	O
+et	O	O
+votre	B-PRON_PER	O
+crédit	O	O
+dans	O	O
+ce	B-NOM_FAC	O
+lieu	I-NOM_FAC	O
+-	I-NOM_FAC	O
+ci	I-NOM_FAC	O
+pour	O	O
+faire	O	O
+arriver	O	O
+cette	O	O
+lettre	O	O
+jusqu	O	O
+’	O	O
+à	O	O
+ce	B-NOM_PER	O
+prisonnier	I-NOM_PER	O
+.	O	O
+
+Je	B-PRON_PER	O
+vous	B-PRON_PER	O
+demande	O	O
+beaucoup	O	O
+,	O	O
+mais	O	O
+j	B-PRON_PER	O
+’	O	O
+ai	O	O
+compté	O	O
+que	O	O
+vous	B-PRON_PER	O
+ne	O	O
+m	B-PRON_PER	O
+’	O	O
+abandonneriez	O	O
+pas	O	O
+dans	O	O
+le	O	O
+dessein	O	O
+que	O	O
+j	B-PRON_PER	O
+’	O	O
+ai	O	O
+de	O	O
+tirer	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+de	O	O
+l	O	O
+’	O	O
+extrême	O	O
+péril	O	O
+où	O	O
+elle	B-PRON_PER	O
+est	O	O
+.	O	O
+
+»	O	O
+Le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+,	O	O
+tout	O	O
+intrépide	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+était	O	O
+,	O	O
+fut	O	O
+bien	O	O
+étonné	O	O
+de	O	O
+voir	O	O
+qu	O	O
+’	O	O
+il	O	O
+était	O	O
+question	O	O
+de	O	O
+hasarder	O	O
+de	O	O
+nouveau	O	O
+sa	B-PRON_PER	O
+vie	O	O
+.	O	O
+
+Il	B-PRON_PER	O
+balança	O	O
+,	O	O
+il	B-PRON_PER	O
+songea	O	O
+longtemps	O	O
+.	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+le	B-PRON_PER	O
+voyant	O	O
+chanceler	O	O
+,	O	O
+lui	B-PRON_PER	O
+dit	O	O
+:	O	O
+«	O	O
+Eh	O	O
+quoi	O	O
+!	O	O
+
+vous	B-PRON_PER	O
+balancez	O	O
+,	O	O
+et	O	O
+vous	B-PRON_PER	O
+voyez	O	O
+ce	O	O
+que	O	O
+je	B-PRON_PER	O
+hasarde	O	O
+!	O	O
+
+car	O	O
+,	O	O
+si	O	O
+je	B-PRON_PER	O
+viens	O	O
+à	O	O
+être	O	O
+découverte	O	O
+,	O	O
+que	O	O
+dira	O	O
+-	O	O
+t	O	O
+-	O	O
+on	O	O
+de	O	O
+moi	B-PRON_PER	O
+?	O	O
+
+lui	B-PRON_PER	O
+répondit	O	O
+le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+,	O	O
+il	O	O
+faut	O	O
+donc	O	O
+faire	O	O
+ce	O	O
+que	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+demande	O	O
+;	O	O
+il	O	O
+n	O	O
+’	O	O
+y	O	O
+a	O	O
+point	O	O
+de	O	O
+remède	O	O
+;	O	O
+je	B-PRON_PER	O
+ne	O	O
+fais	O	O
+que	O	O
+sortir	O	O
+de	O	O
+dessus	O	O
+l	B-NOM_FAC	O
+’	I-NOM_FAC	O
+échafaud	I-NOM_FAC	O
+,	O	O
+je	B-PRON_PER	O
+vais	O	O
+m	O	O
+’	O	O
+y	O	O
+remettre	O	O
+.	O	O
+
+»	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+fut	O	O
+assez	O	O
+heureuse	O	O
+pour	O	O
+n	O	O
+’	O	O
+être	O	O
+pas	O	O
+plus	O	O
+reconnue	O	O
+en	O	O
+rentrant	O	O
+au	B-PROP_FAC	O
+Louvre	I-PROP_FAC	O
+que	O	O
+le	B-NOM_TIME	O
+matin	I-NOM_TIME	O
+lorsqu	O	O
+’	O	O
+elle	B-PRON_PER	O
+en	O	O
+était	O	O
+sortie	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+retrouva	O	O
+dans	O	O
+un	O	O
+petit	O	O
+endroit	O	O
+auprès	O	O
+de	O	O
+sa	B-NOM_FAC	O
+chambre	I-NOM_FAC	O
+la	B-NOM_PER	O
+fille	I-NOM_PER	O
+qu	B-PRON_PER	O
+’	O	O
+elle	B-PRON_PER	O
+y	O	O
+avait	O	O
+mise	O	O
+en	O	O
+sentinelle	B-NOM_PER	O
+avant	O	O
+de	O	O
+partir	O	O
+,	O	O
+afin	O	O
+que	O	O
+,	O	O
+si	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+passant	O	O
+près	O	O
+de	O	O
+là	B-NOM_FAC	O
+pour	O	O
+aller	O	O
+à	O	O
+la	O	O
+messe	O	O
+,	O	O
+demandait	O	O
+de	O	O
+ses	B-PRON_PER	O
+nouvelles	O	O
+,	O	O
+on	O	O
+ne	O	O
+manquât	O	O
+pas	O	O
+de	O	O
+lui	B-PRON_PER	O
+dire	O	O
+que	O	O
+,	O	O
+s	O	O
+’	O	O
+étant	O	O
+trouvée	O	O
+un	O	O
+peu	O	O
+mal	O	O
+la	O	O
+nuit	O	O
+,	O	O
+elle	B-PRON_PER	O
+reposait	O	O
+encore	O	O
+;	O	O
+mais	O	O
+,	O	O
+quand	O	O
+elle	B-PRON_PER	O
+fut	O	O
+dans	O	O
+sa	B-NOM_FAC	O
+chambre	I-NOM_FAC	O
+,	O	O
+et	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+réfléchit	O	O
+à	O	O
+l	O	O
+’	O	O
+aventure	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+venait	O	O
+de	O	O
+courir	O	O
+,	O	O
+elle	B-PRON_PER	O
+en	O	O
+fut	O	O
+épouvantée	O	O
+:	O	O
+la	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+modeste	I-NOM_PER	O
+remplaça	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+héroïne	I-NOM_PER	O
+,	O	O
+et	O	O
+elle	B-PRON_PER	O
+tomba	O	O
+à	O	O
+genoux	O	O
+pour	O	O
+remercier	O	O
+Dieu	B-PROP_PER	O
+de	O	O
+l	B-PRON_PER	O
+’	O	O
+avoir	O	O
+conduite	O	O
+et	O	O
+protégée	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+de	I-NOM_PER	O
+Jars	I-NOM_PER	O
+fit	O	O
+des	O	O
+merveilles	O	O
+.	O	O
+
+Sa	B-NOM_FAC	O	O	O
+chambre	I-NOM_FAC	O	O	O
+était	O	O	O	O
+de	O	O	O	O
+quatre	O	O	O	O
+étages	O	O	O	O
+au	O	O	O	O
+-	O	O	O	O
+dessus	O	O	O	O
+du	O	O	O	O
+cachot	O	B-NOM_FAC	O	O
+de	O	I-NOM_FAC	O	O
+La	B-PROP_PER	I-NOM_FAC	O	O
+Porte	I-PROP_PER	I-NOM_FAC	O	O
+;	O	O	O	O
+il	B-PRON_PER	O	O	O
+perça	O	O	O	O
+son	B-PRON_PER	O	O	O
+plancher	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+fit	O	O	O	O
+passer	O	O	O	O
+la	O	O	O	O
+lettre	O	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+au	O	O	O	O
+bout	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	O	O	O	O
+corde	O	O	O	O
+,	O	O	O	O
+avec	O	O	O	O
+prière	O	O	O	O
+au	O	B-NOM_PER	O	O
+prisonnier	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+la	B-NOM_FAC	I-NOM_PER	O	O
+seconde	I-NOM_FAC	I-NOM_PER	O	O
+chambre	I-NOM_FAC	I-NOM_PER	O	O
+d	O	O	O	O
+’	O	O	O	O
+en	O	O	O	O
+faire	O	O	O	O
+autant	O	O	O	O
+,	O	O	O	O
+puis	O	O	O	O
+successivement	O	O	O	O
+jusqu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+la	B-NOM_FAC	O	O	O
+dernière	I-NOM_FAC	O	O	O
+où	B-PRON_FAC	O	O	O
+était	O	O	O	O
+La	B-PROP_PER	O	O	O
+Porte	I-PROP_PER	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+recommandant	O	O	O	O
+bien	O	O	O	O
+le	O	O	O	O
+plus	O	O	O	O
+profond	O	O	O	O
+secret	O	O	O	O
+.	O	O	O	O
+
+C	O	O
+’	O	O
+est	O	O
+ainsi	O	O
+que	O	O
+la	O	O
+lettre	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+arriva	O	O
+parfaitement	O	O
+intacte	O	O
+aux	O	O
+mains	O	O
+du	B-NOM_PER	O
+fidèle	I-NOM_PER	O
+valet	I-NOM_PER	O
+de	I-NOM_PER	O
+chambre	I-NOM_PER	O
+;	O	O
+chose	O	O
+admirable	O	O
+,	O	O
+qu	O	O
+’	O	O
+une	O	O
+manœuvre	O	O
+si	O	O
+difficile	O	O
+,	O	O
+si	O	O
+compliquée	O	O
+,	O	O
+et	O	O
+qui	O	O
+dura	O	O
+plusieurs	B-NOM_TIME	O
+nuits	I-NOM_TIME	O
+,	O	O
+se	O	O
+soit	O	O
+accomplie	O	O
+sans	O	O
+qu	O	O
+’	O	O
+aucun	O	O
+des	B-NOM_PER	O
+geôliers	I-NOM_PER	O
+ait	O	O
+pu	O	O
+s	O	O
+’	O	O
+en	O	O
+apercevoir	O	O
+,	O	O
+et	O	O
+sans	O	O
+qu	O	O
+’	O	O
+aucun	O	O
+de	O	O
+ceux	B-NOM_PER	O
+qui	B-PRON_PER	O
+y	O	O
+prirent	O	O
+part	O	O
+l	O	O
+’	O	O
+ait	O	O
+compromise	O	O
+par	O	O
+la	O	O
+moindre	O	O
+indiscrétion	O	O
+,	O	O
+en	O	O
+sorte	O	O
+que	O	O
+ce	B-NOM_PER	O
+prisonnier	I-NOM_PER	O
+si	I-NOM_PER	O
+bien	I-NOM_PER	O
+gardé	I-NOM_PER	O
+,	O	O
+dans	O	O
+un	B-NOM_FAC	O
+cachot	I-NOM_FAC	O
+et	O	O
+derrière	O	O
+des	O	O
+portes	O	O
+de	O	O
+fer	O	O
+,	O	O
+reçut	O	O
+une	O	O
+instruction	O	O
+détaillée	O	O
+qui	O	O
+le	B-PRON_PER	O
+mit	O	O
+en	O	O
+état	O	O
+de	O	O
+se	O	O
+justifier	O	O
+lui	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+et	O	O
+de	O	O
+justifier	O	O
+sa	B-PRON_PER	O
+maîtresse	O	O
+.	O	O
+
+La	O	O
+fermeté	O	O
+qu	O	O
+’	O	O
+avait	O	O
+d	O	O
+’	O	O
+abord	O	O
+montrée	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+eût	O	O
+tourné	O	O
+contre	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+si	O	O
+à	O	O
+la	O	O
+fin	O	O
+elle	B-PRON_PER	O
+n	O	O
+’	O	O
+eût	O	O
+été	O	O
+éclairée	O	O
+et	O	O
+guidée	O	O
+par	O	O
+la	O	O
+lettre	O	O
+qui	O	O
+parvint	O	O
+jusqu	O	O
+’	O	O
+à	O	O
+lui	B-PRON_PER	O
+,	O	O
+grâce	O	O
+à	O	O
+la	O	O
+courageuse	O	O
+industrie	O	O
+du	B-NOM_PER	O
+chevalier	I-NOM_PER	O
+de	I-NOM_PER	O
+Jars	I-NOM_PER	O
+,	O	O
+dont	B-PRON_PER	O
+le	O	O
+dévouement	O	O
+était	O	O
+dû	O	O
+à	O	O
+celui	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Dès	O	O
+que	O	O
+celle	B-NOM_PER	O
+-	I-NOM_PER	O
+ci	I-NOM_PER	O
+avait	O	O
+espéré	O	O
+le	O	O
+succès	O	O
+,	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+empressée	O	O
+d	O	O
+’	O	O
+envoyer	O	O
+à	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+,	O	O
+selon	O	O
+ce	O	O
+qui	O	O
+avait	O	O
+été	O	O
+convenu	O	O
+,	O	O
+des	O	O
+Heures	O	O
+à	O	O
+la	O	O
+couleur	O	O
+favorable	O	O
+qui	O	O
+devait	O	O
+la	B-PRON_PER	O
+rassurer	O	O
+et	O	O
+la	B-PRON_PER	O
+retenir	O	O
+.	O	O
+
+Se	O	O
+trompa	O	O
+-	O	O
+t	O	O
+-	O	O
+elle	B-PRON_PER	O
+sur	O	O
+la	O	O
+couleur	O	O
+,	O	O
+ou	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+s	O	O
+’	O	O
+y	O	O
+méprit	O	O
+-	O	O
+elle	B-PRON_PER	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+?	O	O
+
+A	O	O	O	O
+tort	O	O	O	O
+ou	O	O	O	O
+à	O	O	O	O
+raison	O	O	O	O
+,	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+entendit	O	O	O	O
+que	O	O	O	O
+tout	O	O	O	O
+allait	O	O	O	O
+mal	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+comme	O	O	O	O
+ce	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+redoutait	O	O	O	O
+le	O	O	O	O
+plus	O	O	O	O
+au	O	O	O	O
+monde	O	O	O	O
+était	O	O	O	O
+la	O	O	O	O
+prison	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+hâta	O	O	O	O
+de	O	O	O	O
+fuir	O	O	O	O
+déguisée	O	O	O	O
+en	O	O	O	O
+homme	B-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+alla	O	O	O	O
+chercher	O	O	O	O
+un	O	O	O	O
+asile	O	O	O	O
+en	O	O	O	O
+Espagne	B-PROP_GPE	O	O	O
+,	O	O	O	O
+où	B-PRON_GPE	O	O	O
+le	O	B-NOM_PER	O	O
+frère	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+Anne	B-PROP_PER	I-NOM_PER	O	O
+d	I-PROP_PER	I-NOM_PER	O	O
+’	I-PROP_PER	I-NOM_PER	O	O
+Autriche	I-PROP_PER	I-NOM_PER	O	O
+l	O	B-PRON_PER	O	O
+’	O	O	O	O
+accueillit	O	O	O	O
+presque	O	O	O	O
+comme	O	O	O	O
+autrefois	O	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+son	B-PRON_PER	O	O	O
+premier	O	O	O	O
+exil	O	O	O	O
+,	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+reçue	O	O	O	O
+le	B-NOM_PER	O	O	O
+duc	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Lorraine	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+Cet	O	O
+événement	O	O
+,	O	O
+arrivé	O	O
+un	O	O
+peu	O	O
+avant	O	O
+les	O	O
+derniers	O	O
+interrogatoires	O	O
+de	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+,	O	O
+ranima	O	O
+et	O	O
+porta	O	O
+à	O	O
+leur	O	O
+comble	O	O
+l	O	O
+’	O	O
+irritation	O	O
+et	O	O
+les	O	O
+soupçons	O	O
+de	O	O
+Richelieu	B-PROP_PER	O
+.	O	O
+
+On	O	O	O	O
+redoubla	O	O	O	O
+de	O	O	O	O
+sévérité	O	O	O	O
+envers	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+;	O	O	O	O
+La	B-PROP_PER	O	O	O
+Rochefoucauld	I-PROP_PER	O	O	O
+,	O	O	O	O
+que	B-PRON_PER	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+avait	O	O	O	O
+vu	O	O	O	O
+un	O	O	O	O
+moment	O	O	O	O
+en	O	O	O	O
+passant	O	O	O	O
+à	O	O	O	O
+Verteil	O	O	O	O
+pour	O	O	O	O
+lui	B-PRON_PER	O	O	O
+demander	O	O	O	O
+des	O	O	O	O
+chevaux	O	O	O	O
+,	O	O	O	O
+fut	O	O	O	O
+mis	O	O	O	O
+quelques	B-NOM_TIME	O	O	O
+jours	I-NOM_TIME	O	O	O
+en	O	O	O	O
+prison	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+on	O	O	O	O
+ne	O	O	O	O
+sait	O	O	O	O
+trop	O	O	O	O
+comment	O	O	O	O
+la	O	O	O	O
+chose	O	O	O	O
+aurait	O	O	O	O
+tourné	O	O	O	O
+,	O	O	O	O
+si	O	O	O	O
+La	B-PROP_PER	O	O	O
+Porte	I-PROP_PER	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+ayant	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+air	O	O	O	O
+de	O	O	O	O
+céder	O	O	O	O
+à	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+ordre	O	O	O	O
+officiel	O	O	O	O
+que	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+envoya	O	O	O	O
+de	O	O	O	O
+tout	O	O	O	O
+dire	O	O	O	O
+,	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+eût	O	O	O	O
+admirablement	O	O	O	O
+confirmé	O	O	O	O
+les	O	O	O	O
+déclarations	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+maîtresse	O	O	O	O
+dans	O	O	O	O
+la	O	O	O	O
+mesure	O	O	O	O
+concertée	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+par	O	O	O	O
+là	O	O	O	O
+persuadé	O	O	O	O
+au	B-NOM_PER	B-NOM_PER	O	O
+cardinal	I-NOM_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+au	B-NOM_PER	I-NOM_PER	O	O
+roi	I-NOM_PER	I-NOM_PER	O	O
+que	O	O	O	O
+toute	O	O	O	O
+cette	O	O	O	O
+affaire	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+pas	O	O	O	O
+aussi	O	O	O	O
+importante	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+ils	B-PRON_PER	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+avaient	O	O	O	O
+jugé	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+abord	O	O	O	O
+.	O	O	O	O
+
+Est	O	O
+-	O	O
+il	O	O
+besoin	O	O
+de	O	O
+dire	O	O
+de	O	O
+quelle	O	O
+vive	O	O
+reconnaissance	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+fut	O	O
+pénétrée	O	O
+pour	O	O
+Jars	B-PROP_PER	O
+,	O	O
+pour	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+,	O	O
+et	O	O
+surtout	O	O
+pour	O	O
+sa	B-PRON_PER	O
+jeune	O	O
+et	O	O
+intrépide	O	O
+amie	O	O
+,	O	O
+et	O	O
+quelles	O	O
+promesses	O	O
+elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+fit	O	O
+,	O	O
+si	O	O
+jamais	O	O
+elle	B-PRON_PER	O
+voyait	O	O
+de	O	O
+meilleurs	O	O
+jours	O	O
+?	O	O
+
+Mais	O	O
+Marie	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+avait	O	O
+déjà	O	O
+reçu	O	O
+sa	B-PRON_PER	O
+récompense	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+avait	O	O
+senti	O	O
+battre	O	O
+dans	O	O
+son	B-PRON_PER	O
+cœur	O	O
+l	O	O
+’	O	O
+énergie	O	O
+qui	O	O
+fait	O	O
+les	O	O
+héros	O	O
+;	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+oubliée	O	O
+pour	O	O
+une	O	O
+autre	O	O
+,	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+mise	O	O
+avec	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+opprimée	I-NOM_PER	O
+contre	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+oppresseur	I-NOM_PER	O
+;	O	O
+elle	B-PRON_PER	O
+avait	O	O
+été	O	O
+compatissante	O	O
+,	O	O
+charitable	O	O
+,	O	O
+généreuse	O	O
+,	O	O
+chrétienne	O	O
+enfin	O	O
+,	O	O
+selon	O	O
+l	O	O
+’	O	O
+idée	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+faite	O	O
+et	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+soutint	O	O
+jusqu	O	O
+’	O	O
+à	O	O
+son	B-PRON_PER	O
+dernier	O	O
+soupir	O	O
+de	O	O
+la	O	O
+religion	O	O
+du	O	O
+crucifié	O	O
+.	O	O
+
+II	O	O	O	O
+Dès	O	O	O	O
+que	O	O	O	O
+la	O	B-NOM_HIST	O	O
+grossesse	O	I-NOM_HIST	O	O
+de	O	I-NOM_HIST	O	O
+la	B-NOM_PER	I-NOM_HIST	O	O
+reine	I-NOM_PER	I-NOM_HIST	O	O
+fut	O	O	O	O
+déclarée	O	O	O	O
+au	O	B-NOM_TIME	O	O
+commencement	O	I-NOM_TIME	O	O
+de	O	I-NOM_TIME	O	O
+l	B-NOM_TIME	I-NOM_TIME	O	O
+’	I-NOM_TIME	I-NOM_TIME	O	O
+année	I-NOM_TIME	I-NOM_TIME	O	O
+1638	I-NOM_TIME	I-NOM_TIME	O	O
+,	O	O	O	O
+elle	B-PRON_HIST	O	O	O
+dissipa	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+impression	O	O	O	O
+des	O	O	O	O
+tristes	O	O	O	O
+scènes	O	O	O	O
+qui	O	O	O	O
+venaient	O	O	O	O
+de	O	O	O	O
+se	O	O	O	O
+passer	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+ramena	O	O	O	O
+dans	O	O	O	O
+la	B-NOM_PER	O	O	O
+cour	I-NOM_PER	O	O	O
+un	O	O	O	O
+peu	O	O	O	O
+de	O	O	O	O
+concorde	O	O	O	O
+et	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+agrément	O	O	O	O
+.	O	O	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+avait	O	O
+alors	O	O
+vingt	B-NOM_TIME	O
+-	I-NOM_TIME	O
+deux	I-NOM_TIME	O
+ans	I-NOM_TIME	O
+.	O	O
+
+Quelques	B-NOM_TIME	O
+années	I-NOM_TIME	O
+avaient	O	O
+augmenté	O	O
+l	O	O
+’	O	O
+éclat	O	O
+de	O	O
+ses	B-PRON_PER	O
+charmes	O	O
+.	O	O
+
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+,	O	O
+qui	B-PRON_PER	O
+s	O	O
+’	O	O
+en	O	O
+était	O	O
+détaché	O	O
+avec	O	O
+tant	O	O
+de	O	O
+peine	O	O
+,	O	O
+sentit	O	O
+en	O	O
+la	B-PRON_PER	O
+revoyant	O	O
+ses	B-PRON_PER	O
+anciens	O	O
+feux	O	O
+se	O	O
+rallumer	O	O
+,	O	O
+et	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Fayette	I-PROP_PER	O
+n	O	O
+’	O	O
+étant	O	O
+plus	O	O
+là	O	O
+pour	O	O
+le	B-PRON_PER	O
+distraire	O	O
+,	O	O
+il	B-PRON_PER	O
+redevint	O	O
+plus	O	O
+amoureux	O	O
+que	O	O
+jamais	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Nous	B-PRON_METALEPSE	O
+n	O	O
+’	O	O
+y	O	O
+insisterons	O	O
+point	O	O
+,	O	O
+et	O	O
+nous	B-PRON_METALEPSE	O
+nous	O	O
+bornerons	O	O
+à	O	O
+dire	O	O
+que	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+ne	O	O
+mit	O	O
+point	O	O
+à	O	O
+profit	O	O
+pour	O	O
+sa	B-PRON_PER	O
+fortune	O	O
+ce	O	O
+retour	O	O
+de	O	O
+la	O	O
+tendresse	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+.	O	O
+
+La	O	O
+seule	O	O
+grâce	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+consentit	O	O
+à	O	O
+recevoir	O	O
+,	O	O
+et	O	O
+encore	O	O
+de	O	O
+la	O	O
+main	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+autant	O	O
+que	O	O
+de	O	O
+celle	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+fut	O	O
+la	O	O
+survivance	O	O
+de	O	O
+la	O	O
+charge	O	O
+de	O	O
+dame	B-NOM_PER	O
+d	I-NOM_PER	O
+’	I-NOM_PER	O
+atours	I-NOM_PER	O
+qu	O	O
+’	O	O
+occupait	O	O
+sa	B-NOM_PER	O
+grand	I-NOM_PER	O
+’	I-NOM_PER	O
+mère	I-NOM_PER	O
+,	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+La	I-PROP_PER	O
+Flotte	I-PROP_PER	O
+;	O	O
+dès	O	O
+ce	O	O
+moment	O	O
+,	O	O
+elle	B-PRON_PER	O
+eut	O	O
+le	O	O
+droit	O	O
+d	O	O
+’	O	O
+être	O	O
+appelée	O	O
+madame	B-NOM_PER	O
+,	O	O
+et	O	O
+désormais	O	O
+nous	B-PRON_METALEPSE	O
+-	O	O
+même	O	O
+l	B-PRON_PER	O
+’	O	O
+appellerons	O	O
+ainsi	O	O
+.	O	O
+
+Sa	B-NOM_PER	O	O	O
+sœur	I-NOM_PER	O	O	O
+,	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+d	I-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Escars	I-PROP_PER	O	O	O
+,	O	O	O	O
+devint	O	O	O	O
+une	O	O	B-NOM_PER	O
+des	O	B-NOM_PER	I-NOM_PER	O
+filles	O	I-NOM_PER	I-NOM_PER	O
+d	O	I-NOM_PER	I-NOM_PER	O
+’	O	I-NOM_PER	I-NOM_PER	O
+honneur	O	I-NOM_PER	I-NOM_PER	O
+de	O	I-NOM_PER	I-NOM_PER	O
+la	B-NOM_PER	I-NOM_PER	I-NOM_PER	O
+reine	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+,	O	O	O	O
+et	O	O	O	O
+son	B-NOM_PER	O	O	O
+jeune	I-NOM_PER	O	O	O
+frère	I-NOM_PER	O	O	O
+,	O	O	O	O
+le	O	O	O	O
+comte	B-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Montignac	I-NOM_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+était	O	O	O	O
+déjà	O	O	O	O
+dans	O	O	O	O
+les	O	O	O	O
+cadets	O	O	O	O
+aux	O	O	O	O
+gardes	O	O	O	O
+,	O	O	O	O
+entra	O	O	O	O
+dans	O	O	O	O
+la	O	O	B-NOM_ORG	O
+compagnie	O	O	I-NOM_ORG	O
+des	O	B-NOM_PER	I-NOM_ORG	O
+mousquetaires	O	I-NOM_PER	I-NOM_ORG	O
+du	B-NOM_PER	I-NOM_PER	I-NOM_ORG	O
+comte	I-NOM_PER	I-NOM_PER	I-NOM_ORG	O
+de	I-NOM_PER	I-NOM_PER	I-NOM_ORG	O
+Tréville	I-NOM_PER	I-NOM_PER	I-NOM_ORG	O
+.	O	O	O	O
+
+Après	O	O	O	O
+les	O	O	O	O
+couches	O	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Flotte	I-PROP_PER	O	O	O
+,	O	O	O	O
+qui	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+pas	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+humeur	O	O	O	O
+aussi	O	O	O	O
+désintéressée	O	O	O	O
+que	O	O	O	O
+sa	B-PRON_PER	O	O	O
+petite	O	O	O	O
+-	O	O	O	O
+fille	O	O	O	O
+,	O	O	O	O
+désira	O	O	O	O
+vivement	O	O	O	O
+monter	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+place	O	O	O	O
+de	O	O	O	O
+dame	B-NOM_PER	O	O	O
+d	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+atours	I-NOM_PER	O	O	O
+à	O	O	O	O
+celle	O	O	O	O
+de	O	O	O	O
+gouvernante	O	B-NOM_PER	O	O
+du	B-NOM_PER	I-NOM_PER	O	O
+petit	I-NOM_PER	I-NOM_PER	O	O
+dauphin	I-NOM_PER	I-NOM_PER	O	O
+.	O	O	O	O
+
+On	O	O
+poussa	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+à	O	O
+en	O	O
+parler	O	O
+à	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+et	O	O
+même	O	O
+à	O	O
+Richelieu	B-PROP_PER	O
+;	O	O
+elle	B-PRON_PER	O
+le	O	O
+fit	O	O
+,	O	O
+mais	O	O
+avec	O	O
+une	O	O
+fierté	O	O
+maladroite	O	O
+qui	O	O
+ne	O	O
+réussit	O	O
+pas	O	O
+.	O	O
+
+Richelieu	B-PROP_PER	O
+n	O	O
+’	O	O
+était	O	O
+pas	O	O
+homme	O	O
+à	O	O
+remettre	O	O
+le	B-NOM_PER	O
+futur	I-NOM_PER	O
+roi	I-NOM_PER	O
+entre	O	O
+les	O	O
+mains	O	O
+de	O	O
+ses	B-PRON_PER	O
+ennemis	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+avait	O	O
+déjà	O	O
+fait	O	O
+nommer	O	O
+à	O	O
+cet	B-NOM_PER	O
+emploi	I-NOM_PER	O
+important	I-NOM_PER	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Lansac	I-PROP_PER	O
+,	O	O
+qui	B-PRON_PER	O
+lui	B-PRON_PER	O
+était	O	O
+toute	O	O
+dévouée	O	O
+.	O	O
+
+Ses	B-PRON_PER	O
+anciens	O	O
+ombrages	O	O
+s	O	O
+’	O	O
+étaient	O	O
+réveillés	O	O
+avec	O	O
+la	O	O
+passion	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+et	O	O
+,	O	O
+comme	O	O
+la	O	O
+conduite	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+n	O	O
+’	O	O
+avait	O	O
+fait	O	O
+que	O	O
+les	O	O
+fortifier	O	O
+,	O	O
+au	O	O
+lieu	O	O
+de	O	O
+la	B-PRON_PER	O
+servir	O	O
+,	O	O
+il	B-PRON_PER	O
+travaillait	O	O
+à	O	O
+la	B-PRON_PER	O
+perdre	O	O
+.	O	O
+
+Cette	O	O
+fois	O	O
+,	O	O
+instruit	O	O
+par	O	O
+l	O	O
+’	O	O
+expérience	O	O
+,	O	O
+il	B-PRON_PER	O
+avait	O	O
+compris	O	O
+que	O	O
+,	O	O
+tant	O	O
+que	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+pourrait	O	O
+voir	O	O
+cette	B-NOM_PER	O
+ravissante	I-NOM_PER	O
+figure	I-NOM_PER	O
+et	O	O
+approcher	O	O
+de	O	O
+ce	B-NOM_PER	O
+noble	I-NOM_PER	O
+cœur	I-NOM_PER	O
+,	O	O
+avec	O	O
+des	O	O
+brouilleries	O	O
+plus	O	O
+ou	O	O
+moins	O	O
+longues	O	O
+,	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+reprendrait	O	O
+toujours	O	O
+son	B-PRON_PER	O
+empire	O	O
+,	O	O
+et	O	O
+que	O	O
+,	O	O
+pour	O	O
+la	B-PRON_PER	O
+détruire	O	O
+,	O	O
+il	O	O
+fallait	O	O
+lui	B-PRON_PER	O
+faire	O	O
+quitter	O	O
+la	B-NOM_PER	O
+cour	I-NOM_PER	O
+et	O	O
+Paris	B-PROP_GPE	O
+.	O	O
+
+Il	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+ignorait	O	O	O	O
+pas	O	O	O	O
+que	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+,	O	O	O	O
+tout	O	O	O	O
+en	O	O	O	O
+gardant	O	O	O	O
+mieux	O	O	O	O
+les	O	O	O	O
+apparences	O	O	O	O
+,	O	O	O	O
+ne	O	O	O	O
+cessait	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+encourager	O	O	O	O
+le	O	B-NOM_ORG	O	O
+parti	O	I-NOM_ORG	O	O
+des	B-NOM_PER	I-NOM_ORG	O	O
+mécontens	I-NOM_PER	I-NOM_ORG	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O	O	O
+savait	O	O	O	O
+que	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+jeune	O	I-NOM_PER	O	O
+confidente	O	I-NOM_PER	O	O
+s	O	O	O	O
+’	O	O	O	O
+était	O	O	O	O
+liée	O	O	O	O
+par	O	O	O	O
+ses	B-PRON_PER	O	O	O
+ordres	O	O	O	O
+avec	O	O	O	O
+le	B-NOM_PER	B-NOM_PER	O	O
+comte	I-NOM_PER	I-NOM_PER	O	O
+de	I-NOM_PER	I-NOM_PER	O	O
+Soissons	I-NOM_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+avec	O	I-NOM_PER	O	O
+Monsieur	B-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+et	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+était	O	O	O	O
+leur	B-PRON_PER	B-NOM_PER	O	O
+intermédiaire	O	I-NOM_PER	O	O
+auprès	O	O	O	O
+de	O	O	O	O
+sa	B-NOM_PER	O	O	O
+maîtresse	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O	O	O
+avait	O	O	O	O
+fini	O	O	O	O
+par	O	O	O	O
+pénétrer	O	O	O	O
+jusque	O	O	O	O
+dans	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+intérieur	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+Anne	B-PROP_PER	I-NOM_PER	O	O
+d	I-PROP_PER	I-NOM_PER	O	O
+’	I-PROP_PER	I-NOM_PER	O	O
+Autriche	I-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+en	O	O	O	O
+gagnant	O	O	O	O
+une	O	B-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+ses	B-NOM_PER	I-NOM_PER	O	O
+filles	I-NOM_PER	I-NOM_PER	O	O
+d	I-NOM_PER	I-NOM_PER	O	O
+’	I-NOM_PER	I-NOM_PER	O	O
+honneur	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+cette	O	O	O	O
+jeune	O	O	O	O
+,	O	O	O	O
+belle	B-PROP_PER	O	O	O
+et	I-PROP_PER	O	O	O
+spirituelle	I-PROP_PER	O	O	O
+Mlle	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chémerault	I-PROP_PER	O	O	O
+dont	B-PRON_PER	O	O	O
+La	B-PROP_PER	O	O	O
+Rochefoucauld	I-PROP_PER	O	O	O
+fait	O	O	O	O
+un	O	O	O	O
+si	O	O	O	O
+vif	O	O	O	O
+éloge	O	O	O	O
+.	O	O	O	O
+
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+avait	O	O
+une	O	O
+correspondance	O	O
+mystérieuse	O	O
+avec	O	O
+le	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+,	O	O
+où	O	O
+elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+rendait	O	O
+compte	O	O
+de	O	O
+tout	O	O
+ce	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+voyait	O	O
+et	O	O
+entendait	O	O
+.	O	O
+
+Dans	O	O	O	O
+cette	O	O	O	O
+correspondance	O	O	O	O
+,	O	O	O	O
+trouvée	O	O	O	O
+après	O	O	O	O
+la	O	O	O	O
+mort	O	O	O	O
+de	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+parmi	O	O	O	O
+ses	B-PRON_PER	O	O	O
+papiers	O	O	O	O
+et	O	O	O	O
+livrée	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+publicité	O	O	O	O
+pendant	O	O	O	O
+la	O	O	O	O
+fronde	O	O	O	O
+,	O	O	O	O
+le	B-NOM_PER	B-NOM_PER	O	O
+roi	I-NOM_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+la	B-NOM_PER	I-NOM_PER	O	O
+reine	I-NOM_PER	I-NOM_PER	O	O
+sont	O	O	O	O
+appelés	O	O	O	O
+Céphale	B-PROP_PER	O	O	O
+et	O	O	O	O
+Procris	B-PROP_PER	O	O	O
+;	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+y	O	O	O	O
+est	O	O	O	O
+toujours	O	O	O	O
+l	B-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Aurore	I-PROP_PER	O	O	O
+,	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Flotte	I-PROP_PER	O	O	O
+est	O	O	O	O
+la	B-NOM_PER	O	O	O
+Vieille	I-NOM_PER	O	O	O
+,	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+la	B-NOM_PER	O	O	O
+Délaissée	I-NOM_PER	O	O	O
+,	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+l	B-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Oracle	I-PROP_PER	O	O	O
+,	O	O	O	O
+bien	O	O	O	O
+entendu	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+elle	B-PRON_PER	O	O	O
+-	I-PRON_PER	O	O	O
+même	I-PRON_PER	O	O	O
+se	O	O	O	O
+met	O	O	O	O
+sous	O	O	O	O
+le	O	O	O	O
+nom	O	O	O	O
+du	O	O	O	O
+bon	B-PROP_PER	O	O	O
+Ange	I-PROP_PER	O	O	O
+.	O	O	O	O
+
+Cet	B-NOM_PER	O
+ange	I-NOM_PER	O
+-	I-NOM_PER	O
+là	I-NOM_PER	O
+,	O	O
+avec	O	O
+sa	B-PRON_PER	O
+jolie	O	O
+figure	O	O
+,	O	O
+sa	B-PRON_PER	O
+gaieté	O	O
+et	O	O
+sa	B-PRON_PER	O
+candeur	O	O
+apparente	O	O
+,	O	O
+trompa	O	O
+longtemps	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+par	O	O
+des	O	O
+raffinemens	O	O
+de	O	O
+perfidie	O	O
+et	O	O
+de	O	O
+bassesse	O	O
+que	O	O
+la	B-NOM_PER	O
+noble	I-NOM_PER	O
+femme	I-NOM_PER	O
+était	O	O
+incapable	O	O
+de	O	O
+soupçonner	O	O
+.	O	O
+
+Richelieu	B-PROP_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avait	O	O	O	O
+pas	O	O	O	O
+sous	O	O	O	O
+la	O	O	O	O
+main	O	O	O	O
+une	B-PROP_PER	O	O	O
+autre	I-PROP_PER	O	O	O
+Mlle	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Fayette	I-PROP_PER	O	O	O
+pour	O	O	O	O
+balancer	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+;	O	O	O	O
+mais	O	O	O	O
+,	O	O	O	O
+sachant	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	O	O	O	O
+fallait	O	O	O	O
+toujours	O	O	O	O
+à	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+une	O	O	O	O
+sorte	O	O	O	O
+de	O	O	O	O
+distraction	O	O	O	O
+sentimentale	O	O	O	O
+,	O	O	O	O
+un	O	O	O	O
+amusement	O	O	O	O
+de	O	O	O	O
+cœur	O	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+avait	O	O	O	O
+mis	O	O	O	O
+depuis	O	O	O	O
+quelque	B-NOM_TIME	O	O	O
+temps	I-NOM_TIME	O	O	O
+auprès	O	O	O	O
+de	O	O	O	O
+lui	B-PRON_PER	O	O	O
+un	B-NOM_PER	O	O	O
+jeune	I-NOM_PER	O	O	O
+homme	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+la	I-NOM_PER	O	O	O
+tournure	I-NOM_PER	O	O	O
+la	I-NOM_PER	O	O	O
+plus	I-NOM_PER	O	O	O
+agréable	I-NOM_PER	O	O	O
+,	O	O	O	O
+le	O	O	B-NOM_PER	O
+fils	O	O	I-NOM_PER	O
+d	O	O	I-NOM_PER	O
+’	O	O	I-NOM_PER	O
+un	O	B-NOM_PER	I-NOM_PER	O
+de	O	I-NOM_PER	I-NOM_PER	O
+ses	B-NOM_PER	I-NOM_PER	I-NOM_PER	O
+amis	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+les	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+plus	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+dévoués	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+et	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+les	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+plus	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+capables	I-NOM_PER	I-NOM_PER	I-NOM_PER	O
+,	O	O	O	O
+le	B-NOM_PER	O	O	O
+marquis	I-NOM_PER	O	O	O
+et	I-NOM_PER	O	O	O
+maréchal	I-NOM_PER	O	O	O
+d	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+Effiat	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+se	O	O	O	O
+croyant	O	O	O	O
+aussi	O	O	O	O
+sûr	O	O	O	O
+du	B-NOM_PER	O	O	O
+fils	I-NOM_PER	O	O	O
+que	O	O	O	O
+du	B-NOM_PER	O	O	O
+père	I-NOM_PER	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+fait	O	O	O	O
+faire	O	O	O	O
+un	O	O	O	O
+chemin	O	O	O	O
+si	O	O	O	O
+rapide	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+dix	B-NOM_TIME	O	O	O
+-	I-NOM_TIME	O	O	O
+neuf	I-NOM_TIME	O	O	O
+ans	I-NOM_TIME	O	O	O
+,	O	O	O	O
+en	O	O	O	O
+1639	B-NOM_TIME	O	O	O
+,	O	O	O	O
+Cinq	B-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+Mars	I-NOM_PER	O	O	O
+était	O	O	O	O
+déjà	O	O	O	O
+grand	B-NOM_PER	O	O	O
+-	I-NOM_PER	O	O	O
+écuyer	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+Il	B-PRON_PER	O
+avait	O	O
+plu	O	O
+d	O	O
+’	O	O
+abord	O	O
+au	B-NOM_PER	O
+roi	I-NOM_PER	O
+par	O	O
+sa	B-PRON_PER	O
+bonne	O	O
+grâce	O	O
+,	O	O
+et	O	O
+le	B-NOM_PER	O
+faible	I-NOM_PER	O
+monarque	I-NOM_PER	O
+l	B-PRON_PER	O
+’	O	O
+avait	O	O
+aussi	O	O
+trouvé	O	O
+bien	O	O
+commode	O	O
+à	O	O
+aimer	O	O
+,	O	O
+puisque	O	O
+cela	O	O
+ne	O	O
+lui	B-PRON_PER	O
+faisait	O	O
+pas	O	O
+d	O	O
+’	O	O
+affaire	O	O
+avec	O	O
+M	B-PROP_PER	O
+.	I-PROP_PER	O
+le	I-PROP_PER	O
+cardinal	I-PROP_PER	O
+.	O	O
+
+Ainsi	O	O
+que	O	O
+Richelieu	B-PROP_PER	O
+l	O	O
+’	O	O
+avait	O	O
+prévu	O	O
+et	O	O
+espéré	O	O
+,	O	O
+cette	O	O
+inclination	O	O
+nouvelle	O	O
+amortit	O	O
+peu	O	O
+à	O	O
+peu	O	O
+dans	O	O
+le	O	O
+cœur	O	O
+de	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+son	B-PRON_PER	O
+amour	O	O
+pour	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+ou	O	O
+plutôt	O	O
+elle	B-PRON_PER	O
+devint	O	O
+un	O	O
+autre	O	O
+amour	O	O
+qui	O	O
+,	O	O
+comme	O	O
+le	O	O
+premier	O	O
+,	O	O
+avait	O	O
+ses	O	O
+vivacités	O	O
+,	O	O
+ses	O	O
+jalousies	O	O
+,	O	O
+ses	O	O
+orages	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+demandait	O	O
+à	O	O
+Cinq	B-NOM_PER	O
+-	I-NOM_PER	O
+Mars	I-NOM_PER	O
+de	O	O
+n	O	O
+’	O	O
+aimer	O	O
+que	O	O
+lui	B-PRON_PER	O
+;	O	O
+celui	B-NOM_PER	O
+-	I-NOM_PER	O
+ci	I-NOM_PER	O
+,	O	O
+poussé	O	O
+par	O	O
+sa	B-PRON_PER	O
+propre	O	O
+ambition	O	O
+et	O	O
+par	O	O
+Richelieu	B-PROP_PER	O
+,	O	O
+demandait	O	O
+à	O	O
+son	B-PRON_PER	O
+tour	O	O
+au	B-NOM_PER	O
+roi	I-NOM_PER	O
+de	O	O
+ne	O	O
+pas	O	O
+partager	O	O
+ses	B-PRON_PER	O
+affections	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+se	O	O
+plaignait	O	O
+de	O	O
+l	O	O
+’	O	O
+empire	O	O
+qu	O	O
+’	O	O
+exerçait	O	O
+encore	O	O
+sur	O	O
+lui	B-PRON_PER	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+.	O	O
+
+Dans	O	O	O	O
+les	O	O	O	O
+commencemens	O	O	O	O
+,	O	O	O	O
+il	O	O	O	O
+suffisait	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	B-NOM_TIME	O	O	O
+soirée	I-NOM_TIME	O	O	O
+que	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+venait	O	O	O	O
+passer	O	O	O	O
+chez	O	O	O	O
+la	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+pour	O	O	O	O
+déjouer	O	O	O	O
+toutes	O	O	O	O
+ces	O	O	O	O
+manœuvres	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+rendre	O	O	O	O
+le	O	O	O	O
+cœur	O	O	O	O
+de	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+à	O	O	O	O
+sa	B-PRON_PER	O	O	O
+première	O	O	O	O
+et	O	O	O	O
+irrésistible	O	O	O	O
+maîtresse	O	O	O	O
+;	O	O	O	O
+mais	O	O	O	O
+il	O	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+en	O	O	O	O
+était	O	O	O	O
+point	O	O	O	O
+ainsi	O	O	O	O
+dans	O	O	O	O
+les	O	O	O	O
+voyages	O	O	O	O
+:	O	O	O	O
+là	O	O	O	O
+,	O	O	O	O
+seul	O	O	O	O
+entre	O	O	O	O
+son	B-NOM_PER	B-NOM_PER	O	O
+redouté	I-NOM_PER	I-NOM_PER	O	O
+ministre	I-NOM_PER	I-NOM_PER	O	O
+et	O	I-NOM_PER	O	O
+son	B-NOM_PER	I-NOM_PER	O	O
+nouvel	I-NOM_PER	I-NOM_PER	O	O
+ami	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+était	O	O	O	O
+bien	O	O	O	O
+autrement	O	O	O	O
+facile	O	O	O	O
+aux	O	O	O	O
+impressions	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+lui	B-PRON_PER	O	O	O
+voulait	O	O	O	O
+donner	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+c	O	O	O	O
+’	O	O	O	O
+est	O	O	O	O
+dans	O	O	O	O
+un	O	O	O	O
+de	O	O	O	O
+ces	O	O	O	O
+voyages	O	O	O	O
+que	O	O	O	O
+les	O	O	O	O
+yeux	O	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+belle	I-NOM_PER	O	O	O
+dame	I-NOM_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+étant	O	O	O	O
+plus	O	O	O	O
+là	O	O	O	O
+pour	O	O	O	O
+plaider	O	O	O	O
+sa	B-PRON_PER	O	O	O
+cause	O	O	O	O
+,	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+accusa	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+avoir	O	O	O	O
+la	O	O	O	O
+main	O	O	O	O
+dans	O	O	O	O
+les	O	O	O	O
+intrigues	O	O	O	O
+de	O	O	O	O
+Monsieur	B-NOM_PER	O	O	O
+,	O	O	O	O
+de	O	O	O	O
+troubler	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+diviser	O	O	O	O
+la	B-NOM_PER	O	O	O
+cour	I-NOM_PER	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+faire	O	O	O	O
+obstacle	O	O	O	O
+au	B-NOM_ORG	O	O	O
+gouvernement	I-NOM_ORG	O	O	O
+par	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+absolu	O	O	O	O
+crédit	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+lui	B-PRON_PER	O	O	O
+supposait	O	O	O	O
+sur	O	O	O	O
+le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+;	O	O	O	O
+il	B-PRON_PER	O	O	O
+fit	O	O	O	O
+entendre	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	O	O	O	O
+était	O	O	O	O
+fort	O	O	O	O
+inutile	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+avoir	O	O	O	O
+exilé	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chevreuse	I-PROP_PER	O	O	O
+pour	O	O	O	O
+garder	O	O	O	O
+une	B-NOM_PER	O	O	O
+personne	I-NOM_PER	O	O	O
+tout	I-NOM_PER	O	O	O
+aussi	I-NOM_PER	O	O	O
+dangereuse	I-NOM_PER	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+.	O	O	O	O
+
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+résista	O	O	O	O
+longtemps	O	O	O	O
+;	O	O	O	O
+pour	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+emporter	O	O	O	O
+,	O	O	O	O
+le	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+fut	O	O	O	O
+obligé	O	O	O	O
+de	O	O	O	O
+lui	B-PRON_PER	O	O	O
+donner	O	O	O	O
+à	O	O	O	O
+choisir	O	O	O	O
+entre	O	O	O	O
+Mme	B-PROP_PER	B-PROP_PER	O	O
+de	I-PROP_PER	I-PROP_PER	O	O
+Hautefort	I-PROP_PER	I-PROP_PER	O	O
+et	O	I-PROP_PER	O	O
+lui	B-PRON_PER	I-PROP_PER	O	O
+,	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+déclarer	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+aimait	O	O	O	O
+mieux	O	O	O	O
+se	O	O	O	O
+retirer	O	O	O	O
+que	O	O	O	O
+de	O	O	O	O
+se	O	O	O	O
+consumer	O	O	O	O
+dans	O	O	O	O
+des	O	O	O	O
+luttes	O	O	O	O
+obscures	O	O	O	O
+,	O	O	O	O
+où	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+appui	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+manquait	O	O	O	O
+.	O	O	O	O
+
+Cette	O	O
+menace	O	O
+épouvanta	O	O
+Louis	B-PROP_PER	O
+XIII	I-PROP_PER	O
+;	O	O
+Richelieu	B-PROP_PER	O
+,	O	O
+le	O	O
+voyant	O	O
+ébranlé	O	O
+,	O	O
+pour	O	O
+le	B-PRON_PER	O
+décider	O	O
+,	O	O
+lui	B-PRON_PER	O
+dit	O	O
+qu	O	O
+’	O	O
+il	O	O
+ne	O	O
+s	O	O
+’	O	O
+agissait	O	O
+pas	O	O
+d	O	O
+’	O	O
+éloigner	O	O
+à	O	O
+jamais	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+mais	O	O
+seulement	O	O
+pour	O	O
+une	B-NOM_TIME	O
+quinzaine	I-NOM_TIME	O
+de	I-NOM_TIME	O
+jours	I-NOM_TIME	O
+,	O	O
+afin	O	O
+qu	O	O
+’	O	O
+on	O	O
+vît	O	O
+que	O	O
+sa	B-PRON_PER	O
+faveur	O	O
+n	O	O
+’	O	O
+était	O	O
+pas	O	O
+aussi	O	O
+grande	O	O
+qu	O	O
+’	O	O
+on	O	O
+le	O	O
+croyait	O	O
+.	O	O
+
+Le	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+finit	O	O	O	O
+par	O	O	O	O
+céder	O	O	O	O
+en	O	O	O	O
+insistant	O	O	O	O
+bien	O	O	O	O
+sur	O	O	O	O
+cette	O	O	O	O
+condition	O	O	O	O
+que	O	O	O	O
+ce	O	O	O	O
+serait	O	O	O	O
+seulement	O	O	O	O
+pour	O	O	O	O
+quinze	B-NOM_TIME	O	O	O
+jours	I-NOM_TIME	O	O	O
+;	O	O	O	O
+le	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+assura	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+en	O	O	O	O
+demandait	O	O	O	O
+pas	O	O	O	O
+davantage	O	O	O	O
+,	O	O	O	O
+mais	O	O	O	O
+,	O	O	O	O
+redoutant	O	O	O	O
+l	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+ascendant	O	I-NOM_PER	O	O
+accoutumé	O	I-NOM_PER	O	O
+de	O	I-NOM_PER	O	O
+Mme	B-PROP_PER	I-NOM_PER	O	O
+de	I-PROP_PER	I-NOM_PER	O	O
+Hautefort	I-PROP_PER	I-NOM_PER	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+fit	O	O	O	O
+promettre	O	O	O	O
+au	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+de	O	O	O	O
+ne	O	O	O	O
+pas	O	O	O	O
+la	B-PRON_PER	O	O	O
+voir	O	O	O	O
+.	O	O	O	O
+
+À	O	O
+peine	O	O
+le	O	O
+marché	O	O
+conclu	O	O
+,	O	O
+Richelieu	B-PROP_PER	O
+se	O	O
+hâta	O	O
+de	O	O
+l	O	O
+’	O	O
+exécuter	O	O
+;	O	O
+il	B-PRON_PER	O
+envoya	O	O
+,	O	O
+de	O	O
+la	O	O
+part	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+à	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+ancienne	I-NOM_PER	O
+favorite	I-NOM_PER	O
+,	O	O
+l	O	O
+’	O	O
+ordre	O	O
+de	O	O
+se	O	O
+retirer	O	O
+pour	O	O
+quelque	B-NOM_TIME	O
+temps	I-NOM_TIME	O
+,	O	O
+et	O	O
+aux	B-NOM_PER	O
+gardes	I-NOM_PER	O
+celui	O	O
+de	O	O
+ne	O	O
+la	B-PRON_PER	O
+point	O	O
+laisser	O	O
+entrer	O	O
+chez	O	O
+le	B-NOM_PER	O
+roi	I-NOM_PER	O
+.	O	O
+
+Quand	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+reçut	O	O
+le	O	O
+commandement	O	O
+qui	O	O
+lui	B-PRON_PER	O
+était	O	O
+apporté	O	O
+,	O	O
+elle	B-PRON_PER	O
+eut	O	O
+de	O	O
+la	O	O
+peine	O	O
+à	O	O
+y	O	O
+croire	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+se	O	O	O	O
+rappelait	O	O	O	O
+que	O	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+plusieurs	O	O	O	O
+de	O	O	O	O
+ses	B-PRON_PER	O	O	O
+querelles	O	O	O	O
+avec	O	O	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+royal	O	I-NOM_PER	O	O
+amant	O	I-NOM_PER	O	O
+,	O	O	O	O
+souvent	O	O	O	O
+elle	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+dit	O	O	O	O
+que	O	O	O	O
+de	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+humeur	O	O	O	O
+dont	O	O	O	O
+elle	B-PRON_PER	O	O	O
+le	B-PRON_PER	O	O	O
+connaissait	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+attendait	O	O	O	O
+à	O	O	O	O
+être	O	O	O	O
+un	B-NOM_TIME	O	O	O
+jour	I-NOM_TIME	O	O	O
+ou	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+autre	O	O	O	O
+chassée	O	O	O	O
+de	O	O	O	O
+la	B-NOM_PER	O	O	O
+cour	I-NOM_PER	O	O	O
+par	O	O	O	O
+la	O	O	O	O
+jalousie	O	O	O	O
+du	B-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+que	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+avait	O	O	O	O
+toujours	O	O	O	O
+répondu	O	O	O	O
+que	O	O	O	O
+cela	O	O	O	O
+ne	O	O	O	O
+serait	O	O	O	O
+jamais	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+que	O	O	O	O
+,	O	O	O	O
+reçût	O	O	O	O
+-	O	O	O	O
+elle	B-PRON_PER	O	O	O
+un	O	O	O	O
+pareil	O	O	O	O
+ordre	O	O	O	O
+,	O	O	O	O
+il	B-PRON_PER	O	O	O
+la	B-PRON_PER	O	O	O
+conjurait	O	O	O	O
+de	O	O	O	O
+ne	O	O	O	O
+pas	O	O	O	O
+y	O	O	O	O
+ajouter	O	O	O	O
+foi	O	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+ne	O	O	O	O
+croire	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+à	O	O	O	O
+ce	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	B-PRON_PER	O	O	O
+lui	B-PRON_PER	O	O	O
+dirait	O	O	O	O
+lui	B-PRON_PER	O	O	O
+-	I-PRON_PER	O	O	O
+même	I-PRON_PER	O	O	O
+.	O	O	O	O
+
+Elle	B-PRON_PER	O
+voulut	O	O
+donc	O	O
+entendre	O	O
+de	O	O
+la	O	O
+bouche	O	O
+même	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+l	O	O
+’	O	O
+ordre	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+venait	O	O
+de	O	O
+recevoir	O	O
+.	O	O
+
+«	O	O
+Elle	B-PRON_PER	O
+étoit	O	O
+si	O	O
+bonne	O	O
+et	O	O
+si	O	O
+aimée	O	O
+de	O	O
+tout	B-NOM_PER	O
+le	I-NOM_PER	O
+monde	I-NOM_PER	O
+,	O	O
+dit	O	O
+l	O	O
+’	O	O
+histoire	O	O
+de	O	O
+sa	B-PRON_PER	O
+vie	O	O
+,	O	O
+que	O	O
+,	O	O
+lorsqu	O	O
+’	O	O
+elle	B-PRON_PER	O
+se	O	O
+présenta	O	O
+à	O	O
+la	O	O
+porte	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+les	B-NOM_PER	O
+gardes	I-NOM_PER	O
+après	O	O
+lui	B-PRON_PER	O
+avoir	O	O
+fait	O	O
+part	O	O
+de	O	O
+leur	B-PRON_PER	O
+ordre	O	O
+,	O	O
+n	O	O
+’	O	O
+osèrent	O	O
+s	O	O
+’	O	O
+opposer	O	O
+à	O	O
+ce	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+entrât	O	O
+.	O	O
+
+La	O	O
+surprise	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+fut	O	O
+extrême	O	O
+en	O	O
+la	B-PRON_PER	O
+voyant	O	O
+avec	O	O
+un	O	O
+air	O	O
+de	O	O
+grandeur	O	O
+et	O	O
+de	O	O
+fierté	O	O
+tout	O	O
+ensemble	O	O
+que	O	O
+le	O	O
+dépit	O	O
+lui	B-PRON_PER	O
+donnoit	O	O
+et	O	O
+qui	O	O
+augmentoit	O	O
+sa	B-PRON_PER	O
+beauté	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+dit	O	O
+qu	O	O
+’	O	O
+avant	O	O
+de	O	O
+partir	O	O
+de	O	O
+la	B-NOM_PER	O
+cour	I-NOM_PER	O
+par	O	O
+son	B-PRON_PER	O
+ordre	O	O
+,	O	O
+elle	B-PRON_PER	O
+avoit	O	O
+voulu	O	O
+connoitre	O	O
+quel	O	O
+crime	O	O
+elle	B-PRON_PER	O
+avoit	O	O
+commis	O	O
+pour	O	O
+mériter	O	O
+d	O	O
+’	O	O
+être	O	O
+exilée	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+lui	B-PRON_PER	O
+dit	O	O
+que	O	O
+son	B-PRON_PER	O
+exil	O	O
+n	O	O
+’	O	O
+étoit	O	O
+que	O	O
+pour	O	O
+quinze	B-NOM_TIME	O
+jours	I-NOM_TIME	O
+,	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+l	O	O
+’	O	O
+avoit	O	O
+accordé	O	O
+avec	O	O
+une	O	O
+violence	O	O
+extrême	O	O
+aux	O	O
+raisons	O	O
+d	O	O
+’	O	O
+état	B-NOM_GPE	O
+,	O	O
+à	O	O
+cause	O	O
+des	O	O
+intrigues	O	O
+qui	O	O
+troubloient	O	O
+toute	B-NOM_PER	O
+la	I-NOM_PER	O
+cour	I-NOM_PER	O
+,	O	O
+et	O	O
+que	O	O
+l	O	O
+’	O	O
+on	O	O
+faisoit	O	O
+sous	O	O
+son	B-PRON_PER	O
+nom	O	O
+,	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+le	B-PRON_PER	O
+devoit	O	O
+plaindre	O	O
+de	O	O
+la	O	O
+violence	O	O
+que	O	O
+l	O	O
+’	O	O
+on	O	O
+avoit	O	O
+faite	O	O
+à	O	O
+son	B-PRON_PER	O
+inclination	O	O
+et	O	O
+de	O	O
+la	O	O
+douleur	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+en	O	O
+souffriroit	O	O
+pendant	O	O
+ce	B-NOM_TIME	O
+temps	I-NOM_TIME	O
+.	O	O
+
+Elle	B-PRON_PER	O
+lui	B-PRON_PER	O
+répondit	O	O
+que	O	O
+ces	B-NOM_TIME	O
+quinze	I-NOM_TIME	O
+jours	I-NOM_TIME	O
+dureroient	O	O
+le	O	O
+reste	O	O
+de	O	O
+sa	B-PRON_PER	O
+vie	O	O
+,	O	O
+qu	O	O
+’	O	O
+ainsi	O	O
+elle	B-PRON_PER	O
+prenoit	O	O
+congé	O	O
+de	O	O
+lui	B-PRON_PER	O
+pour	O	O
+toujours	O	O
+.	O	O
+
+Le	B-NOM_PER	O
+roi	I-NOM_PER	O
+l	B-PRON_PER	O
+’	O	O
+assura	O	O
+,	O	O
+comme	O	O
+il	B-PRON_PER	O
+le	O	O
+croyoit	O	O
+,	O	O
+que	O	O
+rien	O	O
+au	O	O
+monde	O	O
+ne	O	O
+pourroit	O	O
+l	B-PRON_PER	O
+’	O	O
+obliger	O	O
+à	O	O
+se	O	O
+priver	O	O
+de	O	O
+la	B-PRON_PER	O
+voir	O	O
+un	O	O
+jour	O	O
+de	O	O
+plus	O	O
+.	O	O
+
+»	O	O
+On	B-PRON_METALEPSE	O
+comprend	O	O
+quelle	O	O
+dut	O	O
+être	O	O
+la	O	O
+douleur	O	O
+d	O	O
+’	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+en	O	O
+perdant	O	O
+une	B-NOM_PER	O
+pareille	I-NOM_PER	O
+amie	I-NOM_PER	O
+,	O	O
+dont	B-PRON_PER	O
+elle	B-PRON_PER	O
+sentait	O	O
+bien	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+causait	O	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+le	O	O
+malheur	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+pleura	O	O
+,	O	O
+sanglota	O	O
+,	O	O
+l	B-PRON_PER	O
+’	O	O
+embrassa	O	O
+plusieurs	O	O
+fois	O	O
+,	O	O
+et	O	O
+,	O	O
+dans	O	O
+le	O	O
+trouble	O	O
+où	O	O
+elle	B-PRON_PER	O
+était	O	O
+,	O	O
+ne	O	O
+sachant	O	O
+que	O	O
+lui	B-PRON_PER	O
+offrir	O	O
+,	O	O
+elle	B-PRON_PER	O
+défit	O	O
+ses	B-PRON_PER	O
+pendans	O	O
+d	O	O
+’	O	O
+oreilles	O	O
+,	O	O
+qui	O	O
+valaient	O	O
+bien	O	O
+dix	O	O
+ou	O	O
+douze	O	O
+mille	O	O
+écus	O	O
+,	O	O
+et	O	O
+les	O	O
+lui	B-PRON_PER	O
+donna	O	O
+,	O	O
+en	O	O
+la	B-PRON_PER	O
+priant	O	O
+de	O	O
+les	O	O
+garder	O	O
+pour	O	O
+l	O	O
+’	O	O
+amour	O	O
+d	O	O
+’	O	O
+elle	B-PRON_PER	O
+.	O	O
+
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+se	O	O	O	O
+retira	O	O	O	O
+près	O	O	O	O
+du	B-PROP_GPE	O	O	O
+Mans	I-PROP_GPE	O	O	O
+,	O	O	O	O
+dans	O	O	O	O
+une	B-NOM_GPE	O	O	O
+terre	I-NOM_GPE	O	O	O
+qui	B-PRON_GPE	O	O	O
+appartenait	O	O	O	O
+à	O	O	O	O
+sa	B-NOM_PER	O	O	O
+grand	I-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+mère	I-NOM_PER	O	O	O
+,	O	O	O	O
+emmenant	O	O	O	O
+avec	O	O	O	O
+elle	O	B-PRON_PER	O	O
+son	B-PRON_PER	B-NOM_PER	O	O
+jeune	O	I-NOM_PER	O	O
+frère	O	I-NOM_PER	O	O
+,	O	O	O	O
+M	B-PROP_PER	O	O	O
+.	I-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Montignac	I-PROP_PER	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+sœur	O	I-NOM_PER	O	O
+,	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+l	I-PROP_PER	O	O	O
+’	I-PROP_PER	O	O	O
+Escars	I-PROP_PER	O	O	O
+,	O	O	O	O
+sans	O	O	O	O
+oublier	O	O	O	O
+celle	B-NOM_PER	O	O	O
+quelle	B-NOM_PER	O	O	O
+croyait	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+meilleure	O	I-NOM_PER	O	O
+amie	O	I-NOM_PER	O	O
+,	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chémerault	I-PROP_PER	O	O	O
+,	O	O	O	O
+que	O	O	O	O
+Richelieu	B-PROP_PER	O	O	O
+avait	O	O	O	O
+aussi	O	O	O	O
+mise	O	O	O	O
+en	O	O	O	O
+disgrâce	O	O	O	O
+pour	O	O	O	O
+couvrir	O	O	O	O
+sa	B-PRON_PER	O	O	O
+trahison	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+sous	O	O	O	O
+le	O	O	O	O
+masque	O	O	O	O
+du	O	O	O	O
+dévouement	O	O	O	O
+,	O	O	O	O
+avait	O	O	O	O
+accepté	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+odieuse	O	O	O	O
+mission	O	O	O	O
+de	O	O	O	O
+surveiller	O	O	O	O
+l	B-NOM_PER	O	O	O
+’	I-NOM_PER	O	O	O
+exilée	I-NOM_PER	O	O	O
+comme	O	O	O	O
+elle	B-PRON_PER	O	O	O
+avait	O	O	O	O
+fait	O	O	O	O
+la	B-NOM_PER	O	O	O
+favorite	I-NOM_PER	O	O	O
+.	O	O	O	O
+
+Tel	O	O
+était	O	O
+,	O	O
+à	O	O
+son	B-PRON_PER	O
+égard	O	O
+,	O	O
+l	O	O
+’	O	O
+aveuglement	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+qu	O	O
+’	O	O
+avant	O	O
+de	O	O
+quitter	O	O
+Paris	B-PROP_GPE	O
+,	O	O
+ayant	O	O
+appris	O	O
+que	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+s	O	O
+’	O	O
+était	O	O
+bornée	O	O
+à	O	O
+donner	O	O
+4	O	O
+,	O	O
+000	O	O
+écus	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+,	O	O
+sans	O	O
+aucune	O	O
+autre	O	O
+marque	O	O
+d	O	O
+’	O	O
+attachement	O	O
+et	O	O
+d	O	O
+’	O	O
+estime	O	O
+,	O	O
+elle	B-PRON_PER	O
+se	O	O
+sentit	O	O
+blessée	O	O
+dans	O	O
+l	O	O
+’	O	O
+opinion	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+faite	O	O
+de	O	O
+la	O	O
+générosité	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+,	O	O
+et	O	O
+lui	B-PRON_PER	O
+écrivit	O	O
+une	O	O
+dernière	O	O
+fois	O	O
+pour	O	O
+lui	B-PRON_PER	O
+rappeler	O	O
+,	O	O
+dans	O	O
+les	O	O
+termes	O	O
+les	O	O
+plus	O	O
+vifs	O	O
+,	O	O
+ce	O	O
+quelle	O	O
+devait	O	O
+à	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+,	O	O
+oubliant	O	O
+sa	B-PRON_PER	O
+propre	O	O
+infortune	O	O
+et	O	O
+le	O	O
+rang	O	O
+de	O	O
+celle	B-NOM_PER	O
+à	O	O
+laquelle	B-PRON_PER	O
+elle	B-PRON_PER	O
+écrivait	O	O
+pour	O	O
+ne	O	O
+songer	O	O
+qu	O	O
+’	O	O
+à	O	O
+la	B-NOM_PER	O
+jeune	I-NOM_PER	O
+fille	I-NOM_PER	O
+.	O	O
+
+Elle	B-PRON_PER	O
+avait	O	O
+appris	O	O
+aussi	O	O
+qu	O	O
+’	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+n	O	O
+’	O	O
+avait	O	O
+pas	O	O
+témoigné	O	O
+une	O	O
+assez	O	O
+haute	O	O
+indignation	O	O
+de	O	O
+l	O	O
+’	O	O
+outrage	O	O
+qui	O	O
+lui	B-PRON_PER	O
+était	O	O
+fait	O	O
+à	O	O
+elle	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+en	O	O
+sa	B-PRON_PER	O
+personne	O	O
+,	O	O
+et	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+avait	O	O
+trop	O	O
+paru	O	O
+se	O	O
+résigner	O	O
+au	O	O
+triomphe	O	O
+de	O	O
+Richelieu	B-PROP_PER	O
+.	O	O
+
+Cette	O	O
+conduite	O	O
+avait	O	O
+été	O	O
+un	O	O
+coup	O	O
+douloureux	O	O
+à	O	O
+sa	B-PRON_PER	O
+fierté	O	O
+et	O	O
+à	O	O
+sa	B-PRON_PER	O
+tendresse	O	O
+;	O	O
+elle	B-PRON_PER	O
+en	O	O
+souffrait	O	O
+plus	O	O
+que	O	O
+de	O	O
+l	O	O
+’	O	O
+exil	O	O
+,	O	O
+et	O	O
+la	O	O
+façon	O	O
+dont	O	O
+elle	B-PRON_PER	O
+en	O	O
+parle	O	O
+à	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+se	O	O
+ressent	O	O
+du	O	O
+trouble	O	O
+et	O	O
+de	O	O
+l	O	O
+’	O	O
+amertume	O	O
+de	O	O
+son	B-PRON_PER	O
+cœur	O	O
+.	O	O
+
+La	O	O
+lettre	O	O
+où	O	O
+elle	B-PRON_PER	O
+exhale	O	O
+ses	B-PRON_PER	O
+chagrins	O	O
+,	O	O
+pleine	O	O
+à	O	O
+la	O	O
+fois	O	O
+d	O	O
+’	O	O
+affection	O	O
+,	O	O
+de	O	O
+hauteur	O	O
+et	O	O
+de	O	O
+dépit	O	O
+,	O	O
+peint	O	O
+à	O	O
+merveille	O	O
+le	O	O
+caractère	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+,	O	O
+et	O	O
+montre	O	O
+en	O	O
+elle	B-PRON_PER	O
+,	O	O
+à	O	O
+vingt	B-NOM_TIME	O
+-	I-NOM_TIME	O
+quatre	I-NOM_TIME	O
+ans	I-NOM_TIME	O
+,	O	O
+à	O	O
+cet	B-NOM_TIME	O
+âge	I-NOM_TIME	O
+heureux	I-NOM_TIME	O
+des	O	O
+grands	O	O
+sentimens	O	O
+portés	O	O
+jusqu	O	O
+’	O	O
+à	O	O
+l	O	O
+’	O	O
+exagération	O	O
+,	O	O
+une	O	O
+sorte	O	O
+d	O	O
+’	O	O
+Emilie	O	O
+outrée	O	O
+et	O	O
+sublime	O	O
+.	O	O
+
+On	O	O
+y	O	O
+sent	O	O
+que	O	O
+la	O	O
+plus	O	O
+grande	O	O
+douleur	O	O
+de	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+est	O	O
+de	O	O
+voir	O	O
+sa	B-NOM_PER	O
+royale	I-NOM_PER	O
+amie	I-NOM_PER	O
+au	O	O
+-	O	O
+dessous	O	O
+de	O	O
+l	O	O
+’	O	O
+idéal	O	O
+de	O	O
+générosité	O	O
+et	O	O
+de	O	O
+noblesse	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+formé	O	O
+,	O	O
+et	O	O
+la	O	O
+hardiesse	O	O
+de	O	O
+son	B-PRON_PER	O
+langage	O	O
+en	O	O
+cette	O	O
+occasion	O	O
+marque	O	O
+déjà	O	O
+jusqu	O	O
+’	O	O
+où	O	O
+elle	B-PRON_PER	O
+pourra	O	O
+se	O	O
+porter	O	O
+plus	O	O
+tord	O	O
+,	O	O
+lorsqu	O	O
+’	O	O
+elle	B-PRON_PER	O
+croira	O	O
+la	O	O
+réputation	O	O
+de	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+bien	O	O
+autrement	O	O
+compromise	O	O
+.	O	O
+
+«	O	O
+Madame	B-NOM_PER	O
+,	O	O
+s	O	O
+’	O	O
+il	O	O
+m	B-PRON_PER	O
+’	O	O
+étoit	O	O
+permis	O	O
+de	O	O
+juger	O	O
+des	O	O
+sentimens	O	O
+de	O	O
+votre	B-NOM_PER	O
+majesté	I-NOM_PER	O
+par	O	O
+les	O	O
+miens	O	O
+,	O	O
+je	B-PRON_PER	O
+n	O	O
+’	O	O
+oserois	O	O
+vous	B-PRON_PER	O
+dire	O	O
+adieu	O	O
+pour	O	O
+jamais	O	O
+,	O	O
+de	O	O
+crainte	O	O
+que	O	O
+cette	O	O
+parole	O	O
+ne	O	O
+mît	O	O
+votre	B-PRON_PER	O
+vie	O	O
+au	O	O
+même	O	O
+péril	O	O
+où	O	O
+elle	O	O
+met	O	O
+la	O	O
+mienne	O	O
+en	O	O
+vous	B-PRON_PER	O
+l	O	O
+’	O	O
+écrivant	O	O
+.	O	O
+
+Mais	O	O
+puisque	O	O
+Dieu	B-PROP_PER	O
+vous	B-PRON_PER	O
+fait	O	O
+avoir	O	O
+en	O	O
+cet	O	O
+accident	O	O
+la	O	O
+résignation	O	O
+que	O	O
+vous	B-PRON_PER	O
+avez	O	O
+eue	O	O
+en	O	O
+tant	O	O
+d	O	O
+’	O	O
+autres	O	O
+,	O	O
+je	B-PRON_PER	O
+ferois	O	O
+injure	O	O
+à	O	O
+la	O	O
+Providence	O	O
+et	O	O
+à	O	O
+votre	B-PRON_PER	O
+courage	O	O
+,	O	O
+si	O	O
+je	B-PRON_PER	O
+croyois	O	O
+que	O	O
+mes	B-PRON_PER	O
+disgrâces	O	O
+et	O	O
+mes	B-PRON_PER	O
+déplaisirs	O	O
+pussent	O	O
+donner	O	O
+quelque	O	O
+atteinte	O	O
+à	O	O
+votre	B-PRON_PER	O
+santé	O	O
+et	O	O
+à	O	O
+votre	B-PRON_PER	O
+repos	O	O
+.	O	O
+
+C	O	O
+’	O	O
+est	O	O
+donc	O	O
+pour	O	O
+jamais	O	O
+,	O	O
+madame	B-NOM_PER	O
+,	O	O
+que	O	O
+je	B-PRON_PER	O
+dis	O	O
+adieu	O	O
+à	O	O
+votre	B-NOM_PER	O
+majesté	I-NOM_PER	O
+,	O	O
+et	O	O
+je	B-PRON_PER	O
+vous	B-PRON_PER	O
+supplie	O	O
+très	O	O
+humblement	O	O
+de	O	O
+croire	O	O
+qu	O	O
+’	O	O
+en	O	O
+quelque	O	O
+endroit	O	O
+du	O	O
+monde	O	O
+que	O	O
+la	O	O
+persécution	O	O
+me	B-PRON_PER	O
+puisse	O	O
+jeter	O	O
+,	O	O
+j	B-PRON_PER	O
+’	O	O
+y	O	O
+passerai	O	O
+mes	B-PRON_PER	O
+jours	O	O
+dans	O	O
+la	O	O
+fidélité	O	O
+et	O	O
+dans	O	O
+l	O	O
+’	O	O
+attachement	O	O
+qui	O	O
+sont	O	O
+les	O	O
+véritables	O	O
+causes	O	O
+qu	O	O
+’	O	O
+on	O	O
+me	B-PRON_PER	O
+persécute	O	O
+,	O	O
+et	O	O
+n	O	O
+’	O	O
+aurai	O	O
+de	O	O
+regret	O	O
+,	O	O
+parmi	O	O
+les	O	O
+ennuis	O	O
+qui	O	O
+m	B-PRON_PER	O
+’	O	O
+accablent	O	O
+,	O	O
+que	O	O
+de	O	O
+n	O	O
+’	O	O
+en	O	O
+pouvoir	O	O
+pas	O	O
+souffrir	O	O
+davantage	O	O
+pour	O	O
+l	O	O
+’	O	O
+amour	O	O
+de	O	O
+vous	B-PRON_PER	O
+.	O	O
+
+Ma	B-PRON_PER	O
+douleur	O	O
+me	B-PRON_PER	O
+feroit	O	O
+ici	O	O
+achever	O	O
+ma	B-PRON_PER	O
+lettre	O	O
+,	O	O
+si	O	O
+le	O	O
+zèle	O	O
+que	O	O
+j	B-PRON_PER	O
+’	O	O
+ai	O	O
+pour	O	O
+votre	B-PRON_PER	O
+gloire	O	O
+ne	O	O
+me	B-PRON_PER	O
+défendoit	O	O
+de	O	O
+taire	O	O
+une	O	O
+chose	O	O
+qui	O	O
+la	O	O
+peut	O	O
+ternir	O	O
+,	O	O
+et	O	O
+de	O	O
+vous	B-PRON_PER	O
+dissimuler	O	O
+l	O	O
+’	O	O
+étonnement	O	O
+que	O	O
+chacun	O	O
+témoigne	O	O
+de	O	O
+l	O	O
+’	O	O
+état	O	O
+où	O	O
+vous	B-PRON_PER	O
+laissez	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+.	O	O
+
+On	O	O
+sait	O	O
+que	O	O
+vous	B-PRON_PER	O
+connoissez	O	O
+aussi	O	O
+bien	O	O
+son	B-PRON_PER	O
+cœur	O	O
+que	O	O
+sa	B-PRON_PER	O
+misère	O	O
+,	O	O
+et	O	O
+on	O	O
+ne	O	O
+croit	O	O
+pas	O	O
+même	O	O
+que	O	O
+vous	B-PRON_PER	O
+lui	B-PRON_PER	O
+deviez	O	O
+faire	O	O
+acheter	O	O
+le	O	O
+bien	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+peut	O	O
+recevoir	O	O
+de	O	O
+vous	B-PRON_PER	O
+par	O	O
+une	O	O
+demande	O	O
+qui	O	O
+lui	B-PRON_PER	O
+sortiroit	O	O
+de	O	O
+la	O	O
+bouche	O	O
+avec	O	O
+plus	O	O
+de	O	O
+peine	O	O
+que	O	O
+sa	B-PRON_PER	O
+propre	O	O
+vie	O	O
+.	O	O
+
+Cependant	O	O	O	O
+on	O	O	O	O
+lui	B-PRON_PER	O	O	O
+a	O	O	O	O
+commandé	O	O	O	O
+de	O	O	O	O
+se	O	O	O	O
+retirer	O	O	O	O
+avec	O	O	O	O
+4	O	O	O	O
+,	O	O	O	O
+000	O	O	O	O
+écus	O	O	O	O
+,	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+il	O	O	O	O
+faut	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+emploie	O	O	O	O
+à	O	O	O	O
+payer	O	O	O	O
+ses	B-PRON_PER	O	O	O
+dettes	O	O	O	O
+:	O	O	O	O
+on	O	O	O	O
+parle	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+renvoyer	O	O	O	O
+de	O	O	O	O
+la	O	O	O	O
+même	O	O	O	O
+sorte	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+renverroit	O	O	O	O
+Michelette	B-PROP_PER	O	O	O
+,	O	O	O	O
+si	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+on	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+étoit	O	O	O	O
+avisé	O	O	O	O
+des	O	O	O	O
+grandes	O	O	O	O
+cabales	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+fait	O	O	O	O
+dans	O	O	O	O
+la	B-NOM_PER	O	O	O
+cour	I-NOM_PER	O	O	O
+aussi	O	O	O	O
+bien	O	O	O	O
+que	O	O	O	O
+nous	O	O	O	O
+…	O	O	O	O
+On	O	O	O	O
+dit	O	O	O	O
+que	O	O	O	O
+,	O	O	O	O
+si	O	O	O	O
+une	B-NOM_PER	O	O	O
+reine	I-NOM_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+a	O	O	O	O
+pas	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+argent	O	O	O	O
+pour	O	O	O	O
+fournir	O	O	O	O
+aux	O	O	O	O
+nécessités	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+une	B-NOM_PER	O	O	O
+fille	I-NOM_PER	O	O	O
+qu	B-PRON_PER	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+a	O	O	O	O
+aimée	O	O	O	O
+,	O	O	O	O
+elle	B-PRON_PER	O	O	O
+peut	O	O	O	O
+bien	O	O	O	O
+au	O	O	O	O
+moins	O	O	O	O
+lui	B-PRON_PER	O	O	O
+envoyer	O	O	O	O
+un	O	O	O	O
+présent	O	O	O	O
+qui	O	O	O	O
+témoigne	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+ne	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+oublie	O	O	O	O
+pas	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+lui	B-PRON_PER	O	O	O
+donner	O	O	O	O
+après	O	O	O	O
+cela	O	O	O	O
+une	O	O	O	O
+pension	O	O	O	O
+qui	O	O	O	O
+assure	O	O	O	O
+sa	B-PRON_PER	O	O	O
+subsistance	O	O	O	O
+,	O	O	O	O
+avec	O	O	O	O
+une	O	O	O	O
+lettre	O	O	O	O
+qui	O	O	O	O
+fasse	O	O	O	O
+connoître	O	O	O	O
+à	O	O	O	O
+sa	B-PRON_PER	B-NOM_PER	O	O
+mère	O	I-NOM_PER	O	O
+l	O	O	O	O
+’	O	O	O	O
+entière	O	O	O	O
+satisfaction	O	O	O	O
+que	O	O	O	O
+vous	B-PRON_PER	O	O	O
+avez	O	O	O	O
+d	O	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+…	O	O	O	O
+Je	B-PRON_PER	O	O	O
+suis	O	O	O	O
+si	O	O	O	O
+délicate	O	O	O	O
+en	O	O	O	O
+ce	O	O	O	O
+qui	O	O	O	O
+regarde	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+opinion	O	O	O	O
+que	O	O	O	O
+toute	O	O	O	O
+la	O	O	O	O
+terre	O	O	O	O
+doit	O	O	O	O
+avoir	O	O	O	O
+de	O	O	O	O
+vous	B-PRON_PER	O	O	O
+,	O	O	O	O
+que	O	O	O	O
+si	O	O	O	O
+Mlle	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Chémerault	I-PROP_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+avoit	O	O	O	O
+pas	O	O	O	O
+su	O	O	O	O
+le	O	O	O	O
+présent	O	O	O	O
+que	O	O	O	O
+vous	B-PRON_PER	O	O	O
+m	B-PRON_PER	O	O	O
+’	O	O	O	O
+avez	O	O	O	O
+fait	O	O	O	O
+,	O	O	O	O
+je	B-PRON_PER	O	O	O
+n	O	O	O	O
+’	O	O	O	O
+eusse	O	O	O	O
+pu	O	O	O	O
+m	B-PRON_PER	O	O	O
+’	O	O	O	O
+empêcher	O	O	O	O
+de	O	O	O	O
+le	O	O	O	O
+lui	B-PRON_PER	O	O	O
+donner	O	O	O	O
+de	O	O	O	O
+votre	B-PRON_PER	O	O	O
+part	O	O	O	O
+.	O	O	O	O
+
+Encore	O	O
+que	O	O
+j	B-PRON_PER	O
+’	O	O
+aie	O	O
+appris	O	O
+avec	O	O
+dépit	O	O
+la	O	O
+peur	O	O
+que	O	O
+vous	B-PRON_PER	O
+avez	O	O
+de	O	O
+déplaire	O	O
+à	O	O
+celui	B-NOM_PER	O
+qui	B-PRON_PER	O
+m	B-PRON_PER	O
+’	O	O
+arrache	O	O
+d	O	O
+’	O	O
+auprès	O	O
+de	O	O
+vous	B-PRON_PER	O
+,	O	O
+je	B-PRON_PER	O
+proteste	O	O
+que	O	O
+vos	B-PRON_PER	O
+timidités	O	O
+et	O	O
+vos	B-PRON_PER	O
+complaisances	O	O
+me	B-PRON_PER	O
+piquent	O	O
+beaucoup	O	O
+plus	O	O
+pour	O	O
+vous	B-PRON_PER	O
+que	O	O
+pour	O	O
+moi	B-PRON_PER	O
+,	O	O
+et	O	O
+que	O	O
+je	B-PRON_PER	O
+me	O	O
+consolerois	O	O
+du	O	O
+mal	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+m	B-PRON_PER	O
+’	O	O
+a	O	O
+fait	O	O
+,	O	O
+si	O	O
+j	B-PRON_PER	O
+’	O	O
+étois	O	O
+bien	O	O
+certaine	O	O
+que	O	O
+ce	O	O
+fût	O	O
+le	O	O
+dernier	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+voulût	O	O
+vous	B-PRON_PER	O
+faire	O	O
+.	O	O
+
+Adieu	O	O
+pour	O	O
+la	O	O
+dernière	O	O
+fois	O	O
+,	O	O
+madame	B-NOM_PER	O
+;	O	O
+je	B-PRON_PER	O
+ne	O	O
+puis	O	O
+plus	O	O
+penser	O	O
+à	O	O
+ne	O	O
+vous	B-PRON_PER	O
+voir	O	O
+jamais	O	O
+,	O	O
+et	O	O
+si	O	O
+cette	O	O
+mortelle	O	O
+imagination	O	O
+ne	O	O
+me	B-PRON_PER	O
+donne	O	O
+relâche	O	O
+pour	O	O
+un	O	O
+moment	O	O
+,	O	O
+je	B-PRON_PER	O
+ne	O	O
+vivrais	O	O
+même	O	O
+pas	O	O
+assez	O	O
+pour	O	O
+vous	B-PRON_PER	O
+dire	O	O
+que	O	O
+je	B-PRON_PER	O
+suis	O	O
+,	O	O
+madame	B-NOM_PER	O
+,	O	O
+de	O	O
+votre	B-NOM_PER	O
+majesté	I-NOM_PER	O
+,	O	O
+la	B-NOM_PER	O
+très	I-NOM_PER	O
+fidèle	I-NOM_PER	O
+,	O	O
+etc	O	O
+.	O	O
+
+»	O	O	O	O
+Tous	B-NOM_PER	O	O	O
+ceux	I-NOM_PER	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+la	O	B-NOM_GPE	O	O
+cour	O	I-NOM_GPE	O	O
+et	O	I-NOM_GPE	O	O
+à	O	I-NOM_GPE	O	O
+Paris	B-PROP_GPE	I-NOM_GPE	O	O
+,	O	O	O	O
+avaient	O	O	O	O
+connu	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+,	O	O	O	O
+sa	B-PRON_PER	O	O	O
+vertu	O	O	O	O
+,	O	O	O	O
+son	B-PRON_PER	O	O	O
+désintéressement	O	O	O	O
+,	O	O	O	O
+son	B-PRON_PER	O	O	O
+obligeance	O	O	O	O
+,	O	O	O	O
+sa	B-PRON_PER	O	O	O
+libéralité	O	O	O	O
+,	O	O	O	O
+ne	O	O	O	O
+la	B-PRON_PER	O	O	O
+virent	O	O	O	O
+pas	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+éloigner	O	O	O	O
+sans	O	O	O	O
+un	O	O	O	O
+extrême	O	O	O	O
+déplaisir	O	O	O	O
+.	O	O	O	O
+
+Les	O	O
+plus	O	O
+inconsolables	O	O
+furent	O	O
+ses	B-NOM_PER	O
+amans	I-NOM_PER	O
+,	O	O
+comme	O	O
+on	O	O
+disait	O	O
+alors	O	O
+.	O	O
+
+L	O	B-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+un	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+eux	B-PRON_PER	I-NOM_PER	O	O
+,	O	O	O	O
+le	B-NOM_PER	O	O	O
+marquis	I-NOM_PER	O	O	O
+de	I-NOM_PER	O	O	O
+Noirmoutiers	I-NOM_PER	O	O	O
+,	O	O	O	O
+ne	O	O	O	O
+pouvant	O	O	O	O
+résister	O	O	O	O
+à	O	O	O	O
+la	O	O	O	O
+violence	O	O	O	O
+de	O	O	O	O
+sa	B-PRON_PER	O	O	O
+passion	O	O	O	O
+,	O	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+échappa	O	O	O	O
+de	O	O	O	O
+Paris	B-PROP_GPE	O	O	O
+et	O	O	O	O
+courut	O	O	O	O
+au	B-PROP_GPE	O	O	O
+Mans	I-PROP_GPE	O	O	O
+pour	O	O	O	O
+la	B-PRON_PER	O	O	O
+voir	O	O	O	O
+encore	O	O	O	O
+et	O	O	O	O
+dans	O	O	O	O
+l	O	O	O	O
+’	O	O	O	O
+espérance	O	O	O	O
+de	O	O	O	O
+la	B-PRON_PER	O	O	O
+toucher	O	O	O	O
+;	O	O	O	O
+mais	O	O	O	O
+Mme	B-PROP_PER	O	O	O
+de	I-PROP_PER	O	O	O
+Hautefort	I-PROP_PER	O	O	O
+ne	O	O	O	O
+l	B-PRON_PER	O	O	O
+’	O	O	O	O
+aimait	O	O	O	O
+point	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+elle	B-PRON_PER	O	O	O
+comprenait	O	O	O	O
+trop	O	O	O	O
+la	O	O	O	O
+dignité	O	O	O	O
+du	O	O	O	O
+malheur	O	O	O	O
+pour	O	O	O	O
+la	O	O	O	O
+compromettre	O	O	O	O
+en	O	O	O	O
+recevant	O	O	O	O
+une	O	O	O	O
+visite	O	O	O	O
+équivoque	O	O	O	O
+.	O	O	O	O
+
+Le	B-NOM_PER	O
+brillant	I-NOM_PER	O
+marquis	I-NOM_PER	O
+n	O	O
+’	O	O
+obtint	O	O
+pas	O	O
+même	O	O
+une	O	O
+audience	O	O
+et	O	O
+un	O	O
+regard	O	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+s	O	O	O	O
+’	O	O	O	O
+ensevelit	O	O	O	O
+dans	O	O	O	O
+une	O	O	O	O
+solitude	O	O	O	O
+profonde	O	O	O	O
+,	O	O	O	O
+ne	O	O	O	O
+recevant	O	O	O	O
+qu	O	O	O	O
+’	O	O	O	O
+un	O	B-NOM_PER	O	O
+très	O	I-NOM_PER	O	O
+petit	O	I-NOM_PER	O	O
+nombre	O	I-NOM_PER	O	O
+d	O	I-NOM_PER	O	O
+’	O	I-NOM_PER	O	O
+amis	B-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+entre	O	O	O	O
+autres	O	O	O	O
+le	B-PROP_PER	O	O	O
+pauvre	I-PROP_PER	O	O	O
+La	I-PROP_PER	O	O	O
+Porte	I-PROP_PER	O	O	O
+,	O	O	O	O
+qu	B-PRON_PER	O	O	O
+’	O	O	O	O
+elle	B-PRON_PER	O	O	O
+avait	O	O	O	O
+fort	O	O	O	O
+contribué	O	O	O	O
+,	O	O	O	O
+pendant	O	O	O	O
+le	O	O	O	O
+retour	O	O	O	O
+de	O	O	O	O
+son	B-PRON_PER	O	O	O
+crédit	O	O	O	O
+,	O	O	O	O
+à	O	O	O	O
+tirer	O	O	O	O
+de	O	O	O	O
+la	B-PROP_FAC	O	O	O
+Bastille	I-PROP_FAC	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+qui	B-PRON_PER	O	O	O
+,	O	O	O	O
+exilé	O	O	O	O
+comme	O	O	O	O
+elle	B-PRON_PER	O	O	O
+,	O	O	O	O
+habitait	O	O	O	O
+dans	O	O	O	O
+le	O	O	O	O
+voisinage	O	O	O	O
+.	O	O	O	O
+
+Ces	B-NOM_PER	O
+deux	I-NOM_PER	O
+âmes	I-NOM_PER	O
+loyales	I-NOM_PER	O
+et	I-NOM_PER	O
+courageuses	I-NOM_PER	O
+,	O	O
+bien	O	O
+séparées	O	O
+par	O	O
+leur	B-PRON_PER	O
+rang	O	O
+dans	O	O
+le	O	O
+monde	O	O
+,	O	O
+s	O	O
+’	O	O
+étaient	O	O
+rapprochées	O	O
+dans	O	O
+leur	B-PRON_PER	O
+fidélité	O	O
+à	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+et	O	O
+dans	O	O
+leur	B-PRON_PER	O
+commune	O	O
+ardeur	O	O
+pour	O	O
+ses	B-PRON_PER	O
+intérêts	O	O
+et	O	O
+pour	O	O
+sa	B-PRON_PER	O
+gloire	O	O
+.	O	O
+
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+avait	O	O
+vu	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+si	O	O
+intrépide	O	O
+,	O	O
+et	O	O
+il	B-PRON_PER	O
+la	B-PRON_PER	O
+savait	O	O
+si	O	O
+pure	O	O
+,	O	O
+si	O	O
+désintéressée	O	O
+,	O	O
+si	O	O
+bienfaisante	O	O
+,	O	O
+qu	O	O
+’	O	O
+il	B-PRON_PER	O
+s	O	O
+’	O	O
+était	O	O
+donné	O	O
+à	O	O
+elle	B-PRON_PER	O
+tout	O	O
+autant	O	O
+qu	O	O
+’	O	O
+à	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+et	O	O
+bien	O	O
+plus	O	O
+qu	O	O
+’	O	O
+à	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Chevreuse	I-PROP_PER	O
+.	O	O
+
+Il	B-PRON_PER	O
+n	O	O
+’	O	O
+était	O	O
+pas	O	O
+dupe	O	O
+de	O	O
+la	O	O
+feinte	O	O
+amitié	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+,	O	O
+et	O	O
+plus	O	O
+d	O	O
+’	O	O
+une	O	O
+fois	O	O
+il	B-PRON_PER	O
+tenta	O	O
+d	O	O
+’	O	O
+éclairer	O	O
+Mme	B-PROP_PER	O
+de	I-PROP_PER	O
+Hautefort	I-PROP_PER	O
+;	O	O
+mais	O	O
+celle	B-NOM_PER	O
+-	I-NOM_PER	O
+ci	I-NOM_PER	O
+rejetait	O	O
+bien	O	O
+loin	O	O
+ses	B-PRON_PER	O
+soupçons	O	O
+,	O	O
+«	O	O
+ne	O	O
+pouvant	O	O
+pas	O	O
+seulement	O	O
+,	O	O
+dit	O	O
+La	B-PROP_PER	O
+Porte	I-PROP_PER	O
+,	O	O
+souffrir	O	O
+la	O	O
+pensée	O	O
+d	O	O
+’	O	O
+un	O	O
+tel	O	O
+crime	O	O
+,	O	O
+»	O	O
+et	O	O
+elle	B-PRON_PER	O
+ne	O	O
+fut	O	O
+désabusée	O	O
+qu	O	O
+’	O	O
+à	O	O
+la	O	O
+mort	O	O
+de	O	O
+Richelieu	B-PROP_PER	O
+,	O	O
+lorsque	O	O
+la	B-NOM_PER	O
+reine	I-NOM_PER	O
+lui	B-PRON_PER	O
+envoya	O	O
+les	O	O
+lettres	O	O
+de	O	O
+Mlle	B-PROP_PER	O
+de	I-PROP_PER	O
+Chémerault	I-PROP_PER	O
+,	O	O
+trouvées	O	O
+dans	O	O
+la	O	O
+cassette	O	O
+du	B-NOM_PER	O
+cardinal	I-NOM_PER	O
+.	O	O
+
+C	O	O
+’	O	O
+est	O	O
+pendant	O	O
+ce	O	O
+séjour	O	O
+auprès	O	O
+du	B-PROP_GPE	O
+Mans	I-PROP_GPE	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+entendit	O	O
+parler	O	O
+de	O	O
+Scarron	B-PROP_PER	O
+,	O	O
+de	O	O
+ses	B-PRON_PER	O
+cruelles	O	O
+infirmités	O	O
+,	O	O
+et	O	O
+de	O	O
+la	O	O
+gaieté	O	O
+courageuse	O	O
+avec	O	O
+laquelle	O	O
+il	B-PRON_PER	O
+les	O	O
+supportait	O	O
+Scarron	B-PROP_PER	O
+souffrait	O	O
+;	O	O
+c	O	O
+’	O	O
+était	O	O
+assez	O	O
+,	O	O
+elle	B-PRON_PER	O
+s	O	O
+’	O	O
+intéressa	O	O
+au	B-NOM_PER	O
+bouffon	I-NOM_PER	O
+malade	I-NOM_PER	O
+et	O	O
+lui	B-PRON_PER	O
+vint	O	O
+en	O	O
+aide	O	O
+de	O	O
+toutes	O	O
+les	O	O
+manières	O	O
+.	O	O
+
+De	O	O	O	O
+là	O	O	O	O
+,	O	O	O	O
+tant	O	O	O	O
+de	O	O	O	O
+vers	O	O	O	O
+adressés	O	O	O	O
+par	O	O	O	O
+Scarron	B-PROP_PER	O	O	O
+à	O	O	O	O
+Mme	B-PROP_PER	B-PROP_PER	O	O
+de	I-PROP_PER	I-PROP_PER	O	O
+Hautefort	I-PROP_PER	I-PROP_PER	O	O
+et	O	I-PROP_PER	O	O
+à	O	I-PROP_PER	O	O
+sa	B-NOM_PER	I-PROP_PER	O	O
+sœur	I-NOM_PER	I-PROP_PER	O	O
+.	O	O	O	O
+
+Cependant	O	O
+les	O	O
+événemens	O	O
+se	O	O
+pressaient	O	O
+sur	O	O
+la	O	O
+scène	O	O
+mobile	O	O
+qu	O	O
+’	O	O
+elle	B-PRON_PER	O
+venait	O	O
+de	O	O
+quitter	O	O
+.	O	O
+
+Du	O	O
+fond	O	O
+de	O	O
+sa	B-PRON_PER	O
+retraite	O	O
+,	O	O
+pendant	O	O
+trois	B-NOM_TIME	O
+années	I-NOM_TIME	O
+,	O	O
+elle	B-PRON_PER	O
+assista	O	O
+de	O	O
+loin	O	O
+à	O	O
+bien	O	O
+des	O	O
+spectacles	O	O
+qui	O	O
+tour	O	O
+à	O	O
+tour	O	O
+agitèrent	O	O
+son	B-PRON_PER	O
+âme	O	O
+de	O	O
+rares	O	O
+joies	O	O
+,	O	O
+d	O	O
+’	O	O
+inquiètes	O	O
+espérances	O	O
+,	O	O
+d	O	O
+’	O	O
+effroi	O	O
+,	O	O
+de	O	O
+compassion	O	O
+,	O	O
+d	O	O
+’	O	O
+horreur	O	O
+.	O	O
+
+Elle	B-PRON_PER	O
+recevait	O	O
+de	O	O
+fréquens	O	O
+et	O	O
+secrets	O	O
+messages	O	O
+d	O	O
+’	O	O
+Anne	B-PROP_PER	O
+d	I-PROP_PER	O
+’	I-PROP_PER	O
+Autriche	I-PROP_PER	O
+,	O	O
+qui	O	O
+l	B-PRON_PER	O
+’	O	O
+assuraient	O	O
+de	O	O
+sa	B-PRON_PER	O
+constante	O	O
+amitié	O	O
+.	O	O
+
+Un	B-NOM_TIME	O
+jour	I-NOM_TIME	O
+,	O	O
+elle	B-PRON_PER	O
+reçut	O	O
+de	O	O
+sa	B-PRON_PER	O
+part	O	O
+le	O	O
+portrait	O	O
+du	B-NOM_PER	O
+petit	I-NOM_PER	O
+dauphin	I-NOM_PER	O
+comme	O	O
+un	O	O
+présage	O	O
+de	O	O
+jours	O	O
+meilleurs	O	O
+.	O	O
+
+Quels	O	O
+durent	O	O
+être	O	O
+ses	B-PRON_PER	O
+sentimens	O	O
+,	O	O
+lorsqu	O	O
+’	O	O
+elle	B-PRON_PER	O
+apprit	O	O
+l	O	O
+’	O	O
+audacieuse	O	O
+entreprise	O	O
+du	B-NOM_PER	O
+comte	I-NOM_PER	O
+de	I-NOM_PER	O
+Soissons	I-NOM_PER	O
+,	O	O
+son	B-PRON_PER	O
+triomphe	O	O
+à	O	O
+la	O	O
+Marfée	O	O
+et	O	O
+sa	B-PRON_PER	O
+mort	O	O
+!	O	O
+
+Bientôt	O	O
+aussi	O	O
+elle	B-PRON_PER	O
+vit	O	O
+l	B-NOM_PER	O
+’	I-NOM_PER	O
+ambitieux	I-NOM_PER	O
+étourdi	I-NOM_PER	O
+qui	B-PRON_PER	O
+l	B-PRON_PER	O
+’	O	O
+avait	O	O
+remplacée	O	O
+dans	O	O
+le	O	O
+cœur	O	O
+du	B-NOM_PER	O
+roi	I-NOM_PER	O
+,	O	O
+parvenu	O	O
+au	O	O
+faîte	O	O
+de	O	O
+la	O	O
+faveur	O	O
+,	O	O
+s	O	O
+’	O	O
+en	O	O
+précipiter	O	O
+lui	B-PRON_PER	O
+-	I-PRON_PER	O
+même	I-PRON_PER	O
+,	O	O
+conspirer	O	O
+la	O	O
+perte	O	O
+de	O	O
+celui	B-NOM_PER	O
+auquel	B-PRON_PER	O
+il	B-PRON_PER	O
+devait	O	O
+tout	O	O
+,	O	O
+et	O	O
+,	O	O
+retombé	O	O
+sous	O	O
+la	B-NOM_PER	O
+main	I-NOM_PER	O
+puissante	I-NOM_PER	O
+qui	B-PRON_PER	O
+l	B-PRON_PER	O
+’	O	O
+avait	O	O
+tiré	O	O
+du	O	O
+néant	O	O
+,	O	O
+porter	O	O
+,	O	O
+à	O	O
+vingt	B-NOM_TIME	O
+-	I-NOM_TIME	O
+deux	I-NOM_TIME	O
+ans	I-NOM_TIME	O
+,	O	O
+sa	B-PRON_PER	O
+tête	O	O
+sur	O	O
+un	B-NOM_FAC	O
+échafaud	I-NOM_FAC	O
+.	O	O
+
+Elle	B-PRON_PER	O	O	O
+vit	O	O	O	O
+enfin	O	O	O	O
+ce	B-NOM_PER	O	O	O
+terrible	I-NOM_PER	O	O	O
+cardinal	I-NOM_PER	O	O	O
+,	O	O	O	O
+vainqueur	O	O	O	O
+de	O	O	O	O
+tous	O	B-NOM_PER	O	O
+ses	B-NOM_PER	I-NOM_PER	O	O
+ennemis	I-NOM_PER	I-NOM_PER	O	O
+au	I-NOM_PER	I-NOM_PER	O	O
+dedans	I-NOM_PER	I-NOM_PER	O	O
+et	I-NOM_PER	I-NOM_PER	O	O
+au	I-NOM_PER	I-NOM_PER	O	O
+dehors	I-NOM_PER	I-NOM_PER	O	O
+,	O	O	O	O
+maître	O	O	O	O
+du	B-NOM_PER	O	O	O
+roi	I-NOM_PER	O	O	O
+et	O	O	O	O
+de	O	O	O	O
+la	B-PROP_GPE	O	O	O
+France	I-PROP_GPE	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+,	O	O	O	O
+méditant	O	O	O	O
+les	O	O	O	O
+plus	O	O	O	O
+hardis	O	O	O	O
+desseins	O	O	O	O
+,	O	O	O	O
+succomber	O	O	O	O
+à	O	O	O	O
+ses	B-PRON_PER	O	O	O
+soucis	O	O	O	O
+et	O	O	O	O
+à	O	O	O	O
+ses	B-PRON_PER	O	O	O
+infirmités	O	O	O	O
+,	O	O	O	O
+et	O	O	O	O
+Louis	B-PROP_PER	O	O	O
+XIII	I-PROP_PER	O	O	O
+,	O	O	O	O
+épuisé	O	O	O	O
+et	O	O	O	O
+languissant	O	O	O	O
+,	O	O	O	O
+tout	O	O	O	O
+prêt	O	O	O	O
+à	O	O	O	O
+le	B-PRON_PER	O	O	O
+suivre	O	O	O	O
+dans	O	O	O	O
+la	B-NOM_FAC	O	O	O
+tombe	I-NOM_FAC	O	O	O
+

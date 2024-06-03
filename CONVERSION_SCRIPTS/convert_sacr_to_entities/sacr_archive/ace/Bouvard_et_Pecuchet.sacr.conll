@@ -1,0 +1,2260 @@
+Bouvard et Pécuchet , éd .
+
+0,3,0,3 PROP_PER
+
+Comme il faisait une chaleur de 33 degrés , le boulevard Bourdon se trouvait absolument désert .
+
+9,12,9,12 NOM_FAC
+
+Plus bas , le canal Saint - Martin , fermé par les deux écluses , étalait en ligne droite son eau couleur d' encre .
+
+3,8,3,8 PROP_FAC|11,14,11,14 NOM_FAC|19,20,19,20 PRON_FAC
+
+Il y avait au milieu un bateau plein de bois , et sur la berge deux rangs de barriques .
+
+5,10,5,10 NOM_FAC|13,15,13,15 NOM_LOC
+
+Au delà du canal , entre les maisons que séparent des chantiers , le grand ciel pur se découpait en plaques d' outremer , et sous la réverbération du soleil , les façades blanches , les toits d' ardoises , les quais de granit éblouissaient .
+
+2,4,2,4 NOM_FAC|6,8,6,8 NOM_FAC|8,9,8,9 PRON_FAC|10,12,10,12 NOM_FAC|28,30,28,30 NOM_LOC|40,44,40,44 NOM_FAC
+
+Deux hommes parurent .
+
+0,2,0,2 NOM_PER
+
+L' un venait de la Bastille , l' autre du Jardin des Plantes .
+
+0,2,0,2 PRON_PER|4,6,4,6 PROP_LOC|7,9,7,9 NOM_PER|9,13,9,13 NOM_FAC
+
+Le plus grand , vêtu de toile , marchait le chapeau en arrière , le gilet déboutonné et sa cravate à la main .
+
+0,3,0,3 NOM_PER|18,19,18,19 PRON_PER
+
+Le plus petit , dont le corps disparaissait dans une redingote marron , baissait la tête sous une casquette à visière pointue .
+
+0,3,0,3 NOM_PER|4,5,4,5 PRON_PER
+
+Quand ils furent arrivés au milieu du boulevard , ils s' assirent , à la même minute , sur le même banc .
+
+1,2,1,2 PRON_PER|6,8,6,8 NOM_FAC|4,8,4,8 NOM_LOC|9,10,9,10 PRON_PER|14,17,14,17 NOM_TIME
+
+Pour s' essuyer le front , ils retirèrent leurs coiffures , que chacun posa près de soi ; et le petit homme aperçut , écrit dans le chapeau de son voisin : Bouvard ; pendant que celui - ci distinguait aisément dans la casquette du particulier en redingote le mot : Pécuchet .
+
+6,7,6,7 PRON_PER|8,9,8,9 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER|19,22,19,22 NOM_PER|29,30,29,30 PRON_PER|36,39,36,39 NOM_PER|44,48,44,48 NOM_PER
+
+— Tiens , dit - il , nous avons eu la même idée , celle d' inscrire notre nom dans nos couvre - chefs .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER
+
+— Mon Dieu , oui , on pourrait prendre le mien à mon bureau !
+
+12,14,12,14 NOM_FAC
+
+— C' est comme moi , je suis employé .
+
+4,5,4,5 PRON_PER|6,7,6,7 PRON_PER
+
+Alors ils se considérèrent .
+
+1,2,1,2 PRON_PER
+
+L' aspect aimable de Bouvard charma de suite Pécuchet .
+
+4,5,4,5 PROP_PER|8,9,8,9 PROP_PER
+
+Ses yeux bleuâtres , toujours entre - clos , souriaient dans son visage coloré .
+
+0,1,0,1 PRON_PER|11,12,11,12 PRON_PER
+
+Un pantalon à grand - pont , qui godait par le bas sur des souliers de castor , moulait son ventre , faisait bouffer sa chemise à la ceinture ; et ses cheveux blonds , frisés d' eux - mêmes en boucles légères , lui donnaient quelque chose d' enfantin .
+
+19,20,19,20 PRON_PER|24,25,24,25 PRON_PER|31,32,31,32 PRON_PER|44,45,44,45 PRON_PER
+
+Il poussait du bout des lèvres une espèce de sifflement continu .
+
+0,1,0,1 PRON_PER
+
+L' air sérieux de Pécuchet frappa Bouvard .
+
+4,5,4,5 PROP_PER|6,7,6,7 PROP_PER
+
+On aurait dit qu' il portait une perruque , tant les mèches garnissant son crâne élevé étaient plates et noires .
+
+4,5,4,5 PRON_PER|13,14,13,14 PRON_PER
+
+Sa figure semblait toute en profil , à cause du nez qui descendait très bas .
+
+0,1,0,1 PRON_PER
+
+Ses jambes , prises dans des tuyaux de lasting , manquaient de proportion avec la longueur du buste , et il avait une voix forte , caverneuse .
+
+0,1,0,1 PRON_PER|20,21,20,21 PRON_PER
+
+Cette exclamation lui échappa :
+
+2,3,2,3 PRON_PER
+
+— Comme on serait bien à la campagne !
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_LOC
+
+Mais la banlieue , selon Bouvard , était assommante par le tapage des guinguettes .
+
+1,3,1,3 NOM_LOC|5,6,5,6 PROP_PER|12,14,12,14 NOM_FAC
+
+Pécuchet pensait de même .
+
+0,1,0,1 PROP_PER
+
+Il commençait néanmoins à se sentir fatigué de la capitale , Bouvard aussi .
+
+0,1,0,1 PRON_PER|8,10,8,10 NOM_GPE|11,12,11,12 PROP_PER
+
+Et leurs yeux erraient sur des tas de pierres à bâtir , sur l' eau hideuse où une botte de paille flottait , sur la cheminée d' une usine se dressant à l' horizon ; des miasmes d' égout s' exhalaient .
+
+1,2,1,2 PRON_PER|27,29,27,29 NOM_FAC|24,29,24,29 NOM_FAC
+
+Ils se tournèrent de l' autre côté .
+
+0,1,0,1 PRON_PER
+
+Alors ils eurent devant eux les murs du Grenier d' abondance .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+Décidément ( et Pécuchet en était surpris ) on avait encore plus chaud dans les rues que chez soi !
+
+3,4,3,4 PROP_PER|8,9,8,9 PRON_PER|14,16,14,16 NOM_FAC|18,19,18,19 PRON_PER
+
+Bouvard l' engagea à mettre bas sa redingote .
+
+0,1,0,1 PROP_PER|1,2,1,2 NOM_PER|6,7,6,7 PRON_PER
+
+Lui , il se moquait du qu' en - dira - t - on !
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER
+
+Tout à coup un ivrogne traversa en zigzag le trottoir ; et , à propos des ouvriers , ils entamèrent une conversation politique .
+
+3,5,3,5 NOM_PER|8,10,8,10 NOM_FAC|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER
+
+Leurs opinions étaient les mêmes , bien que Bouvard fût peut - être plus libéral .
+
+0,1,0,1 PRON_PER|8,9,8,9 PROP_PER
+
+Un bruit de ferrailles sonna sur le pavé dans un tourbillon de poussière : c' étaient trois calèches de remise qui s' en allaient vers Bercy , promenant une mariée avec son bouquet , des bourgeois en cravate blanche , des dames enfouies jusqu' aux aisselles dans leur jupon , deux ou trois petites filles , un collégien .
+
+16,20,16,20 NOM_VEH|20,21,20,21 PRON_VEH|25,26,25,26 PROP_GPE|28,30,28,30 NOM_PER|31,32,31,32 PRON_PER|34,39,34,39 NOM_PER|40,42,40,42 NOM_PER|47,48,47,48 PRON_PER|50,55,50,55 NOM_PER|56,58,56,58 NOM_PER
+
+La vue de cette noce amena Bouvard et Pécuchet à parler des femmes , qu' ils déclarèrent frivoles , acariâtres , têtues .
+
+6,9,6,9 PROP_PER|11,13,11,13 NOM_PER|14,15,14,15 PRON_PER|15,16,15,16 PRON_PER
+
+Malgré cela , elles étaient souvent meilleures que les hommes ; d' autres fois elles étaient pires .
+
+3,4,3,4 PRON_PER|8,10,8,10 NOM_PER|14,15,14,15 PRON_PER
+
+Bref , il valait mieux vivre sans elles ; aussi Pécuchet était resté célibataire .
+
+7,8,7,8 PRON_PER|10,11,10,11 PROP_PER
+
+— Moi , je suis veuf , dit Bouvard , et sans enfants !
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_PER|8,9,8,9 PROP_PER|12,13,12,13 NOM_PER
+
+— C' est peut - être un bonheur pour vous ?
+
+9,10,9,10 PRON_PER
+
+Puis , au bord du quai parut une fille de joie avec un soldat .
+
+4,6,4,6 NOM_FAC|2,6,2,6 NOM_LOC|7,11,7,11 NOM_PER|12,14,12,14 NOM_PER
+
+Blême , les cheveux noirs et marquée de petite vérole , elle s' appuyait sur le bras du militaire , en traînant des savates et balançant les hanches .
+
+11,12,11,12 PRON_PER|17,19,17,19 NOM_PER
+
+Quand elle fut plus loin , Bouvard se permit une réflexion obscène .
+
+1,2,1,2 PRON_PER|6,7,6,7 PROP_PER
+
+Pécuchet devint très rouge , et sans doute pour s' éviter de répondre , lui désigna du regard un prêtre qui s' avançait .
+
+0,1,0,1 PROP_PER|14,15,14,15 PRON_PER|18,20,18,20 NOM_PER|20,21,20,21 PRON_PER
+
+L' ecclésiastique descendit avec lenteur l' avenue des maigres ormeaux jalonnant le trottoir , et Bouvard , dès qu' il n' aperçut plus le tricorne , se déclara soulagé , car il exécrait les jésuites .
+
+0,2,0,2 NOM_PER|5,10,5,10 NOM_FAC|11,13,11,13 NOM_FAC|15,16,15,16 PROP_PER|19,20,19,20 PRON_PER|31,32,31,32 PRON_PER|33,35,33,35 NOM_PER
+
+Pécuchet , sans les absoudre , montra quelque déférence pour la religion .
+
+0,1,0,1 PROP_PER|3,4,3,4 PRON_PER
+
+Cependant le crépuscule tombait , et des persiennes en face s' étaient relevées .
+
+6,8,6,8 NOM_FAC
+
+Les passants devinrent plus nombreux .
+
+0,2,0,2 NOM_PER
+
+Sept heures sonnèrent .
+
+0,2,0,2 NOM_TIME
+
+Leurs paroles coulaient intarissablement , les remarques succédant aux anecdotes , les aperçus philosophiques aux considérations individuelles .
+
+0,1,0,1 PRON_PER
+
+Ils dénigrèrent le corps des ponts et chaussées , la régie des tabacs , le commerce , les théâtres , notre marine et tout le genre humain , comme des gens qui ont subi de grands déboires .
+
+0,1,0,1 PRON_PER|2,8,2,8 NOM_ORG|9,13,9,13 NOM_ORG|17,19,17,19 NOM_FAC|20,22,20,22 NOM_ORG|29,31,29,31 NOM_PER|31,32,31,32 PRON_PER
+
+Chacun en écoutant l' autre retrouvait des parties de lui - même oubliées .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER|9,12,9,12 PRON_PER
+
+Et bien qu' ils eussent passé l' âge des émotions naïves , ils éprouvaient un plaisir nouveau , une sorte d' épanouissement , le charme des tendresses à leur début .
+
+3,4,3,4 PRON_PER|12,13,12,13 PRON_PER
+
+Vingt fois ils s' étaient levés , s' étaient rassis et avaient fait la longueur du boulevard , depuis l' écluse d' amont jusqu' à l' écluse d' aval , chaque fois voulant s' en aller , n' en ayant pas la force , retenus par une fascination .
+
+2,3,2,3 PRON_PER|15,17,15,17 NOM_FAC|19,23,19,23 NOM_FAC|25,29,25,29 NOM_FAC
+
+Ils se quittaient pourtant , et leurs mains étaient jointes , quand Bouvard dit tout à coup :
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|12,13,12,13 PROP_PER
+
+si nous dînions ensemble ?
+
+1,2,1,2 PRON_PER
+
+— J' en avais l' idée !
+
+1,2,1,2 PRON_PER
+
+reprit Pécuchet , mais je n' osais pas vous le proposer !
+
+1,2,1,2 PROP_PER|4,5,4,5 PRON_PER|8,9,8,9 PRON_PER
+
+Et il se laissa conduire en face de l' Hôtel de Ville , dans un petit restaurant où l' on serait bien .
+
+1,2,1,2 PRON_PER|8,12,8,12 NOM_FAC|14,17,14,17 NOM_FAC|17,18,17,18 PRON_FAC|19,20,19,20 PRON_PER
+
+Bouvard commanda le menu .
+
+0,1,0,1 PROP_PER
+
+Pécuchet avait peur des épices comme pouvant lui incendier le corps .
+
+0,1,0,1 PROP_PER|7,8,7,8 PRON_PER
+
+Ensuite , ils glorifièrent les avantages des sciences : que de choses à connaître !
+
+2,3,2,3 PRON_PER
+
+que de recherches … si on avait le temps !
+
+5,6,5,6 PRON_PER
+
+Hélas , le gagne - pain l' absorbait ; et ils levèrent les bras d' étonnement , ils faillirent s' embrasser par - dessus la table en découvrant qu' ils étaient tous les deux copistes , Bouvard dans une maison de commerce , Pécuchet au ministère de la marine ; ce qui ne l' empêchait pas de consacrer , chaque soir , quelques moments à l' étude .
+
+10,11,10,11 PRON_PER|17,18,17,18 PRON_PER|29,30,29,30 PRON_PER|31,34,31,34 PRON_PER|36,37,36,37 PROP_PER|38,42,38,42 NOM_ORG|43,44,43,44 PROP_PER|47,49,47,49 PROP_ORG|44,49,44,49 NOM_ORG|53,54,53,54 NOM_PER|59,61,59,61 NOM_TIME
+
+Il avait noté des fautes dans l' ouvrage de M . Thiers , et il parla avec le plus grand respect d' un certain Dumouchel , professeur .
+
+0,1,0,1 PRON_PER|9,12,9,12 PROP_PER|14,15,14,15 PRON_PER|22,27,22,27 PROP_PER
+
+Bouvard l' emportait par d' autres côtés .
+
+0,1,0,1 PROP_PER
+
+Sa chaîne de montre en cheveux et la manière dont il battait la rémolade décelaient le roquentin plein d' expérience , et il mangeait , le coin de la serviette dans l' aisselle , en débitant des choses qui faisaient rire Pécuchet .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER|22,23,22,23 PRON_PER|41,42,41,42 PROP_PER
+
+Celui de Bouvard était contenu , sonore , découvrait ses dents , lui secouait les épaules , et les consommateurs à la porte s' en retournaient .
+
+2,3,2,3 PROP_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER
+
+Le repas fini , ils allèrent prendre le café dans un autre établissement .
+
+4,5,4,5 PRON_PER|10,13,10,13 NOM_FAC
+
+Pécuchet , en contemplant les becs de gaz , gémit sur le débordement du luxe , puis , d' un geste dédaigneux , écarta les journaux .
+
+0,1,0,1 PROP_PER
+
+Bouvard était plus indulgent à leur endroit .
+
+0,1,0,1 PROP_PER
+
+Il aimait tous les écrivains en général et avait eu dans sa jeunesse des dispositions pour être acteur .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_PER|11,12,11,12 PRON_PER
+
+Il voulut faire des tours d' équilibre avec une queue de billard et deux boules d' ivoire , comme en exécutait Barberou , un de ses amis .
+
+0,1,0,1 PRON_PER|25,27,25,27 NOM_PER|21,27,21,27 PROP_PER
+
+Invariablement elles tombaient , et , roulant sur le plancher entre les jambes des personnes , allaient se perdre au loin .
+
+13,15,13,15 NOM_PER
+
+Le garçon , qui se levait toutes les fois pour les chercher à quatre pattes sous les banquettes , finit par se plaindre .
+
+0,2,0,2 NOM_PER|3,4,3,4 PRON_PER
+
+Pécuchet eut une querelle avec lui ; le limonadier survint , il n' écouta pas ses excuses et même chicana sur la consommation .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER|7,9,7,9 NOM_PER|11,12,11,12 PRON_PER|15,16,15,16 PRON_PER
+
+Il proposa ensuite de terminer la soirée paisiblement dans son domicile , qui était tout près , rue Saint - Martin .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_TIME|9,11,9,11 NOM_FAC|12,13,12,13 PRON_FAC|17,21,17,21 PROP_FAC
+
+À peine entré , il endossa une manière de camisole en indienne et fit les honneurs de son appartement .
+
+4,5,4,5 PRON_PER|17,19,17,19 NOM_FAC
+
+Un bureau de sapin , placé juste dans le milieu , incommodait par ses angles ; et tout autour , sur des planchettes , sur les trois chaises , sur le vieux fauteuil et dans les coins se trouvaient pêle - mêle plusieurs volumes de l' Encyclopédie Roret , le Manuel du magnétiseur , un Fénelon , d' autres bouquins , avec des tas de paperasses , deux noix de coco , diverses médailles , un bonnet turc et des coquilles rapportées du Havre par Dumouchel .
+
+82,84,82,84 PROP_GPE|85,86,85,86 PROP_PER
+
+Bouvard , à cause de l' odeur sans doute , demanda la permission d' ouvrir la fenêtre .
+
+0,1,0,1 PROP_PER
+
+s' écria Pécuchet , qui redoutait , en plus , les courants d' air .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER
+
+Cependant il haletait dans cette petite chambre , chauffée depuis le matin par les ardoises de la toiture .
+
+1,2,1,2 PRON_PER|4,7,4,7 NOM_FAC|10,12,10,12 NOM_TIME
+
+Bouvard lui dit :
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER
+
+— À votre place , j' ôterais ma flanelle !
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|7,8,7,8 PRON_PER
+
+Et Pécuchet baissa la tête , s' effrayant à l' hypothèse de ne plus avoir son gilet de santé .
+
+1,2,1,2 PROP_PER|15,16,15,16 PRON_PER
+
+— Faites - moi la conduite , reprit Bouvard , l' air extérieur vous rafraîchira .
+
+3,4,3,4 PRON_PER|8,9,8,9 PROP_PER|13,14,13,14 PRON_PER
+
+Enfin Pécuchet repassa ses bottes en grommelant :
+
+1,2,1,2 PROP_PER|3,4,3,4 PRON_PER
+
+— Vous m' ensorcelez , ma parole d' honneur !
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER
+
+Et malgré la distance , il l' accompagna jusque chez lui , au coin de la rue de Béthune , en face le pont de la Tournelle .
+
+5,6,5,6 PRON_PER|6,7,6,7 NOM_PER|10,11,10,11 PRON_PER|18,19,18,19 PROP_GPE|15,19,15,19 PROP_FAC|25,27,25,27 PROP_GPE|22,27,22,27 NOM_FAC
+
+La chambre de Bouvard , bien cirée , avec des rideaux de percale et des meubles en acajou , jouissait d' un balcon ayant vue sur la rivière .
+
+3,4,3,4 PROP_PER|0,4,0,4 NOM_FAC|21,23,21,23 NOM_FAC|26,28,26,28 NOM_LOC
+
+Les deux ornements principaux étaient un porte - liqueurs au milieu de la commode , et , le long de la glace , des daguerréotypes représentant des amis ; une peinture à l' huile occupait l' alcôve .
+
+26,28,26,28 NOM_PER
+
+— Mon oncle !
+
+1,3,1,3 NOM_PER
+
+dit Bouvard .
+
+1,2,1,2 PROP_PER
+
+Et le flambeau qu' il tenait éclaira un monsieur .
+
+4,5,4,5 PRON_PER|7,9,7,9 NOM_PER
+
+Des favoris rouges élargissaient son visage surmonté d' un toupet frisant par la pointe .
+
+4,5,4,5 PRON_PER
+
+Sa haute cravate , avec le triple col de la chemise , du gilet de velours et de l' habit noir , l' engonçaient .
+
+0,1,0,1 PRON_PER|22,23,22,23 NOM_PER
+
+Ses yeux étaient bridés aux pommettes , et il souriait d' un petit air narquois .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER
+
+Pécuchet ne put s' empêcher de dire :
+
+0,1,0,1 PROP_PER
+
+— On le prendrait plutôt pour votre père !
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_PER
+
+— C' est mon parrain , répliqua Bouvard négligemment , ajoutant qu' il s' appelait de ses noms de baptême François - Denys - Bartholomée .
+
+3,5,3,5 NOM_PER|7,8,7,8 PROP_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER
+
+Ceux de Pécuchet étaient Juste - Romain - Cyrille , — et ils avaient le même âge : quarante - sept ans .
+
+2,3,2,3 PROP_PER|12,13,12,13 PRON_PER|18,22,18,22 NOM_TIME
+
+Cette coïncidence leur fit plaisir , mais les surprit , chacun ayant cru l' autre beaucoup moins jeune .
+
+2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|13,15,13,15 NOM_PER
+
+Ensuite , ils admirèrent la Providence , dont les combinaisons parfois sont merveilleuses .
+
+2,3,2,3 PRON_PER
+
+— Car , enfin , si nous n' étions pas sortis tantôt pour nous promener , nous aurions pu mourir avant de nous connaître !
+
+6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|22,23,22,23 PRON_PER
+
+Et s' étant donné l' adresse de leurs patrons , ils se souhaitèrent une bonne nuit .
+
+7,9,7,9 NOM_PER|10,11,10,11 PRON_PER
+
+— N' allez pas voir les dames !
+
+5,7,5,7 NOM_PER
+
+cria Bouvard dans l' escalier .
+
+1,2,1,2 PROP_PER|3,5,3,5 NOM_FAC
+
+Pécuchet descendit les marches sans répondre à la gaudriole .
+
+0,1,0,1 PROP_PER
+
+Le lendemain , dans la cour de Mm . Descambos frères : tissus d' Alsace , rue Hautefeuille , 92 , une voix appela :
+
+0,2,0,2 NOM_TIME|4,20,4,20 NOM_FAC
+
+— Bouvard !
+
+1,2,1,2 PROP_PER
+
+Monsieur Bouvard !
+
+0,2,0,2 NOM_PER
+
+Celui - ci passa la tête par les carreaux et reconnut Pécuchet qui articula plus fort :
+
+0,3,0,3 NOM_PER|11,12,11,12 PROP_PER|12,13,12,13 PRON_PER
+
+— Je ne suis pas malade !
+
+1,2,1,2 PRON_PER
+
+Je l' ai retirée !
+
+0,1,0,1 PRON_PER
+
+dit Pécuchet , en désignant sa poitrine .
+
+1,2,1,2 PROP_PER|5,6,5,6 PRON_PER
+
+Tous les propos de la journée , avec la température de l' appartement et les labeurs de la digestion , l' avaient empêché de dormir , si bien que , n' y tenant plus , il avait rejeté loin de lui sa flanelle .
+
+4,6,4,6 NOM_TIME|11,13,11,13 NOM_FAC|20,21,20,21 NOM_PER|35,36,35,36 PRON_PER|40,41,40,41 PRON_PER|41,42,41,42 PRON_PER
+
+Le matin , il s' était rappelé son action , heureusement sans conséquence , et il venait en instruire Bouvard , qui , par là , fut placé dans son estime à une prodigieuse hauteur .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|19,20,19,20 PROP_PER|21,22,21,22 PRON_PER|29,30,29,30 PRON_PER
+
+Il était le fils d' un petit marchand et n' avait pas connu sa mère , morte très jeune .
+
+0,1,0,1 PRON_PER|5,8,5,8 NOM_PER|2,8,2,8 NOM_PER
+
+On l' avait , à quinze ans , retiré de pension pour le mettre chez un huissier .
+
+1,2,1,2 NOM_PER|5,7,5,7 NOM_TIME|12,13,12,13 PRON_PER|15,17,15,17 NOM_PER
+
+Les gendarmes y survinrent , et le patron fut envoyé aux galères ; histoire farouche qui lui causait encore de l' épouvante .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|16,17,16,17 PRON_PER
+
+Ensuite , il avait essayé de plusieurs états : élève en pharmacie , maître d' études , comptable sur un des paquebots de la haute Seine .
+
+2,3,2,3 PRON_PER|9,12,9,12 NOM_PER|13,16,13,16 NOM_PER|23,26,23,26 PROP_LOC|20,26,20,26 NOM_VEH|19,26,19,26 NOM_VEH|17,26,17,26 NOM_PER
+
+Enfin , un chef de division , séduit par son écriture , l' avait engagé comme expéditionnaire ; mais la conscience d' une instruction défectueuse , avec les besoins d' esprit qu' elle lui donnait , irritaient son humeur ; et il vivait complètement seul , sans parents , sans maîtresse .
+
+2,6,2,6 NOM_PER|9,10,9,10 PRON_PER|12,13,12,13 NOM_PER|16,17,16,17 NOM_PER|33,34,33,34 PRON_PER|37,38,37,38 PRON_PER|41,42,41,42 PRON_PER
+
+Sa distraction était , le dimanche , d' inspecter les travaux publics .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_TIME
+
+Les plus vieux souvenirs de Bouvard le reportaient sur les bords de la Loire , dans une cour de ferme .
+
+5,6,5,6 PROP_PER|6,7,6,7 PRON_PER|12,14,12,14 PROP_LOC|9,14,9,14 NOM_LOC|16,20,16,20 NOM_FAC
+
+Un homme , qui était son oncle , l' avait emmené à Paris pour lui apprendre le commerce .
+
+0,2,0,2 NOM_PER|3,4,3,4 PRON_PER|5,7,5,7 NOM_PER|8,9,8,9 NOM_PER|12,13,12,13 PROP_GPE|14,15,14,15 PRON_PER
+
+À sa majorité , on lui versa quelques mille francs .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER
+
+Alors il avait pris femme et ouvert une boutique de confiseur .
+
+1,2,1,2 PRON_PER|7,11,7,11 NOM_FAC
+
+Six mois plus tard , son épouse disparaissait en emportant la caisse .
+
+5,7,5,7 NOM_PER
+
+Les amis , la bonne chère , et surtout la paresse , avaient promptement achevé sa ruine .
+
+0,2,0,2 NOM_PER|15,16,15,16 PRON_PER
+
+Mais il eut l' inspiration d' utiliser sa belle main ; et depuis douze ans , il se tenait dans la même place , chez Mm .
+
+1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|16,17,16,17 PRON_PER
+
+Quant à son oncle , qui autrefois lui avait expédié comme souvenir le fameux portrait , Bouvard ignorait même sa résidence et n' en attendait plus rien .
+
+2,4,2,4 NOM_PER|5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|16,17,16,17 PROP_PER|19,20,19,20 PRON_PER|23,24,23,24 PRON_PER
+
+Quinze cents livres de revenu et ses gages de copiste lui permettaient d' aller , tous les soirs , faire un somme dans un estaminet .
+
+6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|23,25,23,25 NOM_FAC
+
+Ainsi leur rencontre avait eu l' importance d' une aventure .
+
+1,2,1,2 PRON_PER
+
+Ils s' étaient , tout de suite , accrochés par des fibres secrètes .
+
+0,1,0,1 PRON_PER
+
+Avant la fin de la semaine , ils se tutoyèrent .
+
+4,6,4,6 NOM_TIME|1,6,1,6 NOM_TIME|7,8,7,8 PRON_PER
+
+Souvent , ils venaient se chercher à leur comptoir .
+
+2,3,2,3 PRON_PER|7,9,7,9 NOM_FAC
+
+Dès que l' un paraissait , l' autre fermait son pupitre , et ils s' en allaient ensemble dans les rues .
+
+2,4,2,4 NOM_PER|6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER|19,21,19,21 NOM_FAC
+
+Bouvard marchait à grandes enjambées , tandis que Pécuchet , multipliant les pas , avec sa redingote qui lui battait les talons , semblait glisser sur des roulettes .
+
+0,1,0,1 PROP_PER|8,9,8,9 PROP_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER
+
+De même leurs goûts particuliers s' harmonisaient .
+
+2,3,2,3 PRON_PER
+
+Bouvard fumait la pipe , aimait le fromage , prenait régulièrement sa demi - tasse .
+
+0,1,0,1 PROP_PER|11,12,11,12 PRON_PER
+
+Pécuchet prisait , ne mangeait au dessert que des confitures et trempait un morceau de sucre dans le café .
+
+0,1,0,1 PROP_PER
+
+L' un était confiant , étourdi , généreux ; l' autre discret , méditatif , économe .
+
+0,2,0,2 PRON_PER|9,11,9,11 NOM_PER
+
+Pour lui être agréable , Bouvard voulut faire à Pécuchet la connaissance de Barberou .
+
+1,2,1,2 PRON_PER|5,6,5,6 PROP_PER|9,10,9,10 PROP_PER|13,14,13,14 PROP_PER
+
+C' était un ancien commis voyageur , actuellement boursier , très bon enfant , patriote , ami des dames , et qui affectait le langage faubourien .
+
+17,19,17,19 NOM_PER|2,19,2,19 NOM_PER|21,22,21,22 PRON_PER
+
+Pécuchet le trouva déplaisant et il conduisit Bouvard chez Dumouchel .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|5,6,5,6 PRON_PER|7,8,7,8 PROP_PER|9,10,9,10 PROP_PER
+
+Cet auteur ( car il avait publié une petite mnémotechnie ) donnait des leçons de littérature dans un pensionnat de jeunes personnes , avait des opinions orthodoxes et la tenue sérieuse .
+
+0,2,0,2 NOM_PER|4,5,4,5 PRON_PER|17,22,17,22 NOM_FAC
+
+Il ennuya Bouvard .
+
+0,1,0,1 PRON_PER|2,3,2,3 PROP_PER
+
+Aucun des deux n' avait caché à l' autre son opinion .
+
+1,3,1,3 PRON_PER|7,9,7,9 NOM_PER|9,10,9,10 PRON_PER
+
+Chacun en reconnut la justesse .
+
+0,1,0,1 PRON_PER
+
+Leurs habitudes changèrent et , quittant leur pension bourgeoise , ils finirent par dîner ensemble tous les jours .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER
+
+Ils faisaient des réflexions sur les pièces de théâtre dont on parlait , sur le gouvernement , la cherté des vivres , les fraudes du commerce .
+
+0,1,0,1 PRON_PER|14,16,14,16 NOM_ORG
+
+De temps à autre , l' histoire du Collier ou le procès de Fualdès revenait dans leurs discours ; et puis , ils cherchaient les causes de la Révolution .
+
+13,14,13,14 PROP_PER|16,17,16,17 PRON_PER|22,23,22,23 PRON_PER|27,29,27,29 NOM_HIST
+
+Ils flânaient le long des boutiques de bric - à - brac .
+
+0,1,0,1 PRON_PER|4,12,4,12 NOM_FAC
+
+Ils visitèrent le Conservatoire des arts et métiers , Saint - Denis , les Gobelins , les Invalides et toutes les collections publiques .
+
+0,1,0,1 PRON_PER|2,8,2,8 NOM_FAC|9,12,9,12 PROP_GPE|13,15,13,15 PROP_LOC|16,18,16,18 PROP_FAC
+
+Quand on demandait leur passeport , ils faisaient mine de l' avoir perdu , se donnant pour deux étrangers , deux Anglais .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|17,19,17,19 NOM_PER|20,22,20,22 NOM_PER
+
+Dans les galeries du Muséum , ils passèrent avec ébahissement devant les quadrupèdes empaillés , avec plaisir devant les papillons , avec indifférence devant les métaux ; les fossiles les firent rêver , la conchyliologie les ennuya .
+
+3,5,3,5 PROP_FAC|1,5,1,5 NOM_FAC|6,7,6,7 PRON_PER|29,30,29,30 PRON_PER|35,36,35,36 PRON_PER
+
+Ils examinèrent les serres chaudes par les vitres , et frémirent en songeant que tous ces feuillages distillaient des poisons .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_FAC
+
+Ce qu' ils admirèrent du cèdre , c' est qu' on l' eût rapporté dans un chapeau .
+
+2,3,2,3 PRON_PER
+
+Ils s' efforcèrent au Louvre de s' enthousiasmer pour Raphaël .
+
+0,1,0,1 PRON_PER|3,5,3,5 PROP_FAC|9,10,9,10 PROP_PER
+
+À la grande bibliothèque , ils auraient voulu connaître le nombre exact des volumes .
+
+1,4,1,4 NOM_FAC|5,6,5,6 PRON_PER
+
+Une fois , ils entrèrent au cours d' arabe du Collège de France , et le professeur fut étonné de voir ces deux inconnus qui tâchaient de prendre des notes .
+
+3,4,3,4 PRON_PER|12,13,12,13 PROP_GPE|9,13,9,13 NOM_FAC|15,17,15,17 NOM_PER|21,24,21,24 NOM_PER|24,25,24,25 PRON_PER
+
+Grâce à Barberou , ils pénétrèrent dans les coulisses d' un petit théâtre .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER|10,13,10,13 NOM_FAC|7,13,7,13 NOM_FAC
+
+Dumouchel leur procura des billets pour une séance de l' Académie .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|9,11,9,11 NOM_FAC
+
+Ils s' informaient des découvertes , lisaient les prospectus , et , par cette curiosité , leur intelligence se développa .
+
+0,1,0,1 PRON_PER|16,17,16,17 PRON_PER
+
+Au fond d' un horizon plus lointain chaque jour ils apercevaient des choses à la fois confuses et merveilleuses .
+
+9,10,9,10 PRON_PER
+
+En admirant un vieux meuble , ils regrettaient de n' avoir pas vécu à l' époque où il servait , bien qu' ils ignorassent absolument cette époque - là .
+
+6,7,6,7 PRON_PER|14,16,14,16 NOM_TIME|16,17,16,17 PRON_TIME|22,23,22,23 PRON_PER|25,29,25,29 NOM_TIME
+
+D' après de certains noms , ils imaginaient des pays d' autant plus beaux qu' ils n' en pouvaient rien préciser .
+
+6,7,6,7 PRON_PER|8,10,8,10 NOM_LOC|15,16,15,16 PRON_PER|17,18,17,18 PRON_LOC
+
+Les ouvrages dont les titres étaient pour eux inintelligibles leur semblaient contenir un mystère .
+
+7,8,7,8 PRON_PER|9,10,9,10 PRON_PER
+
+Et ayant plus d' idées , ils eurent plus de souffrances .
+
+6,7,6,7 PRON_PER
+
+Quand une malle - poste les croisait dans les rues , ils sentaient le besoin de partir avec elle .
+
+5,6,5,6 PRON_PER|8,10,8,10 NOM_FAC|11,12,11,12 PRON_PER
+
+Le quai aux Fleurs les faisait soupirer pour la campagne .
+
+0,4,0,4 NOM_FAC|4,5,4,5 PRON_PER|8,10,8,10 NOM_LOC
+
+Un dimanche ils se mirent en marche dès le matin , et , passant par Meudon , Bellevue , Suresnes , Auteuil , tout le long du jour ils vagabondèrent entre les vignes , arrachèrent des coquelicots au bord des champs , dormirent sur l' herbe , burent du lait , mangèrent sous les acacias des guinguettes , et rentrèrent fort tard , poudreux , exténués , ravis .
+
+0,2,0,2 NOM_TIME|2,3,2,3 PRON_PER|15,16,15,16 PROP_GPE|17,18,17,18 PROP_GPE|19,20,19,20 PROP_GPE|21,22,21,22 PROP_GPE|26,28,26,28 NOM_TIME|28,29,28,29 PRON_PER|37,41,37,41 NOM_LOC|55,57,55,57 NOM_FAC
+
+Ils renouvelèrent souvent ces promenades .
+
+0,1,0,1 PRON_PER
+
+Les lendemains étaient si tristes , qu' ils finirent par s' en priver .
+
+0,2,0,2 NOM_TIME|7,8,7,8 PRON_PER
+
+La monotonie du bureau leur devenait odieuse .
+
+2,4,2,4 NOM_FAC|4,5,4,5 PRON_PER
+
+Continuellement le grattoir et la sandaraque , le même encrier , les mêmes plumes et les mêmes compagnons !
+
+15,18,15,18 NOM_PER
+
+Les jugeant stupides , ils leur parlaient de moins en moins .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|5,6,5,6 PRON_PER
+
+Cela leur valut des taquineries .
+
+1,2,1,2 PRON_PER
+
+Ils arrivaient tous les jours après l' heure , et reçurent des semonces .
+
+0,1,0,1 PRON_PER
+
+Autrefois , ils se trouvaient presque heureux ; mais leur métier les humiliait depuis qu' ils s' estimaient davantage , et ils se renforçaient dans ce dégoût , s' exaltaient mutuellement , se gâtaient .
+
+2,3,2,3 PRON_PER|9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|15,16,15,16 PRON_PER|21,22,21,22 PRON_PER
+
+Pécuchet contracta la brusquerie de Bouvard , Bouvard prit quelque chose de la morosité de Pécuchet .
+
+0,1,0,1 PROP_PER|5,6,5,6 PROP_PER|7,8,7,8 PROP_PER|15,16,15,16 PROP_PER
+
+— J' ai envie de me faire saltimbanque sur les places publiques !
+
+1,2,1,2 PRON_PER
+
+disait l' un .
+
+1,3,1,3 NOM_PER
+
+s' écriait l' autre .
+
+2,4,2,4 NOM_PER
+
+Un après - midi ( c' était le 20 janvier 1839 ) , Bouvard étant à son comptoir reçut une lettre , apportée par le facteur .
+
+0,4,0,4 NOM_TIME|7,11,7,11 NOM_TIME|13,14,13,14 PROP_PER|16,18,16,18 NOM_FAC|24,26,24,26 NOM_PER
+
+Ses bras se levèrent , sa tête peu à peu se renversait et il tomba évanoui sur le carreau .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|13,14,13,14 PRON_PER
+
+Les commis se précipitèrent , on lui ôta sa cravate .
+
+0,2,0,2 NOM_PER|5,6,5,6 PRON_PER|6,7,6,7 PRON_PER|8,9,8,9 PRON_PER
+
+On envoya chercher un médecin .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER
+
+Il rouvrit les yeux ; puis aux questions qu' on lui faisait :
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER
+
+… c' est que … c' est que … un peu d' air me soulagera .
+
+13,14,13,14 PRON_PER
+
+laissez - moi !
+
+2,3,2,3 PRON_PER
+
+Et malgré sa corpulence , il courut tout d' une haleine jusqu' au ministère de la Marine , se passant la main sur le front , croyant devenir fou , tâchant de se calmer .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|15,17,15,17 PROP_ORG|12,17,12,17 NOM_FAC
+
+Il fit demander Pécuchet .
+
+0,1,0,1 PRON_PER|3,4,3,4 PROP_PER
+
+Pécuchet parut .
+
+0,1,0,1 PROP_PER
+
+— Mon oncle est mort !
+
+1,3,1,3 NOM_PER
+
+j' hérite !
+
+0,1,0,1 PRON_PER
+
+Bouvard montre les lignes suivantes : Étude De Me Tardivel
+
+0,1,0,1 PROP_PER|8,10,8,10 NOM_PER
+
+Savigny - en - Septaine , 14 janvier 1839 .
+
+0,5,0,5 PROP_GPE|6,9,6,9 NOM_TIME
+
+« Monsieur ,
+
+1,2,1,2 NOM_PER
+
+« Je vous prie de vous rendre en mon étude , pour y prendre connaissance du testament de votre père naturel , M . François - Denys - Bartholomée Bouvard , ex - négociant dans la ville de Nantes , décédé en cette commune le 10 du présent mois .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|38,39,38,39 PROP_GPE|35,39,35,39 NOM_GPE|42,44,42,44 NOM_GPE|18,49,18,49 NOM_PER
+
+Ce testament contient en votre faveur une disposition très importante .
+
+4,5,4,5 PRON_PER
+
+« Agréez , Monsieur , l' assurance de mes respects .
+
+3,4,3,4 NOM_PER|8,9,8,9 PRON_PER
+
+« Tardivel , notaire .
+
+1,2,1,2 PROP_PER|3,4,3,4 NOM_PER
+
+» Pécuchet fut obligé de s' asseoir sur une borne dans la cour .
+
+1,2,1,2 PROP_PER|11,13,11,13 NOM_FAC
+
+Puis il rendit le papier en disant lentement :
+
+1,2,1,2 PRON_PER
+
+— Tu crois que c' est une farce !
+
+1,2,1,2 PRON_PER
+
+reprit Bouvard d' une voix étranglée , pareille à un râle de moribond .
+
+1,2,1,2 PROP_PER
+
+Mais le timbre de la poste , le nom de l' étude en caractères d' imprimerie , la signature du notaire , tout prouvait l' authenticité de la nouvelle ; – et ils se regardèrent avec un tremblement du coin de la bouche et une larme qui roulait dans leurs yeux fixes .
+
+4,6,4,6 NOM_ORG|19,21,19,21 NOM_PER|32,33,32,33 PRON_PER|49,50,49,50 PRON_PER
+
+L' espace leur manquait .
+
+2,3,2,3 PRON_PER
+
+Ils allèrent jusqu' à l' Arc de Triomphe , revinrent par le bord de l' eau , dépassèrent Notre - Dame .
+
+0,1,0,1 PRON_PER|4,8,4,8 NOM_FAC|11,16,11,16 NOM_LOC|18,21,18,21 PROP_FAC
+
+Bouvard était très rouge .
+
+0,1,0,1 PROP_PER
+
+Il donna à Pécuchet des coups de poing dans le dos , et pendant cinq minutes , déraisonna complètement .
+
+0,1,0,1 PRON_PER|3,4,3,4 PROP_PER|14,16,14,16 NOM_TIME
+
+Ils ricanaient malgré eux .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER
+
+Ils en reparlaient .
+
+0,1,0,1 PRON_PER
+
+Bouvard écrivit au notaire pour en avoir .
+
+0,1,0,1 PROP_PER|2,4,2,4 NOM_PER
+
+Le notaire envoya la copie du testament , lequel se terminait ainsi :
+
+0,2,0,2 NOM_PER
+
+« En conséquence , je donne à François - Denys - Bartholomée Bouvard , mon fils naturel reconnu , la portion de mes biens disponible par la loi .
+
+4,5,4,5 PRON_PER|7,13,7,13 PROP_PER|14,15,14,15 PRON_PER|22,23,22,23 PRON_PER
+
+Le bonhomme avait eu ce fils dans sa jeunesse , mais il l' avait tenu à l' écart soigneusement , le faisant passer pour un neveu ; et le neveu l' avait toujours appelé mon oncle , bien que sachant à quoi s' en tenir .
+
+0,2,0,2 NOM_PER|4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 NOM_PER|20,21,20,21 PRON_PER|24,26,24,26 NOM_PER|28,30,28,30 NOM_PER|30,31,30,31 NOM_PER|34,36,34,36 NOM_PER
+
+Vers la quarantaine , M . Bouvard s' était marié , puis était devenu veuf .
+
+4,7,4,7 PROP_PER
+
+Ses deux fils légitimes ayant tourné contrairement à ses vues , un remords l' avait pris sur l' abandon où il laissait depuis tant d' années son autre enfant .
+
+0,4,0,4 NOM_PER|8,9,8,9 PRON_PER|13,14,13,14 NOM_PER|20,21,20,21 PRON_PER|26,27,26,27 PRON_PER
+
+Il l' eût même fait venir chez lui , sans l' influence de sa cuisinière .
+
+0,1,0,1 PRON_PER|1,2,1,2 NOM_PER|7,8,7,8 PRON_PER|13,15,13,15 NOM_PER
+
+Elle le quitta , grâce aux manœuvres de la famille , et , dans son isolement , près de mourir , il voulut réparer ses torts en léguant au fruit de ses premières amours tout ce qu' il pouvait de sa fortune .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|8,10,8,10 NOM_PER|14,15,14,15 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|31,32,31,32 PRON_PER|37,38,37,38 PRON_PER|40,41,40,41 PRON_PER
+
+Elle s' élevait à la moitié d' un million , ce qui faisait pour le copiste deux cent cinquante mille francs .
+
+14,16,14,16 NOM_PER
+
+L' aîné des frères , M . Étienne , avait annoncé qu' il respecterait le testament .
+
+2,4,2,4 NOM_PER|0,8,0,8 NOM_PER|12,13,12,13 PRON_PER
+
+Bouvard tomba dans une sorte d' hébétude .
+
+0,1,0,1 PROP_PER
+
+Il répétait à voix basse , en souriant du sourire paisible des ivrognes :
+
+0,1,0,1 PRON_PER|11,13,11,13 NOM_PER
+
+Et Pécuchet , dont la tête pourtant était plus forte , n' en revenait pas .
+
+1,2,1,2 PROP_PER|3,4,3,4 PRON_PER
+
+Ils furent secoués brusquement par une lettre de Tardivel .
+
+0,1,0,1 PRON_PER|8,9,8,9 PROP_PER
+
+L' autre fils , M . Alexandre , déclarait son intention de régler tout devant la justice , et même d' attaquer le legs s' il le pouvait , exigeant au préalable scellés , inventaire , nomination d' un séquestre , etc .
+
+0,3,0,3 NOM_PER|4,7,4,7 PROP_PER|9,10,9,10 PRON_PER|25,26,25,26 PRON_PER
+
+Bouvard en eut une maladie bilieuse .
+
+0,1,0,1 PROP_PER
+
+À peine convalescent , il s' embarqua pour Savigny , d' où il revint , sans conclusion d' aucune sorte et déplorant ses frais de voyage .
+
+4,5,4,5 PRON_PER|8,9,8,9 PROP_GPE|11,12,11,12 PRON_GPE|12,13,12,13 PRON_PER|22,23,22,23 PRON_PER
+
+Enfin , au bout de six mois , le sieur Alexandre s' apaisant , Bouvard entra en possession de l' héritage .
+
+8,11,8,11 NOM_PER|14,15,14,15 PROP_PER
+
+Son premier cri avait été :
+
+0,1,0,1 PRON_PER
+
+— Nous nous retirerons à la campagne !
+
+1,2,1,2 PRON_PER|5,7,5,7 NOM_LOC
+
+Et ce mot qui liait son ami à son bonheur , Pécuchet l' avait trouvé tout simple .
+
+1,3,1,3 NOM_LOC|3,4,3,4 PRON_LOC|5,7,5,7 NOM_PER|8,9,8,9 PRON_PER|11,12,11,12 PROP_PER|12,13,12,13 NOM_LOC
+
+Car l' union de ces deux hommes était absolue et profonde .
+
+4,7,4,7 NOM_PER
+
+Mais comme il ne pouvait point vivre aux crochets de Bouvard , il ne partirait pas avant sa retraite .
+
+2,3,2,3 PRON_PER|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER|17,18,17,18 PRON_PER
+
+Il demeura inflexible et la chose fut décidée .
+
+0,1,0,1 PRON_PER
+
+Pour savoir où s' établir , ils passèrent en revue toutes les provinces .
+
+6,7,6,7 PRON_PER
+
+Le Nord était fertile , mais trop froid ; le Midi enchanteur par son climat , mais incommode vu les moustiques , et le Centre , franchement , n' avait rien de curieux .
+
+0,2,0,2 NOM_LOC|9,11,9,11 PROP_LOC|13,14,13,14 PRON_LOC|23,25,23,25 PROP_LOC
+
+La Bretagne leur aurait convenu , sans l' esprit cagot des habitants .
+
+0,2,0,2 PROP_GPE|2,3,2,3 PRON_PER
+
+Quant aux régions de l' Est , à cause du patois germanique , il n' y fallait pas songer .
+
+4,6,4,6 PROP_LOC|1,6,1,6 NOM_LOC|15,16,15,16 PRON_LOC
+
+Qu' était - ce , par exemple , que le Forez , le Bugey , le Roumois ?
+
+9,11,9,11 PROP_GPE|12,14,12,14 PROP_GPE|15,17,15,17 PROP_GPE
+
+Du reste , que leur maison fût dans tel endroit ou dans tel autre , l' important c' est qu' ils en auraient une .
+
+4,6,4,6 NOM_FAC|20,21,20,21 PRON_PER
+
+Déjà ils se voyaient en manches de chemise , au bord d' une plate - bande , émondant des rosiers , et bêchant , binant , maniant de la terre , dépotant des tulipes .
+
+1,2,1,2 PRON_PER
+
+Ils se réveilleraient au chant de l' alouette pour suivre les charrues , iraient avec un panier cueillir des pommes , regarderaient faire le beurre , battre le grain , tondre les moutons , soigner les ruches , et se délecteraient au mugissement des vaches et à la senteur des foins coupés .
+
+0,1,0,1 PRON_PER|10,12,10,12 NOM_VEH
+
+plus de chefs !
+
+2,3,2,3 NOM_PER
+
+Car ils possèderaient un domicile à eux !
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|3,7,3,7 NOM_FAC
+
+Et ils mangeraient les poules de leur basse - cour , les légumes de leur jardin , et dîneraient en gardant leurs sabots !
+
+1,2,1,2 PRON_PER|6,10,6,10 NOM_FAC|14,16,14,16 NOM_FAC|21,22,21,22 PRON_PER
+
+— Nous ferons tout ce qui nous plaira !
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER
+
+nous laisserons pousser notre barbe !
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER
+
+Ils s' achetèrent des instruments horticoles , puis un tas de choses « qui pourraient peut - être servir » , telles qu' une boîte à outils ( il en faut toujours dans une maison ) , ensuite des balances , une chaîne d' arpenteur , une baignoire en cas qu' ils ne fussent malades , un thermomètre et même un baromètre « système Gay - Lussac » pour des expériences de physique , si la fantaisie leur en prenait .
+
+0,1,0,1 PRON_PER|33,35,33,35 NOM_FAC|51,52,51,52 PRON_PER|77,78,77,78 PRON_PER
+
+Il ne serait pas mal , non plus ( car on ne peut pas toujours travailler dehors ) , d' avoir quelques bons ouvrages de littérature , et ils en cherchèrent , fort embarrassés parfois de savoir si tel livre était vraiment « un livre de bibliothèque » .
+
+10,11,10,11 PRON_PER|28,29,28,29 PRON_PER
+
+Bouvard tranchait la question :
+
+0,1,0,1 PROP_PER
+
+nous n' aurons pas besoin de bibliothèque .
+
+0,1,0,1 PRON_PER
+
+— D' ailleurs j' ai la mienne , disait Pécuchet .
+
+3,4,3,4 PRON_PER|9,10,9,10 PROP_PER
+
+D' avance , ils s' organisaient .
+
+3,4,3,4 PRON_PER
+
+Bouvard emporterait ses meubles , Pécuchet sa grande table noire ; on tirerait parmi des rideaux et avec un peu de batterie de cuisine ce serait bien suffisant .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|5,6,5,6 PROP_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER
+
+Ils s' étaient juré de taire tout cela , mais leur figure rayonnait .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER
+
+Aussi leurs collègues les trouvaient drôles .
+
+1,3,1,3 NOM_PER|3,4,3,4 PRON_PER
+
+Bouvard , qui écrivait étalé sur son pupitre et les coudes en dehors pour mieux arrondir sa bâtarde , poussait son espèce de sifflement tout en clignant d' un air malin ses lourdes paupières .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|6,7,6,7 PRON_PER|16,17,16,17 PRON_PER|20,21,20,21 PRON_PER|31,32,31,32 PRON_PER
+
+Pécuchet , juché sur un grand tabouret de paille , soignait toujours les jambages de sa longue écriture , mais en gonflant les narines , pinçait les lèvres , comme s' il avait peur de lâcher son secret .
+
+0,1,0,1 PROP_PER|15,16,15,16 PRON_PER|31,32,31,32 PRON_PER|36,37,36,37 PRON_PER
+
+Après dix - huit mois de recherches , ils n' avaient rien trouvé .
+
+1,7,1,7 NOM_TIME|8,9,8,9 PRON_PER
+
+Ils firent des voyages dans tous les environs de Paris , et depuis Amiens jusqu' à Évreux , et de Fontainebleau jusqu' au Havre .
+
+0,1,0,1 PRON_PER|9,10,9,10 PROP_GPE|5,10,5,10 NOM_LOC|13,14,13,14 PROP_GPE|16,17,16,17 PROP_GPE|20,21,20,21 PROP_GPE|22,24,22,24 PROP_GPE
+
+Ils voulaient une campagne qui fût bien la campagne , sans tenir précisément à un site pittoresque , mais un horizon borné les attristait .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_LOC|4,5,4,5 PRON_LOC|7,9,7,9 NOM_LOC|22,23,22,23 PRON_PER
+
+Ils fuyaient le voisinage des habitations et redoutaient pourtant la solitude .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_FAC
+
+Quelquefois ils se décidaient , puis craignant de se repentir plus tard , ils changeaient d' avis , l' endroit leur ayant paru malsain , ou exposé au vent de mer , ou trop près d' une manufacture ou d' un abord difficile .
+
+1,2,1,2 PRON_PER|13,14,13,14 PRON_PER|20,21,20,21 PRON_PER|36,38,36,38 NOM_FAC
+
+Barberou les sauva .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER
+
+Il connaissait leur rêve , et un beau jour vint leur dire qu' on lui avait parlé d' un domaine , à Chavignolles , entre Caen et Falaise .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|10,11,10,11 PRON_PER|14,15,14,15 PRON_PER|18,20,18,20 NOM_LOC|22,23,22,23 PROP_GPE|25,26,25,26 PROP_GPE|27,28,27,28 PROP_GPE
+
+Cela consistait en une ferme de trente - huit hectares , avec une manière de château et un jardin en plein rapport .
+
+0,1,0,1 PRON_LOC|3,10,3,10 NOM_FAC|12,16,12,16 NOM_FAC|17,22,17,22 NOM_FAC
+
+Ils se transportèrent dans le Calvados et ils furent enthousiasmés .
+
+0,1,0,1 PRON_PER|4,6,4,6 PROP_GPE|7,8,7,8 PRON_PER
+
+Seulement , tant de la ferme que de la maison ( l' une ne serait pas vendue sans l' autre ) , on exigeait cent quarante - trois mille francs .
+
+4,6,4,6 NOM_FAC|8,10,8,10 NOM_FAC|11,13,11,13 NOM_FAC|18,20,18,20 NOM_FAC
+
+Bouvard n' en donnait que cent vingt mille .
+
+0,1,0,1 PROP_PER
+
+Pécuchet combattit son entêtement , le pria de céder , enfin déclara qu' il complèterait le surplus .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|13,14,13,14 PRON_PER
+
+C' était toute sa fortune , provenant du patrimoine de sa mère et de ses économies .
+
+3,4,3,4 PRON_PER|14,15,14,15 PRON_PER
+
+Jamais il n' en avait soufflé mot , réservant ce capital pour une grande occasion .
+
+1,2,1,2 PRON_PER
+
+Tout fut payé vers la fin de 1840 , six mois avant sa retraite .
+
+7,8,7,8 NOM_TIME|4,8,4,8 NOM_TIME|12,13,12,13 PRON_PER|9,14,9,14 NOM_TIME
+
+Bouvard n' était plus copiste .
+
+0,1,0,1 PROP_PER
+
+D' abord , il avait continué ses fonctions par défiance de l' avenir , mais s' en était démis une fois certain de l' héritage .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER
+
+Cependant il retournait volontiers chez les Mm .
+
+1,2,1,2 PRON_PER
+
+Descambos , et la veille de son départ il offrit un punch à tout le comptoir .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER|8,9,8,9 PRON_PER
+
+Pécuchet , au contraire , fut maussade pour ses collègues , et sortit , le dernier jour , en claquant la porte brutalement .
+
+0,1,0,1 PROP_PER|9,10,9,10 NOM_PER
+
+Il avait à surveiller les emballages , faire un tas de commissions , d' emplettes encore , et prendre congé de Dumouchel !
+
+0,1,0,1 PRON_PER|21,22,21,22 PROP_PER
+
+Le professeur lui proposa un commerce épistolaire , où il le tiendrait au courant de la littérature ; et après des félicitations nouvelles , lui souhaita une bonne santé .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER|24,25,24,25 PRON_PER
+
+Barberou se montra plus sensible en recevant l' adieu de Bouvard .
+
+0,1,0,1 PROP_PER|10,11,10,11 PROP_PER
+
+Il abandonna exprès une partie de dominos , promit d' aller le voir là - bas , commanda deux anisettes et l' embrassa .
+
+0,1,0,1 PRON_PER|11,12,11,12 PRON_PER|21,22,21,22 NOM_PER
+
+Bouvard , rentré chez lui , aspira sur son balcon une large bouffée d' air en se disant : « Enfin .
+
+0,1,0,1 PROP_PER|4,5,4,5 PRON_PER|9,10,9,10 NOM_FAC
+
+» Les lumières des quais tremblaient dans l' eau , le roulement des omnibus au loin s' apaisait .
+
+3,5,3,5 NOM_FAC|12,14,12,14 NOM_VEH
+
+Il se rappela des jours heureux passés dans cette grande ville , des pique - niques au restaurant , des soirs au théâtre , les commérages de sa portière , toutes ses habitudes ; et il sentit une défaillance de cœur , une tristesse qu' il n' osait pas s' avouer .
+
+0,1,0,1 PRON_PER|8,11,8,11 NOM_LOC|3,11,3,11 NOM_TIME|16,18,16,18 NOM_FAC|21,23,21,23 NOM_FAC|19,23,19,23 NOM_TIME|27,28,27,28 PRON_PER|31,32,31,32 PRON_PER|35,36,35,36 PRON_PER|45,46,45,46 PRON_PER
+
+Pécuchet , jusqu' à deux heures du matin , se promena dans sa chambre .
+
+0,1,0,1 PROP_PER
+
+Il ne reviendrait plus là ; tant mieux !
+
+0,1,0,1 PRON_PER
+
+et cependant , pour laisser quelque chose de lui , il grava son nom sur le plâtre de la cheminée .
+
+8,9,8,9 PRON_PER|10,11,10,11 PRON_PER|12,13,12,13 PRON_PER
+
+Les instruments de jardin , les couchettes , les matelas , les tables , les chaises , un caléfacteur , la baignoire et trois fûts de Bourgogne iraient par la Seine , jusqu' au Havre , et de là seraient expédiés sur Caen , où Bouvard qui les attendrait les ferait parvenir à Chavignolles .
+
+29,31,29,31 PROP_LOC|33,35,33,35 PROP_GPE|42,43,42,43 PROP_GPE|44,45,44,45 PRON_GPE|45,46,45,46 PROP_PER|46,47,46,47 PRON_PER|53,54,53,54 PROP_GPE
+
+Mais le portrait de son père , les fauteuils , la cave à liqueurs , les bouquins , la pendule , tous les objets précieux furent mis dans une voiture de déménagement qui s' acheminerait par Nonancourt , Verneuil et Falaise .
+
+28,32,28,32 NOM_VEH|32,33,32,33 PRON_VEH|36,37,36,37 PROP_GPE|38,39,38,39 PROP_GPE|40,41,40,41 PROP_GPE
+
+Pécuchet voulut l' accompagner .
+
+0,1,0,1 PROP_PER
+
+Il s' installa auprès du conducteur , sur la banquette , et , couvert de sa plus vieille redingote , avec un cache - nez , des mitaines et sa chancelière de bureau , le dimanche 20 mars , au petit jour , il sortit de la capitale .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|15,16,15,16 PRON_PER|29,30,29,30 PRON_PER|34,38,34,38 NOM_TIME|43,44,43,44 PRON_PER|46,48,46,48 NOM_GPE
+
+Le mouvement et la nouveauté du voyage l' occupèrent les premières heures .
+
+7,8,7,8 NOM_PER
+
+Puis les chevaux se ralentirent , ce qui amena des disputes avec le conducteur et le charretier .
+
+15,17,15,17 NOM_PER|12,17,12,17 NOM_PER
+
+Ils choisissaient d' exécrables auberges , et , bien qu' ils répondissent de tout , Pécuchet , par excès de prudence , couchait dans les mêmes gîtes .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_FAC|10,11,10,11 PRON_PER|15,16,15,16 PROP_PER|24,27,24,27 NOM_FAC
+
+Le lendemain , on repartait dès l' aube ; et la route , toujours la même , s' allongeait en montant jusqu' au bord de l' horizon .
+
+6,8,6,8 PROP_TIME|10,12,10,12 NOM_FAC|14,16,14,16 NOM_FAC
+
+Les mètres de cailloux se succédaient , les fossés étaient pleins d' eau , la campagne s' étalait par grandes surfaces d' un vert monotone et froid , des nuages couraient dans le ciel , de temps à autre la pluie tombait .
+
+14,16,14,16 NOM_LOC
+
+La bâche du chariot , mal attachée , claquait au vent comme la voile d' un navire .
+
+2,4,2,4 NOM_VEH|15,17,15,17 NOM_VEH
+
+Pécuchet baissait la figure sous sa casquette , et chaque fois qu' il ouvrait sa tabatière , il lui fallait , pour garantir ses yeux , se retourner complètement .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER|12,13,12,13 PRON_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER|23,24,23,24 PRON_PER
+
+Pendant les cahots , il entendait osciller derrière lui tout son bagage et prodiguait les recommandations .
+
+4,5,4,5 PRON_PER|8,9,8,9 PRON_PER|10,11,10,11 PRON_PER
+
+Voyant qu' elles ne servaient à rien , il changea de tactique ; il fit le bon enfant , eut des complaisances ; dans les montées pénibles , il poussait à la roue avec les hommes ; il en vint jusqu' à leur payer le gloria après les repas .
+
+8,9,8,9 PRON_PER|13,14,13,14 PRON_PER|28,29,28,29 PRON_PER|34,36,34,36 NOM_PER|37,38,37,38 PRON_PER|42,43,42,43 PRON_PER
+
+Dès lors , ils filèrent plus lestement , si bien qu' aux environs de Gauburge l' essieu se rompit et le chariot resta penché .
+
+3,4,3,4 PRON_PER|14,15,14,15 PROP_GPE
+
+Pécuchet visita tout de suite l' intérieur ; les tasses de porcelaine gisaient en morceaux .
+
+0,1,0,1 PROP_PER
+
+Il leva les bras , en grinçant des dents , maudit ces deux imbéciles ; et la journée suivante fut perdue à cause du charretier qui se grisa ; mais il n' eut pas la force de se plaindre , la coupe d' amertume étant remplie .
+
+0,1,0,1 PRON_PER|11,14,11,14 NOM_PER|16,19,16,19 NOM_TIME|23,25,23,25 NOM_PER|25,26,25,26 PRON_PER|30,31,30,31 PRON_PER
+
+Bouvard n' avait quitté Paris que le surlendemain , pour dîner encore une fois avec Barberou .
+
+0,1,0,1 PROP_PER|4,5,4,5 PROP_GPE|6,8,6,8 NOM_TIME|15,16,15,16 PROP_PER
+
+Il arriva dans la cour des Messageries à la dernière minute , puis se réveilla devant la cathédrale de Rouen ; il s' était trompé de diligence .
+
+0,1,0,1 PRON_PER|3,7,3,7 NOM_FAC|19,20,19,20 PROP_GPE|16,20,16,20 NOM_FAC|21,22,21,22 PRON_PER|26,27,26,27 NOM_VEH
+
+Le soir , toutes les places pour Caen étaient retenues ; ne sachant que faire , il alla au théâtre des Arts , et il souriait à ses voisins , disant qu' il était retiré du négoce et nouvellement acquéreur d' un domaine aux alentours .
+
+0,2,0,2 NOM_TIME|7,8,7,8 PROP_GPE|16,17,16,17 PRON_PER|18,22,18,22 NOM_FAC|24,25,24,25 PRON_PER|27,29,27,29 NOM_PER|32,33,32,33 PRON_PER|41,45,41,45 NOM_LOC
+
+Quand il débarqua le vendredi à Caen , ses ballots n' y étaient pas .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_TIME|6,7,6,7 PROP_GPE|8,9,8,9 PRON_PER|11,12,11,12 PRON_GPE
+
+Il les reçut le dimanche et les expédia sur une charrette , ayant prévenu le fermier qu' il les suivrait de quelques heures .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_TIME|9,11,9,11 NOM_VEH|14,16,14,16 NOM_PER|17,18,17,18 PRON_PER|21,23,21,23 NOM_TIME
+
+À Falaise , le neuvième jour de son voyage , Pécuchet prit un cheval de renfort , et jusqu' au coucher du soleil on marcha bien .
+
+1,2,1,2 PROP_GPE|7,8,7,8 PRON_PER|3,9,3,9 NOM_TIME|10,11,10,11 PROP_PER|21,23,21,23 NOM_LOC
+
+Au delà de Bretteville , ayant quitté la grand' route , il s' engagea dans un chemin de traverse , croyant voir à chaque minute le pignon de Chavignolles .
+
+3,4,3,4 PROP_GPE|7,10,7,10 NOM_FAC|11,12,11,12 PRON_PER|15,19,15,19 NOM_FAC|23,25,23,25 NOM_TIME|28,29,28,29 PROP_GPE|25,29,25,29 NOM_FAC
+
+Cependant les ornières s' effaçaient ; elles disparurent , et ils se trouvèrent au milieu des champs labourés .
+
+1,3,1,3 NOM_FAC|6,7,6,7 PRON_FAC|13,18,13,18 NOM_LOC
+
+La nuit tombait .
+
+0,2,0,2 NOM_TIME
+
+Pécuchet abandonna le chariot , et , pataugeant dans la boue , s' avança devant lui à la découverte .
+
+0,1,0,1 PROP_PER|2,4,2,4 NOM_VEH|15,16,15,16 PRON_PER
+
+Quand il approchait des fermes , les chiens aboyaient .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_FAC
+
+Il criait de toutes ses forces pour demander sa route .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|9,10,9,10 NOM_FAC
+
+Il avait peur et regagnait le large .
+
+0,1,0,1 PRON_PER
+
+Il aperçut un cabriolet , s' élança pour le rejoindre .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_VEH|8,9,8,9 PRON_VEH
+
+Bouvard était dedans .
+
+0,1,0,1 PROP_PER
+
+Pendant une heure ils la hélèrent dans les ténèbres .
+
+1,3,1,3 NOM_TIME|3,4,3,4 PRON_PER
+
+Enfin elle se retrouva , et ils arrivèrent à Chavignolles .
+
+6,7,6,7 PRON_PER|9,10,9,10 PROP_GPE
+
+Un grand feu de broussailles et de pommes de pin flambait dans la salle .
+
+12,14,12,14 NOM_FAC
+
+Deux couverts y étaient mis .
+
+2,3,2,3 PRON_FAC
+
+Les meubles arrivés sur la charrette encombraient le vestibule .
+
+7,9,7,9 NOM_FAC
+
+Ils s' attablèrent .
+
+0,1,0,1 PRON_PER
+
+On leur avait préparé une soupe à l' oignon , un poulet , du lard et des œufs durs .
+
+1,2,1,2 PRON_PER
+
+La vieille femme qui faisait la cuisine venait de temps à autre s' informer de leurs goûts .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|15,16,15,16 PRON_PER
+
+Ils répondaient : Oh !
+
+0,1,0,1 PRON_PER
+
+et le gros pain difficile à couper , la crème , les noix , tout les délecta .
+
+15,16,15,16 PRON_PER
+
+Cependant ils promenaient autour d' eux un regard de satisfaction , en mangeant sur la petite table où brûlait une chandelle .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER
+
+Leurs figures étaient rougies par le grand air .
+
+0,1,0,1 PRON_PER
+
+Ils tendaient leur ventre ; ils s' appuyaient sur le dossier de leur chaise , qui en craquait , et ils se répétaient :
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|12,13,12,13 PRON_PER|20,21,20,21 PRON_PER
+
+— Nous y voilà donc !
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_LOC
+
+il me semble que c' est un rêve !
+
+1,2,1,2 PRON_PER
+
+Bien qu' il fût minuit , Pécuchet eut l' idée de faire un tour dans le jardin .
+
+6,7,6,7 PROP_PER|15,17,15,17 NOM_FAC
+
+Bouvard ne s' y refusa pas .
+
+0,1,0,1 PROP_PER
+
+Ils prirent la chandelle et , l' abritant avec un vieux journal , se promenèrent le long des plates - bandes .
+
+0,1,0,1 PRON_PER
+
+Ils avaient plaisir à nommer tout haut les légumes :
+
+0,1,0,1 PRON_PER
+
+Ensuite ils inspectèrent les espaliers .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_FAC
+
+Pécuchet tâcha de découvrir des bourgeons .
+
+0,1,0,1 PROP_PER
+
+Quelquefois une araignée fuyait tout à coup sur le mur , et les deux ombres de leur corps s' y dessinaient agrandies , en répétant leurs gestes .
+
+16,17,16,17 PRON_PER|25,26,25,26 PRON_PER
+
+La nuit était complètement noire , et tout se tenait immobile dans un grand silence , une grande douceur .
+
+0,2,0,2 NOM_TIME
+
+Leurs deux chambres avaient entre elles une petite porte que le papier de la tenture masquait .
+
+5,6,5,6 PRON_FAC
+
+Ils la trouvèrent béante .
+
+0,1,0,1 PRON_PER
+
+Déshabillés et dans leur lit , ils bavardèrent quelque temps , puis s' endormirent , Bouvard sur le dos , la bouche ouverte , tête nue ; Pécuchet sur le flanc droit , les genoux au ventre , affublé d' un bonnet de coton , et tous les deux ronflaient sous le clair de la lune , qui entrait par les fenêtres .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|15,16,15,16 PROP_PER|27,28,27,28 PROP_PER|46,49,46,49 PRON_PER|54,56,54,56 NOM_LOC
+
+Quelle joie , le lendemain en se réveillant !
+
+3,5,3,5 NOM_TIME
+
+Bouvard fuma une pipe et Pécuchet huma une prise , qu' ils déclarèrent la meilleure de leur existence .
+
+0,1,0,1 PROP_PER|5,6,5,6 PROP_PER|11,12,11,12 PRON_PER|16,17,16,17 PRON_PER
+
+Puis ils se mirent à la croisée , pour voir le paysage .
+
+1,2,1,2 PRON_PER
+
+On avait en face de soi les champs , à droite une grange , avec le clocher de l' église ; et à gauche un rideau de peupliers .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|6,8,6,8 NOM_LOC|11,13,11,13 NOM_FAC|18,20,18,20 NOM_FAC|15,20,15,20 NOM_FAC
+
+Deux allées principales , formant la croix , divisaient le jardin en quatre morceaux .
+
+0,3,0,3 NOM_FAC|9,11,9,11 NOM_FAC
+
+D' un côté une tonnelle aboutissait à un vigneau ; de l' autre un mur soutenait les espaliers ; et une claire - voie , dans le fond , donnait sur la campagne .
+
+16,18,16,18 NOM_FAC|31,33,31,33 NOM_LOC
+
+Il y avait au delà du mur un verger , après la charmille , un bosquet ; derrière la claire - voie , un petit chemin .
+
+7,9,7,9 NOM_FAC|14,16,14,16 NOM_LOC|23,26,23,26 NOM_FAC
+
+Ils contemplaient cet ensemble , quand un homme à chevelure grisonnante et vêtu d' un paletot noir longea le sentier , en raclant avec sa canne tous les barreaux de la claire - voie .
+
+0,1,0,1 PRON_PER|6,17,6,17 NOM_PER|18,20,18,20 NOM_FAC|24,25,24,25 PRON_PER
+
+La vieille servante leur apprit que c' était M . Vaucorbeil , un docteur fameux dans l' arrondissement .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|8,11,8,11 PROP_PER
+
+Les autres notables étaient : le comte de Faverges , autrefois député , et dont on citait les vacheries ; le maire , M . Foureau , qui vendait du bois , du plâtre , toute espèce de choses ; M . Marescot le notaire ; l' abbé Jeufroy , et Mme veuve Bordin , vivant de son revenu .
+
+0,3,0,3 NOM_PER|8,9,8,9 PROP_GPE|5,9,5,9 NOM_PER|14,15,14,15 PRON_PER|20,22,20,22 NOM_PER|23,26,23,26 PROP_PER|27,28,27,28 PRON_PER|40,43,40,43 PROP_PER|46,49,46,49 NOM_PER|51,54,51,54 PROP_PER|57,58,57,58 PRON_PER
+
+Quant à elle , on l' appelait Germaine , à cause de feu Germain son mari .
+
+2,3,2,3 PRON_PER|5,6,5,6 NOM_PER|7,8,7,8 PROP_PER|14,15,14,15 PRON_PER|12,16,12,16 NOM_PER
+
+Elle faisait des journées ; mais aurait voulu passer au service de ces messieurs .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_TIME|12,14,12,14 NOM_PER
+
+Ils l' acceptèrent , et partirent pour leur ferme , située à un kilomètre de distance .
+
+0,1,0,1 PRON_PER|1,2,1,2 NOM_PER|7,9,7,9 NOM_FAC
+
+Quand ils entrèrent dans la cour , le fermier , maître Gouy , vociférait contre un garçon et la fermière , sur un escabeau , serrait entre ses jambes une dinde qu' elle empâtait avec des gobes de farine .
+
+1,2,1,2 PRON_PER|4,6,4,6 NOM_FAC|7,9,7,9 NOM_PER|10,12,10,12 NOM_PER|15,17,15,17 NOM_PER|18,20,18,20 NOM_PER|27,28,27,28 PRON_PER|32,33,32,33 PRON_PER
+
+L' homme avait le front bas , le nez fin , le regard en dessous , et les épaules robustes .
+
+0,2,0,2 NOM_PER
+
+La femme était très blonde , avec les pommettes tachetées de son , et cet air de simplicité que l' on voit aux manants sur le vitrail des églises .
+
+0,2,0,2 NOM_PER|22,24,22,24 NOM_PER|27,29,27,29 NOM_FAC
+
+Dans la cuisine , des bottes de chanvre étaient suspendues au plafond .
+
+1,3,1,3 NOM_FAC
+
+Trois vieux fusils s' échelonnaient sur la haute cheminée .
+
+6,9,6,9 NOM_FAC
+
+Les deux Parisiens désiraient faire leur inspection , n' ayant vu la propriété qu' une fois , sommairement .
+
+0,3,0,3 NOM_PER|5,6,5,6 PRON_PER|11,13,11,13 NOM_LOC
+
+Maître Gouy et son épouse les escortèrent et la kyrielle des plaintes commença .
+
+0,2,0,2 NOM_PER|3,4,3,4 PRON_PER|2,5,2,5 NOM_PER|5,6,5,6 PRON_PER
+
+Tous les bâtiments , depuis la charretterie jusqu' à la bouillerie , avaient besoin de réparations .
+
+0,3,0,3 NOM_FAC|5,7,5,7 NOM_FAC|9,11,9,11 NOM_FAC
+
+Il aurait fallu construire une succursale pour les fromages , mettre aux barrières des ferrements neufs , relever les hauts - bords , creuser la mare et replanter considérablement de pommiers dans les trois cours .
+
+4,6,4,6 NOM_FAC|24,26,24,26 NOM_LOC|32,35,32,35 NOM_FAC
+
+Ensuite on visita les cultures : maître Gouy les déprécia .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_FAC|6,8,6,8 NOM_PER|8,9,8,9 PRON_FAC
+
+Elles mangeaient trop de fumier , les charrois étaient dispendieux ; impossible d' extraire les cailloux , la mauvaise herbe empoisonnait les prairies ; et ce dénigrement de sa terre atténua le plaisir que Bouvard sentait à marcher dessus .
+
+0,1,0,1 PRON_FAC|6,8,6,8 NOM_VEH|21,23,21,23 NOM_LOC|28,29,28,29 PRON_PER|34,35,34,35 PROP_PER
+
+Ils s' en revinrent par la cavée , sous une avenue de hêtres .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_FAC|9,13,9,13 NOM_FAC
+
+La maison montrait , de ce côté - là , sa cour d' honneur et sa façade .
+
+0,2,0,2 NOM_FAC|10,11,10,11 PRON_FAC|15,16,15,16 PRON_FAC|10,17,10,17 NOM_FAC
+
+Elle était peinte en blanc , avec des réchampis de couleur jaune .
+
+0,1,0,1 PRON_FAC
+
+Le hangar et le cellier , le fournil et le bûcher faisaient en retour deux ailes plus basses .
+
+3,5,3,5 NOM_FAC|0,5,0,5 NOM_FAC|6,11,6,11 NOM_FAC
+
+La cuisine communiquait avec une petite salle .
+
+0,2,0,2 NOM_FAC|4,7,4,7 NOM_FAC
+
+On rencontrait ensuite le vestibule , une deuxième salle plus grande , le salon .
+
+3,5,3,5 NOM_FAC|6,11,6,11 NOM_FAC|12,14,12,14 NOM_FAC
+
+Les quatre chambres au premier s' ouvraient sur le corridor qui regardait la cour .
+
+0,3,0,3 NOM_FAC|8,10,8,10 NOM_FAC|10,11,10,11 PRON_FAC|12,14,12,14 NOM_FAC
+
+Pécuchet en prit une pour ses collections ; la dernière fut destinée à la bibliothèque ; et comme ils ouvraient les armoires , ils trouvèrent d' autres bouquins , mais n' eurent pas la fantaisie d' en lire les titres .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_FAC|5,6,5,6 PRON_PER|13,15,13,15 NOM_FAC|18,19,18,19 PRON_PER|23,24,23,24 PRON_PER
+
+Le plus pressé , c' était le jardin .
+
+6,8,6,8 NOM_FAC
+
+Bouvard , en passant près de la charmille , découvrit sous les branches une dame en plâtre .
+
+0,1,0,1 PROP_PER
+
+Et cette plaisanterie les amusa tellement , que , vingt fois par jour , pendant plus de trois semaines ils la répétèrent .
+
+3,4,3,4 PRON_PER|15,19,15,19 NOM_TIME|19,20,19,20 PRON_PER
+
+Cependant les bourgeois de Chavignolles désiraient les connaître : on venait les observer par la claire - voie .
+
+4,5,4,5 PROP_GPE|1,5,1,5 NOM_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER
+
+Ils en bouchèrent les ouvertures avec des planches .
+
+0,1,0,1 PRON_PER
+
+La population fut contrariée .
+
+0,2,0,2 NOM_PER
+
+Pour se garantir du soleil , Bouvard portait sur la tête un mouchoir noué en turban , Pécuchet sa casquette ; et il avait un grand tablier avec une poche par devant , dans laquelle ballotaient un sécateur , son foulard et sa tabatière .
+
+3,5,3,5 NOM_LOC|6,7,6,7 PROP_PER|17,18,17,18 PROP_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER|39,40,39,40 PRON_PER|42,43,42,43 PRON_PER
+
+Les bras nus , et côte à côte , ils labouraient , sarclaient , émondaient , s' imposaient des tâches , mangeaient le plus vite possible ; mais allaient prendre le café sur le vigneau , pour jouir du point de vue .
+
+9,10,9,10 PRON_PER|38,42,38,42 NOM_GPE
+
+S' ils rencontraient un limaçon , ils s' approchaient de lui , et l' écrasaient en faisant une grimace du coin de la bouche , comme pour casser une noix .
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER
+
+Ils ne sortaient pas sans leur louchet , et coupaient en deux les vers blancs , d' une telle force que le fer de l' outil s' en enfonçait de trois pouces .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER
+
+Pour se délivrer des chenilles , ils battaient les arbres , à grands coups de gaule , furieusement .
+
+6,7,6,7 PRON_PER
+
+Bouvard planta une pivoine au milieu du gazon et des pommes d' amour qui devaient retomber comme des lustres , sous l' arceau de la tonnelle .
+
+0,1,0,1 PROP_PER
+
+Pécuchet fit creuser devant la cuisine un large trou , et le disposa en trois compartiments , où il fabriquerait des composts qui feraient pousser un tas de choses dont les détritus amèneraient d' autres récoltes procurant d' autres engrais , tout cela indéfiniment , et il rêvait au bord de la fosse , apercevant dans l' avenir des montagnes de fruits , des débordements de fleurs , des avalanches de légumes .
+
+0,1,0,1 PROP_PER|4,6,4,6 NOM_FAC|6,9,6,9 NOM_FAC|11,12,11,12 PRON_FAC|18,19,18,19 PRON_PER|46,47,46,47 PRON_PER|51,53,51,53 NOM_FAC
+
+Mais le fumier de cheval si utile pour les couches lui manquait .
+
+10,11,10,11 PRON_PER
+
+Les cultivateurs n' en vendaient pas : les aubergistes en refusèrent .
+
+0,2,0,2 NOM_PER|7,9,7,9 NOM_PER
+
+Enfin , après beaucoup de recherches , malgré les instances de Bouvard , et abjurant toute pudeur , il prit le parti « d' aller lui - même au crottin !
+
+11,12,11,12 PROP_PER|18,19,18,19 PRON_PER|25,28,25,28 PRON_PER
+
+C' est au milieu de cette occupation que Mme Bordin , un jour , l' accosta sur la grande route .
+
+8,10,8,10 PROP_PER|14,15,14,15 NOM_PER
+
+Quand elle l' eut complimenté , elle s' informa de son ami .
+
+1,2,1,2 PRON_PER|2,3,2,3 NOM_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER
+
+Les yeux noirs de cette personne , très brillants bien que petits , ses hautes couleurs , son aplomb ( elle avait même un peu de moustache ) , intimidèrent Pécuchet .
+
+4,6,4,6 NOM_PER|13,14,13,14 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|30,31,30,31 PROP_PER
+
+Il répondit brièvement et tourna le dos .
+
+0,1,0,1 PRON_PER
+
+Impolitesse que blâma Bouvard .
+
+3,4,3,4 PROP_PER
+
+Ils s' installèrent dans la cuisine , et faisaient du treillage ; ou bien parcouraient les chambres , causaient au coin du feu , regardaient la pluie tomber .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_FAC|15,17,15,17 NOM_FAC
+
+Dès la mi - carême , ils guettèrent le printemps , et répétaient chaque matin : « Tout part !
+
+1,5,1,5 NOM_TIME|6,7,6,7 PRON_PER|8,10,8,10 NOM_TIME|13,15,13,15 NOM_TIME
+
+» Mais la saison fut tardive , et ils consolaient leur impatience , en disant : « Tout va partir » .
+
+8,9,8,9 PRON_PER|10,11,10,11 PRON_PER
+
+Ils virent enfin lever les petits pois .
+
+0,1,0,1 PRON_PER
+
+Puisqu' ils s' entendaient au jardinage , ils devaient réussir dans l' agriculture ; et l' ambition les prit de cultiver leur ferme .
+
+1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|17,18,17,18 PRON_PER|21,23,21,23 NOM_FAC
+
+Avec du bon sens et de l' étude ils s' en tireraient , sans aucun doute .
+
+8,9,8,9 PRON_PER
+
+D' abord , il fallait voir comment on opérait chez les autres ; et ils rédigèrent une lettre , où ils demandaient à M . de Faverges l' honneur de visiter son exploitation .
+
+10,12,10,12 PRON_PER|14,15,14,15 PRON_PER|20,21,20,21 PRON_PER|23,27,23,27 PROP_PER|31,32,31,32 PRON_PER
+
+Le comte leur donna tout de suite un rendez - vous .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER
+
+Après une heure de marche , ils arrivèrent sur le versant d' un coteau qui domine la vallée de l' Orne .
+
+1,5,1,5 NOM_TIME|6,7,6,7 PRON_PER|12,14,12,14 NOM_LOC|14,15,14,15 PRON_LOC|19,21,19,21 PROP_LOC|16,21,16,21 NOM_LOC
+
+La rivière coulait au fond , avec des sinuosités .
+
+0,2,0,2 NOM_LOC
+
+Des blocs de grès rouge s' y dressaient de place en place , et des roches plus grandes formaient au loin comme une falaise surplombant la campagne , couverte de blés mûrs .
+
+6,7,6,7 PRON_LOC|25,27,25,27 NOM_LOC
+
+En face , sur l' autre colline , la verdure était si abondante , qu' elle cachait les maisons .
+
+4,7,4,7 NOM_LOC|17,19,17,19 NOM_FAC
+
+Des toits de tuiles indiquaient la ferme .
+
+5,7,5,7 NOM_FAC
+
+Le château à façade blanche se trouvait sur la droite , avec un bois au delà , et une pelouse descendait jusqu' à la rivière , où des platanes alignés reflétaient leur ombre .
+
+0,5,0,5 NOM_FAC|12,14,12,14 NOM_LOC|23,25,23,25 NOM_LOC|26,27,26,27 PRON_LOC
+
+Les deux amis entrèrent dans une luzerne qu' on fanait .
+
+0,3,0,3 NOM_PER
+
+Des femmes portant des chapeaux de paille , des marmottes d' indienne ou des visières de papier , soulevaient avec des râteaux le foin laissé par terre ; et à l' autre bout de la plaine , auprès des meules , on jetait des bottes vivement dans une longue charrette , attelée de trois chevaux .
+
+0,2,0,2 NOM_PER|47,50,47,50 NOM_VEH
+
+M . le comte s' avança suivi de son régisseur .
+
+0,4,0,4 PROP_PER|8,10,8,10 NOM_PER
+
+Il avait un costume de basin , la taille raide et les favoris en côtelette , l' air à la fois d' un magistrat et d' un dandy .
+
+0,1,0,1 PRON_PER|22,24,22,24 NOM_PER|26,28,26,28 NOM_PER
+
+Les traits de sa figure , même quand il parlait , ne remuaient pas .
+
+3,4,3,4 PRON_PER|8,9,8,9 PRON_PER
+
+Les premières politesses échangées , il exposa son système relativement aux fourrages ; on retournait les andains sans les éparpiller ; les meules devaient être coniques et les bottes faites immédiatement sur place , puis entassées par dizaines .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER
+
+Quant au râteleur anglais , la prairie était trop inégale pour un pareil instrument .
+
+1,4,1,4 NOM_PER|11,14,11,14 NOM_PER
+
+Une petite fille , les pieds nus dans des savates , et dont le corps se montrait par les déchirures de sa robe , donnait à boire aux femmes , en versant du cidre d' un broc qu' elle appuyait contre sa hanche .
+
+0,3,0,3 NOM_PER|12,13,12,13 PRON_PER|21,22,21,22 PRON_PER|27,29,27,29 NOM_PER|38,39,38,39 PRON_PER|41,42,41,42 PRON_PER
+
+Le comte demanda d' où venait cette enfant ; on n' en savait rien .
+
+0,2,0,2 NOM_PER|6,8,6,8 NOM_PER
+
+Les faneuses l' avaient recueillie pour les servir pendant la moisson .
+
+0,2,0,2 NOM_PER|2,3,2,3 NOM_PER|6,7,6,7 PRON_PER
+
+Il haussa les épaules et , tout en s' éloignant , proféra quelques plaintes sur l' immoralité de nos campagnes .
+
+0,1,0,1 PRON_PER
+
+Bouvard fit l' éloge de sa luzerne .
+
+0,1,0,1 PROP_PER|5,6,5,6 PRON_PER
+
+Elle était assez bonne , en effet , malgré les ravages de la cuscute ; les futurs agronomes ouvrirent les yeux au mot cuscute .
+
+15,18,15,18 NOM_PER
+
+Vu le nombre de ses bestiaux , il s' appliquait aux prairies artificielles ; c' était d' ailleurs un bon précédent pour les autres récoltes , ce qui n' a pas toujours lieu avec les racines fourragères .
+
+4,5,4,5 PRON_PER|7,8,7,8 PRON_PER
+
+— Cela du moins me paraît incontestable .
+
+4,5,4,5 PRON_PER
+
+Bouvard et Pécuchet reprirent ensemble :
+
+0,1,0,1 PROP_PER|2,3,2,3 PROP_PER
+
+Ils étaient sur la limite d' un champ soigneusement ameubli : un cheval que l' on conduisait à la main traînait un large coffre monté sur trois roues .
+
+0,1,0,1 PRON_PER
+
+— Ici , dit le comte , je sème mes turneps .
+
+4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|9,10,9,10 PRON_PER
+
+Le turnep est la base de ma culture quadriennale .
+
+6,7,6,7 PRON_PER
+
+Et il entamait la démonstration du semoir .
+
+1,2,1,2 PRON_PER
+
+Mais un domestique vint le chercher .
+
+1,3,1,3 NOM_PER|4,5,4,5 PRON_PER
+
+On avait besoin de lui au château .
+
+4,5,4,5 PRON_PER|5,7,5,7 NOM_FAC
+
+Son régisseur le remplaça , homme à figure chafouine et de façons obséquieuses .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|5,13,5,13 NOM_PER
+
+Il conduisit « ces messieurs » vers un autre champ , où quatorze moissonneurs , la poitrine nue et les jambes écartées , fauchaient des seigles .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER|12,14,12,14 NOM_PER
+
+Chacun décrivait devant soi un large demi - cercle , et tous sur la même ligne , ils avançaient en même temps .
+
+0,1,0,1 PRON_PER|17,18,17,18 PRON_PER
+
+Les deux Parisiens admirèrent leurs bras et se sentaient pris d' une vénération presque religieuse pour l' opulence de la terre .
+
+0,3,0,3 NOM_PER|4,5,4,5 PRON_PER
+
+Le crépuscule tombait , des corneilles s' abattaient dans les sillons .
+
+0,2,0,2 NOM_TIME
+
+Puis ils rencontrèrent le troupeau .
+
+1,2,1,2 PRON_PER
+
+Le berger , assis sur un tronc d' arbre , tricotait un bas de laine , ayant son chien près de lui .
+
+0,2,0,2 NOM_PER|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER
+
+Le régisseur aida Bouvard et Pécuchet à franchir un échalier , et ils traversèrent deux masures , où des vaches ruminaient sous les pommiers .
+
+0,2,0,2 NOM_PER|3,4,3,4 PROP_PER|5,6,5,6 PROP_PER
+
+Tous les bâtiments de la ferme étaient contigus et occupaient les trois côtés de la cour .
+
+4,6,4,6 NOM_FAC|0,6,0,6 NOM_FAC|14,16,14,16 NOM_FAC
+
+Le travail s' y faisait à la mécanique , au moyen d' une turbine , utilisant un ruisseau qu' on avait exprès détourné .
+
+3,4,3,4 PRON_FAC|16,18,16,18 NOM_LOC|18,19,18,19 PRON_LOC
+
+Le régisseur fit observer dans les bergeries de petites ouvertures à ras du sol , et dans les cases aux cochons , des portes ingénieuses , pouvant d' elles - mêmes se fermer .
+
+0,2,0,2 NOM_PER|5,7,5,7 NOM_FAC
+
+La grange était voûtée comme une cathédrale avec des arceaux de briques reposant sur des murs de pierre .
+
+0,2,0,2 NOM_FAC|5,7,5,7 NOM_FAC
+
+Pour divertir les messieurs , une servante jeta devant les poules des poignées d' avoine .
+
+2,4,2,4 NOM_PER|5,7,5,7 NOM_PER
+
+L' arbre du pressoir leur parut gigantesque , et ils montèrent dans le pigeonnier .
+
+4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|12,14,12,14 NOM_FAC
+
+La laiterie spécialement les émerveilla .
+
+3,4,3,4 PRON_PER
+
+Mais le bijou de la ferme , c' était la bouverie .
+
+4,6,4,6 NOM_FAC|9,11,9,11 NOM_FAC
+
+Des barreaux de bois scellés perpendiculairement dans toute sa longueur la divisaient en deux sections : la première pour le bétail , la seconde pour le service .
+
+8,9,8,9 PRON_FAC|10,11,10,11 PRON_FAC
+
+On y voyait à peine , toutes les meurtrières étant closes .
+
+1,2,1,2 PRON_FAC
+
+Les grands attelages entrèrent dans la cour et des poulains hennirent .
+
+5,7,5,7 NOM_FAC
+
+Les gens de travail passaient en traînant leurs sabots sur les cailloux , et la cloche pour le souper tinta .
+
+0,4,0,4 NOM_PER|7,8,7,8 PRON_PER
+
+Les deux visiteurs s' en allèrent .
+
+0,3,0,3 NOM_PER
+
+Tout ce qu' ils avaient vu les enchantait ; leur décision fut prise .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER
+
+Dès le soir , ils tirèrent de leur bibliothèque les quatre volumes de la Maison rustique , se firent expédier le cours de Gasparin et s' abonnèrent à un journal d' agriculture .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|13,16,13,16 NOM_FAC
+
+Pour se rendre aux foires plus commodément , ils achetèrent une carriole que Bouvard conduisait .
+
+8,9,8,9 PRON_PER|10,12,10,12 NOM_VEH|12,13,12,13 PRON_VEH|13,14,13,14 PROP_PER
+
+Habillés d' une blouse bleue , avec un chapeau à larges bords , des guêtres jusqu' aux genoux et un bâton de maquignon à la main , ils rôdaient autour des bestiaux , questionnaient les laboureurs et ne manquaient pas d' assister à tous les comices agricoles .
+
+27,28,27,28 PRON_PER|34,36,34,36 NOM_PER
+
+Bientôt ils fatiguèrent maître Gouy de leurs conseils , déplorant principalement son système de jachères .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER
+
+Mais le fermier tenait à sa routine .
+
+1,3,1,3 NOM_PER|5,6,5,6 PRON_PER
+
+Il demanda la remise d' un terme sous prétexte de la grêle .
+
+0,1,0,1 PRON_PER
+
+Quant aux redevances , il n' en fournit aucune .
+
+4,5,4,5 PRON_PER
+
+Devant les réclamations les plus justes , sa femme poussait des cris .
+
+7,9,7,9 NOM_PER
+
+Enfin , Bouvard déclara son intention de ne pas renouveler le bail .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER
+
+Dès lors maître Gouy épargna les fumiers , laissa pousser les mauvaises herbes , ruina le fonds et il s' en alla d' un air farouche qui indiquait des plans de vengeance .
+
+2,4,2,4 NOM_PER|18,19,18,19 PRON_PER
+
+Bouvard avait pensé que 20 000 francs , c' est - à - dire plus de quatre fois le prix du fermage , suffiraient au début .
+
+0,1,0,1 PROP_PER
+
+Son notaire de Paris les envoya .
+
+3,4,3,4 PROP_GPE|0,4,0,4 NOM_PER
+
+Leur exploitation comprenait quinze hectares en cours et prairies , vingt - trois en terres arables et cinq en friches situées sur un monticule couvert de cailloux et qu' on appelait la Butte .
+
+0,2,0,2 NOM_FAC
+
+Ils se procurèrent tous les instruments indispensables , quatre chevaux , douze vaches , six porcs , cent soixante moutons et , comme personnel , deux charretiers , deux femmes , un berger ; de plus , un gros chien .
+
+0,1,0,1 PRON_PER|25,27,25,27 NOM_PER|28,30,28,30 NOM_PER|31,33,31,33 NOM_PER
+
+Pour avoir tout de suite de l' argent , ils vendirent leurs fourrages : on les paya chez eux ; l' or des napoléons comptés sur le coffre à l' avoine leur parut plus reluisant qu' un autre , extraordinaire et meilleur .
+
+9,10,9,10 PRON_PER|11,12,11,12 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|31,32,31,32 PRON_PER
+
+Au mois de novembre ils brassèrent du cidre .
+
+3,4,3,4 NOM_TIME|0,4,0,4 NOM_TIME|4,5,4,5 PRON_PER
+
+C' était Bouvard qui fouettait le cheval et Pécuchet , monté dans l' auge , retournait le marc avec une pelle .
+
+2,3,2,3 PROP_PER|3,4,3,4 PRON_PER|8,9,8,9 PROP_PER
+
+Ils haletaient en serrant la vis , puchaient dans la cuve , surveillaient les bondes , portaient de lourds sabots , s' amusaient énormément .
+
+0,1,0,1 PRON_PER
+
+Partant de ce principe qu' on ne saurait avoir trop de blé , ils supprimèrent la moitié environ de leurs prairies artificielles ; et , comme ils n' avaient pas d' engrais , ils se servirent de tourteaux qu' ils enterrèrent sans les concasser , si bien que le rendement fut pitoyable .
+
+13,14,13,14 PRON_PER|19,20,19,20 PRON_PER|26,27,26,27 PRON_PER|33,34,33,34 PRON_PER|39,40,39,40 PRON_PER
+
+L' année suivante ils firent les semailles très dru .
+
+0,3,0,3 NOM_TIME|3,4,3,4 PRON_PER
+
+Néanmoins , ils s' acharnaient au froment et ils entreprirent d' épierrer la Butte .
+
+2,3,2,3 PRON_PER|8,9,8,9 PRON_PER
+
+Tout le long de l' année , du matin jusqu' au soir , par la pluie , par le soleil , on voyait l' éternel banneau avec le même homme et le même cheval , gravir , descendre et remonter la petite colline .
+
+1,6,1,6 NOM_TIME|7,9,7,9 NOM_TIME|10,12,10,12 NOM_TIME|18,20,18,20 NOM_LOC|27,30,27,30 NOM_PER
+
+Quelquefois Bouvard marchait derrière , faisant des haltes à mi - côte pour s' éponger le front .
+
+1,2,1,2 PROP_PER
+
+Ne se fiant à personne , ils traitaient eux - mêmes les animaux , leur administraient des purgations , des clystères .
+
+6,7,6,7 PRON_PER|8,11,8,11 PRON_PER
+
+La fille de basse - cour devint enceinte .
+
+0,6,0,6 NOM_PER
+
+Ils prirent des gens mariés ; les enfants pullulèrent , les cousins , les cousines , les oncles , les belles - sœurs ; une horde vivait à leurs dépens , et ils résolurent de coucher dans la ferme à tour de rôle .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_PER|6,8,6,8 NOM_PER|10,12,10,12 NOM_PER|13,15,13,15 NOM_PER|16,18,16,18 NOM_PER|19,23,19,23 NOM_PER|28,29,28,29 PRON_PER|32,33,32,33 PRON_PER|37,39,37,39 NOM_FAC
+
+Mais le soir ils étaient tristes .
+
+1,3,1,3 NOM_TIME|3,4,3,4 PRON_PER
+
+La malpropreté de la chambre les offusquaient , et Germaine , qui apportait les repas , grommelait à chaque voyage .
+
+3,5,3,5 NOM_FAC|5,6,5,6 PRON_PER|9,10,9,10 PROP_PER|11,12,11,12 PRON_PER
+
+On les dupait de toutes les façons .
+
+1,2,1,2 PRON_PER
+
+Les batteurs en grange fourraient du blé dans leur cruche à boire .
+
+8,9,8,9 PRON_PER
+
+Pécuchet en surprit un , et s' écria , en le poussant dehors par les épaules :
+
+0,1,0,1 PROP_PER|3,4,3,4 NOM_PER|10,11,10,11 PRON_PER
+
+— Misérable !
+
+1,2,1,2 NOM_PER
+
+tu es la honte du village qui t' a vu naître !
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_GPE|6,7,6,7 PRON_GPE|7,8,7,8 PRON_PER
+
+Sa personne n' inspirait aucun respect .
+
+0,1,0,1 PRON_PER
+
+D' ailleurs , il avait des remords à l' encontre du jardin .
+
+3,4,3,4 PRON_PER|10,12,10,12 NOM_FAC
+
+Tout son temps ne serait pas de trop pour le tenir en bon état .
+
+1,2,1,2 PRON_PER|9,10,9,10 PRON_FAC
+
+Bouvard s' occuperait de la ferme .
+
+0,1,0,1 PROP_PER|4,6,4,6 NOM_FAC
+
+Ils en délibérèrent , et cet arrangement fut décidé .
+
+0,1,0,1 PRON_PER
+
+Pécuchet en fit construire une en briques .
+
+0,1,0,1 PROP_PER
+
+Il peignit lui - même les châssis , et redoutant les coups de soleil barbouilla de craie toutes les cloches .
+
+0,1,0,1 PRON_PER|2,5,2,5 PRON_PER
+
+Il eut la précaution pour les boutures d' enlever les têtes avec les feuilles .
+
+0,1,0,1 PRON_PER
+
+Ensuite , il s' appliqua aux marcottages .
+
+2,3,2,3 PRON_PER
+
+Il essaya plusieurs sortes de greffes , greffes en flûte , en couronne , en écusson , greffe herbacée , greffe anglaise .
+
+0,1,0,1 PRON_PER
+
+Avec quel soin il ajustait les deux libers !
+
+3,4,3,4 PRON_PER
+
+comme il serrait les ligatures !
+
+1,2,1,2 PRON_PER
+
+Deux fois par jour , il prenait son arrosoir et le balançait sur les plantes , comme s' il les eût encensées .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER
+
+À mesure qu' elles verdissaient sous l' eau qui tombait en pluie fine , il lui semblait se désaltérer et renaître avec elles .
+
+15,16,15,16 PRON_PER
+
+Puis , cédant à une ivresse , il arrachait la pomme de l' arrosoir et versait à plein goulot , copieusement .
+
+7,8,7,8 PRON_PER
+
+Pécuchet y enfermait ses instruments , et il passait là des heures délicieuses à éplucher les graines , à écrire les étiquettes , à mettre en ordre ses petits pots .
+
+0,1,0,1 PROP_PER|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|27,28,27,28 PRON_PER
+
+Pour se reposer , il s' asseyait devant la porte , sur une caisse , et alors projetait des embellissements .
+
+4,5,4,5 PRON_PER
+
+Il avait créé au bas du perron deux corbeilles de géraniums ; entre les cyprès et les quenouilles , il planta des tournesols ; et comme les plates - bandes étaient couvertes de boutons d' or , et toutes les allées de sable neuf , le jardin éblouissait par une abondance de couleurs jaunes .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_FAC|19,20,19,20 PRON_PER|38,44,38,44 NOM_FAC|45,47,45,47 NOM_FAC
+
+Il manqua les brocolis , les aubergines , les navets , et du cresson de fontaine , qu' il avait voulu élever dans un baquet .
+
+18,19,18,19 PRON_PER
+
+Les choux le consolèrent .
+
+2,3,2,3 PRON_PER
+
+Un , surtout , lui donna des espérances .
+
+4,5,4,5 PRON_PER
+
+N' importe , Pécuchet fut content de posséder un monstre .
+
+3,4,3,4 PROP_PER
+
+Alors il tenta ce qui lui semblait être le summum de l' art : l' élève du melon .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER
+
+Il sema les graines de plusieurs variétés dans des assiettes remplies de terreau , qu' il enfouit dans sa couche .
+
+0,1,0,1 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER
+
+Puis il dressa une autre couche ; et quand elle eut jeté son feu , repiqua les plants les plus beaux , avec des cloches par - dessus .
+
+1,2,1,2 PRON_PER
+
+Il fit toutes les tailles suivant les préceptes du bon jardinier , respecta les fleurs , laissa se nouer les fruits , en choisit un sur chaque bras , supprima les autres , et dès qu' ils eurent la grosseur d' une noix , il glissa sous leur écorce une planchette pour les empêcher de pourrir au contact du crottin .
+
+0,1,0,1 PRON_PER|8,11,8,11 NOM_PER|44,45,44,45 PRON_PER
+
+Il les bassinait , les aérait , enlevait avec son mouchoir la brume des cloches , et si des nuages paraissaient , il apportait vivement des paillassons .
+
+0,1,0,1 PRON_PER|9,10,9,10 PRON_PER|22,23,22,23 PRON_PER
+
+La nuit , il n' en dormait plus .
+
+3,4,3,4 PRON_PER
+
+Plusieurs fois même il se releva ; et pieds nus dans ses bottes , en chemise , grelottant , il traversait tout le jardin pour aller mettre sur les bâches la couverture de son lit .
+
+3,4,3,4 PRON_PER|11,12,11,12 PRON_PER|19,20,19,20 PRON_PER|21,24,21,24 NOM_FAC|33,34,33,34 PRON_PER
+
+Au premier , Bouvard fit la grimace .
+
+3,4,3,4 PROP_PER
+
+Le second ne fut pas meilleur , le troisième non plus ; Pécuchet trouvait pour chacun une excuse nouvelle , jusqu' au dernier qu' il jeta par la fenêtre , déclarant n' y rien comprendre .
+
+12,13,12,13 PROP_PER|24,25,24,25 PRON_PER
+
+En effet , comme il avait cultivé les unes près des autres des espèces différentes , les sucrins s' étaient confondus avec les maraîchers , le gros Portugal avec le grand Mongol , et le voisinage des pommes d' amour complétant l' anarchie , il en était résulté d' abominables mulets qui avaient le goût de citrouille .
+
+4,5,4,5 PRON_PER
+
+Alors Pécuchet se tourna vers les fleurs .
+
+1,2,1,2 PROP_PER
+
+Il écrivit à Dumouchel pour avoir des arbustes avec des graines , acheta une provision de terre de bruyère , et se mit à l' œuvre résolument .
+
+0,1,0,1 PRON_PER|3,4,3,4 PROP_PER
+
+Mais il planta des passiflores à l' ombre , des pensées au soleil , couvrit de fumier les jacinthes , arrosa les lis après leur floraison , détruisit les rhododendrons par des excès de rabatage , stimula les fuchsias avec de la colle forte , et rôtit un grenadier , en l' exposant au feu de la cuisine .
+
+1,2,1,2 PRON_PER|11,13,11,13 NOM_LOC|56,58,56,58 NOM_FAC
+
+Aux approches du froid , il abrita les églantiers sous des dômes de papiers forts enduits de chandelle : cela faisait comme des pains de sucre tenus en l' air par des bâtons .
+
+5,6,5,6 PRON_PER
+
+Cependant , puisque les arbres les plus rares prospèrent dans les jardins de la capitale , ils devaient réussir à Chavignolles ; et Pécuchet se procura le lilas des Indes , la rose de Chine et l' eucalyptus , alors dans la primeur de sa réputation .
+
+13,15,13,15 NOM_GPE|10,15,10,15 NOM_FAC|16,17,16,17 PRON_PER|20,21,20,21 PROP_GPE|23,24,23,24 PROP_PER
+
+Toutes ses expériences ratèrent .
+
+1,2,1,2 PRON_PER
+
+Il était chaque fois fort étonné .
+
+0,1,0,1 PRON_PER
+
+Bouvard , comme lui , rencontrait des obstacles .
+
+0,1,0,1 PROP_PER|3,4,3,4 PRON_PER
+
+Ils se consultaient mutuellement , ouvraient un livre , passaient à un autre , puis ne savaient que résoudre devant la divergence des opinions .
+
+0,1,0,1 PRON_PER
+
+Ainsi pour la marne , Puvis la recommande ; le manuel Roret la combat .
+
+5,6,5,6 PROP_PER|9,12,9,12 NOM_PER
+
+Quant au plâtre , malgré l' exemple de Franklin , Riéfel et M . Rigaud n' en paraissent pas enthousiasmés .
+
+8,9,8,9 PROP_PER|12,15,12,15 PROP_PER|10,15,10,15 PROP_PER
+
+Les jachères , selon Bouvard , étaient un préjugé gothique .
+
+4,5,4,5 PROP_PER
+
+Cependant Leclerc note les cas où elles sont presque indispensables .
+
+1,2,1,2 PROP_PER
+
+Gasparin cite un Lyonnais qui , pendant un demi - siècle , a cultivé des céréales sur le même champ : cela renverse la théorie des assolements .
+
+0,1,0,1 PROP_PER|2,4,2,4 NOM_PER|4,5,4,5 PRON_PER|7,11,7,11 NOM_TIME
+
+Tull exalte les labours au préjudice des engrais ; et voilà le major Beetson qui supprime les engrais avec les labours !
+
+0,1,0,1 PROP_PER|11,14,11,14 NOM_PER|14,15,14,15 PRON_PER
+
+Pour se connaître aux signes des temps , ils étudièrent les nuages d' après la classification Luke - Howard .
+
+8,9,8,9 PRON_PER
+
+Ils contemplaient ceux qui s' allongent comme des crinières , ceux qui ressemblent à des îles , ceux qu' on prendrait pour des montagnes de neige , tâchant de distinguer les nimbus des cirrus , les stratus des cumulus ; les formes changeaient avant qu' ils eussent trouvé les noms .
+
+0,1,0,1 PRON_PER|45,46,45,46 PRON_PER
+
+Le baromètre les trompa , le thermomètre n' apprenait rien ; et ils recoururent à l' expédient imaginé sous Louis Xv par un prêtre de Touraine .
+
+2,3,2,3 PRON_PER|12,13,12,13 PRON_PER|19,21,19,21 PROP_PER|25,26,25,26 PROP_GPE|22,26,22,26 NOM_PER
+
+Ils en mirent trois autres avec celle - là .
+
+0,1,0,1 PRON_PER
+
+Après force méditations , Bouvard reconnut qu' il s' était trompé .
+
+4,5,4,5 PROP_PER|7,8,7,8 PRON_PER
+
+Son domaine exigeait la grande culture , le système intensif , et il aventura ce qui lui restait de capitaux disponibles ; trente mille francs .
+
+0,1,0,1 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER
+
+Excité par Pécuchet , il eut le délire de l' engrais .
+
+2,3,2,3 PROP_PER|4,5,4,5 PRON_PER
+
+Dans la fosse aux composts furent entassés des branchages , du sang , des boyaux , des plumes , tout ce qu' il pouvait découvrir .
+
+22,23,22,23 PRON_PER
+
+Il employa la liqueur belge , le lizier suisse , la lessive , des harengs saurs , du varech , des chiffons , fit venir du guano , tâcha d' en fabriquer , et , poussant jusqu' au bout ses principes , ne tolérait pas qu' on perdît l' urine ; il supprima les lieux d' aisances .
+
+0,1,0,1 PRON_PER|39,40,39,40 PRON_PER|51,52,51,52 PRON_PER
+
+On apportait dans sa cour des cadavres d' animaux , dont il fumait ses terres .
+
+3,5,3,5 NOM_FAC|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER
+
+Leurs charognes dépecées parsemaient la campagne .
+
+4,6,4,6 NOM_LOC
+
+Bouvard souriait au milieu de cette infection .
+
+0,1,0,1 PROP_PER
+
+À ceux qui avaient l' air dégoûté , il disait :
+
+8,9,8,9 PRON_PER
+
+Et il regrettait de n' avoir pas encore plus de fumiers .
+
+1,2,1,2 PRON_PER
+
+Heureux les pays où l' on trouve des grottes naturelles pleines d' excréments d' oiseaux !
+
+1,3,1,3 NOM_LOC|3,4,3,4 PRON_LOC
+
+Il crut bon de renouveler son matériel .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER
+
+Il acheta un scarificateur Guillaume , un extirpateur Valcourt , un semoir anglais et la grande araire de Mathieu de Dombasle , mais le charretier la dénigra .
+
+0,1,0,1 PRON_PER|23,25,23,25 NOM_PER
+
+— Apprends à t' en servir !
+
+3,4,3,4 PRON_PER
+
+montrez - moi .
+
+2,3,2,3 PRON_PER
+
+Il essayait de montrer , se trompait , et les paysans ricanaient .
+
+0,1,0,1 PRON_PER|9,11,9,11 NOM_PER
+
+Jamais il ne put les astreindre au commandement de la cloche .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER
+
+Sans cesse il criait derrière eux , courait d' un endroit à l' autre , notait ses observations sur un calepin , donnait des rendez - vous , n' y pensait plus , et sa tête bouillonnait d' idées industrielles .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|16,17,16,17 PRON_PER|34,35,34,35 PRON_PER
+
+Il se promettait de cultiver le pavot , en vue de l' opium , et surtout l' astragale , qu' il vendrait sous le nom de « café des familles » .
+
+0,1,0,1 PRON_PER|20,21,20,21 PRON_PER|28,30,28,30 NOM_PER
+

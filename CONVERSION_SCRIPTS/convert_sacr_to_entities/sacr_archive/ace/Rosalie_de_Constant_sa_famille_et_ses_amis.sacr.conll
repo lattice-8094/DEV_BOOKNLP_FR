@@ -1,0 +1,2016 @@
+Rosalie de Constant , sa famille et ses amis Nous aurions pu commencer , selon l' usage , cette biographie trois ou quatre cents ans avant la naissance de notre héroïne , parler des chevaliers de St - Jean de Jérusalem , des chefs d' escadre , des compagnons de Charles Quint , qui furent ses ancêtres paternels .
+
+0,3,0,3 PROP_PER|4,5,4,5 PRON_PER|4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|7,9,7,9 NOM_PER|9,10,9,10 PRON_METALEPSE|20,25,20,25 NOM_TIME|29,30,29,30 PRON_METALEPSE|36,41,36,41 PROP_PER|45,46,45,46 NOM_ORG|42,46,42,46 NOM_PER|50,52,50,52 PROP_PER|47,52,47,52 NOM_PER|33,52,33,52 NOM_PER|53,54,53,54 PRON_PER|55,58,55,58 NOM_PER
+
+Rosalie elle - même , dans son journal , nous défile avec un certain orgueil une longue lignée d' aïeux , tous valeureux , preux et héroïques ; mais , si vous le voulez bien , nous ne remonterons pas si haut .
+
+0,1,0,1 PROP_PER|1,4,1,4 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_METALEPSE|19,20,19,20 NOM_PER|21,22,21,22 NOM_PER|31,32,31,32 PRON_METALEPSE|36,37,36,37 PRON_METALEPSE
+
+La mère de Rosalie était cette Charlotte Pictet à laquelle M . Lucien Perey a emprunté bien des lettres dans sa Vie intime de Voltaire .
+
+3,4,3,4 PROP_PER|0,4,0,4 NOM_PER|5,8,5,8 PROP_PER|9,10,9,10 PRON_PER|10,14,10,14 PROP_PER|20,21,20,21 PRON_PER|24,25,24,25 PROP_PER
+
+Elle habitait avec ses parents la belle propriété de St - Jean , qui domine la jonction de l' Arve avec le Rhône , en aval de Genève .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER|9,12,9,12 PROP_GPE|5,12,5,12 NOM_FAC|13,14,13,14 PRON_FAC|18,20,18,20 PROP_LOC|21,23,21,23 PROP_LOC|27,28,27,28 PROP_GPE
+
+M . L . Perey a raconté déjà comment les Pictet de St - Jean voisinaient familièrement avec l' illustre philosophe , et les papiers de Rosalie et de sa famille , ont fourni à l' aimable biographe beaucoup de détails sur ce qui se passait aux Délices , et à Ferney .
+
+0,5,0,5 PROP_PER|12,15,12,15 PROP_GPE|9,15,9,15 NOM_PER|18,21,18,21 NOM_PER|29,31,29,31 NOM_PER|26,31,26,31 PROP_PER|35,38,35,38 NOM_PER|46,48,46,48 PROP_FAC|51,52,51,52 PROP_GPE
+
+On sait qu' au début de son séjour dans notre pays , Voltaire habita en été Les Délices près Genève , en hiver tantôt Monrion , près Lausanne , tantôt cette ville - même , au faubourg du Petit - Chêne .
+
+0,1,0,1 PRON_METALEPSE|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|9,11,9,11 NOM_GPE|12,13,12,13 PROP_PER|15,16,15,16 NOM_TIME|16,18,16,18 NOM_FAC|19,20,19,20 PROP_GPE|22,23,22,23 NOM_TIME|24,25,24,25 PROP_GPE|27,28,27,28 PROP_GPE|30,34,30,34 NOM_GPE|38,41,38,41 NOM_GPE|36,41,36,41 NOM_GPE
+
+À Lausanne comme à Genève , Voltaire avait trouvé une société très aimable et lettrée , toute disposée à jouer ses tragédies .
+
+1,2,1,2 PROP_GPE|4,5,4,5 PROP_GPE|6,7,6,7 PROP_PER|9,15,9,15 NOM_PER|20,21,20,21 PRON_PER
+
+Ses principaux acteurs se recrutèrent parmi la famille de Constant , et c' est ici que nous rencontrons Samuel , qui deviendra le père de Rosalie .
+
+0,1,0,1 PRON_PER|0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|6,10,6,10 NOM_PER|16,17,16,17 PRON_METALEPSE|18,19,18,19 PROP_PER|20,21,20,21 PRON_PER|25,26,25,26 PROP_PER|22,26,22,26 NOM_PER
+
+Samuel était le cinquième fils du général Constant de Rebecque qui avait servi longtemps en Hollande .
+
+0,1,0,1 PROP_PER|5,10,5,10 NOM_PER|2,10,2,10 NOM_PER|10,11,10,11 PRON_PER|15,16,15,16 PROP_GPE
+
+Lui - même y avait acquis le grade de major , et c' est pendant un congé passé à Lausanne qu' il fit la connaissance de Charlotte Pictet ; il l' épousa en 1757 .
+
+0,3,0,3 PRON_PER|3,4,3,4 PRON_GPE|19,20,19,20 PROP_GPE|21,22,21,22 PRON_PER|26,28,26,28 PROP_PER|29,30,29,30 PRON_PER|30,31,30,31 NOM_PER|33,34,33,34 NOM_TIME
+
+« Voltaire attirait aux Délices les amis qu' il s' était faits à Lausanne , écrira plus tard Rosalie ; il cherchait à les lier avec des voisins qu' il avait .
+
+1,2,1,2 PROP_PER|3,5,3,5 PROP_FAC|5,7,5,7 NOM_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER|9,10,9,10 PRON_PER|13,14,13,14 PROP_GPE|18,19,18,19 PROP_PER|20,21,20,21 PRON_PER|23,24,23,24 PRON_PER|26,28,26,28 NOM_PER|28,29,28,29 PRON_PER|29,30,29,30 PRON_PER
+
+C' est ainsi que se fit le mariage de mes parens .
+
+9,10,9,10 PRON_METALEPSE|9,11,9,11 NOM_PER
+
+Voltaire y prit un intérêt qu' il conserva toujours à la famille » .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER|10,12,10,12 NOM_PER
+
+Samuel quitta le service au moment de son mariage et vint habiter chez les parents de sa femme .
+
+0,1,0,1 PROP_PER|7,8,7,8 PRON_PER|16,17,16,17 PRON_PER|13,18,13,18 NOM_PER
+
+C' est à St - Jean que vécut le jeune ménage pendant cinq années ; c' est à St - Jean que naquit Rosalie , puis une seconde fille et un premier fils qui reçurent les noms de Louise et de Juste , c' est là que Charlotte aima , pleura , sourit et souffrit .
+
+3,6,3,6 PROP_GPE|8,11,8,11 NOM_PER|12,14,12,14 NOM_TIME|18,21,18,21 PROP_GPE|23,24,23,24 PROP_PER|26,29,26,29 NOM_PER|30,33,30,33 NOM_PER|33,34,33,34 PRON_PER|45,46,45,46 NOM_GPE|47,48,47,48 PROP_PER
+
+« Cher aux femmes , Samuel de Constant s' est fait aimer d' elles toutes les fois qu' il l' a voulu .
+
+2,4,2,4 NOM_PER|5,8,5,8 PROP_PER|8,9,8,9 PRON_PER|13,14,13,14 PRON_PER|18,19,18,19 PRON_PER
+
+» C' est encore Rosalie qui parle .
+
+4,5,4,5 PROP_PER
+
+Doué d' une belle figure , d' une haute stature , assez vain de sa personne , très ami du « bon ton » , il tenait à ce qu' on lui rendît des honneurs , à ce qu' on recherchât son commerce , mais il faut croire que les démonstrations amoureuses de sa propre femme l' impatientaient , car , pour s' y soustraire , il prétextait plus souvent qu' il n' eût été nécessaire , des affaires l' appelant à son vignoble de Lalex , près Vevey .
+
+14,15,14,15 PRON_PER|25,26,25,26 PRON_PER|31,32,31,32 PRON_PER|41,42,41,42 PRON_PER|53,54,53,54 PRON_PER|53,56,53,56 NOM_PER|56,57,56,57 NOM_PER|66,67,66,67 PRON_PER|79,80,79,80 NOM_PER|82,83,82,83 PRON_PER|85,86,85,86 PROP_GPE|82,86,82,86 NOM_LOC|88,89,88,89 PROP_GPE
+
+Il s' en allait aussi très souvent passer de longues semaines à Lausanne , où habitait sa mère , la générale de Constant , et où il jouait la comédie avec de belles dames .
+
+0,1,0,1 PRON_PER|8,11,8,11 NOM_TIME|12,13,12,13 PROP_GPE|14,15,14,15 PRON_GPE|16,17,16,17 PRON_PER|16,18,16,18 NOM_PER|19,23,19,23 NOM_PER|25,26,25,26 PRON_GPE|26,27,26,27 PRON_PER|31,34,31,34 NOM_PER
+
+Charlotte lui écrivait alors des lettres fort tendres et humides des larmes que faisait couler son absence ; mais , quand on est jeune , spirituelle , piquante , quand on a de beaux yeux noirs , ils ne peuvent pas toujours pleurer , et l' abandonnée trouvait chez Voltaire le moyen de s' amuser beaucoup .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|15,16,15,16 PRON_PER|21,22,21,22 PRON_PER|30,31,30,31 PRON_PER|45,47,45,47 NOM_PER|49,50,49,50 PROP_PER
+
+Bien souvent après son mariage , elle remonta sur les planches édifiées à Ferney et prit un rôle dans l' une ou l' autre des pièces composées par l' ami de ses parents .
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PROP_GPE|28,30,28,30 NOM_PER|31,32,31,32 PRON_PER|31,33,31,33 NOM_PER
+
+Quelquefois Samuel revenait pour lui donner la réplique , et alors la jeune femme jouissait de tout son cœur des répits que lui laissaient soit une santé déjà très compromise , soit l' arrivée successive des enfants que l' on mettait en nourrice dans les environs de Genève .
+
+1,2,1,2 PROP_PER|4,5,4,5 PRON_PER|11,14,11,14 NOM_PER|17,18,17,18 PRON_PER|22,23,22,23 PRON_PER|35,37,35,37 NOM_PER|37,38,37,38 PRON_PER|42,43,42,43 NOM_PER|47,48,47,48 PROP_GPE|44,48,44,48 NOM_LOC
+
+Nous donnerons ici quelques échantillons des lettres de Charlotte à son mari , et nous ne choisissons pas les plus piquantes ; aussi bien , ce n' est pas la vie de Charlotte , mais celle de Rosalie , que nous retraçons ; nous reproduisons de préférence celles où apparaissent les enfants , mêlés à la vie mondaine « Lundi à 9 h . du soir , [ 1761 ] .
+
+0,1,0,1 PRON_METALEPSE|8,9,8,9 PROP_PER|10,11,10,11 PRON_PER|10,12,10,12 NOM_PER|14,15,14,15 PRON_METALEPSE|32,33,32,33 PROP_PER|37,38,37,38 PROP_PER|40,41,40,41 PRON_METALEPSE|43,44,43,44 PRON_METALEPSE|50,52,50,52 NOM_PER|59,60,59,60 NOM_TIME|64,66,64,66 NOM_TIME|61,66,61,66 NOM_TIME|68,69,68,69 NOM_TIME
+
+« Rosalie fait tout mon bonheur ; elle est gaie et caressante .
+
+1,2,1,2 PROP_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER
+
+Je la gâte beaucoup et ne lui fais rien apprendre , elle s' en porte mieux .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER
+
+» « Vendredi à minuit .
+
+2,3,2,3 NOM_TIME|4,5,4,5 NOM_TIME
+
+« Nous avons demain dix - huit personnes à dîner et douze à souper .
+
+1,2,1,2 PRON_PER|4,8,4,8 NOM_PER
+
+Rosalie sera comme un ange , en robe garnie de fourrure .
+
+0,1,0,1 PROP_PER
+
+Elle est toujours fort aimable .
+
+0,1,0,1 PRON_PER
+
+Ta mère prétend que tu les aimes tous à la folie quoique tu trouves beau de paraître indifférent .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER|4,5,4,5 PRON_PER|5,6,5,6 PRON_PER|7,8,7,8 NOM_PER|12,13,12,13 PRON_PER
+
+» « Dimanche au soir .
+
+2,3,2,3 NOM_TIME|3,5,3,5 NOM_TIME
+
+« Rosalie se débrouille à étonner , elle imagine et cause , elle est souple et gaie .
+
+1,2,1,2 PROP_PER|2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|12,13,12,13 PRON_PER
+
+Tout le monde te souhaite bien de l' ennui , à commencer par MMe Denis .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|13,15,13,15 PROP_PER
+
+Adieu , va te promener !
+
+3,4,3,4 PRON_PER
+
+Oui , oui , très fort , eh bien , je te hais , je te hais , je te hais , i , i , i .
+
+10,11,10,11 PRON_PER|11,12,11,12 PRON_PER|14,15,14,15 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|19,20,19,20 PRON_PER
+
+Priez votre valet de chambre d' écrire à une de mes femmes pour que je sache si vous vous portez bien .
+
+1,2,1,2 PRON_PER|1,5,1,5 NOM_PER|10,12,10,12 NOM_PER|8,12,8,12 NOM_PER|14,15,14,15 PRON_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER
+
+Je vous félicite de la troupe que vous avez à Lausanne , je suppose que vous y passerez l' hiver , dans les foyers .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|4,6,4,6 NOM_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PROP_GPE|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|16,17,16,17 PRON_GPE|18,20,18,20 NOM_TIME|22,24,22,24 NOM_FAC
+
+La nôtre est partie ce matin .
+
+4,6,4,6 NOM_TIME
+
+» Une autre cause de chagrin pour Charlotte était l' humeur jalouse de sa mère , et cette humeur était bien pour quelque chose dans les absences fréquentes du gendre .
+
+7,8,7,8 PROP_PER|13,14,13,14 PRON_PER|13,15,13,15 NOM_PER|28,30,28,30 NOM_PER
+
+Enfin , en automne 1762 , le jeune ménage s' établit chez lui , dans un appartement sis à la Cour de St - Pierre , et c' est là que naquit , le 3 octobre de cette année , Charles , le dernier enfant de Charlotte .
+
+3,5,3,5 NOM_TIME|6,9,6,9 NOM_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|22,25,22,25 PROP_PER|19,25,19,25 NOM_FAC|15,25,15,25 NOM_FAC|29,30,29,30 NOM_FAC|37,39,37,39 NOM_TIME|33,39,33,39 NOM_TIME|40,41,40,41 PROP_PER|46,47,46,47 PROP_PER
+
+L' hiver suivant , Charlotte écrit à Samuel : « Mardi au soir , par la fumée .
+
+0,3,0,3 NOM_TIME|4,5,4,5 PROP_PER|7,8,7,8 PROP_PER|10,11,10,11 NOM_TIME|11,13,11,13 NOM_TIME
+
+que j' ai fait de choses aujourd' hui .
+
+1,2,1,2 PRON_PER|6,8,6,8 NOM_TIME
+
+Le matin des affaires , à dix heures ma toilette , à onze heures en chaise à porteurs jusqu' à la porte de Cornavin .
+
+0,2,0,2 NOM_TIME|6,8,6,8 NOM_TIME|8,9,8,9 PRON_PER|12,14,12,14 NOM_TIME|23,24,23,24 PROP_GPE
+
+De là en carrosse vert à Ferney .
+
+3,5,3,5 NOM_VEH|6,7,6,7 PROP_GPE
+
+Les yeux de Voltaire comme du sang , examinant un nouvel ouvrage qu' il venait de recevoir de l' imprimerie pour envoyer à Paris .
+
+3,4,3,4 PROP_PER|13,14,13,14 PRON_PER|18,20,18,20 NOM_FAC|23,24,23,24 PROP_GPE
+
+Un de volé que je joins ici sans l' avoir lu pour faire tuer le temps à mon minet .
+
+4,5,4,5 PRON_PER|17,18,17,18 PRON_PER|17,19,17,19 NOM_PER
+
+Il a renoncé à Stuttgard , il nous a appris qu' on avait , ces jours passés , pendu Sirven en effigie , à Toulouse .
+
+0,1,0,1 PRON_PER|4,5,4,5 PROP_GPE|6,7,6,7 PRON_PER|14,17,14,17 NOM_TIME|19,20,19,20 PROP_PER|24,25,24,25 PROP_GPE
+
+« Voilà ce que c' est que les chrétiens !
+
+7,9,7,9 NOM_PER
+
+dit - il , quand on est dans un cloaque , il faut être couvert de boue » , et puis : « ces marauds de rois et de prêtres !
+
+2,3,2,3 PRON_PER|8,10,8,10 NOM_FAC|29,30,29,30 NOM_PER|26,30,26,30 NOM_PER|23,30,23,30 NOM_PER
+
+» Beaucoup d' humeur contre la France , d' où je conclus que le dictionnaire a mal réussi .
+
+5,7,5,7 PROP_GPE|10,11,10,11 PRON_PER
+
+De là revenue dans le carrosse vert à la porte , montée en chaise et allée chez MMe Des Franches , trouvé pour antichambre la cuisine et un entrecot tortueux , puis un taudis assez bien rangé et brûlant , une femme très gracieuse se soutenant à peine sur un bâton , en petit deuil , ainsi que sa femme de chambre , manquant du nécessaire et ayant abondamment le superflu , des fleurs , des flacons et de petits meubles de toute espèce .
+
+4,7,4,7 NOM_VEH|17,20,17,20 PROP_PER|23,24,23,24 NOM_FAC|24,26,24,26 NOM_FAC|40,44,40,44 NOM_PER|58,59,58,59 PRON_PER|58,62,58,62 NOM_PER
+
+De là chez moi , Dieu merci .
+
+1,2,1,2 NOM_PER|3,4,3,4 PRON_PER
+
+Je sens bien que je suis vieille , car je rentre avec délice et mes petits autour de moi : « Adieu , maman , adieu , maman , et le pa ?
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|14,15,14,15 PRON_PER|14,16,14,16 NOM_PER|18,19,18,19 PRON_PER|23,24,23,24 NOM_PER|27,28,27,28 NOM_PER|30,32,30,32 NOM_PER
+
+le pa , le pa !
+
+0,2,0,2 NOM_PER|3,5,3,5 NOM_PER
+
+Et puis je pleure et Rosalie aussi .
+
+2,3,2,3 PRON_PER|5,6,5,6 PROP_PER
+
+Ce n' est pas le moyen de mettre quelque chose entre mes os et ma peau .
+
+11,12,11,12 PRON_PER|14,15,14,15 PRON_PER
+
+» « Samedi matin .
+
+2,4,2,4 NOM_TIME
+
+« Je veux vous conter ma vie .
+
+1,2,1,2 PRON_PER|3,4,3,4 PRON_PER|5,6,5,6 PRON_PER
+
+La matinée se passe entre les leçons de ces demoiselles , des affaires de la maison et des écritures ; l' après - midi à lire des contes de fées avec Rosalie et à vous écrire .
+
+0,2,0,2 NOM_TIME|2,3,2,3 PRON_TIME|8,10,8,10 NOM_PER|14,16,14,16 NOM_FAC|20,24,20,24 NOM_TIME|31,32,31,32 PROP_PER|34,35,34,35 PRON_PER
+
+Cette vie tranquille me convient fort , je suis plus gaie que dans le monde .
+
+3,4,3,4 PRON_PER|7,8,7,8 PRON_PER
+
+— J' arrive du collège où j' ai mené Juste [ il avait précisément cinq ans accomplis , l' âge où les petits Genevois commençaient leur éducation publique ] il entrera lundi , on m' a promis d' en avoir grand soin et de le pousser .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_FAC|5,6,5,6 PRON_FAC|6,7,6,7 PRON_PER|9,10,9,10 NOM_PER|11,12,11,12 PRON_PER|14,17,14,17 NOM_TIME|21,24,21,24 NOM_PER|25,26,25,26 PRON_PER|29,30,29,30 PRON_PER|31,32,31,32 NOM_TIME|34,35,34,35 PRON_PER|38,39,38,39 PRON_PER|44,45,44,45 PRON_PER
+
+Il est charmant , il dîne avec nous au grand contentement de ses sœurs , rien n' est si mignon que de voir leurs caresses réciproques » .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|23,24,23,24 PRON_PER
+
+« Lundi soir .
+
+1,3,1,3 NOM_TIME
+
+« J' ai furieusement fait la mère aujourd' hui , une maîtresse d' ouvrage tous les soirs , des habits , des robes , des bonnets .
+
+1,2,1,2 PRON_PER|5,7,5,7 NOM_PER|14,17,14,17 NOM_TIME
+
+Vous trouverez Juste en bavaroise , collet et paremens de velours bleu .
+
+0,1,0,1 PRON_PER|2,3,2,3 NOM_PER
+
+On m' a fait dire qu' il s' était si bien trouvé du collège qu' il n' en voulait pas revenir .
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|12,14,12,14 NOM_FAC|15,16,15,16 PRON_PER|17,18,17,18 PRON_FAC
+
+Lisette , qui commence bien à apprendre à lire , a travaillé avec tant de cœur à sa leçon , que j' ai été obligée de la faire quitter .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER|26,27,26,27 PRON_PER
+
+Rosalie repasse son catéchisme et sa géographie et me tient fort bonne compagnie .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER
+
+Elle m' aime beaucoup , beaucoup , et me sait bon gré de lui lire et de l' amuser .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|8,9,8,9 PRON_PER|13,14,13,14 PRON_PER|17,18,17,18 NOM_PER
+
+« A propos , j' ai été bien malade , de grandes douleurs au côté … maintenant je suis très bien , à une forte migraine près , que je vais mettre coucher » .
+
+4,5,4,5 PRON_PER|17,18,17,18 PRON_PER|29,30,29,30 PRON_PER
+
+la pauvre petite Rosalie ne devait plus avoir longtemps une bonne mère pour la cajoler , lui lire les contes de fées et lui faire répéter sa géographie .
+
+0,4,0,4 PROP_PER|9,12,9,12 NOM_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|23,24,23,24 PRON_PER|26,27,26,27 PRON_PER
+
+Au commencement de 1766 , la maladie qui minait peu à peu la jeune femme la terrassa et le 25 mars , Charlotte de Constant était enlevée à sa famille .
+
+3,4,3,4 NOM_TIME|0,4,0,4 NOM_TIME|12,15,12,15 NOM_PER|15,16,15,16 PRON_PER|18,21,18,21 NOM_TIME|22,25,22,25 PROP_PER|28,29,28,29 PRON_PER|28,30,28,30 NOM_PER
+
+Rosalie n' avait pas huit ans .
+
+0,1,0,1 PROP_PER|4,6,4,6 NOM_TIME
+
+Au cours de sa vie il arrivera rarement à Rosalie de parler de sa mère , mais elle qui toujours aura si grand besoin de tendresse et d' intimité , regrettera assurément et presque sans s' en rendre compte ces épanchements de mère à fille qui plaisaient tant à l' une et à l' autre .
+
+3,4,3,4 PRON_PER|9,10,9,10 PROP_PER|13,14,13,14 PRON_PER|13,15,13,15 NOM_PER|17,18,17,18 PRON_PER|18,19,18,19 PRON_PER|49,55,49,55 NOM_PER
+
+Citons encore ce fragment des lettres de Charlotte qui jette un jour sur le genre de relation existant entre la jeune femme et sa fille aînée : « Dans un de ses momens vifs de caresse j' ai dit à Rosalie : Lequel aimes - tu le mieux de ton papa ou de moi ?
+
+7,8,7,8 PROP_PER|10,12,10,12 NOM_TIME|19,22,19,22 NOM_PER|23,24,23,24 PRON_PER|23,26,23,26 NOM_PER|31,32,31,32 PRON_PER|36,37,36,37 PRON_PER|40,41,40,41 PROP_PER|45,46,45,46 PRON_PER|49,50,49,50 PRON_PER|49,51,49,51 NOM_PER|53,54,53,54 PRON_PER
+
+— Le pa !
+
+1,3,1,3 NOM_PER
+
+le pa !
+
+0,2,0,2 NOM_PER
+
+a - t - elle dit avec vivacité .
+
+4,5,4,5 PRON_PER
+
+Puis , me regardant : Tu n' es pas jalouse , n' est - ce pas ?
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER
+
+— Non , cher ange , c' est ce qui fait que je t' adore .
+
+3,5,3,5 NOM_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_PER
+
+Et puis , nous avons pleuré de ce que nous ne pouvions pas vous le dire » .
+
+3,4,3,4 PRON_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER
+
+Beaucoup d' années plus tard , quand Rosalie pourra revenir sans émotion sur l' événement qui la priva de sa mère , elle dira : « Samuel de Constant aurait trouvé le bonheur dans le mariage si sa femme , jolie et aimable , n' avait pas eu des parens exigeans et tyranniques et si une maladie cruelle n' avait pas troublé tous leurs momens .
+
+0,3,0,3 NOM_TIME|7,8,7,8 PROP_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|19,21,19,21 NOM_PER|22,23,22,23 PRON_PER|26,29,26,29 PROP_PER|37,38,37,38 PRON_PER|37,39,37,39 NOM_PER|48,53,48,53 NOM_PER|63,64,63,64 PRON_PER
+
+La mort lui enleva au bout de quelques années de mariage cette femme dont il était adoré .
+
+2,3,2,3 PRON_PER|7,11,7,11 NOM_TIME|11,13,11,13 NOM_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_PER
+
+M . de Constant se trouva jeune encore , veuf et chargé de quatre enfans .
+
+0,4,0,4 PROP_PER|4,5,4,5 PRON_PER|13,15,13,15 NOM_PER
+
+Il perdit en même temps une partie de sa fortune qu' il avait placée sur la tête de sa femme .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER|18,19,18,19 PRON_PER
+
+Il s' occupa avec tendresse et activité de l' éducation de ses enfans sans négliger ses plaisirs » .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|11,12,11,12 PRON_PER|11,13,11,13 NOM_PER|15,16,15,16 PRON_PER
+
+Après la mort de leur mère , la vie dut être triste pour les quatre enfants placés entre une grand' mère et un père qui ne s' aimaient guère , mais , heureusement , l' enfant ne s' aperçoit pas trop des dissentions intestines , même quand il en est l' objet .
+
+4,5,4,5 PRON_PER|4,6,4,6 NOM_PER|18,21,18,21 NOM_PER|22,24,22,24 NOM_PER|13,24,13,24 NOM_PER|24,25,24,25 PRON_PER|26,27,26,27 PRON_PER|34,36,34,36 NOM_PER|47,48,47,48 PRON_PER
+
+Rosalie et ses frères et sœur habitaient tantôt Genève avec leur père , tantôt St - Jean avec M .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|2,6,2,6 NOM_PER|8,9,8,9 PROP_GPE|10,11,10,11 PRON_PER|10,12,10,12 NOM_PER|14,17,14,17 PROP_GPE|18,19,18,19 NOM_PER
+
+et Mme Pictet .
+
+1,3,1,3 PROP_PER
+
+M . Pictet mourut deux ans après sa fille et voici la réflexion que sa mort suggère à M . Du Pan de Morillon .
+
+0,3,0,3 PROP_PER|7,8,7,8 PRON_PER|7,9,7,9 NOM_PER|14,15,14,15 PRON_PER|18,24,18,24 PROP_PER
+
+« Nous avons enterré mon beau - frère Pictet la semaine dernière .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|4,9,4,9 NOM_PER|9,12,9,12 NOM_TIME
+
+Il a laissé la plus jolie campagne de notre pays .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER
+
+On n' en peut dire autant de sa veuve , ni même qu' elle soit douce comme un mouton » .
+
+7,8,7,8 PRON_PER|7,9,7,9 NOM_PER|13,14,13,14 PRON_PER
+
+( 27 mai 1768 .
+
+1,4,1,4 NOM_TIME
+
+) Oui , St - Jean était bien beau dans ce temps .
+
+3,6,3,6 PROP_GPE
+
+Devant soi on avait la chaîne du Mont - Blanc , au sud le Fort - de - l' Ecluse , au nord le lac Léman , et comme premier plan le Rhône roulant ses ondes bleues entre des rives verdoyantes et boisées .
+
+6,10,6,10 NOM_LOC|4,10,4,10 NOM_LOC|11,13,11,13 NOM_LOC|13,20,13,20 NOM_FAC|21,23,21,23 NOM_LOC|23,26,23,26 NOM_LOC|34,35,34,35 PRON_LOC|38,43,38,43 NOM_LOC|31,43,31,43 PROP_LOC
+
+Aucune cheminée d' usine , aucune fabrique ne masquait un fragment de ce panorama , le cri de la locomotive ne troublait pas le chant du rossignol .
+
+3,4,3,4 NOM_FAC|18,20,18,20 NOM_VEH
+
+Les salles de marronniers , les bosquets peuplés d' oiseaux offraient aux enfants de belles places pour leurs ébats ; et puis quelles joyeuses parties de cache - cache l' on faisait dans les communs !
+
+11,13,11,13 NOM_PER|17,18,17,18 PRON_PER
+
+ce fut même une de ces parties qui coûta à notre Rosalie la rectitude de sa taille .
+
+10,11,10,11 PRON_METALEPSE|10,12,10,12 PROP_PER|15,16,15,16 PRON_PER
+
+Grand' maman Pictet avait défendu de monter à la grange ; on s' y trouvait pourtant un certain jour , jouissant peut - être d' autant plus qu' on se sentait sur un terrain défendu … Tout à coup , la voix de grand' mère se fait entendre !
+
+0,3,0,3 NOM_PER|8,10,8,10 NOM_FAC|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_FAC|16,19,16,19 NOM_TIME|28,29,28,29 PRON_PER|29,30,29,30 PRON_PER|43,45,43,45 NOM_PER
+
+… vite on dégringole le long de l' escalier qui ressemble à une échelle ; Rosalie passe la première pour essuyer l' orage , mais le bois est pourri , un échelon cède , un des enfants tombe sur celui qui précède ; dans son effort pour retenir l' avalanche , Rosalie se brise l' épaule … On remboîta tant bien que mal cette malheureuse épaule , mais , toute sa vie , Rosalie resta un peu contrefaite et , depuis lors , elle ne grandit plus guère .
+
+2,3,2,3 PRON_PER|7,9,7,9 NOM_FAC|9,10,9,10 PRON_FAC|15,16,15,16 PROP_PER|17,19,17,19 NOM_PER|35,37,35,37 NOM_PER|34,37,34,37 NOM_PER|39,41,39,41 NOM_PER|44,45,44,45 PRON_PER|51,52,51,52 PROP_PER|52,53,52,53 PRON_PER|70,71,70,71 PRON_PER|73,74,73,74 PROP_PER|83,84,83,84 PRON_PER
+
+En outre de cette imperfection , Rosalie était très myope , ce qui fut toujours une épreuve pour elle .
+
+6,7,6,7 PROP_PER|18,19,18,19 PRON_PER
+
+Voici le portrait peu flatteur que trace d' elle son père dans une lettre qu' elle reçut de lui à l' âge de quatorze ans , au moment , il est vrai , où elle était en plein dans ce qu' on convenu d' appeler « l' âge ingrat » : « Si au lieu d' être bougeante , inquiétante , clignotante et autre chose en ante , tu devenais tranquille , douce , etc .
+
+8,9,8,9 PRON_PER|9,10,9,10 PRON_PER|9,11,9,11 NOM_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|23,25,23,25 NOM_TIME|20,25,20,25 NOM_TIME|34,35,34,35 PRON_PER|68,69,68,69 PRON_PER
+
+, tu en serais plus aimable ; ce serait tout au profit de ton esprit .
+
+1,2,1,2 PRON_PER|13,14,13,14 PRON_PER
+
+On peut penser , parler et rire sans faire mille mouvemens , et , pour la clignoterie , je voudrais que , — puisque tu as le malheur d' avoir de mauvais yeux , et que tu ne peux voir et juger qu' en faisant un mouvement disgracieux , — tu renonçasses un peu à la curiosité , que tu te traitasses en aveugle , que tu attendisses que les objets vinssent à toi , et qu' en attendant tu pensasses et parlasses de ce que tu connais .
+
+18,19,18,19 PRON_PER|24,25,24,25 PRON_PER|36,37,36,37 PRON_PER|50,51,50,51 PRON_PER|59,60,59,60 PRON_PER|60,61,60,61 PRON_PER|66,67,66,67 PRON_PER|73,74,73,74 PRON_PER|79,80,79,80 PRON_PER|86,87,86,87 PRON_PER
+
+Je crois que tu gagnerais beaucoup à cette manière .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER
+
+Cette tête qui se jette sur les objets , ce corps qui se penche souvent pour ce qui n' en vaut pas la peine , fait toujours une impression peu agréable … » Nous n' en sommes pas là , Rosalie n' a encore que neuf ans , mais déjà dans ses vêtements noirs , souffrant de son épaule et sentant peser sur elle sa responsabilité de sœur ainée , la pauvre petite bonne femme devait souvent froncer le sourcil .
+
+33,34,33,34 PRON_METALEPSE|40,41,40,41 PROP_PER|45,47,45,47 NOM_TIME|51,52,51,52 PRON_PER|57,58,57,58 PRON_PER|63,64,63,64 PRON_PER|64,65,64,65 PRON_PER|70,75,70,75 NOM_PER
+
+Pourtant , si Rosalie était parfois un peu « sermonneuse » avec ses frères , comme elle était tendre aussi !
+
+3,4,3,4 PROP_PER|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|16,17,16,17 PRON_PER
+
+Et puis , déjà elle devait avoir cet esprit de répartie , cette saveur d' originalité , cette naïveté dans les jugements que ses amis admirèrent en elle plus tard ; déjà son goût pour les fleurs et la musique devait amener des sourires sur ses lèvres , des éclairs dans ses yeux .
+
+4,5,4,5 PRON_PER|23,24,23,24 PRON_PER|23,25,23,25 NOM_PER|27,28,27,28 PRON_PER|32,33,32,33 PRON_PER|45,46,45,46 PRON_PER|51,52,51,52 PRON_PER
+
+Rosalie eut peu d' amies à Genève .
+
+0,1,0,1 PROP_PER|2,5,2,5 NOM_PER|6,7,6,7 PROP_GPE
+
+Elle ne fit partie d' aucune des Sociétés du dimanche qui réunissaient en petites coteries les jeunes Genevoises d' alors .
+
+0,1,0,1 PRON_PER|8,10,8,10 NOM_TIME|6,10,6,10 NOM_ORG|10,11,10,11 PRON_ORG|15,20,15,20 NOM_PER
+
+Cela tient , nous dit - elle elle - même quelque part , à ce que dans ce temps - là les portes de Genève se fermaient en hiver à quatre ou cinq heures et que , lorsqu' on habitait la campagne , il était impossible de pénétrer dans la cité passé ce moment .
+
+3,4,3,4 PRON_METALEPSE|6,7,6,7 PRON_PER|7,10,7,10 PRON_PER|24,25,24,25 PROP_GPE|28,29,28,29 NOM_TIME|30,34,30,34 NOM_TIME|40,42,40,42 NOM_LOC|49,51,49,51 NOM_GPE|52,54,52,54 NOM_TIME
+
+Le père de Rosalie ne faisait - il pas un peu peur aux contemporaines de ses filles ?
+
+3,4,3,4 PROP_PER|0,4,0,4 NOM_PER|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|15,17,15,17 NOM_PER|12,17,12,17 NOM_PER
+
+Enfin nous serions tentés de croire qu' on pourrait évoquer ici le refrain d' une vieille chanson : C' est la faute à Voltaire .
+
+1,2,1,2 PRON_METALEPSE|23,24,23,24 PROP_PER
+
+Des enfants qui fréquentaient , qui coudoyaient le terrible homme !
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|7,10,7,10 NOM_PER
+
+n' était - ce pas une société dangereuse pour de petits aristocrates calvinistes ?
+
+9,13,9,13 NOM_PER
+
+En effet , Mme Pictet emmenait parfois ses petits - enfants quand elle s' en allait à Ferney .
+
+3,5,3,5 PROP_PER|7,8,7,8 PRON_PER|7,11,7,11 NOM_PER|12,13,12,13 PRON_PER|17,18,17,18 PROP_GPE
+
+Cinquante ans plus tard , Rosalie évoqua ses souvenirs sur Voltaire à la demande d' un Genevois , M . L . Simond , qui désirait y puiser des renseignements pour la rédaction de son ouvrage intitulé Voyage en Suisse ( Paris 1822 ) .
+
+0,2,0,2 NOM_TIME|5,6,5,6 PROP_PER|7,8,7,8 PRON_PER|10,11,10,11 PROP_PER|15,17,15,17 NOM_PER|18,23,18,23 PROP_PER|24,25,24,25 PRON_PER|34,35,34,35 PRON_PER|39,40,39,40 PROP_GPE|41,42,41,42 PROP_GPE|42,43,42,43 NOM_TIME
+
+Cet écrit de la main de Rosalie nous apprend comment , avec ses frères et sa sœur , elle jouait dans le jardin et même dans la chambre de travail du philosophe .
+
+6,7,6,7 PROP_PER|7,8,7,8 PRON_METALEPSE|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|15,16,15,16 PRON_PER|15,17,15,17 NOM_PER|18,19,18,19 PRON_PER|21,23,21,23 NOM_FAC|31,32,31,32 NOM_PER|26,32,26,32 NOM_FAC
+
+« Dans ses tems de misanthropie même , nous dit - elle , il voulait toujours revoir ses anciens voisins et recevait bien jusqu' aux enfans .
+
+2,3,2,3 PRON_PER|8,9,8,9 PRON_METALEPSE|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|17,18,17,18 PRON_PER|17,20,17,20 NOM_PER|23,26,23,26 NOM_PER
+
+Il les laissait jouer dans sa bibliothèque avec un grand léopard empaillé placé au milieu , ouvrir ses livres , regarder ses estampes .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|5,6,5,6 PRON_PER|17,18,17,18 PRON_PER|21,22,21,22 PRON_PER
+
+Les voyant un jour ôter les hannetons d' un arbuste : — Oh !
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_TIME
+
+dit - il , je suis bien heureux , je n' avais plus que deux ennemis , les Turcs et les hannetons .
+
+2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|14,16,14,16 NOM_PER|17,19,17,19 NOM_PER
+
+Catherine me tue les Turcs , vous me délivrez des hannetons … » À l' âge de huit et de six ans , c' est - à - dire deux ans après la mort de leur mère , Juste et Charles avaient été envoyés en pension à Lausanne .
+
+0,1,0,1 PROP_PER|1,2,1,2 PRON_PER|3,5,3,5 NOM_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|17,22,17,22 NOM_TIME|14,22,14,22 NOM_TIME|29,31,29,31 NOM_TIME|35,36,35,36 PRON_PER|35,37,35,37 NOM_PER|38,39,38,39 NOM_PER|40,41,40,41 PROP_PER|47,48,47,48 PROP_GPE
+
+C' est à ce moment que se rattache une anecdote que nous raconte Charles dans ses mémoires .
+
+11,12,11,12 PRON_METALEPSE|13,14,13,14 PROP_PER|15,16,15,16 PRON_PER
+
+« Nous étions , nous dit - il , chez un ex - jésuite dont le talent consistait à faire croire aux parens que leurs enfans étaient ou des vauriens ou des sots .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_METALEPSE|7,8,7,8 PRON_PER|10,14,10,14 NOM_PER|14,15,14,15 PRON_PER|21,23,21,23 NOM_PER|24,25,24,25 PRON_PER|24,26,24,26 NOM_PER
+
+Il y réussissait si bien que , quoique nous fussions roués de coups et affamés , il fallut trois ans pour que mes parens fussent désabusés sur le compte de cet homme .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER|18,20,18,20 NOM_TIME|22,23,22,23 PRON_PER|22,24,22,24 NOM_PER|30,32,30,32 NOM_PER
+
+La faim nous rendait voleurs , les coups menteurs , lâches et rusés .
+
+2,3,2,3 PRON_PER
+
+« Un jour , nous étions invités chez notre tante , la marquise de Gentil , à Mon Repos , pour voir représenter Nanine devant Voltaire .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|8,9,8,9 PRON_PER|8,10,8,10 NOM_PER|11,15,11,15 NOM_PER|23,24,23,24 PROP_PER|25,26,25,26 PROP_PER
+
+Comme je connaissais les êtres de la maison , mon premier soin en arrivant fut de chercher de quoi manger , je trouvai un pain , la joie fut grande ; j' oublie tout , j' arrive sur le théâtre au milieu de la représentation et tenant mon pain , je crie à mon frère : « Juste !
+
+1,2,1,2 PRON_PER|6,8,6,8 NOM_FAC|3,8,3,8 NOM_PER|9,10,9,10 PRON_PER|21,22,21,22 PRON_PER|31,32,31,32 PRON_PER|35,36,35,36 PRON_PER|38,40,38,40 NOM_FAC|47,48,47,48 PRON_PER|50,51,50,51 PRON_PER|53,54,53,54 PRON_PER|57,58,57,58 NOM_PER
+
+Juste !
+
+0,1,0,1 NOM_PER
+
+On veut savoir ce que cela signifie , j' explique que nous mourons de faim ; il était difficile de ne pas nous croire … « De là nous fumes envoyés à Marschlins , château de M . de Salis et séminaire , à trois lieues de Coire .
+
+8,9,8,9 PRON_PER|11,12,11,12 PRON_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER|32,33,32,33 PROP_GPE|36,40,36,40 PROP_PER|34,42,34,42 NOM_FAC|47,48,47,48 PROP_GPE
+
+Je crois que je ne savais ni lire ni écrire couramment … » Pendant son veuvage qui dura cinq ans , Lalex fut encore le refuge de Samuel , non plus contre la tendresse de la pauvre Lolotte , mais contre les aigreurs de sa belle - mère .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|14,15,14,15 PRON_PER|18,20,18,20 NOM_TIME|21,22,21,22 PROP_GPE|27,28,27,28 PROP_PER|24,28,24,28 NOM_GPE|35,38,35,38 PROP_PER|44,45,44,45 PRON_PER|44,48,44,48 NOM_PER
+
+« Depuis que mon Père fut veuf , nous dit Rosalie , il continua d' aller à Lalex tous les automnes .
+
+3,4,3,4 PRON_PER|3,5,3,5 NOM_PER|8,9,8,9 PRON_METALEPSE|10,11,10,11 PROP_PER|12,13,12,13 PRON_PER|17,18,17,18 PROP_GPE|18,21,18,21 NOM_TIME
+
+Il y faisait des parties de plaisir avec ses amis et sa société , et il y menait ses quatre enfans .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_GPE|11,13,11,13 NOM_PER|8,13,8,13 NOM_PER|15,16,15,16 PRON_PER|16,17,16,17 PRON_GPE|18,21,18,21 NOM_PER
+
+Là il nous laissait nous livrer , il se livrait avec nous , à toute la gaîté , à toute l' insouciance de notre âge .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER|23,24,23,24 PRON_PER
+
+Tout le jour , nous courions dans les vignes et sur les montagnes , le soir il nous faisait danser au son de sa mandoline .
+
+0,3,0,3 NOM_TIME|4,5,4,5 PRON_PER|11,13,11,13 NOM_LOC|7,13,7,13 NOM_LOC|14,16,14,16 NOM_TIME|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER|23,24,23,24 PRON_PER
+
+Je le vois encore nous plaçant aux quatre coins de la chambre , j' entends l' air au son duquel nous nous mettions en mouvement .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|10,12,10,12 NOM_FAC|13,14,13,14 PRON_PER|20,21,20,21 PRON_PER|21,22,21,22 PRON_PER
+
+Ces heureux momens de l' automne où nous étions réunis à nos frères et à notre Père étaient attendus et promis comme une récompense , et nous ne quittions jamais Lalex sans regrets .
+
+4,6,4,6 NOM_TIME|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|11,13,11,13 NOM_PER|15,16,15,16 PRON_PER|15,17,15,17 NOM_PER|26,27,26,27 PRON_PER|30,31,30,31 PROP_GPE
+
+» C' est à cette époque que Samuel reçut de Mme Denis la curieuse lettre qui suit et qui nous ferait présumer qu' il avait demandé à la nièce de Voltaire de faire son bonheur .
+
+4,6,4,6 NOM_TIME|7,8,7,8 PROP_PER|10,12,10,12 PROP_PER|19,20,19,20 PRON_METALEPSE|23,24,23,24 PRON_PER|30,31,30,31 PROP_PER|27,31,27,31 NOM_PER|33,34,33,34 PRON_PER
+
+« Ce 29 juillet , de Paris … Vous me dites que vous êtes libre présentement , et qu' il ne tient qu' à moi de disposer une seconde fois de votre sort .
+
+1,4,1,4 NOM_TIME|6,7,6,7 PROP_GPE|8,9,8,9 PRON_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|24,25,24,25 PRON_PER|31,32,31,32 PRON_PER
+
+Assurément si je le pouvais , je vous prierais de vous rapprocher de moi , mais je suis encore comme l' oiseau sur la branche … Je ne sais ce que le patron veut faire .
+
+2,3,2,3 PRON_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|26,27,26,27 PRON_PER|31,33,31,33 NOM_PER
+
+Il parle de vendre Ferney , ensuite de ne le pas vendre , enfin j' attends ses volontés … J' ai grande envie , si je reste ici , d' y vivre en philosophe .
+
+0,1,0,1 PRON_PER|4,5,4,5 PROP_GPE|9,10,9,10 PRON_GPE|14,15,14,15 PRON_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|25,26,25,26 PRON_PER|27,28,27,28 NOM_GPE|30,31,30,31 PRON_GPE
+
+J' ai tant vu le soleil , qu' à la fin je vois qu' il n' y a qu' une société douce qui puisse amuser et occuper un être raisonnable .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_LOC|11,12,11,12 PRON_PER|27,30,27,30 NOM_PER
+
+Que ferez - vous cet hiver ?
+
+3,4,3,4 PRON_PER|4,6,4,6 NOM_TIME
+
+Vous devriez venir le passer à Paris , je serais comblée de joie … » Il ne vint pas , même il paraîtrait que Samuel s' occupait alors à autre chose qu' aux affaires de Mme Denis .
+
+0,1,0,1 PRON_PER|6,7,6,7 PROP_GPE|8,9,8,9 PRON_PER|15,16,15,16 PRON_PER|24,25,24,25 PROP_PER|25,26,25,26 PRON_PER|35,37,35,37 PROP_PER
+
+« Son cœur , nous dit encore sa fille , ne put rester longtems isolé .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_METALEPSE|7,8,7,8 PRON_PER|7,9,7,9 NOM_PER
+
+Il s' attacha à l' une des femmes les plus distinguées de Genève et consacra plusieurs années à lui faire partager ses sentimens .
+
+0,1,0,1 PRON_PER|12,13,12,13 PROP_GPE|6,13,6,13 NOM_PER|4,13,4,13 NOM_PER|15,17,15,17 NOM_TIME|18,19,18,19 PRON_PER|21,22,21,22 PRON_PER
+
+» Enfin , en 1771 , il écrivait la lettre suivante à ses filles : « Je suis bien fâché , mesdemoiselles d' être si longtems sans vous voir .
+
+4,5,4,5 NOM_TIME|6,7,6,7 PRON_PER|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|16,17,16,17 PRON_PER|21,22,21,22 NOM_PER|27,28,27,28 PRON_PER
+
+Je vous prie de me donner des nouvelles de votre grand' mère et des vôtres .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|9,12,9,12 NOM_PER|14,15,14,15 NOM_PER
+
+Dites - lui , en l' assurant de mes respects , que lui demande bien pardon d' avoir négligé de lui apprendre que le landgrave [ de Hesse ] avait accordé à M . Mallet une place dans son académie et 1500 florins .
+
+2,3,2,3 PRON_PER|5,6,5,6 NOM_PER|8,9,8,9 PRON_PER|12,13,12,13 PRON_PER|20,21,20,21 PRON_PER|27,28,27,28 PROP_GPE|23,28,23,28 NOM_GPE|32,35,32,35 PROP_PER|38,39,38,39 PRON_PER|38,40,38,40 NOM_ORG
+
+Mme Gallatin Vaudenet était charmée d' avoir obtenu cela à la recommandation de Mme Pictet … « Comme je vous l' ai dit , j' ai une annonce demain , et je compte toujour aller à la fin de la semaine prochaine à Dardagny [ chez les Châteauvieux ] et en revenir avec une compagne qui sûrement nous rendra tous heureux .
+
+0,3,0,3 PROP_PER|13,15,13,15 PROP_PER|18,19,18,19 PRON_PER|19,20,19,20 PRON_PER|24,25,24,25 PRON_PER|31,32,31,32 PRON_PER|39,42,39,42 NOM_TIME|36,42,36,42 NOM_TIME|43,44,43,44 PROP_GPE|46,48,46,48 PROP_PER|50,51,50,51 PRON_GPE|53,55,53,55 NOM_PER|55,56,55,56 PRON_PER
+
+Elle aurait bien envie de voir mes filles et j' attends de vous des sentimens d' enfans qui sont bien nés » .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 NOM_PER|17,18,17,18 PRON_PER
+
+Qui était la compagne que M . de Constant se proposait de ramener de Dardagny ?
+
+2,4,2,4 NOM_PER|4,5,4,5 PRON_PER|5,9,5,9 PROP_PER|9,10,9,10 PRON_PER|14,15,14,15 PROP_GPE
+
+Il est curieux que le premier portrait que nous ayons d' elle soit tracé par Charlotte de Constant , celle dont elle devait prendre la place .
+
+8,9,8,9 PRON_METALEPSE|11,12,11,12 PRON_PER|15,18,15,18 PROP_PER|20,21,20,21 PRON_PER|21,22,21,22 PRON_PER
+
+Voici en effet ce que nous lisons dans une des lettres à Samuel .
+
+5,6,5,6 PRON_METALEPSE|12,13,12,13 PROP_PER
+
+[ 1758 ] « Mlle Gallatin vint hier avec ses cousines .
+
+4,6,4,6 PROP_PER|9,10,9,10 PRON_PER|9,11,9,11 NOM_PER
+
+Si votre frère [ Juste ] en veut , qu' il vienne avec vous .
+
+1,2,1,2 PRON_PER|1,5,1,5 NOM_PER|6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER
+
+Elle a le nez un peu long , mais c' est grêler sur le percil .
+
+0,1,0,1 PRON_PER
+
+Elle ferait une fort brave petite femme , mais n' irait pas , je crois , demeurer à Lausanne » .
+
+0,1,0,1 PRON_PER|13,14,13,14 PRON_PER|18,19,18,19 PROP_GPE
+
+Elle y alla , y vécut et même y mourut , mais ce ne fut pas pour suivre Juste .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_GPE|4,5,4,5 PRON_GPE|8,9,8,9 PRON_GPE|18,19,18,19 NOM_PER
+
+On raconte à propos de ce nez qui , paraît - il , était plus qu' « un peu long » qu' un jour , étant dans son salon de Lausanne , elle sonnait un domestique .
+
+22,24,22,24 NOM_TIME|30,31,30,31 PROP_GPE|27,31,27,31 NOM_FAC|32,33,32,33 PRON_PER|34,36,34,36 NOM_PER
+
+Elle eut longtemps à tirer le cordon .
+
+0,1,0,1 PRON_PER
+
+Enfin , un rustaud apparaît et dit de sa voix lente et nasillarde : « Madame a son … né ?
+
+2,4,2,4 NOM_PER|8,9,8,9 PRON_PER|15,16,15,16 NOM_PER|17,18,17,18 PRON_PER
+
+— Par tous les diables , oui , madame l' a , son nez , vous le voyez bien , s' écrie l' époux de la dame qui n' était autre que Samuel de Constant .
+
+8,9,8,9 NOM_PER|12,13,12,13 PRON_PER|15,16,15,16 PRON_PER|20,21,20,21 PRON_PER|25,27,25,27 NOM_PER|22,27,22,27 NOM_PER|27,28,27,28 PRON_PER|32,35,32,35 PROP_PER
+
+Autre portrait tracé plus tard par Rosalie d' une plume dont elle s' efforce d' adoucir la pointe .
+
+6,7,6,7 PROP_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER
+
+Ce portrait est tiré d' un charmant récit auquel nous ferons beaucoup d' emprunts , qu' elle écrivit bien des années plus tard , à la demande de son plus jeune frère , Victor , cinquième enfant de son père , et que nous appelons Journal à Victor .
+
+9,10,9,10 PRON_METALEPSE|16,17,16,17 PRON_PER|18,21,18,21 NOM_TIME|28,29,28,29 PRON_PER|28,32,28,32 NOM_PER|33,34,33,34 PROP_PER|38,39,38,39 PRON_PER|38,40,38,40 NOM_PER|47,48,47,48 PROP_PER
+
+« Mlle de Gallatin , après avoir refusé tous les hommes qui pouvaient prétendre à elle , était restée après trente ans indépendante .
+
+1,4,1,4 PROP_PER|8,11,8,11 NOM_PER|15,16,15,16 PRON_PER|20,22,20,22 NOM_TIME
+
+Sa mère , qui connaissait ses goûts et ses ressources , lui avait conseillé en mourant de ne point se marier … Elle avait le goût de la perfection dans les détails ; sa figure imposante et agréable , ses manières nobles , attirèrent chez elle et enchantèrent un homme vivement sensible , à qui cet ensemble donnait l' idée de toutes les perfections .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER|3,4,3,4 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER|19,20,19,20 PRON_PER|22,23,22,23 PRON_PER|33,34,33,34 PRON_PER|39,40,39,40 PRON_PER|45,46,45,46 PRON_PER|48,52,48,52 NOM_PER|54,55,54,55 PRON_PER
+
+Elle se défendit longtems , mais enfin elle ne put s' empêcher de partager les sentimens de celui qui l' aimait avec tant de passion et de dévouement et qui l' exprimait avec tant d' esprit .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|17,19,17,19 NOM_PER|19,20,19,20 NOM_PER|29,30,29,30 PRON_PER|30,31,30,31 NOM_PER
+
+Alors adieu les vœux , les convenances de fortune , passent les quatre enfans .
+
+11,14,11,14 NOM_PER
+
+Ils se marièrent à Dardagny , chez les parens de Chateauvieux , en 1771 .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|4,5,4,5 PROP_GPE|10,11,10,11 PROP_GPE|7,11,7,11 NOM_PER|13,14,13,14 NOM_TIME
+
+» On pourrait s' y tromper à la douceur voulue de ce style , mais Rosalie ne trouva jamais dans sa seconde mère les soins , l' indulgence que son cœur exclusif et sensitif eût désirés .
+
+1,2,1,2 PRON_METALEPSE|3,4,3,4 PRON_METALEPSE|15,16,15,16 PROP_PER|20,21,20,21 PRON_PER|20,23,20,23 NOM_PER|29,30,29,30 PRON_PER
+
+S' il n' y eut pas guerre ouverte , ce fut plutôt une négation de rapports ; on se demandera souvent en lisant dans la suite la correspondance du père et des filles quel rôle jouait cette nouvelle mère , et on en viendra à conclure qu' elle jouait pour le moins un rôle fort effacé .
+
+17,18,17,18 PRON_METALEPSE|18,19,18,19 PRON_METALEPSE|28,30,28,30 NOM_PER|31,33,31,33 NOM_PER|36,39,36,39 NOM_PER|41,42,41,42 PRON_METALEPSE|47,48,47,48 PRON_PER
+
+Dès les premières heures , le second mariage de Samuel amena aux foyers de St - Jean et de Genève plus d' amertume que de consolations .
+
+1,4,1,4 NOM_TIME|9,10,9,10 PROP_PER|19,20,19,20 PROP_GPE|14,20,14,20 PROP_GPE
+
+Les relations entre ex - belle - mère et gendre n' en furent point améliorées .
+
+3,8,3,8 NOM_PER|9,10,9,10 NOM_PER
+
+Mme Pictet déclara d' emblée qu' elle ne voulait plus garder chez elle ses petites - filles ; finalement elle temporisa car au fond elle regrettait de s' en séparer .
+
+0,2,0,2 PROP_PER|6,7,6,7 PRON_PER|12,13,12,13 PRON_PER|13,14,13,14 PRON_PER|13,17,13,17 NOM_PER|19,20,19,20 PRON_PER|24,25,24,25 PRON_PER|27,28,27,28 PRON_PER|28,29,28,29 PRON_PER
+
+La veille de son mariage , Samuel écrit ce qui suit à Rosalie et à sa sœur : « Mes très chères filles , dans le parti que prend votre grand' mère de vous renvoyer hors de chez elle , je ne vois d' abord que le plaisir de vivre avec vous .
+
+3,4,3,4 PRON_PER|6,7,6,7 PROP_PER|12,13,12,13 PROP_PER|15,16,15,16 PRON_PER|15,17,15,17 NOM_PER|19,20,19,20 PRON_PER|19,23,19,23 NOM_PER|29,30,29,30 PRON_PER|29,32,29,32 NOM_PER|33,34,33,34 PRON_PER|38,39,38,39 PRON_PER|40,41,40,41 PRON_PER|51,52,51,52 PRON_PER
+
+Je vous aime , aux défauts de votre âge près , je vous trouve de bons et aimables enfans , je vous promets que je ferai tout ce que je pourrai pour que nous soyons heureux ensemble , ce sont aussi les sentimens de Mlle Gallatin , vous trouverez en elle une bien bonne amie et une mère tendre .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER|14,19,14,19 NOM_PER|20,21,20,21 PRON_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|29,30,29,30 PRON_PER|44,46,44,46 PROP_PER|47,48,47,48 PRON_PER|50,51,50,51 PRON_PER
+
+Cette espérance [ lisez : cette illusion d' amoureux ] m' a attaché à elle autant que toutes ses autres qualités … Je vois aussi , mes chères filles , dans cette séparation [ d' avec Mme Pictet ] tout ce que vous aurez à souffrir , vous aimez votre grand' mère et vous avez pour elle la tendresse et le respect que vous lui devez par tant de raisons , vous ne pouvez vous séparer d' elle sans chagrin et sans désespoir ; j' espère bien que vous le sentirez et que vous le lui témoignerez .
+
+8,9,8,9 NOM_PER|10,11,10,11 PRON_PER|14,15,14,15 PRON_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER|26,27,26,27 PRON_PER|26,29,26,29 NOM_PER|36,38,36,38 PROP_PER|42,43,42,43 PRON_PER|47,48,47,48 PRON_PER|49,50,49,50 PRON_PER|49,52,49,52 NOM_PER|53,54,53,54 PRON_PER|56,57,56,57 PRON_PER|63,64,63,64 PRON_PER|64,65,64,65 PRON_PER|71,72,71,72 PRON_PER|74,75,74,75 PRON_PER|77,78,77,78 PRON_PER|84,85,84,85 PRON_PER|88,89,88,89 PRON_PER|93,94,93,94 PRON_PER|95,96,95,96 PRON_PER
+
+Ne négligez rien pour obtenir d' elle sa bénédiction .
+
+6,7,6,7 PRON_PER|7,8,7,8 PRON_PER
+
+Dans tout ce que je vous ai conseillé , mon but a été de former vos sentimens et il serait cruellement manqué si vous n' avez pas pour elle les plus grands respects … » Voilà « le chevalier du bon ton » qui reparaît dans toute sa grandeur , voilà ce qu' on peut appeler par excellence la lettre du gendre digne de figurer dans le Manuel de la correspondance ou recueil de lettres pour toutes les circonstances de la vie .
+
+4,5,4,5 PRON_PER|5,6,5,6 PRON_PER|9,10,9,10 PRON_PER|15,16,15,16 PRON_PER|23,24,23,24 PRON_PER|28,29,28,29 PRON_PER|37,42,37,42 NOM_PER|43,44,43,44 PRON_PER|47,48,47,48 PRON_PER|60,62,60,62 NOM_PER
+
+Les nouveaux époux s' établirent à la rue de l' Hôtel - de - Ville , maison Argand , où leurs filles les rejoignirent plus tard .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER|9,15,9,15 NOM_FAC|6,15,6,15 PROP_FAC|19,20,19,20 PRON_FAC|20,21,20,21 PRON_PER|20,22,20,22 NOM_PER|22,23,22,23 PRON_PER
+
+Du même aux mêmes : « Je n' ai point pu vous envoyer chercher ni hier ni avant - hier et je ne sais point quand je le pourrai .
+
+0,2,0,2 NOM_PER|2,4,2,4 NOM_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER|15,16,15,16 NOM_TIME|17,20,17,20 NOM_TIME|21,22,21,22 PRON_PER|26,27,26,27 PRON_PER
+
+Le fait est qu' il ne me convient point de vous envoyer chercher dans ce moment , et je prendrai celui qui me conviendra .
+
+6,7,6,7 PRON_PER|10,11,10,11 PRON_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER
+
+Vous étiez hier dans le carrosse de votre grand' mère , elle peut vous renvoyer quand il lui plaira , vous serez toujours bien reçues , votre chambre vous attend .
+
+0,1,0,1 PRON_PER|7,10,7,10 NOM_PER|4,10,4,10 NOM_VEH|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|26,28,26,28 NOM_FAC|28,29,28,29 PRON_PER
+
+Il ne faut renvoyer vos maîtres que quand vous serez bien sûres de revenir » .
+
+4,6,4,6 NOM_PER|8,9,8,9 PRON_PER
+
+« Je suis très content , mes chères filles , que votre grand' mère n' envoie personne et surtout aucun de ses domestiques chez nous .
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|6,9,6,9 NOM_PER|11,12,11,12 PRON_PER|11,14,11,14 NOM_PER|21,22,21,22 PRON_PER|21,23,21,23 NOM_PER|24,25,24,25 PRON_PER
+
+Quand vous aurez des réponses à me faire , vous pourrez les envoyer chez les demoiselles Albanel , marchandes de modes à la Fusterie , où nous faisons prendre nos lettres de Suisse , et moi j' enverrai les miennes toujours chez Barbier .
+
+1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|14,17,14,17 NOM_PER|22,24,22,24 NOM_FAC|25,26,25,26 PRON_FAC|26,27,26,27 PRON_PER|29,30,29,30 PRON_PER|32,33,32,33 PROP_GPE|35,36,35,36 PRON_PER|36,37,36,37 PRON_PER|39,40,39,40 NOM_PER|42,43,42,43 PROP_PER
+
+Ce sera l' occasion de vous exercer pour l' écriture et pour l' orthographe dont Mlle Lisette a fait beaucoup de fautes dans cette dernière .
+
+5,6,5,6 PRON_PER|15,17,15,17 PROP_PER
+
+De plus je vous verrai quand il me plaira de me donner cet honneur et ce plaisir , et comme j' en suis très impatient je vous enverrai prendre avec le cabriolet jeudi , à dix heures , et je me donnerai aussi les airs de vous renvoyer quand il me plaira .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|7,8,7,8 PRON_PER|10,11,10,11 PRON_PER|20,21,20,21 PRON_PER|25,26,25,26 PRON_PER|26,27,26,27 PRON_PER|30,32,30,32 NOM_VEH|32,33,32,33 NOM_TIME|35,37,35,37 NOM_TIME|39,40,39,40 PRON_PER|40,41,40,41 PRON_PER|46,47,46,47 PRON_PER|50,51,50,51 PRON_PER
+
+Je suis extrêmement friand de mon pouvoir paternel .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER
+
+J' ai fait des croix sous les chiffres qui ne sont pas bien , il faudrait repasser les comptes et corriger les fautes .
+
+0,1,0,1 PRON_PER
+
+Lis toujours , ma chère Lisette , je t' en supplie … » Les fillettes se transportèrent enfin en ville , mais pour peu de temps , et une saison à Lalex intervint tout à propos pour aider à ces débuts un peu pénibles .
+
+3,4,3,4 PRON_PER|3,6,3,6 PROP_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_PER|13,15,13,15 NOM_PER|15,16,15,16 PRON_PER|19,20,19,20 NOM_GPE|31,32,31,32 PROP_GPE
+
+Empruntons ici une page au cahier vert : « Lorsque notre Père se remaria et que nous eûmes quitté notre grand' mère Pictet pour demeurer chez lui , nous allâmes ensemble passer l' été à Lalex .
+
+10,11,10,11 PRON_PER|12,13,12,13 PRON_PER|16,17,16,17 PRON_PER|19,20,19,20 PRON_PER|19,23,19,23 NOM_PER|26,27,26,27 PRON_PER|28,29,28,29 PRON_PER|32,34,32,34 NOM_TIME|35,36,35,36 PROP_GPE
+
+Mon Père était heureux alors et jouissait de ces premières illusions d' un mariage d' inclination qui répandent un charme sur tous les objets .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER
+
+Ma belle - mère était alors bonne et aimable pour nous .
+
+0,1,0,1 PRON_PER|0,4,0,4 NOM_PER|10,11,10,11 PRON_PER
+
+Son mari et les enfans de son mari étaient ses premiers objets d' intérêt et d' affection , et la vivacité de ses sentimens suppléait aux défauts de son caractère .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER|6,7,6,7 PRON_PER|6,8,6,8 NOM_PER|3,8,3,8 NOM_PER|9,10,9,10 PRON_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER
+
+Nous nous occupâmes d' abord à arranger et à orner la maison qui devint charmante dans sa simplicité rustique par le goût et la propreté qui la paraient .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|10,12,10,12 NOM_FAC|12,13,12,13 PRON_FAC|16,17,16,17 PRON_FAC|26,27,26,27 PRON_FAC
+
+Nos amis et nos parens vinrent souvent nous y voir .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER|3,4,3,4 PRON_PER|3,5,3,5 NOM_PER|7,8,7,8 PRON_PER|8,9,8,9 PRON_FAC
+
+L' été et l' automne se passèrent en promenades sur les montagnes , sur le lac , en petites fêtes domestiques .
+
+3,5,3,5 NOM_TIME|0,5,0,5 NOM_TIME|5,6,5,6 PRON_TIME|10,12,10,12 NOM_LOC|14,16,14,16 NOM_LOC
+
+Nous étions , ma sœur et moi , dans cet âge heureux où le bonheur est facile , où aucun sentiment trop vif , aucune idée inquiétante ne trouble encore les jouissances du moment .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|9,12,9,12 NOM_TIME|12,13,12,13 PRON_TIME|18,19,18,19 PRON_TIME
+
+À quelques nuages près , nous étions tous heureux et nous en aimions davantage .
+
+5,6,5,6 PRON_PER|7,8,7,8 NOM_PER|10,11,10,11 PRON_PER
+
+Jamais je n' oublierai cette saison , peut - être la plus heureuse de ma vie … » Ici se place un grand événement dans la vie de Rosalie et de sa sœur .
+
+1,2,1,2 PRON_PER|14,16,14,16 NOM_PER|28,29,28,29 PROP_PER|31,32,31,32 PRON_PER|31,33,31,33 NOM_PER
+
+Les deux enfants allèrent passer l' hiver 1772 -73 à Paris avec leur grand' mère .
+
+0,3,0,3 NOM_PER|5,9,5,9 NOM_TIME|10,11,10,11 PROP_GPE|12,15,12,15 NOM_PER
+
+Le principal but était de faire redresser la taille de Rosalie par l' ami de leur père , le Dr Tronchin , qui venait de quitter Genève pour Paris .
+
+10,11,10,11 PROP_PER|15,16,15,16 PRON_PER|12,17,12,17 NOM_PER|22,23,22,23 PRON_PER|26,27,26,27 PROP_GPE|28,29,28,29 PROP_GPE
+
+On sait que le traitement ne réussit guère .
+
+0,1,0,1 PRON_METALEPSE
+
+Heureusement le voyage fut plus profitable à Rosalie quant au développement de son esprit .
+
+7,8,7,8 PROP_PER|12,13,12,13 PRON_PER
+
+Le 7 décembre , quatre jours après le départ des voyageuses , son père , toujours soucieux de sa bonne éducation , lui écrivait : « Tâche de bien voir , emprunte souvent les yeux de ta sœur .
+
+0,3,0,3 NOM_TIME|4,6,4,6 NOM_TIME|9,11,9,11 NOM_PER|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|18,19,18,19 PRON_PER|22,23,22,23 PRON_PER|36,37,36,37 PRON_PER|36,38,36,38 NOM_PER
+
+Je ne vous recommande que de vous occuper du but de votre voyage , de revenir grandes filles .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER|16,18,16,18 NOM_PER
+
+On exigera beaucoup de ces demoiselles qui reviennent de Paris .
+
+4,6,4,6 NOM_PER|6,7,6,7 PRON_PER|9,10,9,10 PROP_GPE
+
+J' ai écrit à M . Tronchin !
+
+0,1,0,1 PRON_PER|4,7,4,7 PROP_PER
+
+» Du même : « Mes très chères filles , toutes vos lettres nous ont fait un plaisir bien vif , d' abord parce qu' elles nous ont donné de bonnes nouvelles de vous , et ensuite parce que je les trouve écrites comme je les souhaite , naturellement et amicalement .
+
+1,3,1,3 NOM_PER|5,6,5,6 PRON_PER|5,9,5,9 NOM_PER|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|26,27,26,27 PRON_PER|33,34,33,34 PRON_PER|39,40,39,40 PRON_PER|44,45,44,45 PRON_PER
+
+Ta bonne petite âme , ma chère Lisette , s' y était bien peinte .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|5,8,5,8 PROP_PER
+
+Vous avez peu d' amis , peu de parens , c' est - à - dire que peu de personnes sont appelées à vous aimer et à vous supporter ; vous n' aurez donc d' existence que par vos bonnes qualités .
+
+0,1,0,1 PRON_PER|2,5,2,5 NOM_PER|6,9,6,9 NOM_PER|17,20,17,20 NOM_PER|23,24,23,24 PRON_PER|27,28,27,28 PRON_PER|30,31,30,31 PRON_PER|38,39,38,39 PRON_PER
+
+« Ce que je te recommande , ma chère Rosalie , ce sont tes tablettes .
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER|7,8,7,8 PRON_PER|7,10,7,10 PROP_PER|13,14,13,14 PRON_PER
+
+Mets - y tout , je t' en supplie , même tes petites observations sur ce que tu verras .
+
+5,6,5,6 PRON_PER|6,7,6,7 PRON_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER
+
+Vous êtes logées dans un quartier charmant et où il y a bien des choses à voir .
+
+0,1,0,1 PRON_PER|4,7,4,7 NOM_FAC|8,9,8,9 PRON_FAC
+
+N' allez - vous pas vous promener bien aisément dans le jardin du Palais - Royal ?
+
+5,6,5,6 PRON_PER|12,16,12,16 NOM_FAC|10,16,10,16 NOM_FAC
+
+Rosalie , je partage souvent ton chagrin sur ta vue basse .
+
+0,1,0,1 PROP_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER
+
+Je renvoie ma curiosité et mon intérêt sur ta taille lorsque je te reverrai , jusque là , je ne veux ni craindre ni espérer .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER|12,13,12,13 PRON_PER|18,19,18,19 PRON_PER
+
+M . Tronchin m' a répondu avec beaucoup de bonté sur toi et je me confie dans ses soins , je voudrais pouvoir dire sur ton attention , mais tu sais bien que ta négligence et ton inquiétude ont toujours été nos chagrins .
+
+0,3,0,3 PROP_PER|3,4,3,4 PRON_PER|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|25,26,25,26 PRON_PER|29,30,29,30 PRON_PER|33,34,33,34 PRON_PER|36,37,36,37 PRON_PER
+
+« Pense quelquefois , ma fille , qu' il n' y a plus un seul moment à perdre .
+
+4,5,4,5 PRON_PER
+
+Dieu veuille exaucer nos prières et nos espérances là - dessus .
+
+0,1,0,1 PROP_PER
+
+Je me confie dans l' avenir et je ne cesse de t' exhorter à penser continuellement à toi et à tout ce qui peut t' être bon .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER|24,25,24,25 PRON_PER
+
+Encore un an ou deux et tout sera dit là - dessus pour la vie .
+
+1,5,1,5 NOM_TIME
+
+Souviens - toi bien que ton sort sera le mien .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|9,10,9,10 NOM_PER
+
+« J' ai négligé de vous communiquer la mort de Mme d' Hermenches , ma belle - sœur .
+
+1,2,1,2 PRON_PER|5,6,5,6 PRON_PER|10,13,10,13 PROP_PER|14,15,14,15 PRON_PER|14,18,14,18 NOM_PER
+
+Elle est morte , il y a quinze jours , subitement , en prenant du thé chez Mme de Watteville .
+
+0,1,0,1 PRON_PER|7,9,7,9 NOM_TIME|17,20,17,20 PROP_PER
+
+Tu devrais peut - être écrire à Constance , elle est chez son père , à Hermenches .
+
+0,1,0,1 PRON_PER|7,8,7,8 PROP_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|12,14,12,14 NOM_PER|16,17,16,17 PROP_GPE
+
+» Il faut dire , pour expliquer ce peu d' attendrissement sur un deuil de famille , que M . et Mme d' Hermenches vivaient séparés depuis longtemps .
+
+15,16,15,16 NOM_PER|21,24,21,24 PROP_PER|18,24,18,24 PROP_PER
+
+Malgré ce que dit M . de Constant sur les mauvais yeux de Rosalie , celle - ci y voyait encore assez clair pour une jeune fille de quatorze ans et demi .
+
+4,8,4,8 PROP_PER|13,14,13,14 PROP_PER|15,18,15,18 NOM_PER|24,32,24,32 NOM_PER
+
+On en jugera par les extraits suivants des « tablettes » susnommées qui , heureusement , nous ont été conservées .
+
+0,1,0,1 PRON_METALEPSE|16,17,16,17 PRON_METALEPSE
+
+C' est la première œuvre en date que nous ayons d' elle , et ce qui donne surtout du prix à ce petit cahier cartonné que nous avons sous les yeux , c' est qu' il contient un journal écrit en 1772 et 73 , c' est - à - dire sous le règne de Louis XV .
+
+8,9,8,9 PRON_METALEPSE|11,12,11,12 PRON_PER|26,27,26,27 PRON_METALEPSE|41,42,41,42 NOM_TIME|43,44,43,44 NOM_TIME|55,57,55,57 PROP_PER|52,57,52,57 NOM_HIST
+
+Le style de Rosalie n' a pas encore la vivacité qu' il acquit plus tard .
+
+3,4,3,4 PROP_PER
+
+Très soumise aux recommandations de son père , elle note tout ce qu' elle voit , mais sans laisser assez , selon nous , la bride à son imagination poétique .
+
+5,6,5,6 PRON_PER|5,7,5,7 NOM_PER|8,9,8,9 PRON_PER|13,14,13,14 PRON_PER|22,23,22,23 PRON_METALEPSE|27,28,27,28 PRON_PER
+
+Ce qui nous plaît le plus dans ces pages , ce sont les remarques naïves et enfantines qui tombent assez souvent de la plume de notre voyageuse .
+
+2,3,2,3 PRON_METALEPSE|25,26,25,26 PRON_PER|25,27,25,27 NOM_PER
+
+Le Paris d' alors ne ressemblait guère à celui d' aujourd' hui .
+
+0,4,0,4 PROP_GPE|8,12,8,12 NOM_GPE
+
+Pour les demoiselles de Constant , comme pour les étrangers et provinciaux de tous les temps , c' était la ville des plaisirs et du luxe ; et , déjà en 1772 , un des principaux attraits était les boulevards , mais combien différents des boulevards de nos jours !
+
+1,5,1,5 NOM_PER|13,16,13,16 NOM_TIME|8,16,8,16 NOM_PER|17,18,17,18 PRON_GPE|19,26,19,26 NOM_GPE|31,32,31,32 NOM_TIME|38,40,38,40 NOM_FAC|47,49,47,49 NOM_TIME|44,49,44,49 NOM_FAC
+
+N' en prenons pour exemple que cette description , trouvée quelque part dans les tablettes de Rosalie .
+
+16,17,16,17 PROP_PER
+
+« Les boulevards sont une promenade plantée de quatre lignes d' arbres et qui fait le tour de Paris .
+
+1,3,1,3 NOM_FAC|4,12,4,12 NOM_FAC|13,14,13,14 PRON_FAC|18,19,18,19 PROP_GPE
+
+Cette promenade de six lieues de long est bordée de caffés , d' endroits où l' on voit différens spectacles .
+
+0,7,0,7 NOM_FAC|10,11,10,11 NOM_FAC
+
+L' hiver tout cela est fermé , mais cela doit être charmant pendant la belle saison » .
+
+0,2,0,2 NOM_TIME|13,16,13,16 NOM_TIME
+
+Parties de St - Jean le 3 décembre 1772 , en compagnie de leur grand' mère et de trois autres dames de Genève , nos voyageuses atteignirent Paris le 9 au soir et eurent grand' peine à s' y loger .
+
+2,5,2,5 PROP_GPE|5,9,5,9 NOM_TIME|22,23,22,23 PROP_GPE|18,23,18,23 NOM_PER|13,23,13,23 NOM_PER|24,26,24,26 NOM_PER|27,28,27,28 PROP_GPE|28,30,28,30 NOM_TIME|30,32,30,32 NOM_TIME|38,39,38,39 PRON_GPE
+
+Enfin elles trouvèrent place dans un hôtel garni appelé Hôtel de Bayonne , rue St - Honoré , en face de l' Opéra .
+
+1,2,1,2 PRON_PER|9,12,9,12 NOM_FAC|5,12,5,12 NOM_FAC|13,17,13,17 PROP_FAC|21,23,21,23 PROP_FAC
+
+Nous ne ferons plus guère maintenant que transcrire ce que contiennent les tablettes .
+
+0,1,0,1 PRON_METALEPSE
+
+« Nous nous amusions beaucoup à voir la beauté des équipages et la parure des femmes qui entraient à l' Opéra .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_PER|9,11,9,11 NOM_PER|14,16,14,16 NOM_PER|16,17,16,17 PRON_PER|19,21,19,21 PROP_FAC
+
+» Comme aujourd' hui , la première course d' une femme fraîchement débarquée dans la capitale de la mode était destinée aux emplettes .
+
+14,19,14,19 NOM_GPE|9,19,9,19 NOM_PER
+
+Le charnier des Innocents !
+
+2,4,2,4 NOM_PER|0,4,0,4 NOM_FAC
+
+tel était le Bon Marché du temps .
+
+2,7,2,7 NOM_FAC
+
+« Le lendemain , nous allâmes au charnier des Saints - Innocens faire quelques emplettes .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|8,12,8,12 NOM_PER|6,12,6,12 NOM_FAC
+
+C' est une longue allée autour d' un cimetière où , d' un côté , il y a des lingères et de l' autre des boutiques de mode … » Là , Mme Pictet et ses petites - filles prirent un fiacre et allèrent un peu se promener pour voir les rues de Paris , puis chez Audino , un fort joli spectacle où des enfants jouent des pantomimes et dansent des ballets .
+
+0,1,0,1 PRON_FAC|7,9,7,9 NOM_FAC|2,9,2,9 NOM_FAC|9,10,9,10 PRON_FAC|24,28,24,28 NOM_FAC|30,31,30,31 NOM_FAC|32,34,32,34 PROP_PER|35,36,35,36 PRON_PER|35,39,35,39 NOM_PER|40,42,40,42 NOM_VEH|53,54,53,54 PROP_GPE|50,54,50,54 NOM_FAC|57,58,57,58 PROP_PER|64,66,64,66 NOM_PER
+
+« Le 14 , nous allâmes sur la place de la Grève où se tient tous les lundis une foire de vieux habits , rubans , linge , etc .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|7,12,7,12 NOM_FAC|12,13,12,13 PRON_FAC|15,18,15,18 NOM_TIME
+
+» Décidément les chiffons ont toujours eu de l' attrait pour les femmes , qu' on les trouve sur une place de foire ou dans la vitrine d' un élégant magasin .
+
+11,13,11,13 NOM_PER|19,23,19,23 NOM_FAC|28,31,28,31 NOM_FAC
+
+Le spectacle aussi attirait les filles de Samuel et de Charlotte .
+
+7,8,7,8 PROP_PER|10,11,10,11 PROP_PER|4,11,4,11 NOM_PER
+
+Après le spectacle enfantin d' Audino , on en goûta de plus sérieux .
+
+5,6,5,6 PROP_PER
+
+Ces demoiselles avaient retrouvé à Paris plusieurs amies de leurs parents MMmes de Luchet , Favre , Necker , Des Barry , Diodati , de la Richardière , MM . de Lacorbière , Tronchin , de Flavigny , etc .
+
+0,2,0,2 NOM_PER|5,6,5,6 PROP_GPE|9,10,9,10 PRON_PER|9,11,9,11 NOM_PER|6,11,6,11 NOM_PER|12,14,12,14 PROP_PER|15,16,15,16 PROP_PER|17,18,17,18 PROP_PER|19,21,19,21 PROP_PER|22,23,22,23 PROP_PER|24,27,24,27 PROP_PER|28,32,28,32 PROP_PER|33,34,33,34 PROP_PER|35,37,35,37 PROP_PER|11,37,11,37 PROP_PER
+
+La première nommée est Mme de Vermenoux qui , on le sait , aurait pu , avant Mlle Curchod , sa dame de compagnie , devenir Mme Necker .
+
+0,3,0,3 NOM_PER|4,7,4,7 PROP_PER|7,8,7,8 PRON_PER|9,10,9,10 PRON_METALEPSE|17,19,17,19 PROP_PER|20,21,20,21 PRON_PER|26,28,26,28 PROP_PER
+
+Mme de Vermenoux offrit de suite aux jeunes filles de les conduire dans son carrosse à l' Opéra ; ce fut elle aussi qui leur organisa des leçons de danse .
+
+0,3,0,3 PROP_PER|6,9,6,9 NOM_PER|10,11,10,11 PRON_PER|13,14,13,14 PRON_PER|13,15,13,15 NOM_VEH|16,18,16,18 PROP_FAC|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER
+
+« Nous fûmes aux secondes loges , la salle est superbe , toute dorée et parfaitement illuminée .
+
+1,2,1,2 PRON_PER|7,9,7,9 NOM_FAC
+
+Elle a quatre rangs de loges .
+
+0,1,0,1 PRON_FAC|5,6,5,6 NOM_FAC
+
+La musique en est française , on y danse des ballets charmans , les habits des danseuses et danseurs sont des plus galans et des plus riches .
+
+2,3,2,3 PRON_FAC|7,8,7,8 PRON_FAC|15,17,15,17 NOM_PER|18,19,18,19 NOM_PER
+
+La parure des femmes aux premières loges était excessive , elles sont couvertes de diamans .
+
+2,7,2,7 NOM_PER|10,11,10,11 PRON_PER
+
+On jouait ce soir - là Adèle de Ponthieu , opéra nouveau que l' on n' a pas trouvé bon , mais qui nous fit le plus grand plaisir , n' ayant jamais rien vu de pareil .
+
+2,6,2,6 NOM_TIME|13,15,13,15 NOM_PER|23,24,23,24 PRON_PER
+
+» Mme de Vermenoux devait bien s' amuser de ces petites provinciales venues à l' opéra pour écouter la musique et suivre l' intrigue du libretto !
+
+1,4,1,4 PROP_PER|6,7,6,7 PRON_PER|14,16,14,16 NOM_FAC|9,16,9,16 NOM_PER
+
+Ces dames ne pensent pas seulement aux spectacles , elles remplissent aussi leurs devoirs religieux .
+
+0,2,0,2 NOM_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER
+
+« Dimanche 20 , été à l' hôtel de Hollande où habite l' ambassadeur .
+
+1,3,1,3 NOM_TIME|4,5,4,5 NOM_PER|6,10,6,10 NOM_FAC|10,11,10,11 PRON_FAC|12,14,12,14 NOM_PER
+
+Ses chapelains y font un sermon pour les protestans » .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER|2,3,2,3 PRON_FAC|7,9,7,9 NOM_PER
+
+Et puis vite on revient aux boutiques ; c' est décidément ce qui , pour l' heure , intéresse le plus ces demoiselles .
+
+3,4,3,4 PRON_PER|5,7,5,7 NOM_FAC|21,23,21,23 NOM_PER
+
+« Le 23 , nous avons pris un fiacre pour parcourir la Halle ; c' est un quartier de Paris où l' on vend toutes sortes de choses .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|7,9,7,9 NOM_VEH|11,13,11,13 NOM_FAC|14,15,14,15 PRON_FAC|19,20,19,20 PROP_GPE|16,20,16,20 NOM_FAC|20,21,20,21 PRON_FAC
+
+Il y a plusieurs rues , et dans les unes on ne vend que des meubles , dans une autre que des friperies , des rubans , etc .
+
+3,5,3,5 NOM_FAC
+
+Le 25 [ jour de Noël ] , nous fîmes la partie , avec nos compagnes de voyage , Mme Favre leur sœur , et M . Lacorbière , d' aller à la messe de minuit dans l' église de Notre - Dame , cathédrale de Paris .
+
+0,2,0,2 NOM_TIME|3,6,3,6 NOM_TIME|8,9,8,9 PRON_PER|14,15,14,15 PRON_PER|14,18,14,18 NOM_PER|19,21,19,21 PROP_PER|21,22,21,22 PRON_PER|21,23,21,23 NOM_PER|25,28,25,28 PROP_PER|35,36,35,36 NOM_TIME|37,43,37,43 NOM_FAC|46,47,46,47 PROP_GPE
+
+Le lendemain soir , nous sommes allées à la Comédie italienne ; on jouait Le Tuteur trompé et Le Déserteur , dont la musique est charmante .
+
+0,3,0,3 NOM_TIME|4,5,4,5 PRON_PER|8,11,8,11 NOM_FAC
+
+» Le 31 , dernier jour de l' année , il fallait faire quelque chose de spécial .
+
+1,3,1,3 NOM_TIME|7,9,7,9 NOM_TIME
+
+Or , Rosalie nous apprend que la coutume était d' illuminer cette nuit - là le Palais de Justice .
+
+2,3,2,3 PROP_PER|3,4,3,4 PRON_METALEPSE|11,15,11,15 NOM_TIME|15,19,15,19 NOM_FAC
+
+« Nous y allâmes avec Mme de Luchet .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_FAC|5,8,5,8 PROP_PER
+
+Les salles qui servent de vestibule sont garnies de boutiques de bijoutiers , de quincailliers , de mode , etc .
+
+0,2,0,2 NOM_FAC|2,3,2,3 PRON_FAC|5,6,5,6 NOM_FAC|11,12,11,12 NOM_PER|14,15,14,15 NOM_PER|9,18,9,18 NOM_FAC
+
+Il y avait une grande foule .
+
+3,6,3,6 NOM_PER
+
+Nous nous engageâmes dans une des galeries où l' on était si serré qu' on étouffait .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|5,7,5,7 NOM_FAC|4,7,4,7 NOM_FAC|7,8,7,8 PRON_FAC
+
+En sortant , nous nous perdîmes et ne pûmes retrouver notre carrosse … » « Les premiers jours de janvier , nous sortîmes très peu .
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER|10,12,10,12 NOM_VEH|19,20,19,20 NOM_TIME|15,20,15,20 NOM_TIME|21,22,21,22 PRON_PER
+
+Nous prenions quelquefois un fiacre le soir et nous allions nous promener devant les boutiques au quai de la Volaille ou voir Mme Favre et ses sœurs .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_VEH|5,7,5,7 NOM_TIME|8,9,8,9 PRON_PER|10,11,10,11 PRON_PER|15,20,15,20 NOM_FAC|13,20,13,20 NOM_FAC|25,27,25,27 NOM_PER|22,27,22,27 NOM_PER
+
+» On allait aussi sûrement chez M . Tronchin pour travailler sur la pauvre épaule .
+
+1,2,1,2 PRON_PER|6,9,6,9 PROP_PER
+
+Rosalie n' en parle jamais dans ses tablettes , pourtant le traitement se poursuivait .
+
+0,1,0,1 PROP_PER|6,7,6,7 PRON_PER
+
+Un jour « nous fîmes la partie d' aller avec ces dames à Saint - Denis .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PRON_PER|10,12,10,12 NOM_PER|13,16,13,16 PROP_GPE
+
+En passant , nous nous arrêtâmes dans la campagne de M . Necker , à Saint - Ouen .
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER|10,13,10,13 PROP_PER|7,13,7,13 NOM_LOC|15,18,15,18 PROP_GPE
+
+À Saint - Denis , ce qu' il y a de remarquable est l' Abbaye , où l' on enterre les rois de France et leurs familles .
+
+1,4,1,4 PROP_GPE|13,15,13,15 NOM_FAC|16,17,16,17 PRON_FAC|23,24,23,24 PROP_GPE|20,24,20,24 NOM_PER|25,26,25,26 PRON_PER|25,27,25,27 NOM_PER
+
+Je me sentis pénétrée de respect en entrant sous ces voûtes .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER
+
+Des moines nous montrèrent les tombeaux des rois .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|4,8,4,8 NOM_FAC
+
+Ils sont représentés dans leurs habits royaux , couchés sur leur tombe .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_PER|10,11,10,11 PRON_PER
+
+Les plus beaux sont ceux de François premier , de Louis 12 , de Henri 3 et de Catherine de Médicis , ce qui nous indigna beaucoup .
+
+6,8,6,8 PROP_PER|10,12,10,12 PROP_PER|14,16,14,16 PROP_PER|18,21,18,21 PROP_PER|24,25,24,25 PRON_PER
+
+Il y a un caveau où on enterre la maison de Bourbon .
+
+3,5,3,5 NOM_FAC|5,6,5,6 PRON_FAC|11,12,11,12 PROP_GPE|8,12,8,12 NOM_PER
+
+À côté sont deux lits de parade de velours noir , l' un pour Louis 13 et l' autre pour Louis 14 .
+
+14,16,14,16 PROP_PER|20,22,20,22 PROP_PER
+
+« Quand nous eûmes vu tout ce qu' il y avait à voir , M . Favre nous mena malgré nous dans un mauvais cabaret où nous dînâmes fort mal .
+
+2,3,2,3 PRON_PER|14,17,14,17 PROP_PER|17,18,17,18 PRON_PER|20,21,20,21 PRON_PER|22,25,22,25 NOM_FAC|25,26,25,26 PRON_FAC|26,27,26,27 PRON_PER
+
+Après dîner nous allâmes voir le trésor de l' abbaye , un grand nombre de manteaux royaux , de couronnes d' or , des reliques , des châsses d' or où sont renfermés les os de quelque saint , des croix , des calices , des médailles , une quantité de pierreries , de perles fines … tout cela est très riche , très curieux .
+
+2,3,2,3 PRON_PER|8,10,8,10 NOM_FAC|36,38,36,38 NOM_PER
+
+« Le 17 , nous prîmes un carrosse de remise pour nous promener aux Tuileries ; c' est une des plus belles promenades de Paris ; elle se termine par la place de Louis 15 , qui n' est pas encore achevée et qui sera superbe .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|6,10,6,10 NOM_VEH|11,12,11,12 PRON_PER|13,15,13,15 PROP_FAC|24,25,24,25 PROP_GPE|33,35,33,35 PROP_PER|30,35,30,35 NOM_FAC|36,37,36,37 PRON_FAC|43,44,43,44 PRON_FAC
+
+Sa statue à cheval est au milieu .
+
+0,1,0,1 PRON_PER
+
+Le même jour après dîner [ on dînait à midi ] , nous eûmes envie d' aller à la Muette , petite maison royale .
+
+0,3,0,3 NOM_TIME|9,10,9,10 NOM_TIME|12,13,12,13 PRON_PER|18,20,18,20 PROP_FAC
+
+Nous traversâmes Passy , qui est un beau village .
+
+0,1,0,1 PRON_PER|2,3,2,3 PROP_GPE|4,5,4,5 PRON_GPE|6,9,6,9 NOM_GPE
+
+C' est à la Muette que le Roi se repose lorsqu' il chasse dans le bois de Boulogne .
+
+3,5,3,5 PROP_FAC|6,8,6,8 NOM_PER|11,12,11,12 PRON_PER|17,18,17,18 PROP_GPE|14,18,14,18 NOM_LOC
+
+L' appartement du Roi est meublé de damas vert , couleur de rose et blanc et orné de belles glaces ; celui de Mme du Baril est le plus joli de tous , il a un damas couleur de rose et blanc .
+
+2,4,2,4 NOM_PER|0,4,0,4 NOM_FAC|23,26,23,26 PROP_PER
+
+Nous allâmes ensemble nous promener dans le bois de Boulogne ; il doit être charmant l' été .
+
+0,1,0,1 PRON_PER|3,4,3,4 PRON_PER|6,10,6,10 NOM_LOC|11,12,11,12 PRON_LOC|15,17,15,17 NOM_TIME
+
+Il y a des guinguettes de place en place , on y fait des promenades , on y danse .
+
+3,5,3,5 NOM_FAC|6,7,6,7 NOM_FAC|8,9,8,9 NOM_FAC|11,12,11,12 PRON_LOC|17,18,17,18 PRON_LOC
+
+Nous revînmes par la plaine des Sablons … « Le lendemain , dîné chez Mme de Vermenoux , je m' y ennuyai assez .
+
+0,1,0,1 PRON_PER|5,7,5,7 PROP_GPE|3,7,3,7 NOM_LOC|9,11,9,11 NOM_TIME|14,17,14,17 PROP_PER|18,19,18,19 PRON_PER
+
+C' est à la rue neuve des Petits - Champs , qui n' est pas belle .
+
+3,10,3,10 NOM_FAC|11,12,11,12 PRON_FAC
+
+» Passons à quelques étranges visites dont une mère de notre siècle priverait certainement ses filles âgées de 13 et 14 ans .
+
+10,12,10,12 NOM_TIME|7,12,7,12 NOM_PER|14,22,14,22 NOM_PER
+
+« Le 21 , nous sommes allées à Bicêtre , qui est une maison de force et un hôpital .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|8,9,8,9 PROP_FAC|10,11,10,11 PRON_FAC|12,19,12,19 NOM_FAC
+
+Comme Mme Favre connaissait Mme la supérieure , nous fûmes introduites chez elle .
+
+1,3,1,3 PROP_PER|4,7,4,7 NOM_PER|8,9,8,9 PRON_PER|12,13,12,13 PRON_PER
+
+Elle allait se mettre à table et nous offrit à dîner , ce que nous n' acceptâmes pas .
+
+0,1,0,1 PRON_PER|2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|14,15,14,15 PRON_PER
+
+Nous vîmes d' abord les prisonniers qui travaillent à de fort jolis ouvrages de paille , puis les fous qui étaient dans une autre cour .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|6,7,6,7 PRON_PER|17,19,17,19 NOM_PER|19,20,19,20 PRON_PER|22,25,22,25 NOM_FAC
+
+Ceux qui n' étaient pas enchaînés vinrent nous offrir le bras et voulaient nous faire tout voir .
+
+7,8,7,8 PRON_PER|13,14,13,14 PRON_PER
+
+Nous sortîmes de là le plus vite que nous pûmes , c' était un triste spectacle .
+
+0,1,0,1 PRON_PER|3,4,3,4 NOM_FAC|8,9,8,9 PRON_PER
+
+Mieux aurait valu , dira une sage matrone du XXme siècle , n' y être pas entrée que d' en sortir précipitamment .
+
+9,11,9,11 NOM_TIME|5,11,5,11 NOM_PER|13,14,13,14 PRON_FAC|19,20,19,20 PRON_FAC
+
+Pour se réconforter , on s' en va dîner « dans une guinguette du faubourg Saint - Jacques , nommée Le bon Laboureur .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|13,18,13,18 NOM_FAC|11,18,11,18 NOM_FAC
+
+» Mais ensuite , la grand' mère ramène - t - elle chez elle ses petites - filles un peu nerveuses ?
+
+4,7,4,7 NOM_PER|11,12,11,12 PRON_PER|13,14,13,14 PRON_PER|14,15,14,15 PRON_PER|14,21,14,21 NOM_PER
+
+« Nous remontâmes en carrosse pour aller à la Salpêtrière , qui est un hôpital immense .
+
+1,2,1,2 PRON_PER|4,5,4,5 NOM_VEH|8,10,8,10 PROP_FAC|11,12,11,12 PRON_FAC|13,16,13,16 NOM_FAC
+
+» Il est vrai qu' à ce moment on n' y traitait pas encore les hystériques et qu' on ne conduisit ces demoiselles que dans les salles où se trouvaient les enfants trouvées .
+
+10,11,10,11 PRON_FAC|14,16,14,16 NOM_PER|21,23,21,23 NOM_PER|25,27,25,27 NOM_FAC|27,28,27,28 PRON_FAC|30,33,30,33 NOM_PER
+
+« Nous allâmes voir les chambres de travail , on voit dans une salle fort longue au bout de laquelle est un autel cinq cents jeunes filles qui travaillent à de superbes broderies en chantant des hymnes .
+
+1,2,1,2 PRON_PER|4,8,4,8 NOM_FAC|9,10,9,10 PRON_PER|12,16,12,16 NOM_FAC|19,20,19,20 PRON_FAC|23,27,23,27 NOM_PER|27,28,27,28 PRON_PER
+
+Ce serait intéressant à voir si elles étaient tenues un peu proprement , mais elles sont assez dégoûtantes … En sortant , nous vîmes une enfant qui nous intéressa beaucoup , elle était fort jolie et habillée plus proprement que les autres , elle nous fit mille caresses et nous pria de ne pas la mépriser avec tant de grâce que nous ne pûmes nous empêcher de lui donner mille bénédictions .
+
+6,7,6,7 PRON_PER|14,15,14,15 PRON_PER|22,23,22,23 PRON_PER|24,26,24,26 NOM_PER|26,27,26,27 PRON_PER|27,28,27,28 PRON_PER|31,32,31,32 PRON_PER|43,44,43,44 PRON_PER|44,45,44,45 PRON_PER|49,50,49,50 PRON_PER|54,55,54,55 PRON_PER|61,62,61,62 PRON_PER|64,65,64,65 PRON_PER|67,68,67,68 PRON_PER
+
+Je désirai bien dans ce moment qu' il me fût permis de l' emmener avec nous et de lui faire tout le bien qu' elle méritait .
+
+0,1,0,1 PRON_PER|8,9,8,9 PRON_PER|12,13,12,13 NOM_PER|15,16,15,16 PRON_PER|18,19,18,19 PRON_PER|24,25,24,25 PRON_PER
+
+» Cette remarque enfantine tombée de la plume de Rosalie nous repose un peu des fous enchaînés et des monuments visités en conscience .
+
+9,10,9,10 PROP_PER|10,11,10,11 PRON_METALEPSE|14,17,14,17 NOM_PER|18,21,18,21 NOM_FAC
+
+Voici encore un récit qui plaît , car on y retrouve bien les enfants que devaient être Rosalie et Lisette .
+
+8,9,8,9 PRON_METALEPSE|12,14,12,14 NOM_PER|14,15,14,15 PRON_PER|17,18,17,18 PROP_PER|19,20,19,20 PROP_PER
+
+« Le 24 , nous allâmes voir Audino .
+
+1,3,1,3 NOM_TIME|4,5,4,5 PRON_PER|7,8,7,8 PROP_PER
+
+Il y avait un monde prodigieux .
+
+3,6,3,6 NOM_PER
+
+Nous étions à côté d' une dame et de sa fille avec qui nous liâmes conversation , mais ce qui m' étonna , c' est que la mère était mise en jeune et la fille en vieille .
+
+0,1,0,1 PRON_PER|5,7,5,7 NOM_PER|9,10,9,10 PRON_PER|9,11,9,11 NOM_PER|12,13,12,13 PRON_PER|20,21,20,21 PRON_PER|26,28,26,28 NOM_PER|33,35,33,35 NOM_PER
+
+La mère prenait un air vif et enfantin pendant que sa fille était froide et avait l' air sévère .
+
+0,2,0,2 NOM_PER|10,11,10,11 PRON_PER|10,12,10,12 NOM_PER
+
+Je m' amusai beaucoup , on jouait Le Petit Poucet , le Dénicheur de merles et Anidelle de Pontoise , une parodie de l' opéra d' Adèle de Ponthieu , que nous avons entendu .
+
+0,1,0,1 PRON_PER|7,10,7,10 PROP_PER|11,15,11,15 NOM_PER|16,19,16,19 PROP_PER|26,29,26,29 PROP_PER|31,32,31,32 PRON_PER
+
+Elle est très comique et mêlée de jolis ballets .
+
+0,1,0,1 PRON_PER
+
+» Ce récit - là est bien frivole et fera peu de plaisir au père , mais voici une description de la Bastille et de la Sorbonne qui est digne de passer sous ses yeux .
+
+13,15,13,15 NOM_PER|21,23,21,23 PROP_PER|25,27,25,27 PROP_FAC|33,34,33,34 PRON_PER
+
+« La Bastille est une prison d' État .
+
+1,3,1,3 PROP_FAC|4,8,4,8 NOM_FAC
+
+On ne peut la regarder sans horreur .
+
+3,4,3,4 PRON_FAC
+
+C' est un grand bâtiment très fortifié et flanqué de sept tours .
+
+0,1,0,1 PRON_FAC|10,12,10,12 NOM_FAC|2,12,2,12 NOM_FAC
+
+Elle est d' une couleur noire qui en augmente la tristesse .
+
+0,1,0,1 PRON_FAC|7,8,7,8 PRON_FAC
+
+Nous fûmes longtemps à la regarder .
+
+0,1,0,1 PRON_PER|4,5,4,5 PRON_FAC
+
+Les réflexions qu' elle nous suggérait n' étaient pas gaies .
+
+3,4,3,4 PRON_FAC|4,5,4,5 PRON_PER
+
+Nous pensions à la quantité de malheureux renfermés dans ce triste séjour .
+
+0,1,0,1 PRON_PER|9,12,9,12 NOM_FAC
+
+« Le même jour , à l' église de la Sorbonne , dont le portail d' ordre corinthien est très beau .
+
+1,4,1,4 NOM_TIME|9,11,9,11 PROP_FAC|6,11,6,11 NOM_FAC|12,13,12,13 PRON_FAC
+
+Ce qu' il y a de plus curieux dans cette église est le tombeau du cardinal de Richelieu .
+
+9,11,9,11 NOM_FAC|14,18,14,18 NOM_PER|12,18,12,18 NOM_FAC
+
+Il est dommage d' avoir fait un si bel ouvrage pour éterniser un si méchant homme , cependant tout le monde est bien aise de le voir là .
+
+6,10,6,10 NOM_FAC|12,16,12,16 NOM_PER|18,21,18,21 NOM_PER|25,26,25,26 PRON_PER
+
+La statue du cardinal mourant est à demi - couchée .
+
+2,5,2,5 NOM_PER
+
+La religion le soutient et le console , les sciences sont représentées au pied de leur protecteur et pleurant sa perte .
+
+2,3,2,3 PRON_PER|5,6,5,6 PRON_PER|15,17,15,17 NOM_PER|19,20,19,20 PRON_PER
+
+Nous l' examinâmes longtems , il me fit le plus grand plaisir , je crois que je ne pourrai jamais l' oublier .
+
+0,1,0,1 PRON_PER|1,2,1,2 NOM_PER|5,6,5,6 PRON_PER|6,7,6,7 PRON_PER|13,14,13,14 PRON_PER|16,17,16,17 PRON_PER|20,21,20,21 NOM_PER
+
+» Non contente d' avoir ainsi rempli ses tablettes , Rosalie le même jour écrivit à son père une lettre qui eut l' heur de le satisfaire pleinement , car voici ce qu' il y répondit : « Je suis toujours plus content de tes lettres , j' en serais même très fier si elles étaient mieux peintes [ écrites ] .
+
+7,8,7,8 PRON_PER|10,11,10,11 PROP_PER|11,14,11,14 NOM_TIME|16,17,16,17 PRON_PER|16,18,16,18 NOM_PER|25,26,25,26 PRON_PER|33,34,33,34 PRON_PER|38,39,38,39 PRON_PER|44,45,44,45 PRON_PER|47,48,47,48 PRON_PER
+
+Je vois avec plaisir que vous sentez les belles choses .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER
+
+Je le juge par ce que vous me dites du tombeau du cardinal de Richelieu , qui n' est bien frappant que pour ceux qui sentent les vraies beautés .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER|7,8,7,8 PRON_PER|11,15,11,15 NOM_PER|9,15,9,15 NOM_FAC|16,17,16,17 PRON_PER
+
+» Dans cette même lettre à son père , Rosalie racontait un événement dont elle ne dit mot dans ses tablettes , mais qui dut pourtant fort agiter les jeunes filles .
+
+6,7,6,7 PRON_PER|6,8,6,8 NOM_PER|9,10,9,10 PROP_PER|14,15,14,15 PRON_PER|19,20,19,20 PRON_PER|28,31,28,31 NOM_PER
+
+Dans une foire quelconque ou bien à la bourse , les sœurs avaient mis à la loterie et gagné 300 francs !
+
+10,12,10,12 NOM_PER
+
+Tout de suite , on fait mille projets , on voit dans les boutiques les jolies choses qu' on pourra rapporter à la belle - mère , envoyer aux pensionnaires de Coire .
+
+4,5,4,5 PRON_PER|9,10,9,10 PRON_PER|12,14,12,14 NOM_FAC|18,19,18,19 PRON_PER|22,26,22,26 NOM_PER|31,32,31,32 PROP_GPE|28,32,28,32 NOM_PER
+
+Et puis , dit Rosalie , nous pourrons aller une ou deux fois de plus à la Comédie , cela ne déplaira pas au Père .
+
+4,5,4,5 PROP_PER|6,7,6,7 PRON_PER|23,25,23,25 PROP_PER
+
+Vite contons - lui notre bonheur … Par le retour du courrier arrivent les félicitations … et le rabat - joie .
+
+3,4,3,4 PRON_PER|4,5,4,5 PRON_PER
+
+« Nous avons bien partagé le plaisir que vous a fait votre lot .
+
+1,2,1,2 PRON_PER|8,9,8,9 PRON_PER|11,12,11,12 PRON_PER
+
+Dieu veuille que vous soyez toujours heureuses .
+
+0,1,0,1 PROP_PER|3,4,3,4 PRON_PER
+
+Il faut être content de ce petit bonheur et faire durer la jouissance tant que vous pourrez .
+
+15,16,15,16 PRON_PER
+
+Et à cet égard , j' ai des défenses très positives à vous faire .
+
+5,6,5,6 PRON_PER|12,13,12,13 PRON_PER
+
+Ce n' est pas le Pi qui vous parle dans ce moment , c' est votre Père , à qui vous ne pouvez désobéir sans péché .
+
+4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|15,16,15,16 PRON_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER
+
+[ Le Pi , c' était le papa des bons jours , le compagnon des jeux et des joies ] .
+
+1,3,1,3 PROP_PER|4,5,4,5 PRON_PER|8,11,8,11 NOM_TIME|6,11,6,11 NOM_PER|12,19,12,19 NOM_PER
+
+Je vous défends expressément , et sous peine de me faire le chagrin le plus vif , de rien acheter ni pour moi , ni pour votre maman , ni pour vos frères .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|9,10,9,10 PRON_PER|22,23,22,23 PRON_PER|26,27,26,27 PRON_PER|26,28,26,28 NOM_PER|31,32,31,32 PRON_PER|31,33,31,33 NOM_PER
+
+Si par hasard vous avez déjà fait quelques emplettes , je vous ordonne de les revendre ou de les troquer et que nous n' en entendions plus parler , je vous en prie .
+
+3,4,3,4 PRON_PER|10,11,10,11 PRON_PER|11,12,11,12 PRON_PER|29,30,29,30 PRON_PER|30,31,30,31 PRON_PER
+
+C' est bien d' y avoir pensé , mais ce sera encore mieux de m' obéir .
+
+14,15,14,15 PRON_PER
+
+Je vous conseille d' abord , mes chères filles , d' en destiner 12 ou 18 francs pour une charité .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|6,7,6,7 PRON_PER|6,9,6,9 NOM_PER
+
+Il ne faut pas les jeter à la tête du premier pauvre , mais les donner à la première occasion bonne et intéressante .
+
+9,12,9,12 NOM_PER
+
+Ensuite , je vous conseille de garder le reste pour vous faire un fonds de bourse qui se trouvera dans quelque circonstance agréable et importante .
+
+2,3,2,3 PRON_PER|3,4,3,4 PRON_PER|10,11,10,11 PRON_PER
+
+Ainsi gardez et rapportez tout ce que vous pourrez .
+
+7,8,7,8 PRON_PER
+
+S' il vous convient d' acheter quelque chose de bon et d' utile , vous pourrez bien y employer deux ou trois louis , mais que ce ne soit point d' enfance , je vous en prie .
+
+2,3,2,3 PRON_PER|14,15,14,15 PRON_PER|33,34,33,34 PRON_PER|34,35,34,35 PRON_PER
+
+Ce n' est point à vous à vous payer le maître à danser ni le dentiste … , apprenez surtout à marcher , à entrer et saluer , à former votre contenance .
+
+5,6,5,6 PRON_PER|7,8,7,8 PRON_PER|9,13,9,13 NOM_PER|14,16,14,16 NOM_PER|30,31,30,31 PRON_PER
+
+Il ne faut pas non plus négliger le dentiste , ce serait une faute capitale que de revenir de Paris sans s' être fait accommoder la bouche , je le paierai s' il le faut .
+
+7,9,7,9 NOM_PER|19,20,19,20 PROP_GPE|28,29,28,29 PRON_PER|29,30,29,30 PRON_PER
+
+« Pourquoi ne me dis - tu rien de ta taille , ma chère Rosalie ?
+
+3,4,3,4 PRON_PER|6,7,6,7 PRON_PER|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|12,15,12,15 PROP_PER
+
+… N' entendez - vous point parler de la tragédie de M . de Voltaire ?
+
+4,5,4,5 PRON_PER|11,15,11,15 PROP_PER
+
+elle doit bientôt se jouer et j' espère que vous la verrez .
+
+6,7,6,7 PRON_PER|9,10,9,10 PRON_PER
+
+Je ne désapprouverai point que vous employassiez un peu de votre lot à aller au spectacle , ce sont vos affaires .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER|10,11,10,11 PRON_PER|19,20,19,20 PRON_PER
+
+» Nous arrivons à un moment fort intéressant dans le voyage : trois ou quatre jours passés à Versailles .
+
+1,2,1,2 PRON_METALEPSE|18,19,18,19 PROP_GPE|12,19,12,19 NOM_TIME
+
+Dans ce temps - là , on n' y allait pas tout voir en une après - midi comme aujourd' hui ; c' est qu' il y avait , en plus du Palais à visiter , ses habitants qui se trouvaient être un Louis XV , une dauphine qui s' appelait Marie - Antoinette , accompagnés de toute leur famille , sans oublier Mme Du Barry .
+
+8,9,8,9 PRON_GPE|14,18,14,18 NOM_TIME|31,33,31,33 NOM_FAC|36,38,36,38 NOM_PER|38,39,38,39 PRON_PER|42,45,42,45 NOM_PER|46,48,46,48 NOM_PER|48,49,48,49 PRON_PER|51,54,51,54 PROP_PER|58,59,58,59 PRON_PER|57,60,57,60 NOM_PER|63,66,63,66 PROP_PER
+
+« Le dimanche 31 janvier , nous sommes parties pour Versailles à huit heures du matin avec M . de Flavigny .
+
+1,5,1,5 NOM_TIME|6,7,6,7 PRON_PER|10,11,10,11 PROP_GPE|14,16,14,16 NOM_TIME|12,16,12,16 NOM_TIME|17,21,17,21 PROP_PER
+
+Sur le chemin nous rencontrâmes beaucoup de voitures qui y allaient , surtout beaucoup de pots de chambre .
+
+1,3,1,3 NOM_FAC|3,4,3,4 PRON_PER|5,8,5,8 NOM_VEH|8,9,8,9 PRON_VEH|9,10,9,10 PRON_GPE
+
+Ce sont des espèces de fiacres qui partent dès qu' il y a quatre personnes dedans .
+
+13,15,13,15 NOM_PER
+
+Beaucoup de gens de la cour les prennent .
+
+4,6,4,6 NOM_ORG|0,6,0,6 NOM_PER
+
+Nous arrivâmes à dix heures .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_TIME
+
+Le chemin qui conduit à Versailles est superbe , planté de deux lignes de beaux arbres de chaque côté .
+
+0,2,0,2 NOM_FAC|2,3,2,3 PRON_FAC|5,6,5,6 PROP_GPE
+
+« Le château est d' une magnificence excessive , nous ne pouvions nous lasser de regarder et d' admirer .
+
+1,3,1,3 NOM_FAC|9,10,9,10 PRON_PER|12,13,12,13 PRON_PER
+
+« Nous descendîmes de carrosse dans la première cour , nous vîmes les gardes françaises et les gardes suisses qui descendaient la garde avec une belle musique .
+
+1,2,1,2 PRON_PER|4,5,4,5 NOM_VEH|6,9,6,9 NOM_FAC|10,11,10,11 PRON_PER|12,15,12,15 NOM_PER|16,19,16,19 NOM_PER|19,20,19,20 PRON_PER|21,23,21,23 NOM_ORG
+
+De là , on nous conduisit à la chapelle qui est d' une beauté surprenante … toutefois les peintures où l' on voit Dieu ne me font jamais un grand plaisir , parce qu' il me semble qu' elles rabaissent l' idée que j' ai de la divinité .
+
+1,2,1,2 NOM_FAC|4,5,4,5 PRON_PER|7,9,7,9 NOM_FAC|9,10,9,10 PRON_FAC|23,24,23,24 PROP_PER|25,26,25,26 PRON_PER|35,36,35,36 PRON_PER|43,44,43,44 PRON_PER|46,48,46,48 NOM_PER
+
+Nous avions grande envie de rester pour entendre la messe du roi où il y a une musique superbe , mais on nous dit que l' on ne pouvait se dispenser de se mettre à genoux , et nous aimâmes mieux nous en passer [ ô huguenotes !
+
+0,1,0,1 PRON_PER|10,12,10,12 NOM_PER|22,23,22,23 PRON_PER|38,39,38,39 PRON_PER|41,42,41,42 PRON_PER
+
+« Nous allâmes voir les grands appartemens … puis la salle du trône , où le roi reçoit les ambassadeurs en cérémonie .
+
+1,2,1,2 PRON_PER|4,7,4,7 NOM_FAC|9,13,9,13 NOM_FAC|14,15,14,15 PRON_FAC|15,17,15,17 NOM_PER|18,22,18,22 NOM_PER
+
+Elle est meublée d' une moire d' argent brodée en or .
+
+0,1,0,1 PRON_FAC
+
+On y voit un trône élevé sur deux marches et couvert d' un dais de la même étoffe … « De là nous entràmes dans le salon de Mars qui est très beau , puis dans le salon d' Hercule , enfin dans la grande galerie .
+
+1,2,1,2 PRON_FAC|21,22,21,22 NOM_FAC|22,23,22,23 PRON_PER|28,29,28,29 PROP_LOC|25,29,25,29 NOM_FAC|29,30,29,30 PRON_FAC|39,40,39,40 PROP_PER|36,40,36,40 NOM_FAC|43,46,43,46 NOM_FAC
+
+Elle est d' une si grande beauté que je pouvais à peine croire ce que je voyais .
+
+0,1,0,1 PRON_FAC|8,9,8,9 PRON_PER|15,16,15,16 PRON_PER
+
+Je m' imaginais être dans un enchantement .
+
+0,1,0,1 PRON_PER
+
+« Nous y étions depuis quelque tems quand vint à passer la Dauphine qui allait au lever du roi .
+
+1,2,1,2 PRON_PER|2,3,2,3 PRON_FAC|11,13,11,13 PROP_PER|13,14,13,14 PRON_PER|17,19,17,19 NOM_PER
+
+Elle est très jolie , blonde et fort bien faite , elle a un air gai , vif et noble qui plaît beaucoup .
+
+0,1,0,1 PRON_PER|11,12,11,12 PRON_PER
+
+Elle était vêtue d' un habit de cour fond or avec une belle garniture de martre zybeline , la gorge et les épaules nues , et une quantité de diamans .
+
+0,1,0,1 PRON_PER
+
+Des dames d' accompagnement aussi en habit de cour la suivaient .
+
+0,9,0,9 NOM_PER|9,10,9,10 PRON_PER
+
+Elles portent aussi une petite coiffure de gaze noire avec des barbes pendantes .
+
+0,1,0,1 PRON_PER
+
+« Peu après , nous vîmes passer le Roi qui allait à la messe , suivi de ses pages et de beaucoup de seigneurs .
+
+4,5,4,5 PRON_PER|7,9,7,9 NOM_PER|9,10,9,10 PRON_PER|17,19,17,19 NOM_PER|21,24,21,24 NOM_PER
+
+Il est grand et brun , a l' air majestueux , le regard perçant et noble .
+
+0,1,0,1 PRON_PER
+
+Il avait un grand manteau rouge avec une croix du Saint - Esprit .
+
+0,1,0,1 PRON_PER|9,13,9,13 NOM_PER
+
+Nous le vîmes revenir et de là nous allâmes voir dîner la Dauphine .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER|7,8,7,8 PRON_PER|11,13,11,13 PROP_PER
+
+Elle dîne dans une salle meublée de Gobelins et ornée de beaux lustres de cristal .
+
+0,1,0,1 PRON_PER|3,15,3,15 NOM_FAC
+
+Le Dauphin et la Dauphine sont à côté l' un de l' autre .
+
+3,5,3,5 PROP_PER|0,5,0,5 PROP_PER|8,10,8,10 NOM_PER|11,13,11,13 NOM_PER
+
+Le Dauphin est d' une taille médiocre , il se tient mal , il est brun et pâle et a d' assez beaux yeux noirs .
+
+0,2,0,2 PROP_PER|8,9,8,9 PRON_PER|9,10,9,10 PRON_PER|13,14,13,14 PRON_PER
+
+Il avait un habit de velours cramoisi , paremens et veste d' or , et une belle agrafe de diamans qui tenait son cordon bleu .
+
+0,1,0,1 PRON_PER|22,23,22,23 PRON_PER
+
+Ils furent assez gais et badinaient ensemble .
+
+0,1,0,1 PRON_PER
+
+Des dames de la cour et des chevaliers d' honneur les servaient .
+
+3,5,3,5 NOM_ORG|0,5,0,5 NOM_PER|6,10,6,10 NOM_PER|10,11,10,11 PRON_PER
+
+Plusieurs duchesses sont assises autour de la table sur des tabourets .
+
+0,2,0,2 NOM_PER
+
+La Dauphine leur parla souvent , et quand elle eut dîné , elle alla faire un petit compliment à chacune .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|8,9,8,9 PRON_PER|12,13,12,13 PRON_PER|19,20,19,20 NOM_PER
+
+« Quand nous eûmes vu cela , nous allâmes dîner dans un hôtel garni , et après , passer la soirée chez Mme le Gendre .
+
+2,3,2,3 PRON_PER|7,8,7,8 PRON_PER|11,14,11,14 NOM_FAC|19,21,19,21 NOM_TIME|22,25,22,25 PROP_PER
+
+« À neuf heures , nous allâmes voir souper le Roi , qui soupe tous les dimanches en public avec ses enfans .
+
+2,4,2,4 NOM_TIME|5,6,5,6 PRON_PER|9,11,9,11 NOM_PER|12,13,12,13 PRON_PER|14,17,14,17 NOM_TIME|20,22,20,22 NOM_PER
+
+La salle où il soupe n' est pas belle .
+
+0,2,0,2 NOM_FAC|2,3,2,3 PRON_FAC|3,4,3,4 PRON_PER
+
+Nous étions fort bien placées et il y avait beaucoup de monde .
+
+0,1,0,1 PRON_PER|9,12,9,12 NOM_PER
+
+Dès que le Roi entra tous se levèrent .
+
+2,4,2,4 NOM_PER|5,6,5,6 NOM_PER|6,7,6,7 PRON_PER
+
+La famille royale est à une table en fer à cheval .
+
+0,3,0,3 NOM_PER
+
+Le Roi était en haut , le Dauphin à sa droite , la Dauphine à sa gauche .
+
+0,2,0,2 NOM_PER|6,8,6,8 NOM_PER|9,10,9,10 PRON_PER|12,14,12,14 PROP_PER|15,16,15,16 PRON_PER
+
+À côté d' elle était la comtesse de Provence qui n' est point jolie .
+
+3,4,3,4 PRON_PER|5,9,5,9 NOM_PER|9,10,9,10 PRON_PER
+
+Elle est brune , petite et boiteuse , et a de fort beaux yeux .
+
+0,1,0,1 PRON_PER
+
+Elle était vêtue en habit de cour de gaze d' or , avec de la martre , beaucoup de diamans , et de superbes dentelles .
+
+0,1,0,1 PRON_PER
+
+Vis - à - vis d' elle est le comte de Provence , il est assez grand , un visage rond , des yeux enfoncés .
+
+6,7,6,7 PRON_PER|8,12,8,12 NOM_PER|13,14,13,14 PRON_PER
+
+Il avait un habit rouge brodé en or , et des diamans .
+
+0,1,0,1 PRON_PER
+
+Après eux étaient Mesdames de France , filles du roi .
+
+5,6,5,6 PROP_GPE|3,6,3,6 NOM_PER|8,10,8,10 NOM_PER
+
+Mesdames Adélaïde et Sophie étaient à côté du comte de Provence et Madame Victoire à côté de la comtesse .
+
+1,2,1,2 PROP_PER|3,4,3,4 PROP_PER|0,4,0,4 NOM_PER|7,11,7,11 NOM_PER|12,14,12,14 PROP_PER|17,19,17,19 NOM_PER
+
+Elles ressemblent toutes au roi , sont fort grasses et superbement vêtues .
+
+0,1,0,1 PRON_PER|3,5,3,5 NOM_PER
+
+Les officiers qui les servaient étaient dans le fer à cheval .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER
+
+Derrière le Roi étaient ses seigneurs et ses gentilshommes de la chambre .
+
+1,3,1,3 NOM_PER|4,6,4,6 NOM_PER|10,12,10,12 NOM_FAC|7,12,7,12 NOM_PER|4,12,4,12 NOM_PER
+
+Derrière les princesses étaient les dames d' honneur sur des tabourets .
+
+1,3,1,3 NOM_PER|4,8,4,8 NOM_PER
+
+Il n' y avait que le Roi qui eût un fauteuil » .
+
+5,7,5,7 NOM_PER
+
+À entendre toutes ces descriptions , on ne se douterait pas qu' on a affaire à une myope à laquelle son père a recommandé de renoncer à voir et de se considérer comme une aveugle .
+
+6,7,6,7 PRON_METALEPSE|8,9,8,9 PRON_METALEPSE|12,13,12,13 PRON_METALEPSE|16,18,16,18 NOM_PER|19,20,19,20 PRON_PER|20,21,20,21 PRON_PER|20,22,20,22 NOM_PER|30,31,30,31 PRON_PER|33,35,33,35 NOM_PER
+
+Le Roi parla un peu avec le duc de Fronsac et n' adressa point la parole à ses enfans .
+
+0,2,0,2 NOM_PER|6,10,6,10 NOM_PER|17,18,17,18 PRON_PER|17,19,17,19 NOM_PER
+
+La Dauphine et la comtesse de Provence se parlèrent à l' oreille .
+
+6,7,6,7 PROP_GPE|3,7,3,7 NOM_PER|0,7,0,7 PROP_PER|7,8,7,8 PRON_PER
+
+Pour Mesdames et les princes , ils ne furent occupés qu' à manger de très bon appétit .
+
+1,2,1,2 NOM_PER|3,5,3,5 NOM_PER|6,7,6,7 PRON_PER
+
+« Quand ils eurent fini , le Dauphin donna à laver au Roi et ils sortirent .
+
+2,3,2,3 PRON_PER|6,8,6,8 NOM_PER|11,13,11,13 PROP_PER
+
+On offrit les glaces du dessert aux dames qui étaient là pour voir .
+
+6,8,6,8 NOM_PER|8,9,8,9 PRON_PER
+
+Je les trouvai bien bonnes .
+
+0,1,0,1 PRON_PER
+
+« Le lendemain [ Ier février ] , visité de bon matin plusieurs maisons royales .
+
+1,3,1,3 NOM_TIME|4,6,4,6 NOM_TIME|10,12,10,12 NOM_TIME|12,15,12,15 NOM_PER
+
+Nous fîmes la route dans le parc de Versailles que nous n' avions point vu la veille à cause de la pluie .
+
+0,1,0,1 PRON_PER|2,4,2,4 NOM_FAC|8,9,8,9 PROP_GPE|5,9,5,9 NOM_FAC|9,10,9,10 PRON_GPE|10,11,10,11 PRON_PER|15,17,15,17 NOM_TIME
+
+Il y a des bosquets délicieux et de belles pièces d' eau … « Le petit Trianon est un petit palais que Louis 15 a fait bâtir .
+
+3,6,3,6 NOM_LOC|7,12,7,12 NOM_LOC|14,17,14,17 PROP_FAC|18,21,18,21 NOM_FAC|21,22,21,22 PRON_FAC|22,24,22,24 PROP_PER
+
+La chambre du roi est meublée d' une tapisserie bleue et argent .
+
+2,4,2,4 NOM_PER|0,4,0,4 NOM_FAC
+
+L' appartement de Mme du Baril est galant .
+
+3,6,3,6 PROP_PER|0,6,0,6 NOM_FAC
+
+Il est meublé d' un beau damas des Indes , le lit de même étoffe est dans une alcôve au fond de laquelle est une grande glace , qui tient toute la largeur , ce qui fait un joli effet .
+
+0,1,0,1 PRON_FAC|7,9,7,9 PROP_GPE
+
+« Entre la chambre du Roi et celle de Mme du Baril , il y a un cabinet de marbre blanc , fort bien sculpté .
+
+4,6,4,6 NOM_PER|9,12,9,12 PROP_PER|2,12,2,12 NOM_FAC
+
+C' est là où le Roi et sa maîtresse vont déjeuner .
+
+4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|7,9,7,9 NOM_PER
+
+C' est un des grands plaisirs du Roi que de faire son caffé lui - même .
+
+6,8,6,8 NOM_PER|11,12,11,12 PRON_PER|13,16,13,16 PRON_PER
+
+La mode s' en est établie et , à Paris , presque tout le monde fait son caffé .
+
+9,10,9,10 PROP_GPE|12,15,12,15 NOM_PER|16,17,16,17 PRON_PER
+
+« Dans les jardins il y a des serres chaudes où croissent des primeurs que l' on sert sur la table du Roi .
+
+2,4,2,4 NOM_FAC|21,23,21,23 NOM_PER
+
+Vu la ménagerie … et la volière … , puis été à Marli qui est une des plus jolies maisons royales .
+
+1,3,1,3 NOM_FAC|5,7,5,7 NOM_FAC|10,11,10,11 NOM_PER|12,13,12,13 PROP_FAC|13,14,13,14 PRON_FAC|15,21,15,21 NOM_FAC
+
+Elle est bâtie dans un fond , on y arrive par une belle avenue .
+
+0,1,0,1 PRON_FAC|8,9,8,9 PRON_FAC|11,14,11,14 NOM_FAC
+
+Le château est grand et carré … L' appartement de Mme du Barri est charmant , dans toutes les maisons royales que j' ai vues , le sien est le plus élégant .
+
+0,2,0,2 NOM_FAC|10,13,10,13 PROP_PER|7,13,7,13 NOM_FAC|17,21,17,21 NOM_FAC|21,22,21,22 PRON_FAC|22,23,22,23 PRON_PER|27,28,27,28 PRON_PER
+
+C' est un pavillon soutenu par quatre colonnes torses dorées et sculptées .
+
+0,1,0,1 PRON_FAC
+
+Autour du château il y a trois salles de charmille avec des statues de marbre .
+
+1,3,1,3 NOM_FAC|6,15,6,15 NOM_FAC
+
+En face sont les cascades ; on voit un grand bassin de marbre et , comme le terrain monte , les deux côtés vont en s' élevant ; cela fait un amphithéâtre .
+
+8,13,8,13 NOM_FAC|30,32,30,32 NOM_FAC
+
+« Tout autour du jardin , il y a douze petits pavillons quarrés , joints ensemble par des berceaux de feuillage , c' est là où logent les seigneurs qui accompagnent le Roi .
+
+3,5,3,5 NOM_FAC|9,21,9,21 NOM_FAC|24,25,24,25 NOM_FAC|27,29,27,29 NOM_PER|29,30,29,30 PRON_PER|31,33,31,33 NOM_PER
+
+» « Après le dîner dans une auberge du village de Marli , nous allâmes voir la machine , ouvrage merveilleux de Louis 14 , pour faire remonter l' eau de la Seine à Marli et à Versailles .
+
+8,10,8,10 NOM_GPE|11,12,11,12 PROP_FAC|6,12,6,12 NOM_FAC|13,14,13,14 PRON_PER|22,24,22,24 PROP_PER|31,33,31,33 PROP_LOC|34,35,34,35 PROP_FAC|37,38,37,38 PROP_GPE
+
+Nous montâmes par les rouages , ce qui est un chemin fort difficile , à Louvecienne , maison de plaisance qui était à Mme la comtesse de Toulouse , belle - fille de Louis 14 .
+
+0,1,0,1 PRON_PER|9,13,9,13 NOM_FAC|15,16,15,16 PROP_GPE|20,21,20,21 PRON_GPE|23,28,23,28 NOM_PER|33,35,33,35 PROP_PER
+
+Louis 15 l' a achetée et l' a donnée à Mme du Baril .
+
+0,2,0,2 PROP_PER|2,3,2,3 NOM_GPE|6,7,6,7 NOM_GPE|10,13,10,13 PROP_PER
+
+Il y a fait bâtir un pavillon qui est un palais enchanté et qui a coûté deux millions … « Le 2 février , nous nous rendîmes de bonne heure dans la galerie pour voir passer la procession des cordons bleus qui se fait toutes les années .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_GPE|5,7,5,7 NOM_FAC|7,8,7,8 PRON_FAC|9,12,9,12 NOM_FAC|13,14,13,14 PRON_FAC|20,23,20,23 NOM_TIME|24,25,24,25 PRON_PER|25,26,25,26 PRON_PER|31,33,31,33 NOM_FAC|44,47,44,47 NOM_TIME
+
+Ce jour - là , il y avait un monde prodigieux , ce qui est fort drôle à voir .
+
+0,4,0,4 NOM_TIME|8,11,8,11 NOM_PER
+
+« Tous les cordons bleus défilent deux à deux pour aller à la chapelle en habits de cérémonie .
+
+12,14,12,14 NOM_FAC
+
+Sur le côté est brodée en argent une grande étoile du Saint - Esprit .
+
+10,14,10,14 NOM_PER
+
+Au milieu de la procession , étaient deux cardinaux en soutanes écarlates avec de grandes doubles croix d' or .
+
+7,19,7,19 NOM_PER
+
+Après eux venaient d' autres ecclésiastiques vêtus de violet avec des surplis de dentelles .
+
+1,2,1,2 PRON_PER|3,14,3,14 NOM_PER
+
+Nous remarquâmes entre autres l' abbé Terrai , le contrôleur général des finances ; il est remarquable par la haine que toute la France a pour lui , et par tout le mal qu' il fait .
+
+0,1,0,1 PRON_PER|4,7,4,7 NOM_PER|14,15,14,15 PRON_PER|21,24,21,24 PROP_GPE|26,27,26,27 PRON_PER|34,35,34,35 PRON_PER
+
+Il est affreux et a l' air sournois et méchant .
+
+0,1,0,1 PRON_PER
+
+« Comme Mme de Queres qui était avec nous est fort belle , elle fut regardée et saluée de toute la procession .
+
+2,5,2,5 PROP_PER|5,6,5,6 PRON_PER|8,9,8,9 PRON_PER|13,14,13,14 PRON_PER
+
+Plusieurs seigneurs s' arrêtèrent même pour la considérer .
+
+0,2,0,2 NOM_PER|2,3,2,3 PRON_PER|6,7,6,7 PRON_PER
+
+« À la queue de la procession , viennent le comte d' Artois , petit - fils cadet du Roi , le comte de Provence et le Dauphin .
+
+9,13,9,13 NOM_PER|18,20,18,20 NOM_PER|14,20,14,20 NOM_PER|21,25,21,25 NOM_PER|26,28,26,28 NOM_PER
+
+Après eux sont deux hommes qui portent des masses d' or .
+
+1,2,1,2 PRON_PER|3,5,3,5 NOM_PER|5,6,5,6 PRON_PER
+
+Le Roi vient ensuite mis comme les autres cordons bleus , il avait l' air fatigué et ennuyé .
+
+0,2,0,2 NOM_PER|11,12,11,12 PRON_PER
+
+« Nous profitons du temps qu' ils sont à la messe pour aller voir les appartemens du Roi .
+
+1,2,1,2 PRON_PER|16,18,16,18 NOM_PER|14,18,14,18 NOM_FAC
+
+Ils sont superbes … De là nous passons à ceux de la Dauphine .
+
+0,1,0,1 PRON_FAC|5,6,5,6 NOM_FAC|6,7,6,7 PRON_PER|11,13,11,13 PROP_PER
+
+Son salon de jeu est meublé d' une tapisserie des gobelins , les sièges sont de velours avec des crépines d' or .
+
+0,4,0,4 NOM_FAC
+
+Sa chambre à coucher est meublée d' une tapisserie fond cramoisi brochée en or , sa toilette est de vermeil richement travaillée , couverte d' un tapis de velours rouge où ses armes sont brodées .
+
+0,4,0,4 NOM_FAC|15,16,15,16 PRON_PER|31,32,31,32 PRON_PER
+
+À droite et à gauche de son lit , sont les portraits de l' empereur et de l' impératrice - reine , ses parens .
+
+6,7,6,7 PRON_PER|17,21,17,21 NOM_PER|13,21,13,21 NOM_PER|22,23,22,23 PRON_PER
+
+L' appartement du Dauphin est le moins beau du château , celui de la comtesse de Provence le plus élégant , il est meublé de satin blanc sur lequel sont brodés des bouquets en chenilles , très naturels .
+
+2,4,2,4 PROP_PER|0,4,0,4 NOM_FAC|8,10,8,10 NOM_FAC|13,17,13,17 NOM_PER
+
+Il y a une belle toilette d' argent doré et de superbes porcelaines de Sèvres , cela est très brillant .
+
+14,15,14,15 PROP_GPE
+
+« Après le retour de la procession , tous les princes sont allés dîner et nous vîmes d' abord celui du comte d' Artois .
+
+8,11,8,11 NOM_PER|15,16,15,16 PRON_PER|23,24,23,24 PROP_GPE|20,24,20,24 NOM_PER
+
+Il mange dans sa chambre à coucher qui est meublée de damas cramoisi et a deux lits .
+
+0,1,0,1 PRON_PER|3,7,3,7 NOM_FAC|7,8,7,8 PRON_FAC
+
+Il est le plus joli prince de toute la famille , il ressemble au Roi , il est blond , a de beaux yeux noirs , le nez aquilin , l' air noble et vif .
+
+0,1,0,1 PRON_PER|7,10,7,10 NOM_PER|2,10,2,10 NOM_PER|11,12,11,12 PRON_PER|13,15,13,15 PROP_PER|16,17,16,17 PRON_PER
+
+Il parlait beaucoup avec des officiers qui étaient là .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_PER|6,7,6,7 PRON_PER
+
+Son dîner n' était pas bien beau , et on le faisait expédier plus vite qu' il n' aurait voulu .
+
+0,1,0,1 PRON_PER|16,17,16,17 PRON_PER
+
+« Au dîner du comte et de la comtesse de Provence , ce sont les mêmes cérémonies que chez la Dauphine , mais ils n' ont pas l' air si gai , ni de si bonne amitié .
+
+3,5,3,5 NOM_PER|7,9,7,9 NOM_PER|19,21,19,21 PROP_PER
+
+Pendant que nous y étions , il vint deux des plus belles femmes de la cour , Mme de Brionne et Mme d' Egmont , auxquelles on donna des tabourets , on les regardait beaucoup plus que ceux qu' on était venu voir .
+
+2,3,2,3 PRON_PER|14,16,14,16 NOM_ORG|9,16,9,16 NOM_PER|8,16,8,16 PRON_PER|25,26,25,26 PRON_PER|32,33,32,33 PRON_PER
+
+Elles étaient en habit de cour noir , ce qui leur allait à merveille .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER
+
+« Nous passâmes ensuite chez Mesdames sœurs du Dauphin .
+
+1,2,1,2 PRON_PER|7,9,7,9 PROP_PER|5,9,5,9 NOM_PER
+
+Mme Adélaïde a treize ans , elle est blonde et serait assez jolie si elle n' était pas d' une grosseur prodigieuse .
+
+0,2,0,2 PROP_PER|6,7,6,7 PRON_PER|14,15,14,15 PRON_PER
+
+À sa taille on la prendrait pour une femme de 40 ans .
+
+1,2,1,2 PRON_PER|4,5,4,5 PRON_PER|10,12,10,12 NOM_TIME|7,12,7,12 NOM_PER
+
+Elle avait un habit de cour fond or avec beaucoup de diamans .
+
+0,1,0,1 PRON_PER
+
+On l' appelle le gros Madame .
+
+1,2,1,2 NOM_PER
+
+Mme Élisabeth a neuf ans , elle est très jolie , blonde , l' air leste et vif .
+
+0,2,0,2 PROP_PER|3,5,3,5 NOM_TIME|6,7,6,7 PRON_PER
+
+Elle avait une robe juste , fond argent et était coëffée avec une toque de diamans .
+
+0,1,0,1 PRON_PER
+
+Elles dînaient elles deux .
+
+0,1,0,1 PRON_PER|2,4,2,4 PRON_PER
+
+Leur gouvernante , Mme la princesse de Guimenée les servait et ne les laissait pas manger à leur faim .
+
+0,2,0,2 NOM_PER|3,8,3,8 NOM_PER|8,9,8,9 PRON_PER|12,13,12,13 PRON_PER|17,18,17,18 PRON_PER
+
+« Le Roi dîne toujours en particulier avec Mme du Baril .
+
+1,3,1,3 NOM_PER|8,11,8,11 PROP_PER
+
+« En quittant ce beau séjour du Roi de France , nous fûmes bien surprises de trouver des mendians déguenillés qui demandaient l' aumône dans les escaliers du château , cela nous révolta beaucoup .
+
+9,10,9,10 PROP_GPE|6,10,6,10 NOM_PER|11,12,11,12 PRON_PER|17,20,17,20 NOM_PER|20,21,20,21 PRON_PER|27,29,27,29 NOM_FAC|25,29,25,29 NOM_FAC|31,32,31,32 PRON_PER
+
+« Nous allâmes dîner chez Mme Legendre , nous en avions grand besoin , après avoir vu passer devant nous tant de bonnes choses .
+
+1,2,1,2 PRON_PER|5,7,5,7 PROP_PER|8,9,8,9 PRON_PER|19,20,19,20 PRON_PER
+
+Je m' y amusai assez .
+
+0,1,0,1 PRON_PER|1,2,1,2 PRON_PER
+
+Nous y restâmes jusques au soir que nous montâmes en carrosse pour retourner à Paris .
+
+0,1,0,1 PRON_PER|4,6,4,6 NOM_TIME|7,8,7,8 PRON_PER|10,11,10,11 NOM_VEH|14,15,14,15 PROP_GPE
+
+En passant sur la place d' armes nous rencontrâmes Mme du Bari dans son carrosse avec Mme de Montmorenci et Mme de Rose .
+
+3,7,3,7 NOM_FAC|7,8,7,8 PRON_PER|9,12,9,12 PROP_PER|13,14,13,14 PRON_PER|13,15,13,15 NOM_VEH|20,23,20,23 PROP_PER|16,23,16,23 PROP_PER
+
+Elle est extrêmement jolie , elle était en habit de cheval , ouvert devant .
+
+0,1,0,1 PRON_PER|5,6,5,6 PRON_PER
+
+Son carrosse est des plus élégans , bleu avec des moulures d' argent et de belles peintures .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_VEH
+
+Ses laquais sont en bleu galonnés d' argent .
+
+0,1,0,1 PRON_PER|0,2,0,2 NOM_PER
+
+Ses six chevaux sont lestes et fringans , ils sont isabelles et les brides , harnais , etc .
+
+0,1,0,1 PRON_PER
+
+Elle est extrêmement haïe à Paris et à Versailles , on lui attribue tout le mal qui arrive en France , et on dit qu' elle est d' une très basse naissance et dépense prodigieusement au Roi .
+
+0,1,0,1 PRON_PER|5,6,5,6 PROP_GPE|8,9,8,9 PROP_GPE|11,12,11,12 PRON_PER|19,20,19,20 PROP_GPE|25,26,25,26 PRON_PER|35,37,35,37 PROP_PER
+
+Le Roi est aussi fort haï de ses sujets , soit à cause de sa faiblesse , soit à cause des mauvais ministres qu' il a choisis ou des grandes dépenses qu' il fait pour Mme du Baril , mais par contre le Dauphin et la Dauphine sont chéris de tout le monde .
+
+0,2,0,2 NOM_PER|7,9,7,9 NOM_PER|14,15,14,15 PRON_PER|20,23,20,23 NOM_PER|23,24,23,24 PRON_PER|24,25,24,25 PRON_PER|32,33,32,33 PRON_PER|35,38,35,38 PROP_PER|45,47,45,47 PROP_PER|42,47,42,47 PROP_PER|50,53,50,53 NOM_PER
+
+« Nous sommes arrivées à Paris à huit heures du soir .
+
+1,2,1,2 PRON_PER|5,6,5,6 PROP_GPE|7,9,7,9 NOM_TIME|9,11,9,11 NOM_TIME
+
+Le lendemain , nous ne sommes point sorties , je me suis amusée à écrire mon voyage à Versailles .
+
+0,2,0,2 NOM_TIME|3,4,3,4 PRON_PER|9,10,9,10 PRON_PER|10,11,10,11 PRON_PER|15,16,15,16 PRON_PER|18,19,18,19 PROP_GPE
+
+» En revenant à Paris , nos voyageuses avaient encore à y voir bien des choses et , certes , elles ne perdirent pas leur temps pendant les six ou sept semaines qu' elles y restèrent encore .
+
+4,5,4,5 PROP_GPE|6,7,6,7 PRON_PER|6,8,6,8 NOM_PER|11,12,11,12 PRON_GPE|20,21,20,21 PRON_PER|27,32,27,32 NOM_TIME|32,33,32,33 PRON_PER|34,35,34,35 PRON_GPE
+
+À côté des séances chez le Dr Tronchin , ces demoiselles étaient constamment en course soit avec leur grand' mère , soit avec quelque amie .
+
+5,8,5,8 NOM_PER|9,11,9,11 NOM_PER|17,18,17,18 PRON_PER|23,25,23,25 NOM_PER
+
+En les suivant au jour le jour on trouvera peut - être que le récit de Rosalie est écrit dans un style un peu monotone , et cependant , par le fait que notre jeune voyageuse passait constamment du sérieux au plaisant , ses tablettes , on en conviendra , offrent une lanterne magique assez variée , sans compter les petites remarques enfantines qui reposent des sages descriptions de monuments dont nous passerons quelques - unes .
+
+1,2,1,2 PRON_PER|7,8,7,8 PRON_METALEPSE|16,17,16,17 PROP_PER|33,34,33,34 PRON_PER|33,36,33,36 NOM_PER|43,44,43,44 PRON_PER|46,47,46,47 PRON_METALEPSE|69,70,69,70 NOM_FAC|71,72,71,72 PRON_METALEPSE
+
