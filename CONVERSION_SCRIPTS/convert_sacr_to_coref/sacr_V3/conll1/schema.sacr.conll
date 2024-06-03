@@ -1,0 +1,24 @@
+#begin document (schema.sacr); part 000
+0	PROP	-
+1	:	-
+2	name	-
+3	=	-
+4	EN	-
+5	$	-
+6	$	-
+7	$	-
+8	p	-
+9	PER	-
+10	l	-
+11	LOC	-
+12	f	-
+13	FAC	-
+14	t	-
+15	TIME	-
+16	o	-
+17	ORG	-
+18	v	-
+19	VEH	-
+20	g	-
+21	GPE	-
+#end document
