@@ -1,0 +1,12 @@
+base_model=bert-base-multilingual-cased
+model=`echo $base_model | sed 's#/#_#g' `
+echo $model
+outdir="trained_models/entities"
+
+# python training/train_entity_tagger.py --base_model $base_model --mode train --trainFolder_layered training/data/entities/train --testFolder_layered training/data/entities/test --devFolder_layered training/data/entities/dev --tagFile_layered training/data/entities/entity_cat.tagset --modelFile $outdir/$model.model --trainFolder_flat training/data/events/train --testFolder_flat training/data/events/test  --devFolder_flat training/data/events/dev --flat_metric fscore --trainFolder_supersense training/data/supersense/train --devFolder_supersense training/data/supersense/dev --testFolder_supersense training/data/supersense/test --tagFile_supersense training/data/supersense/supersense.tagset > $outdir/$model.log 2>&1
+
+# python training/train_entity_tagger.py --base_model $base_model --mode test --trainFolder_layered training/data/entities/train --testFolder_layered training/data/entities/test --devFolder_layered training/data/entities/dev --tagFile_layered training/data/entities/entity_cat.tagset --modelFile $outdir/$model.model --trainFolder_flat training/data/events/train --testFolder_flat training/data/events/test  --devFolder_flat training/data/events/dev --flat_metric fscore --trainFolder_supersense training/data/supersense/train --devFolder_supersense training/data/supersense/dev --testFolder_supersense training/data/supersense/test --tagFile_supersense training/data/supersense/supersense.tagset > $outdir/$model.eval.log 2>&1
+
+python train_entity_tagger.py --base_model $base_model --mode train --trainFolder_layered /data0/dbamman/proc_ace/data/es/train --testFolder_layered /data0/dbamman/proc_ace/data/es/test --devFolder_layered /data0/dbamman/proc_ace/data/es/dev --tagFile_layered data/entities/entity_cat.tagset --modelFile $outdir/$model.model #> $outdir/$model.log 2>&1
+
+# python train_entity_tagger.py --base_model $base_model --mode test --trainFolder_layered /data0/dbamman/proc_ace/data/es/train --testFolder_layered /data0/dbamman/proc_ace/data/es/test --devFolder_layered /data0/dbamman/proc_ace/data/es/dev --tagFile_layered data/entities/entity_cat.tagset --modelFile $outdir/$model.model  #> $outdir/$model.eval.log 2>&1
