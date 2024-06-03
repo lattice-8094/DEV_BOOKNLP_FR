@@ -1,0 +1,440 @@
+DÉDIÉ À MADEMOISELLE MARIE DE MONTHEAU Au milieu de la rue Saint - Denis , presque au coin de la rue du Petit - Lion , existait naguère une de ces maisons précieuses qui donnent aux historiens la facilité de reconstruire par analogie l ’ ancien Paris .
+
+2,6,2,6 PROP_PER|35,37,35,37 NOM_PER
+
+Par une matinée pluvieuse , au mois de mars , un jeune homme , soigneusement enveloppé dans son manteau , se tenait sous l ’ auvent d ’ une boutique en face de ce vieux logis , qu ’ il examinait avec un enthousiasme d ’ archéologue .
+
+10,13,10,13 NOM_PER|17,18,17,18 PRON_PER|39,40,39,40 PRON_PER
+
+À la vérité , ce débris de la bourgeoisie du seizième siècle offrait à l ’ observateur plus d ’ un problème à résoudre .
+
+7,12,7,12 NOM_PER|14,17,14,17 NOM_PER
+
+À chaque étage , une singularité : au premier , quatre fenêtres longues , étroites , rapprochées l ’ une de l ’ autre , avaient des carreaux de bois dans leur partie inférieure , afin de produire ce jour douteux , à la faveur duquel un habile marchand prête aux étoffes la couleur souhaitée par ses chalands .
+
+46,49,46,49 NOM_PER|56,57,56,57 PRON_PER
+
+Le jeune homme semblait plein de dédain pour cette partie essentielle de la maison , ses yeux ne s ’ y étaient pas encore arrêtés .
+
+0,3,0,3 NOM_PER|15,16,15,16 PRON_PER
+
+Les fenêtres du second étage , dont les jalousies relevées laissaient voir , au travers de grands carreaux en verre de Bohême , de petits rideaux de mousseline rousse , ne l ’ intéressaient pas davantage .
+
+31,32,31,32 PRON_PER
+
+Son attention se portait particulièrement au troisième , sur d ’ humbles croisées dont le bois travaillé grossièrement aurait mérité d ’ être placé au Conservatoire des arts et métiers pour y indiquer les premiers efforts de la menuiserie française .
+
+0,1,0,1 PRON_PER
+
+Ces croisées avaient de petites vitres d ’ une couleur si verte , que , sans son excellente vue , le jeune homme n ’ aurait pu apercevoir les rideaux de toile à carreaux bleus qui cachaient les mystères de cet appartement aux yeux des profanes .
+
+16,17,16,17 PRON_PER|20,23,20,23 NOM_PER
+
+Parfois , cet observateur , ennuyé de sa contemplation sans résultat , ou du silence dans lequel la maison était ensevelie , ainsi que tout le quartier , abaissait ses regards vers les régions inférieures .
+
+2,4,2,4 NOM_PER|7,8,7,8 PRON_PER|29,30,29,30 PRON_PER
+
+Un sourire involontaire se dessinait alors sur ses lèvres , quand il revoyait la boutique où se rencontraient en effet des choses assez risibles .
+
+7,8,7,8 PRON_PER|11,12,11,12 PRON_PER
+
+Cette toile causait la gaieté du jeune homme .
+
+5,8,5,8 NOM_PER
+
+Mais il faut dire que le plus spirituel des peintres modernes n ’ inventerait pas de charge si comique .
+
+8,11,8,11 NOM_PER
+
+Dessin , couleurs , accessoires , tout était traité de manière à faire croire que l ’ artiste avait voulu se moquer du marchand et des passants .
+
+15,18,15,18 NOM_PER|22,24,22,24 NOM_PER|25,27,25,27 NOM_PER
+
+Ainsi la queue mouchetée du chat était découpée de telle sorte qu ’ on pouvait la prendre pour un spectateur , tant la queue des chats de nos ancêtres était grosse , haute et fournie .
+
+24,29,24,29 NOM_PER
+
+À droite du tableau , sur un champ d ’ azur qui déguisait imparfaitement la pourriture du bois , les passants lisaient Guillaume ; et à gauche , successeur du sieur Chevrel .
+
+19,21,19,21 NOM_PER|22,23,22,23 PROP_PER|30,32,30,32 NOM_PER
+
+Afin de rabattre l ’ orgueil de ceux qui croient que le monde devient de jour en jour plus spirituel , et que le moderne charlatanisme surpasse tout , il convient de faire observer ici que ces enseignes , dont l ’ étymologie semble bizarre à plus d ’ un négociant parisien , sont les tableaux morts de vivants tableaux à l ’ aide desquels nos espiègles ancêtres avaient réussi à amener les chalands dans leurs maisons .
+
+65,68,65,68 NOM_PER
+
+, furent des animaux en cage dont l ’ adresse émerveillait les passants , et dont l ’ éducation prouvait la patience de l ’ industriel au quinzième siècle .
+
+11,13,11,13 NOM_PER|23,29,23,29 NOM_PER
+
+De semblables curiosités enrichissaient plus vite leurs heureux possesseurs que les Providence , les Bonne - foi , les Grâce - de - Dieu et les Décollation de saint Jean - Baptiste qui se voient encore rue Saint - Denis .
+
+6,9,6,9 NOM_PER
+
+Cependant l ’ inconnu ne restait certes pas là pour admirer ce chat , qu ’ un moment d ’ attention suffisait à graver dans la mémoire .
+
+1,4,1,4 NOM_PER
+
+Ce jeune homme avait aussi ses singularités .
+
+0,3,0,3 NOM_PER|5,6,5,6 PRON_PER
+
+Son manteau , plissé dans le goût des draperies antiques , laissait voir une élégante chaussure , d ’ autant plus remarquable au milieu de la boue parisienne , qu ’ il portait des bas de soie blancs dont les mouchetures attestaient son impatience .
+
+0,1,0,1 PRON_PER|31,32,31,32 PRON_PER|42,43,42,43 PRON_PER
+
+Il sortait sans doute d ’ une noce ou d ’ un bal , car à cette heure matinale il tenait à la main des gants blancs , et les boucles de ses cheveux noirs défrisés éparpillées sur ses épaules indiquaient une coiffure à la Caracalla , mise à la mode autant par l ’ École de David que par cet engouement pour les formes grecques et romaines qui marqua les premières années de ce siècle .
+
+0,1,0,1 PRON_PER|19,20,19,20 PRON_PER|32,33,32,33 PRON_PER|38,39,38,39 PRON_PER|45,46,45,46 PROP_PER
+
+Malgré le bruit que faisaient quelques maraîchers attardés passant au galop pour se rendre à la grande halle , cette rue si agitée avait alors un calme dont la magie n ’ est connue que de ceux qui ont erré dans Paris désert , à ces heures où son tapage , un moment apaisé , renaît et s ’ entend dans le lointain comme la grande voix de la mer .
+
+5,8,5,8 NOM_PER|36,37,36,37 NOM_PER
+
+Cet étrange jeune homme devait être aussi curieux pour les commerçants du Chat - qui - pelote , que le Chat - qui - pelote l ’ était pour lui .
+
+0,4,0,4 NOM_PER|9,17,9,17 NOM_PER|29,30,29,30 PRON_PER
+
+Une cravate éblouissante de blancheur rendait sa figure tourmentée encore plus pâle qu ’ elle ne l ’ était réellement .
+
+6,7,6,7 PRON_PER
+
+Le feu tour à tour sombre et pétillant que jetaient ses yeux noirs s ’ harmoniait avec les contours bizarres de son visage , avec sa bouche large et sinueuse qui se contractait en souriant .
+
+10,11,10,11 PRON_PER|21,22,21,22 PRON_PER|25,26,25,26 PRON_PER
+
+Son front , ridé par une contrariété violente , avait quelque chose de fatal .
+
+0,1,0,1 PRON_PER
+
+Quand celui de l ’ inconnu exprimait la passion , les plis qui s ’ y formaient causaient une sorte d ’ effroi par la vigueur avec laquelle ils se prononçaient ; mais lorsqu ’ il reprenait son calme , si facile à troubler , il y respirait une grâce lumineuse qui rendait attrayante cette physionomie où la joie , la douleur , l ’ amour , la colère , le dédain éclataient d ’ une manière si communicative que l ’ homme le plus froid en devait être impressionné .
+
+3,6,3,6 NOM_PER|35,36,35,36 PRON_PER|37,38,37,38 PRON_PER|45,46,45,46 PRON_PER
+
+Cet inconnu se dépitait si bien au moment où l ’ on ouvrit précipitamment la lucarne du grenier , qu ’ il n ’ y vit pas apparaître trois joyeuses figures rondelettes , blanches , roses , mais aussi communes que le sont les figures du Commerce sculptées sur certains monuments .
+
+0,2,0,2 NOM_PER|11,12,11,12 PRON_PER|21,22,21,22 PRON_PER|28,36,28,36 NOM_PER
+
+Ces trois faces , encadrées par la lucarne , rappelaient les têtes d ’ anges bouffis semés dans les nuages qui accompagnent le Père éternel .
+
+22,25,22,25 NOM_PER
+
+Les apprentis respirèrent les émanations de la rue avec une avidité qui démontrait combien l ’ atmosphère de leur grenier était chaude et méphitique .
+
+0,2,0,2 NOM_PER
+
+Après avoir indiqué ce singulier factionnaire , le commis qui paraissait être le plus jovial disparut et revint en tenant à la main un instrument dont le métal inflexible a été récemment remplacé par un cuir souple ; puis tous prirent une expression malicieuse en regardant le badaud qu ’ ils aspergèrent d ’ une pluie fine et blanchâtre dont le parfum prouvait que les trois mentons venaient d ’ être rasés .
+
+3,6,3,6 NOM_PER|7,9,7,9 NOM_PER|9,10,9,10 PRON_PER|39,40,39,40 NOM_PER|47,48,47,48 NOM_PER|48,49,48,49 PRON_PER|50,51,50,51 PRON_PER
+
+Élevés sur la pointe de leurs pieds , et réfugiés au fond de leur grenier pour jouir de la colère de leur victime , les commis cessèrent de rire en voyant l ’ insouciant dédain avec lequel le jeune homme secoua son manteau , et le profond mépris que peignit sa figure quand il leva les yeux sur la lucarne vide .
+
+5,6,5,6 PRON_PER|21,23,21,23 NOM_PER|24,26,24,26 NOM_PER|37,40,37,40 NOM_PER|41,42,41,42 PRON_PER|50,51,50,51 PRON_PER|53,54,53,54 PRON_PER
+
+Le passant fut alors récompensé de sa longue attente .
+
+0,2,0,2 NOM_PER|6,7,6,7 PRON_PER
+
+La figure d ’ une jeune fille , fraîche comme un de ces blancs calices qui fleurissent au sein des eaux , se montra couronnée d ’ une ruche en mousseline froissée qui donnait à sa tête un air d ’ innocence admirable .
+
+4,7,4,7 NOM_PER|35,36,35,36 PRON_PER
+
+Quoique couverts d ’ une étoffe brune , son cou , ses épaules s ’ apercevaient , grâce à de légers interstices ménagés par les mouvements du sommeil .
+
+8,9,8,9 PRON_PER|11,12,11,12 PRON_PER
+
+Aucune expression de contrainte n ’ altérait ni l ’ ingénuité de ce visage , ni le calme de ces yeux immortalisés par avance dans les sublimes compositions de Raphaël : c ’ était la même grâce , la même tranquillité de ces vierges devenues proverbiales .
+
+29,30,29,30 PROP_PER
+
+Semblable à ces fleurs de jour qui n ’ ont pas encore au matin déplié leur tunique roulée par le froid des nuits , la jeune fille , à peine éveillée , laissa errer ses yeux bleus sur les toits voisins et regarda le ciel ; puis , par une sorte d ’ habitude , elle les baissa sur les sombres régions de la rue , où ils rencontrèrent aussitôt ceux de son adorateur : la coquetterie la fit sans doute souffrir d ’ être vue en déshabillé , elle se retira vivement en arrière , le tourniquet tout usé tourna , la croisée redescendit avec cette rapidité qui , de nos jours , a valu un nom odieux à cette naïve invention de nos ancêtres , et la vision disparut .
+
+24,27,24,27 NOM_PER|34,35,34,35 PRON_PER|55,56,55,56 PRON_PER|72,74,72,74 NOM_PER|77,78,77,78 PRON_PER|89,90,89,90 PRON_PER|124,126,124,126 NOM_PER
+
+Pour ce jeune homme , la plus brillante des étoiles du matin semblait avoir été soudain cachée par un nuage .
+
+1,4,1,4 NOM_PER
+
+La vieille porte à heurtoir fut repliée sur le mur intérieur de la maison par un serviteur vraisemblablement contemporain de l ’ enseigne , qui d ’ une main tremblante y attacha le morceau de drap carré sur lequel était brodé en soie jaune le nom de Guillaume , successeur de Chevrel .
+
+15,17,15,17 NOM_PER|24,25,24,25 PRON_PER|47,48,47,48 PROP_PER|49,52,49,52 NOM_PER
+
+Il eût été difficile à plus d ’ un passant de deviner le genre de commerce de monsieur Guillaume .
+
+17,19,17,19 PROP_PER
+
+Malgré l ’ apparente simplicité de cette gothique façade , monsieur Guillaume était de tous les marchands drapiers de Paris celui dont les magasins se trouvaient toujours le mieux fournis , dont les relations avaient le plus d ’ étendue , et dont la probité commerciale ne souffrait pas le moindre soupçon .
+
+10,12,10,12 PROP_PER|14,20,14,20 NOM_PER|20,21,20,21 NOM_PER|21,22,21,22 PRON_PER|31,32,31,32 PRON_PER|42,43,42,43 PRON_PER
+
+Si quelques - uns de ses confrères concluaient des marchés avec le gouvernement , sans avoir la quantité de drap voulue , il était toujours prêt à la leur livrer , quelque considérable que fût le nombre de pièces soumissionnées .
+
+5,7,5,7 NOM_PER|22,23,22,23 PRON_PER|28,29,28,29 PRON_PER
+
+Le rusé négociant connaissait mille manières de s ’ attribuer le plus fort bénéfice sans se trouver obligé , comme eux , de courir chez des protecteurs , y faire des bassesses ou de riches présents .
+
+0,3,0,3 NOM_PER|20,21,20,21 PRON_PER
+
+Si les confrères ne pouvaient le payer qu ’ en excellentes traites un peu longues , il indiquait son notaire comme un homme accommodant ; et savait encore tirer une seconde mouture du sac , grâce à cet expédient qui faisait dire proverbialement aux négociants de la rue Saint - Denis : – Dieu vous garde du notaire de monsieur Guillaume !
+
+1,3,1,3 NOM_PER|5,6,5,6 PRON_PER|16,17,16,17 PRON_PER|18,20,18,20 NOM_PER|43,51,43,51 NOM_PER|53,54,53,54 PROP_PER|56,61,56,61 NOM_PER
+
+Le vieux négociant se trouva debout comme par miracle , sur le seuil de sa boutique , au moment où le domestique se retira .
+
+0,3,0,3 NOM_PER|20,22,20,22 NOM_PER
+
+Monsieur Guillaume regarda la rue Saint - Denis , les boutiques voisines et le temps , comme un homme qui débarque au Havre et revoit la France après un long voyage .
+
+0,2,0,2 PROP_PER
+
+Bien convaincu que rien n ’ avait changé pendant son sommeil , il aperçut alors le passant en faction qui de son côté contemplait le patriarche de la draperie , comme Humboldt dut examiner le premier gymnote électrique qu ’ il vit en Amérique .
+
+9,10,9,10 PRON_PER|12,13,12,13 PRON_PER|15,17,15,17 NOM_PER|19,20,19,20 PRON_PER|21,22,21,22 PRON_PER|24,29,24,29 NOM_PER|31,32,31,32 PROP_PER|40,41,40,41 PRON_PER
+
+Monsieur Guillaume portait de larges culottes de velours noir , des bas chinés , et des souliers carrés à boucles d ’ argent .
+
+0,2,0,2 PROP_PER
+
+Son habit à pans carrés , à basques carrées , à collet carré , enveloppait son corps légèrement voûté d ’ un drap verdâtre garni de grands boutons en métal blanc mais rougis par l ’ usage .
+
+0,1,0,1 PRON_PER|15,16,15,16 PRON_PER
+
+Ses cheveux gris étaient si exactement aplatis et peignés sur son crâne jaune , qu ’ ils le faisaient ressembler à un champ sillonné .
+
+0,1,0,1 PRON_PER|10,11,10,11 PRON_PER|17,18,17,18 PRON_PER
+
+Ses petits yeux verts , percés comme avec une vrille , flamboyaient sous deux arcs marqués d ’ une faible rougeur à défaut de sourcils .
+
+0,1,0,1 PRON_PER
+
+Les inquiétudes avaient tracé sur son front des rides horizontales aussi nombreuses que les plis de son habit .
+
+5,6,5,6 PRON_PER|16,17,16,17 PRON_PER
+
+À cette époque on voyait moins rarement qu ’ aujourd ’ hui de ces vieilles familles où se conservaient , comme de précieuses traditions , les mœurs , les costumes caractéristiques de leurs professions , et restées au milieu de la civilisation nouvelle comme ces débris antédiluviens retrouvés par Cuvier dans les carrières .
+
+13,34,13,34 NOM_PER|49,50,49,50 PROP_PER
+
+Le chef de la famille Guillaume était un de ces notables gardiens des anciens usages : on le surprenait à regretter le Prévôt des Marchands , et jamais il ne parlait d ’ un jugement du tribunal de commerce sans le nommer la sentence des consuls .
+
+0,6,0,6 NOM_PER|16,17,16,17 PRON_PER|17,18,17,18 PRON_PER|28,29,28,29 PRON_PER|44,46,44,46 NOM_PER
+
+Levé sans doute en vertu de ces coutumes , le premier de sa maison il attendait de pied ferme l ’ arrivée de ses trois commis , pour les gourmander en cas de retard .
+
+12,13,12,13 PRON_PER|14,15,14,15 PRON_PER|23,26,23,26 NOM_PER|28,29,28,29 PRON_PER
+
+Ces jeunes disciples de Mercure ne connaissaient rien de plus redoutable que l ’ activité silencieuse avec laquelle le patron scrutait leurs visages et leurs mouvements , le lundi matin , en y recherchant les preuves ou les traces de leurs escapades .
+
+0,5,0,5 NOM_PER|18,20,18,20 NOM_PER|21,22,21,22 PRON_PER|24,25,24,25 PRON_PER|40,41,40,41 PRON_PER
+
+Mais , en ce moment , le vieux drapier ne fit aucune attention à ses apprentis , il était occupé à chercher le motif de la sollicitude avec laquelle le jeune homme en bas de soie et en manteau portait alternativement les yeux sur son enseigne et sur les profondeurs de son magasin .
+
+6,9,6,9 NOM_PER|14,16,14,16 NOM_PER|17,18,17,18 PRON_PER|44,45,44,45 PRON_PER
+
+Le trop curieux étranger semblait convoiter ce petit local , y prendre le plan d ’ une salle à manger latérale , éclairée par un vitrage pratiqué dans le plafond , et d ’ où la famille réunie devait facilement voir , pendant ses repas , les plus légers accidents qui pouvaient arriver sur le seuil de la boutique .
+
+0,4,0,4 NOM_PER|35,38,35,38 NOM_PER|43,44,43,44 PRON_PER
+
+Un si grand amour pour son logis paraissait suspect à un négociant qui avait subi le régime du Maximum .
+
+10,12,10,12 NOM_PER|12,13,12,13 PRON_PER
+
+Monsieur Guillaume pensait donc assez naturellement que cette figure sinistre en voulait à la caisse du Chat - qui - pelote .
+
+0,2,0,2 PROP_PER|7,10,7,10 NOM_PER
+
+Après avoir discrètement joui du duel muet qui avait lieu entre son patron et l ’ inconnu , le plus âgé des commis hasarda de se placer sur la dalle où était monsieur Guillaume , en voyant le jeune homme contempler à la dérobée les croisées du troisième .
+
+11,13,11,13 NOM_PER|14,17,14,17 NOM_PER|18,23,18,23 NOM_PER|32,34,32,34 PROP_PER|37,40,37,40 NOM_PER
+
+Il fit deux pas dans la rue , leva la tête , et crut avoir aperçu mademoiselle Augustine Guillaume qui se retirait avec précipitation .
+
+0,1,0,1 PRON_PER|16,19,16,19 PROP_PER|19,20,19,20 PRON_PER
+
+Mécontent de la perspicacité de son premier commis , le drapier lui lança un regard de travers ; mais tout à coup les craintes mutuelles que la présence de ce passant excitait dans l ’ âme du marchand et de l ’ amoureux commis se calmèrent .
+
+5,8,5,8 NOM_PER|9,11,9,11 NOM_PER|11,12,11,12 PRON_PER|29,31,29,31 NOM_PER|36,38,36,38 NOM_PER|40,44,40,44 NOM_PER
+
+L ’ inconnu hêla un fiacre qui se rendait à une place voisine , et y monta rapidement en affectant une trompeuse indifférence .
+
+0,3,0,3 NOM_PER
+
+Ce départ mit un certain baume dans le cœur des autres commis , assez inquiets de retrouver la victime de leur plaisanterie .
+
+9,12,9,12 NOM_PER|17,22,17,22 NOM_PER
+
+– Hé bien , messieurs , qu ’ avez - vous donc à rester là , les bras croisés ?
+
+4,5,4,5 NOM_PER|10,11,10,11 PRON_PER
+
+dit monsieur Guillaume à ses trois néophytes .
+
+1,3,1,3 PROP_PER|4,7,4,7 NOM_PER
+
+quand j ’ étais chez le sieur Chevrel , j ’ avais déjà visité plus de deux pièces de drap .
+
+1,2,1,2 PRON_PER|5,8,5,8 NOM_PER|9,10,9,10 PRON_PER
+
+– Il faisait donc jour de meilleure heure , dit le second commis que cette tâche concernait .
+
+10,13,10,13 NOM_PER|13,14,13,14 PRON_PER
+
+Le vieux négociant ne put s ’ empêcher de sourire .
+
+0,3,0,3 NOM_PER
+
+Quoique deux de ces trois jeunes gens , confiés à ses soins par leurs pères , riches manufacturiers de Louviers et de Sedan , n ’ eussent qu ’ à demander cent mille francs pour les avoir , le jour où ils seraient en âge de s ’ établir , Guillaume croyait de son devoir de les tenir sous la férule d ’ un antique despotisme inconnu de nos jours dans les brillants magasins modernes dont les commis veulent être riches à trente ans : il les faisait travailler comme des nègres .
+
+1,7,1,7 PRON_PER|10,11,10,11 PRON_PER|13,15,13,15 NOM_PER|41,42,41,42 PRON_PER|50,51,50,51 PROP_PER|53,54,53,54 PRON_PER|56,57,56,57 PRON_PER|76,78,76,78 NOM_PER|85,86,85,86 PRON_PER|86,87,86,87 PRON_PER
+
+À eux trois , ces commis suffisaient à une besogne qui aurait mis sur les dents dix de ces employés dont le sybaritisme enfle aujourd ’ hui les colonnes du budget .
+
+1,3,1,3 NOM_PER|4,6,4,6 NOM_PER|16,20,16,20 NOM_PER|20,21,20,21 PRON_PER
+
+Souvent , le plus espiègle des commis s ’ était amusé à écrire sur le fromage de Gruyère qu ’ on leur abandonnait au déjeuner , et qu ’ ils se plaisaient à respecter , la date de sa réception primitive .
+
+2,7,2,7 NOM_PER|21,22,21,22 PRON_PER|29,30,29,30 PRON_PER
+
+Cette malice et quelques autres semblables faisaient parfois sourire la plus jeune des deux filles de Guillaume , la jolie vierge qui venait d ’ apparaître au passant enchanté .
+
+9,17,9,17 NOM_PER|18,21,18,21 NOM_PER|21,22,21,22 PRON_PER|26,29,26,29 NOM_PER
+
+Quoique chacun des apprentis , et même le plus ancien , payât une forte pension , aucun d ’ eux n ’ eût été assez hardi pour rester à la table du patron au moment où le dessert y était servi .
+
+1,4,1,4 PRON_PER|7,10,7,10 NOM_PER|19,20,19,20 PRON_PER|31,33,31,33 NOM_PER
+
+Lorsque madame Guillaume parlait d ’ accommoder la salade , ces pauvres jeunes gens tremblaient en songeant avec quelle parcimonie sa prudente main savait y épancher l ’ huile .
+
+1,3,1,3 PROP_PER|10,14,10,14 NOM_PER|20,21,20,21 PRON_PER
+
+Il ne fallait pas qu ’ ils s ’ avisassent de passer une nuit dehors , sans avoir donné long - temps à l ’ avance un motif plausible à cette irrégularité .
+
+6,7,6,7 PRON_PER
+
+Chaque dimanche , et à tour de rôle , deux commis accompagnaient la famille Guillaume à la messe de Saint - Leu et aux vêpres .
+
+9,11,9,11 NOM_PER|12,15,12,15 NOM_PER
+
+Mesdemoiselles Virginie et Augustine , modestement vêtues d ’ indienne , prenaient chacune le bras d ’ un commis et marchaient en avant , sous les yeux perçants de leur mère , qui fermait ce petit cortége domestique avec son mari accoutumé par elle à porter deux gros paroissiens reliés en maroquin noir .
+
+1,2,1,2 PROP_PER|3,4,3,4 PROP_PER|12,13,12,13 NOM_PER|17,19,17,19 NOM_PER|29,31,29,31 NOM_PER|32,33,32,33 PRON_PER|39,41,39,41 NOM_PER|43,44,43,44 PRON_PER
+
+Le second commis n ’ avait pas d ’ appointements .
+
+0,3,0,3 NOM_PER
+
+Quant à celui que douze ans de persévérance et de discrétion initiaient aux secrets de la maison , il recevait huit cents francs en récompense de ses labeurs .
+
+2,3,2,3 NOM_PER|3,4,3,4 PRON_PER|18,19,18,19 PRON_PER|26,27,26,27 PRON_PER
+
+À certaines fêtes de famille , il était gratifié de quelques cadeaux auxquels la main sèche et ridée de madame Guillaume donnait seule du prix : des bourses en filet qu ’ elle avait soin d ’ emplir de coton pour faire valoir leurs dessins à jour , des bretelles fortement conditionnées , ou des paires de bas de soie bien lourdes .
+
+6,7,6,7 PRON_PER|19,21,19,21 PROP_PER|32,33,32,33 PRON_PER
+
+Quelquefois , mais rarement , ce premier ministre était admis à partager les plaisirs de la famille soit quand elle allait à la campagne , soit quand après des mois d ’ attente elle se décidait à user de son droit à demander , en louant une loge , une pièce à laquelle Paris ne pensait plus .
+
+5,8,5,8 NOM_PER|15,17,15,17 NOM_PER|19,20,19,20 PRON_PER|33,34,33,34 PRON_PER|39,40,39,40 PRON_PER
+
+Quant aux trois autres commis , la barrière de respect qui séparait jadis un maître drapier de ses apprentis était placée si fortement entre eux et le vieux négociant , qu ’ il leur eût été plus facile de voler une pièce de drap que de déranger cette auguste étiquette .
+
+1,5,1,5 NOM_PER|24,25,24,25 PRON_PER|26,29,26,29 NOM_PER|33,34,33,34 PRON_PER
+
+Guillaume était un de ces hommes antiques , et s ’ il en avait les ridicules , il en avait toutes les qualités ; aussi Joseph Lebas , son premier commis , orphelin et sans fortune , était - il , dans son idée , le futur époux de Virginie sa fille aînée .
+
+0,1,0,1 PROP_PER|11,12,11,12 PRON_PER|17,18,17,18 PRON_PER|25,27,25,27 PROP_PER|28,31,28,31 NOM_PER|39,40,39,40 PRON_PER|42,43,42,43 PRON_PER|49,50,49,50 PROP_PER|50,53,50,53 NOM_PER
+
+Mais Joseph ne partageait point les pensées symétriques de son patron , qui , pour un empire , n ’ aurait pas marié sa seconde fille avant la première .
+
+1,2,1,2 PROP_PER|9,11,9,11 NOM_PER|12,13,12,13 PRON_PER|23,26,23,26 NOM_PER|27,29,27,29 NOM_PER
+
+L ’ infortuné commis se sentait le cœur entièrement pris pour mademoiselle Augustine la cadette .
+
+11,13,11,13 NOM_PER
+
+Guillaume avait deux filles .
+
+0,1,0,1 PROP_PER|2,4,2,4 NOM_PER
+
+L ’ aînée , mademoiselle Virginie , était tout le portrait de sa mère .
+
+4,6,4,6 PROP_PER|12,14,12,14 NOM_PER
+
+Madame Guillaume , fille du sieur Chevrel , se tenait si droite sur la banquette de son comptoir , que plus d ’ une fois elle avait entendu des plaisants parier qu ’ elle y était empalée .
+
+0,2,0,2 PROP_PER|3,7,3,7 NOM_PER|16,17,16,17 PRON_PER|25,26,25,26 PRON_PER|28,30,28,30 NOM_PER|33,34,33,34 PRON_PER
+
+Sa figure maigre et longue trahissait une dévotion outrée .
+
+0,1,0,1 PRON_PER
+
+Sans grâces et sans manières aimables , madame Guillaume ornait habituellement sa tête presque sexagénaire d ’ un bonnet dont la forme était invariable et garni de barbes comme celui d ’ une veuve .
+
+7,9,7,9 PROP_PER|11,12,11,12 PRON_PER
+
+Tout le voisinage l ’ appelait la sœur tourière .
+
+0,3,0,3 NOM_PER|3,4,3,4 PRON_PER
+
+Sa parole était brève , et ses gestes avaient quelque chose des mouvements saccadés d ’ un télégraphe .
+
+0,1,0,1 PRON_PER|6,7,6,7 PRON_PER
+
+Son œil , clair comme celui d ’ un chat , semblait en vouloir à tout le monde de ce qu ’ elle était laide .
+
+0,1,0,1 PRON_PER|22,23,22,23 PRON_PER
+
+Mademoiselle Virginie , élevée comme sa jeune sœur sous les lois despotiques de leur mère , avait atteint l ’ âge de vingt - huit ans .
+
+0,2,0,2 PROP_PER|5,8,5,8 NOM_PER|13,15,13,15 NOM_PER
+
+La jeunesse atténuait l ’ air disgracieux que sa ressemblance avec sa mère donnait parfois à sa figure ; mais la rigueur maternelle l ’ avait dotée de deux grandes qualités qui pouvaient tout contre - balancer : elle était douce et patiente .
+
+8,9,8,9 PRON_PER|11,13,11,13 NOM_PER|16,17,16,17 PRON_PER|23,24,23,24 PRON_PER|38,39,38,39 PRON_PER
+
+Mademoiselle Augustine , à peine âgée de dix - huit ans , ne ressemblait ni à son père ni à sa mère .
+
+0,2,0,2 PROP_PER|16,18,16,18 NOM_PER|20,22,20,22 NOM_PER
+
+Elle était de ces filles qui , par l ’ absence de tout lien physique avec leurs parents , font croire à ce dicton de prude : Dieu donne les enfants .
+
+0,1,0,1 PRON_PER|27,28,27,28 PROP_PER
+
+Augustine était petite , ou , pour la mieux peindre , mignonne .
+
+0,1,0,1 PROP_PER|7,8,7,8 PRON_PER
+
+Gracieuse et pleine de candeur , un homme du monde n ’ aurait pu reprocher à cette charmante créature que des gestes mesquins ou certaines attitudes communes , et parfois de la gêne .
+
+16,19,16,19 NOM_PER
+
+Sa figure silencieuse et immobile respirait cette mélancolie passagère qui s ’ empare de toutes les jeunes filles trop faibles pour oser résister aux volontés d ’ une mère .
+
+0,1,0,1 PRON_PER|14,29,14,29 NOM_PER
+
+Toujours modestement vêtues , les deux sœurs ne pouvaient satisfaire la coquetterie innée chez la femme que par un luxe de propreté qui leur allait à merveille et les mettait en harmonie avec ces comptoirs luisants , avec ces rayons sur lesquels le vieux domestique ne souffrait pas un grain de poussière , avec la simplicité antique de tout ce qui se voyait autour d ’ elles .
+
+4,7,4,7 NOM_PER|23,24,23,24 PRON_PER|28,29,28,29 PRON_PER|42,45,42,45 NOM_PER|66,67,66,67 PRON_PER
+
+Obligées par leur genre de vie à chercher des éléments de bonheur dans des travaux obstinés , Augustine et Virginie n ’ avaient donné jusqu ’ alors que du contentement à leur mère , qui s ’ applaudissait secrètement de la perfection du caractère de ses deux filles .
+
+2,3,2,3 PRON_PER|17,18,17,18 PROP_PER|19,20,19,20 PROP_PER|31,33,31,33 NOM_PER|34,35,34,35 PRON_PER|45,48,45,48 NOM_PER
+
+Il est facile d ’ imaginer les résultats de l ’ éducation qu ’ elles avaient reçue .
+
+14,15,14,15 PRON_PER
+
+Élevées pour le commerce , habituées à n ’ entendre que des raisonnements et des calculs tristement mercantiles , n ’ ayant étudié que la grammaire , la tenue des livres , un peu d ’ histoire juive , l ’ histoire de France dans Le Ragois , et ne lisant que les auteurs dont la lecture leur était permise par leur mère , leurs idées n ’ avaient pas pris beaucoup d ’ étendue : elles savaient parfaitement tenir un ménage , elles connaissaient le prix des choses , elles appréciaient les difficultés que l ’ on éprouve à amasser l ’ argent , elles étaient économes et portaient un grand respect aux qualités du négociant .
+
+52,54,52,54 NOM_PER|54,55,54,55 PRON_PER|57,58,57,58 PRON_PER|61,63,61,63 NOM_PER|64,65,64,65 PRON_PER|76,77,76,77 PRON_PER|83,84,83,84 PRON_PER|90,91,90,91 PRON_PER|105,106,105,106 PRON_PER
+
+Malgré la fortune de leur père , elles étaient aussi habiles à faire des reprises qu ’ à festonner ; souvent leur mère parlait de leur apprendre la cuisine afin qu ’ elles sussent bien ordonner un dîner , et pussent gronder une cuisinière en connaissance de cause .
+
+4,6,4,6 NOM_PER|7,8,7,8 PRON_PER|21,23,21,23 NOM_PER|25,26,25,26 PRON_PER|32,33,32,33 PRON_PER
+
+Ignorant les plaisirs du monde et voyant comment s ’ écoulait la vie exemplaire de leurs parents , elles ne jetaient que bien rarement leurs regards au delà de l ’ enceinte de cette vieille maison patrimoniale qui , pour leur mère , était l ’ univers .
+
+18,19,18,19 PRON_PER|24,25,24,25 PRON_PER|40,42,40,42 NOM_PER
+
+Les réunions occasionnées par les solennités de famille formaient tout l ’ avenir de leurs joies terrestres .
+
+14,15,14,15 PRON_PER
+
