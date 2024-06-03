@@ -1,0 +1,73 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+/data/booknlp/JEAN_DEV_BOOKNLP_FR/booknlp_env/lib/python3.9/site-packages/torch/nn/init.py:405: UserWarning: Initializing zero-element tensors is a no-op
+  warnings.warn("Initializing zero-element tensors is a no-op")
+/data/booknlp/JEAN_DEV_BOOKNLP_FR/training/layered_reader.py:310: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:245.)
+  batched_transforms.append(torch.FloatTensor(batch_transforms))
+
+********************************************
+Running on: cuda
+********************************************
+
+{'mode': 'test', 'batch_prediction_file': None, 'input_prediction_file': None, 'output_prediction_file': None, 'trainFolder_flat': None, 'testFolder_flat': None, 'devFolder_flat': None, 'trainFolder_layered': '/data/booknlp/JEAN_DEV_BOOKNLP_FR/training/TRAINING_DATA/ENTITIES/SACR_V4/train', 'testFolder_layered': '/data/booknlp/JEAN_DEV_BOOKNLP_FR/training/TRAINING_DATA/ENTITIES/SACR_V4/test', 'devFolder_layered': '/data/booknlp/JEAN_DEV_BOOKNLP_FR/training/TRAINING_DATA/ENTITIES/SACR_V4/dev', 'trainFolder_supersense': None, 'testFolder_supersense': None, 'devFolder_supersense': None, 'tagFile_flat': 'files/event.tagset', 'tagFile_layered': '/data/booknlp/JEAN_DEV_BOOKNLP_FR/training/TRAINING_DATA/ENTITIES/SACR_V4/fr.entities.tagset', 'tagFile_supersense': 'files/supersense.tagset', 'modelFile': 'TRAINED_MODELS/PER/fr_catprop_camembert-base.model', 'flat_metric': None, 'base_model': 'camembert-base', 'ignoreEvents': False, 'ignoreEntities': False}
+MODEL camembert-base
+test.data
+num sentences: 1314
+precision: 0.867 3559.0/4105
+recall: 0.930 3559.0/3827
+F: 0.897
+
+	PRON precision: 0.898 2524.0/2812
+	PRON recall: 0.957 2524.0/2638
+	PRON F: 0.926
+
+	NOM precision: 0.784 775.0/988
+	NOM recall: 0.852 775.0/910
+	NOM F: 0.817
+
+	PROP precision: 0.852 260.0/305
+	PROP recall: 0.932 260.0/279
+	PROP F: 0.890
+
+	DISCUSS precision: 0.000 0.0/0
+	DISCUSS recall: 0.000 0.0/0
+	DISCUSS F: 0.000
+
+	FAC precision: 0.000 0.0/0
+	FAC recall: 0.000 0.0/0
+	FAC F: 0.000
+
+	GPE precision: 0.000 0.0/0
+	GPE recall: 0.000 0.0/0
+	GPE F: 0.000
+
+	HIST precision: 0.000 0.0/0
+	HIST recall: 0.000 0.0/0
+	HIST F: 0.000
+
+	LOC precision: 0.000 0.0/0
+	LOC recall: 0.000 0.0/0
+	LOC F: 0.000
+
+	METALEPSE precision: 0.000 0.0/0
+	METALEPSE recall: 0.000 0.0/0
+	METALEPSE F: 0.000
+
+	ORG precision: 0.000 0.0/0
+	ORG recall: 0.000 0.0/0
+	ORG F: 0.000
+
+	PER precision: 0.867 3559.0/4105
+	PER recall: 0.930 3559.0/3827
+	PER F: 0.897
+
+	TIME precision: 0.000 0.0/0
+	TIME recall: 0.000 0.0/0
+	TIME F: 0.000
+
+	VEH precision: 0.000 0.0/0
+	VEH recall: 0.000 0.0/0
+	VEH F: 0.000
+
+	X precision: 0.000 0.0/0
+	X recall: 0.000 0.0/0
+	X F: 0.000
