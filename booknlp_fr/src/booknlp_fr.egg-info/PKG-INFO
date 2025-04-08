@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: booknlp_fr
+Version: 0.0.70
+Summary: booknlp_fr
+Author-email: Antoine BOURGOIS <antoine.bourgois@protonmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: plotly
+Requires-Dist: torch
+Requires-Dist: spacy
+Requires-Dist: spacy-transformers
+Requires-Dist: transformers
+Requires-Dist: TorchCRF
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: tabulate
+Requires-Dist: protobuf
+Requires-Dist: tokenizers
+Requires-Dist: sentencepiece
+
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
