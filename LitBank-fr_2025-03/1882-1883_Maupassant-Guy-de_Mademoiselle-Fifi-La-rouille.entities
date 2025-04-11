@@ -1,0 +1,445 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+m_hector	0	2	2	PER	Il	12	14	il	1	1	1	0	0	0	0	0	2	il	nsubj	5	PRON	PRON	Singular	Male	3
+m_hector	0	8	8	PER	sa	33	35	sa	1	1	1	6	0	0	0	1	8	sa	det	9	DET	PRON	Singular	Ambiguous	3
+m_hector	0	19	19	PER	Il	81	83	il	1	1	2	0	0	0	0	2	19	il	nsubj	20	PRON	PRON	Singular	Male	3
+T1356	31	21	23	TIME	tous les jours	93	107	tous les jours	3	1	2	2	0	0	0	3	23	jours	obj	20	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M42	18	25	28	TIME	du matin au soir	109	125	du matin au soir	4	1	2	6	0	0	0	4	26	matin	obl:mod	20	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	35	35	PER	Il	156	158	il	1	1	3	0	0	0	0	5	35	il	nsubj	36	PRON	PRON	Singular	Male	3
+M41	19	37	39	TIME	hiver comme été	168	183	hiver comme été	3	1	3	2	0	0	0	6	39	été	nmod	37	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M43	14	41	46	TIME	au printemps comme à l'automne	185	215	au printemps comme à l' automne	6	1	3	6	0	0	0	7	46	automne	nmod	42	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marais	12	48	49	LOC	au marais	217	226	au marais	2	1	3	13	0	0	0	8	49	marais	obl:mod	36	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1365	32	55	59	LOC	la plaine et les bois	263	284	la plaine et les bois	5	1	3	20	0	1	2	9	56	plaine	obj	54	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M44	23	55	56	LOC	la plaine	263	272	la plaine	2	1	3	20	1	0	0	10	56	plaine	obj	54	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1366	33	58	59	LOC	les bois	276	284	les bois	2	1	3	23	1	0	0	11	59	bois	conj	56	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	61	61	PER	il	287	289	il	1	1	3	26	0	0	0	12	61	il	nsubj	62	PRON	PRON	Singular	Male	3
+m_hector	0	88	88	PER	Il	386	388	il	1	1	4	0	0	0	0	13	88	il	nsubj	90	PRON	PRON	Singular	Male	3
+m_hector	0	116	116	PER	Il	513	515	il	1	2	5	0	0	0	0	14	116	il	nsubj	117	PRON	PRON	Singular	Male	3
+m_hector	0	142	142	PER	il	636	638	il	1	2	5	26	0	0	0	15	142	il	nsubj	143	PRON	PRON	Singular	Male	3
+M45	24	174	174	PER	On	801	803	on	1	3	6	0	0	0	0	16	174	on	nsubj	177	PRON	PRON	Ambiguous	Ambiguous	3
+m_hector	0	176	176	PER	le	807	809	le	1	3	6	2	0	0	0	17	176	le	obj	177	PRON	PRON	Singular	Male	3
+T1371	34	178	180	LOC	dans la contrée	820	835	dans la contrée	3	3	6	4	0	0	0	18	180	contrée	obl:mod	177	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	183	183	PER	son	844	847	son	1	3	6	9	0	0	0	19	183	son	det	185	DET	PRON	Singular	Ambiguous	3
+m_hector	0	187	188	PER	M. Hector	860	869	m. hector	2	3	6	13	0	0	0	20	187	m.	appos	185	NOUN	PROP	Singular	Male	3
+m_hector	0	190	190	PER	Il	871	873	il	1	3	7	0	0	0	0	21	190	il	nsubj	192	PRON	PRON	Singular	Male	3
+m_hector	0	193	198	PER	le baron Hector Gontran de Coutelier	885	921	le baron hector gontran de coutelier	6	3	7	3	0	0	0	22	194	baron	obj	192	NOUN	PROP	Singular	Male	3
+m_hector	0	200	200	PER	Il	924	926	il	1	4	8	0	0	0	0	23	200	il	nsubj	201	PRON	PRON	Singular	Male	3
+T1373	35	203	206	LOC	au milieu des bois	937	955	au milieu des bois	4	4	8	3	0	1	1	24	204	milieu	obl:mod	201	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1374	36	205	206	LOC	des bois	947	955	des bois	2	4	8	5	1	0	0	25	206	bois	nmod	204	NOUN	NOM	Not_Assigned	Not_Assigned	3
+manoir	13	208	210	FAC	un petit manoir	957	972	un petit manoir	3	4	8	8	0	0	0	26	210	manoir	obj	201	NOUN	NOM	Not_Assigned	Not_Assigned	3
+manoir	13	212	212	FAC	dont	974	978	dont	1	4	8	12	0	0	0	27	212	dont	dep	215	PRON	PRON	Not_Assigned	Not_Assigned	4
+m_hector	0	213	213	PER	il	979	981	il	1	4	8	13	0	0	0	28	213	il	nsubj	215	PRON	PRON	Singular	Male	3
+m_hector	0	220	220	PER	il	1008	1010	il	1	4	8	20	0	0	0	29	220	il	nsubj	221	PRON	PRON	Singular	Male	3
+T1377	37	222	226	PER	toute la noblesse du département	1018	1050	toute la noblesse du département	5	4	8	22	0	1	1	30	224	noblesse	obj	221	NOUN	NOM	Plural	Not_Assigned	3
+departements	11	225	226	GPE	du département	1036	1050	du département	2	4	8	25	1	0	0	31	226	département	nmod	224	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1379	38	229	232	PER	tous ses représentants mâles	1065	1093	tous ses représentants mâles	4	4	8	29	0	1	1	32	231	représentants	obj	228	NOUN	NOM	Plural	Not_Assigned	3
+departements	11	230	230	PER	ses	1070	1073	ses	1	4	8	30	1	0	0	33	230	ses	det	231	DET	PRON	Singular	Ambiguous	3
+m_hector	0	239	239	PER	il	1126	1128	il	1	4	8	39	0	0	0	34	239	il	nsubj	241	PRON	PRON	Singular	Male	3
+les_courville	3	244	245	PER	une famille	1158	1169	une famille	2	4	8	44	0	0	0	35	245	famille	obj	241	NOUN	NOM	Plural	Ambiguous	3
+les_courville	3	247	248	PER	les Courville	1172	1185	les courville	2	4	8	47	0	0	0	36	248	courville	appos	245	PROPN	PROP	Plural	Not_Assigned	3
+T1400	39	263	264	FAC	cette maison	1252	1264	cette maison	2	5	9	1	0	0	0	37	264	maison	obl:mod	267	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	265	265	PER	il	1265	1267	il	1	5	9	3	0	0	0	38	265	il	nsubj:pass	267	PRON	PRON	Singular	Male	3
+m_hector	0	274	274	PER	il	1299	1301	il	1	5	9	12	0	0	0	39	274	il	nsubj	275	PRON	PRON	Singular	Male	3
+m_hector	0	279	279	PER	je	1316	1318	je	1	5	9	17	0	0	0	40	279	je	nsubj	283	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	285	285	PER	je	1341	1343	je	1	5	9	23	0	0	0	41	285	je	nsubj	286	PRON	PRON	Singular	Ambiguous	1
+les_courville	3	289	289	PER	vous	1362	1366	vous	1	5	9	27	0	0	0	42	289	vous	obj	290	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	293	295	PER	M. de Courville	1378	1393	m. de courville	3	5	10	1	0	0	0	43	295	courville	nmod	293	PROPN	PROP	Singular	Male	3
+m_hector	0	297	297	PER	son	1400	1403	son	1	5	10	5	0	0	0	44	297	son	det	298	DET	PRON	Singular	Ambiguous	3
+m_hector	0	300	300	PER	son	1411	1414	son	1	5	10	8	0	0	0	45	300	son	det	301	DET	PRON	Singular	Ambiguous	3
+m_de_courville	1	306	307	PER	Gentilhomme agriculteur	1442	1465	gentilhomme agriculteur	2	5	11	0	0	0	0	46	306	gentilhomme	vocative	310	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	309	309	PER	il	1467	1469	il	1	5	11	3	0	0	0	47	309	il	nsubj	310	PRON	PRON	Singular	Male	3
+mme_de_courville	5	313	314	PER	sa femme	1493	1501	sa femme	2	5	11	7	0	1	1	48	314	femme	obl:mod	310	NOUN	NOM	Singular	Female	3
+m_de_courville	1	313	313	PER	sa	1493	1495	sa	1	5	11	7	1	0	0	49	313	sa	det	314	DET	PRON	Singular	Ambiguous	3
+fille_courville	9	316	317	PER	sa fille	1503	1511	sa fille	2	5	11	10	0	1	1	50	317	fille	conj	314	NOUN	NOM	Singular	Female	3
+m_de_courville	1	316	316	PER	sa	1503	1505	sa	1	5	11	10	1	0	0	51	316	sa	det	317	DET	PRON	Singular	Ambiguous	3
+gendre_courville	8	319	320	PER	son gendre	1515	1525	son gendre	2	5	11	13	0	1	1	52	320	gendre	conj	314	NOUN	NOM	Singular	Male	3
+m_de_courville	1	319	319	PER	son	1515	1518	son	1	5	11	13	1	0	0	53	319	son	det	320	DET	PRON	Singular	Ambiguous	3
+gendre_courville	8	322	324	PER	M. de Darnetot	1527	1541	m. de darnetot	3	5	11	16	0	0	0	54	324	darnetot	nmod	322	PROPN	PROP	Singular	Male	3
+gendre_courville	8	326	326	PER	qui	1543	1546	qui	1	5	11	20	0	0	0	55	326	qui	nsubj	328	PRON	PRON	Ambiguous	Ambiguous	4
+m_hector	0	337	340	PER	Le baron de Coutelier	1601	1622	le baron de coutelier	4	6	12	0	0	0	0	56	338	baron	nsubj	341	NOUN	PROP	Singular	Male	3
+les_courville	3	345	346	PER	ses amis	1649	1657	ses amis	2	6	12	8	0	1	1	57	346	amis	obl:mod	343	NOUN	NOM	Plural	Ambiguous	3
+m_hector	0	345	345	PER	ses	1649	1652	ses	1	6	12	8	1	0	0	58	345	ses	det	346	DET	PRON	Singular	Ambiguous	3
+les_courville	3	350	350	PER	leur	1672	1676	leur	1	6	12	13	0	0	0	59	350	leur	iobj	351	PRON	PRON	Plural	Ambiguous	3
+m_hector	0	352	352	PER	ses	1686	1689	ses	1	6	12	15	0	0	0	60	352	ses	det	353	DET	PRON	Singular	Ambiguous	3
+m_hector	0	357	357	PER	Il	1706	1708	il	1	6	13	0	0	0	0	61	357	il	nsubj	358	PRON	PRON	Singular	Male	3
+m_hector	0	368	368	PER	il	1764	1766	il	1	6	13	11	0	0	0	62	368	il	nsubj	369	PRON	PRON	Singular	Male	3
+m_hector	0	375	375	PER	il	1809	1811	il	1	6	13	18	0	0	0	63	375	il	nsubj	378	PRON	PRON	Singular	Male	3
+m_hector	0	380	380	PER	Il	1836	1838	il	1	6	14	0	0	0	0	64	380	il	nsubj	381	PRON	PRON	Singular	Male	3
+medor	4	396	396	PER	Médor	1922	1927	médor	1	6	14	16	0	0	0	65	396	médor	nsubj	398	PROPN	PROP	Singular	Not_Assigned	3
+medor	4	402	402	PER	le	1945	1947	le	1	6	14	22	0	0	0	66	402	le	obj	403	PRON	PRON	Singular	Male	3
+medor	4	407	407	PER	il	1970	1972	il	1	6	14	27	0	0	0	67	407	il	nsubj	410	PRON	PRON	Singular	Male	3
+medor	4	415	415	PER	mon	1996	1999	mon	1	6	14	35	0	0	0	68	415	mon	det	416	DET	PRON	Singular	Ambiguous	1
+m_hector	0	426	426	PER	me	2040	2042	me	1	6	14	46	0	0	0	69	426	me	det	428	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	434	434	PER	me	2076	2078	me	1	6	14	54	0	0	0	70	434	me	obj	435	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	443	443	PER	il	2114	2116	il	1	6	14	63	0	0	0	71	443	il	nsubj	446	PRON	PRON	Singular	Male	3
+medor	4	478	478	PER	il	2274	2276	il	1	6	15	4	0	0	0	72	478	il	nsubj	481	PRON	PRON	Singular	Male	3
+T1516	40	495	496	LOC	la lisière	2335	2345	la lisière	2	6	15	21	0	0	0	73	496	lisière	obl:arg	493	NOUN	NOM	Not_Assigned	Not_Assigned	3
+medor	4	526	526	PER	Médor	2453	2458	médor	1	6	18	0	0	0	0	74	526	médor	nsubj	528	PROPN	PROP	Singular	Not_Assigned	3
+m_hector	0	532	532	PER	me	2483	2485	me	1	6	18	6	0	0	0	75	532	me	obj	533	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	535	535	PER	je	2498	2500	je	1	6	18	9	0	0	0	76	535	je	nsubj	537	PRON	PRON	Singular	Ambiguous	1
+medor	4	536	536	PER	lui	2501	2504	lui	1	6	18	10	0	0	0	77	536	lui	iobj	537	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	541	541	PER	il	2520	2522	il	1	6	18	15	0	0	0	78	541	il	nsubj	542	PRON	PRON	Singular	Male	3
+m_hector	0	551	551	PER	j'	2558	2560	j'	1	6	19	7	0	0	0	79	551	j'	nsubj	552	PRON	PRON	Singular	Ambiguous	1
+medor	4	560	560	PER	Médor	2590	2595	médor	1	6	19	16	0	0	0	80	560	médor	nsubj	566	PROPN	PROP	Singular	Not_Assigned	3
+m_hector	0	570	570	PER	me	2637	2639	me	1	6	19	26	0	0	0	81	570	me	iobj	571	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	581	582	PER	monsieur Hector	2674	2689	monsieur hector	2	6	19	37	0	0	0	82	581	monsieur	obl:mod	575	NOUN	PROP	Singular	Male	3
+m_de_courville	1	585	585	PER	Courville	2695	2704	courville	1	7	21	0	0	0	0	83	585	courville	nsubj	592	PROPN	PROP	Singular	Not_Assigned	3
+gendre_courville	8	587	587	PER	Darnetot	2706	2714	darnetot	1	7	21	2	0	0	0	84	587	darnetot	conj	585	PROPN	PROP	Singular	Not_Assigned	3
+mere_et_fille	6	589	591	PER	les deux femmes	2718	2733	les deux femmes	3	7	21	4	0	0	0	85	591	femmes	conj	585	NOUN	NOM	Plural	Female	3
+m_hector	0	599	600	PER	le baron	2782	2790	le baron	2	7	21	14	0	0	0	86	600	baron	nsubj	601	NOUN	NOM	Singular	Male	3
+m_hector	0	603	603	PER	son	2805	2808	son	1	7	21	18	0	0	0	87	603	son	det	604	DET	PRON	Singular	Ambiguous	3
+m_hector	0	606	606	PER	Il	2814	2816	il	1	7	22	0	0	0	0	88	606	il	nsubj	608	PRON	PRON	Singular	Male	3
+m_hector	0	622	622	PER	il	2886	2888	il	1	7	22	16	0	0	0	89	622	il	nsubj	623	PRON	PRON	Singular	Male	3
+m_hector	0	629	629	PER	il	2915	2917	il	1	7	22	23	0	0	0	90	629	il	nsubj	630	PRON	PRON	Singular	Male	3
+m_hector	0	658	658	PER	il	3052	3054	il	1	8	23	8	0	0	0	91	658	il	nsubj	660	PRON	PRON	Singular	Male	3
+m_hector	0	720	721	PER	le baron	3342	3350	le baron	2	8	24	48	0	0	0	92	721	baron	nsubj	722	NOUN	NOM	Singular	Male	3
+m_hector	0	729	729	PER	il	3390	3392	il	1	8	24	57	0	0	0	93	729	il	nsubj	731	PRON	PRON	Singular	Male	3
+m_hector	0	732	732	PER	son	3402	3405	son	1	8	24	60	0	0	0	94	732	son	det	733	DET	PRON	Singular	Ambiguous	3
+m_hector	0	735	735	PER	Il	3412	3414	il	1	9	25	0	0	0	0	95	735	il	nsubj	739	PRON	PRON	Singular	Male	3
+m_hector	0	757	757	PER	il	3520	3522	il	1	9	26	2	0	0	0	96	757	il	nsubj	758	PRON	PRON	Singular	Male	3
+T1528	25	765	766	TIME	deux mois	3564	3573	deux mois	2	9	26	10	0	0	0	97	766	mois	obj	764	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	770	770	PER	Il	3582	3584	il	1	9	27	0	0	0	0	98	770	il	nsubj	771	PRON	PRON	Singular	Male	3
+m_hector	0	780	780	PER	il	3629	3631	il	1	9	28	1	0	0	0	99	780	il	nsubj	782	PRON	PRON	Singular	Male	3
+T1529	26	789	790	FAC	sa cuisine	3671	3681	sa cuisine	2	9	28	10	0	1	1	100	790	cuisine	obj	788	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	789	789	PER	sa	3671	3673	sa	1	9	28	10	1	0	0	101	789	sa	det	790	DET	PRON	Singular	Ambiguous	3
+T1530	54	792	794	PER	un vieux serviteur	3686	3704	un vieux serviteur	3	9	28	13	0	0	0	102	794	serviteur	obl:agent	788	NOUN	NOM	Singular	Male	3
+m_hector	0	796	796	PER	il	3706	3708	il	1	9	28	17	0	0	0	103	796	il	nsubj	798	PRON	PRON	Singular	Male	3
+medor	4	817	818	PER	Son piqueur	3801	3812	son piqueur	2	9	29	0	0	1	1	104	818	piqueur	nsubj	821	NOUN	NOM	Singular	Not_Assigned	3
+m_hector	0	817	817	PER	Son	3801	3804	son	1	9	29	0	1	0	0	105	817	son	det	818	DET	PRON	Singular	Ambiguous	3
+medor	4	820	821	PER	son garde-malade	3817	3833	son garde-malade	2	9	29	3	0	1	1	106	821	garde-malade	ROOT	821	NOUN	NOM	Singular	Male	3
+m_hector	0	820	820	PER	son	3817	3820	son	1	9	29	3	1	0	0	107	820	son	det	821	DET	PRON	Singular	Ambiguous	3
+medor	4	824	825	PER	cet écuyer	3838	3848	cet écuyer	2	9	29	7	0	0	0	108	825	écuyer	nsubj	836	NOUN	NOM	Singular	Male	3
+medor	4	826	826	PER	qui	3849	3852	qui	1	9	29	9	0	0	0	109	826	qui	nsubj	828	PRON	PRON	Ambiguous	Ambiguous	4
+m_hector	0	833	834	PER	son maître	3884	3894	son maître	2	9	29	16	0	1	1	110	834	maître	dep	831	NOUN	NOM	Singular	Male	3
+medor	4	833	833	PER	son	3884	3887	son	1	9	29	16	1	0	0	111	833	son	det	834	DET	PRON	Singular	Ambiguous	3
+m_hector	0	846	847	PER	le baron	3947	3955	le baron	2	9	29	29	0	0	0	112	847	baron	nsubj	848	NOUN	NOM	Singular	Male	3
+m_hector	0	853	853	PER	ses	3985	3988	ses	1	9	29	36	0	0	0	113	853	ses	det	854	DET	PRON	Singular	Ambiguous	3
+mere_et_fille	6	856	859	PER	Les dames de Courville	3997	4019	les dames de courville	4	10	30	0	0	0	0	114	857	dames	nsubj	860	NOUN	PROP	Plural	Female	3
+m_hector	0	862	862	PER	le	4037	4039	le	1	10	30	6	0	0	0	115	862	le	obj	863	PRON	PRON	Singular	Male	3
+m_hector	0	869	869	PER	lui	4065	4068	lui	1	10	30	13	0	0	0	116	869	lui	conj	860	PRON	PRON	Singular	Ambiguous	3
+mere_et_fille	6	878	878	PER	Elles	4106	4111	elles	1	10	31	0	0	0	0	117	878	elles	nsubj	879	PRON	PRON	Plural	Female	3
+m_hector	0	880	880	PER	sa	4124	4126	sa	1	10	31	2	0	0	0	118	880	sa	det	881	DET	PRON	Singular	Ambiguous	3
+m_hector	0	888	888	PER	lui	4156	4159	lui	1	10	31	10	0	0	0	119	888	lui	iobj	889	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	891	891	PER	son	4180	4183	son	1	10	31	13	0	0	0	120	891	son	det	892	DET	PRON	Singular	Ambiguous	3
+mere_et_fille	6	902	902	PER	elles	4224	4229	elles	1	10	31	24	0	0	0	121	902	elles	nsubj	903	PRON	PRON	Plural	Female	3
+m_hector	0	904	904	PER	il	4240	4242	il	1	10	31	26	0	0	0	122	904	il	nsubj	905	PRON	PRON	Singular	Male	3
+mere_et_fille	6	910	910	PER	vous	4269	4273	vous	1	10	31	32	0	0	0	123	910	vous	nsubj	911	PRON	PRON	Ambiguous	Ambiguous	2
+mere_et_fille	6	919	919	PER	elles	4309	4314	elles	1	10	31	41	0	0	0	124	919	elles	nsubj	920	PRON	PRON	Plural	Female	3
+mere_et_fille	6	923	923	PER	leur	4331	4335	leur	1	10	31	45	0	0	0	125	923	leur	det	924	DET	PRON	Plural	Ambiguous	3
+m_hector	0	927	927	PER	il	4350	4352	il	1	11	32	1	0	0	0	126	927	il	nsubj	928	PRON	PRON	Singular	Male	3
+marais	12	934	935	LOC	au marais	4392	4401	au marais	2	11	32	8	0	0	0	127	935	marais	obl:mod	933	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	937	937	PER	il	4403	4405	il	1	11	32	11	0	0	0	128	937	il	nsubj	938	PRON	PRON	Singular	Male	3
+T1533	53	939	940	TIME	un soir	4411	4418	un soir	2	11	32	13	0	0	0	129	940	soir	obl:mod	938	NOUN	NOM	Not_Assigned	Not_Assigned	3
+les_courville	3	943	944	PER	ses amis	4430	4438	ses amis	2	11	32	17	0	1	1	130	944	amis	obl:arg	938	NOUN	NOM	Plural	Ambiguous	3
+m_hector	0	943	943	PER	ses	4430	4433	ses	1	11	32	17	1	0	0	131	943	ses	det	944	DET	PRON	Singular	Ambiguous	3
+m_hector	0	947	947	PER	il	4446	4448	il	1	11	32	21	0	0	0	132	947	il	nsubj	949	PRON	PRON	Singular	Male	3
+m_hector	0	951	951	PER	son	4462	4465	son	1	11	32	25	0	0	0	133	951	son	det	952	DET	PRON	Singular	Ambiguous	3
+m_hector	0	954	954	PER	sa	4477	4479	sa	1	11	32	28	0	0	0	134	954	sa	det	955	DET	PRON	Singular	Ambiguous	3
+m_hector	0	960	960	PER	le	4510	4512	le	1	11	33	3	0	0	0	135	960	le	obj	961	PRON	PRON	Singular	Male	3
+mere_et_fille	6	983	984	PER	les femmes	4625	4635	les femmes	2	11	34	8	0	0	0	136	984	femmes	nsubj	987	NOUN	NOM	Plural	Female	3
+m_hector	0	985	986	PER	l'	4636	4638	l '	2	11	34	10	0	0	0	137	985	l	obj	987	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	992	992	PER	lui	4666	4669	lui	1	11	34	17	0	0	0	138	992	lui	iobj	993	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1001	1001	PER	il	4704	4706	il	1	11	34	26	0	0	0	139	1001	il	nsubj	1003	PRON	PRON	Singular	Male	3
+m_hector	0	1010	1010	PER	sa	4750	4752	sa	1	11	34	35	0	0	0	140	1010	sa	det	1011	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1013	1013	PER	il	4758	4760	il	1	11	34	38	0	0	0	141	1013	il	nsubj	1014	PRON	PRON	Singular	Male	3
+m_hector	0	1025	1025	PER	je	4807	4809	je	1	11	34	50	0	0	0	142	1025	je	nsubj	1028	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	1033	1033	PER	il	4841	4843	il	1	12	35	1	0	0	0	143	1033	il	nsubj	1035	PRON	PRON	Singular	Male	3
+fille_courville	9	1037	1039	PER	Mme de Darnetot	4855	4870	mme de darnetot	3	12	35	5	0	0	0	144	1039	darnetot	nmod	1037	PROPN	PROP	Singular	Female	3
+mme_de_courville	5	1042	1043	PER	sa mère	4877	4884	sa mère	2	12	35	10	0	1	1	145	1043	mère	obl:arg	1040	NOUN	NOM	Singular	Female	3
+fille_courville	9	1042	1042	PER	sa	4877	4879	sa	1	12	35	10	1	0	0	146	1042	sa	det	1043	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1049	1050	PER	le baron	4908	4916	le baron	2	12	35	17	0	0	0	147	1050	baron	obj	1048	NOUN	NOM	Singular	Male	3
+les_courville	3	1053	1055	PER	Tout le monde	4921	4934	tout le monde	3	13	36	0	0	0	0	148	1055	monde	nsubj	1056	NOUN	NOM	Plural	Ambiguous	3
+les_courville	3	1064	1064	PER	on	4968	4970	-on	1	13	37	4	0	0	0	149	1064	on	nsubj	1067	PRON	PRON	Ambiguous	Ambiguous	3
+les_courville	3	1069	1069	PER	On	4990	4992	on	1	13	38	0	0	0	0	150	1069	on	nsubj	1070	PRON	PRON	Ambiguous	Ambiguous	3
+T1535	52	1071	1073	TIME	toute la soirée	5001	5016	toute la soirée	3	13	38	2	0	0	0	151	1073	soirée	obj	1070	NOUN	NOM	Not_Assigned	Not_Assigned	3
+veuves	10	1075	1076	PER	les veuves	5023	5033	les veuves	2	13	38	6	0	0	0	152	1076	veuves	obl:mod	1070	NOUN	NOM	Plural	Not_Assigned	3
+veuves	10	1077	1078	PER	qu'	5034	5037	qu '	2	13	38	8	0	0	0	153	1077	qu	obj	1080	PRON	PRON	Ambiguous	Ambiguous	4
+les_courville	3	1079	1079	PER	on	5038	5040	on	1	13	38	10	0	0	0	154	1079	on	nsubj	1080	PRON	PRON	Ambiguous	Ambiguous	3
+berthe	2	1088	1105	PER	une femme de quarante ans, encore jolie, assez riche, de belle humeur et bien portante	5079	5165	une femme de quarante ans , encore jolie , assez riche , de belle humeur et bien portante	18	13	38	19	0	0	0	155	1089	femme	obl:arg	1086	NOUN	NOM	Not_Assigned	Not_Assigned	3
+berthe	2	1107	1107	PER	qui	5167	5170	qui	1	13	38	38	0	0	0	156	1107	qui	nsubj	1109	PRON	PRON	Ambiguous	Ambiguous	4
+berthe	2	1110	1112	PER	Mme Berthe Vilers	5182	5199	mme berthe vilers	3	13	38	41	0	0	0	157	1110	mme	xcomp	1109	NOUN	PROP	Singular	Female	3
+M1	17	1114	1114	PER	On	5202	5204	on	1	14	39	0	0	0	0	158	1114	on	nsubj	1117	PRON	PRON	Ambiguous	Ambiguous	3
+berthe	2	1115	1116	PER	l'	5205	5207	l '	2	14	39	1	0	0	0	159	1115	l	obj	1117	PRON	PRON	Singular	Ambiguous	3
+T1585	51	1120	1121	TIME	un mois	5224	5231	un mois	2	14	39	6	0	0	0	160	1121	mois	obj	1119	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1586	50	1122	1123	FAC	au château	5232	5242	au château	2	14	39	8	0	0	0	161	1123	château	obl:arg	1119	NOUN	NOM	Not_Assigned	Not_Assigned	3
+berthe	2	1125	1125	PER	Elle	5244	5248	elle	1	14	40	0	0	0	0	162	1125	elle	nsubj	1127	PRON	PRON	Singular	Female	3
+berthe	2	1129	1129	PER	Elle	5261	5265	elle	1	14	41	0	0	0	0	163	1129	elle	nsubj	1130	PRON	PRON	Singular	Female	3
+berthe	2	1132	1132	PER	Elle	5272	5276	elle	1	14	42	0	0	0	0	164	1132	elle	nsubj	1134	PRON	PRON	Singular	Female	3
+m_hector	0	1138	1140	PER	M. de Coutelier	5302	5317	m. de coutelier	3	14	42	6	0	0	0	165	1140	coutelier	nmod	1138	PROPN	PROP	Singular	Male	3
+berthe	2	1141	1141	PER	lui	5318	5321	lui	1	14	42	9	0	0	0	166	1141	lui	iobj	1142	PRON	PRON	Singular	Ambiguous	3
+berthe	2	1147	1147	PER	Elle	5342	5346	elle	1	14	43	0	0	0	0	167	1147	elle	nsubj	1150	PRON	PRON	Singular	Female	3
+T1587	49	1158	1160	TIME	des heures entières	5395	5414	des heures entières	3	14	43	11	0	0	0	168	1159	heures	obj	1157	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1162	1163	PER	l'	5417	5419	l '	2	14	43	15	0	0	0	169	1162	l	obj	1164	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1177	1177	PER	Il	5508	5510	il	1	14	44	0	0	0	0	170	1177	il	nsubj	1178	PRON	PRON	Singular	Male	3
+T1588	48	1199	1203	PER	aux hommes de sa connaissance	5647	5676	aux hommes de sa connaissance	5	14	44	22	0	1	1	171	1200	hommes	obl:mod	1191	NOUN	NOM	Plural	Not_Assigned	3
+m_hector	0	1202	1202	PER	sa	5661	5663	sa	1	14	44	25	1	0	0	172	1202	sa	det	1203	DET	PRON	Singular	Ambiguous	3
+berthe	2	1208	1208	PER	elle	5694	5698	elle	1	15	45	3	0	0	0	173	1208	elle	nsubj	1210	PRON	PRON	Singular	Female	3
+m_hector	0	1209	1209	PER	lui	5699	5702	lui	1	15	45	4	0	0	0	174	1209	lui	iobj	1210	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1211	1211	PER	le	5711	5713	le	1	15	45	6	0	0	0	175	1211	le	obj	1212	PRON	PRON	Singular	Male	3
+T1589	47	1216	1217	TIME	un soir	5726	5733	un soir	2	15	45	11	0	0	0	176	1217	soir	obl:mod	1227	NOUN	NOM	Not_Assigned	Not_Assigned	3
+berthe	2	1220	1220	PER	lui	5740	5743	lui	1	15	45	15	0	0	0	177	1220	lui	iobj	1221	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1222	1222	PER	son	5754	5757	son	1	15	45	17	0	0	0	178	1222	son	det	1223	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1225	1225	PER	il	5766	5768	il	1	15	45	20	0	0	0	179	1225	il	nsubj	1227	PRON	PRON	Singular	Male	3
+berthe	2	1226	1226	PER	la	5769	5771	la	1	15	45	21	0	0	0	180	1226	la	obj	1227	PRON	PRON	Singular	Female	3
+m_hector	0	1233	1233	PER	il	5795	5797	il	1	15	45	28	0	0	0	181	1233	il	nsubj	1238	PRON	PRON	Singular	Male	3
+berthe	2	1249	1249	PER	elle	5875	5879	elle	1	15	46	6	0	0	0	182	1249	elle	nsubj	1250	PRON	PRON	Singular	Female	3
+berthe	2	1257	1257	PER	l'	5910	5912	l'	1	15	47	5	0	0	0	183	1257	l'	obj	1258	PRON	PRON	Singular	Ambiguous	3
+T1591	46	1260	1262	PER	tout le monde	5922	5935	tout le monde	3	15	47	8	0	0	0	184	1262	monde	nsubj	1265	NOUN	NOM	Plural	Ambiguous	3
+berthe	2	1267	1267	PER	lui	5945	5948	lui	1	15	47	15	0	0	0	185	1267	lui	iobj	1268	PRON	PRON	Singular	Ambiguous	3
+berthe	2	1273	1273	PER	elle	5975	5979	elle	1	15	47	21	0	0	0	186	1273	elle	nsubj	1274	PRON	PRON	Singular	Female	3
+m_hector	0	1312	1313	PER	Le baron	6162	6170	le baron	2	16	48	0	0	0	0	187	1313	baron	nsubj	1314	NOUN	NOM	Singular	Male	3
+m_hector	0	1318	1318	PER	il	6192	6194	il	1	16	48	6	0	0	0	188	1318	il	nsubj	1319	PRON	PRON	Singular	Male	3
+m_hector	0	1321	1321	PER	son	6208	6211	son	1	16	48	9	0	0	0	189	1321	son	det	1323	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1327	1327	PER	Il	6235	6237	il	1	16	49	0	0	0	0	190	1327	il	nsubj	1329	PRON	PRON	Singular	Male	3
+berthe	2	1328	1328	PER	lui	6238	6241	lui	1	16	49	1	0	0	0	191	1328	lui	iobj	1329	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1350	1350	PER	il	6359	6361	il	1	16	49	23	0	0	0	192	1350	il	nsubj	1352	PRON	PRON	Singular	Male	3
+berthe	2	1351	1351	PER	la	6362	6364	la	1	16	49	24	0	0	0	193	1351	la	obj	1352	PRON	PRON	Singular	Female	3
+T1594	45	1354	1355	LOC	un champ	6377	6385	un champ	2	16	49	27	0	0	0	194	1355	champ	obl:arg	1352	NOUN	NOM	Not_Assigned	Not_Assigned	3
+berthe	2	1358	1358	PER	la	6390	6392	la	1	16	49	31	0	0	0	195	1358	la	obj	1359	PRON	PRON	Singular	Female	3
+medor	4	1380	1380	PER	Médor	6506	6511	médor	1	17	50	0	0	0	0	196	1380	médor	nsubj	1381	PROPN	PROP	Singular	Not_Assigned	3
+m_hector	0	1392	1393	PER	Le baron	6555	6563	le baron	2	17	51	0	0	0	0	197	1393	baron	nsubj	1399	NOUN	NOM	Singular	Male	3
+berthe	2	1396	1397	PER	son élève	6574	6583	son élève	2	17	51	4	0	1	1	198	1397	élève	obl:mod	1399	NOUN	NOM	Singular	Ambiguous	3
+m_hector	0	1396	1396	PER	son	6574	6577	son	1	17	51	4	1	0	0	199	1396	son	det	1397	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1404	1404	PER	Il	6614	6616	il	1	17	52	0	0	0	0	200	1404	il	nsubj	1405	PRON	PRON	Singular	Male	3
+m_hector	0	1422	1422	PER	Il	6692	6694	il	1	18	53	0	0	0	0	201	1422	il	nsubj	1426	PRON	PRON	Singular	Male	3
+berthe	2	1455	1456	PER	Mme Vilers	6837	6847	mme vilers	2	19	54	0	0	0	0	202	1455	mme	nsubj	1460	NOUN	PROP	Singular	Female	3
+berthe	2	1482	1482	PER	elle	6952	6956	elle	1	19	54	27	0	0	0	203	1482	elle	nsubj	1483	PRON	PRON	Singular	Female	3
+berthe	2	1484	1484	PER	son	6964	6967	son	1	19	54	29	0	0	0	204	1484	son	det	1485	DET	PRON	Singular	Ambiguous	3
+berthe	2	1489	1489	PER	elle	6980	6984	elle	1	19	54	34	0	0	0	205	1489	elle	nsubj	1490	PRON	PRON	Singular	Female	3
+m_hector	0	1491	1492	PER	le baron	6993	7001	le baron	2	19	54	36	0	0	0	206	1492	baron	obj	1490	NOUN	NOM	Singular	Male	3
+m_hector	0	1493	1493	PER	qui	7002	7005	qui	1	19	54	38	0	0	0	207	1493	qui	nsubj	1494	PRON	PRON	Ambiguous	Ambiguous	4
+medor	4	1500	1500	PER	Médor	7031	7036	médor	1	19	54	45	0	0	0	208	1500	médor	nsubj	1501	PROPN	PROP	Singular	Not_Assigned	3
+medor	4	1505	1505	PER	sa	7066	7068	sa	1	19	54	50	0	0	0	209	1505	sa	det	1506	DET	PRON	Singular	Ambiguous	3
+M27	15	1508	1512	TIME	A dater de ce jour	7078	7096	a dater de ce jour	5	20	55	0	0	0	0	210	1509	dater	advcl	1518	VERB	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1514	1516	PER	M. de Coutelier	7098	7113	m. de coutelier	3	20	55	6	0	0	0	211	1516	coutelier	nmod	1514	PROPN	PROP	Singular	Male	3
+berthe	2	1520	1520	PER	elle	7129	7133	elle	1	20	55	12	0	0	0	212	1520	elle	obl:arg	1518	PRON	PRON	Singular	Female	3
+m_hector	0	1522	1522	PER	Il	7136	7138	il	1	21	56	0	0	0	0	213	1522	il	nsubj	1523	PRON	PRON	Singular	Male	3
+berthe	2	1531	1531	PER	femme	7176	7181	femme	1	21	56	9	0	0	0	214	1531	femme	obj	1523	NOUN	NOM	Singular	Female	3
+m_hector	0	1535	1535	PER	il	7189	7191	il	1	21	56	13	0	0	0	215	1535	il	nsubj	1536	PRON	PRON	Singular	Male	3
+T1601	44	1537	1539	TIME	tous les soirs	7199	7213	tous les soirs	3	21	56	15	0	0	0	216	1539	soirs	obj	1536	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M28	22	1545	1546	TIME	Un jour	7245	7252	un jour	2	21	57	0	0	0	0	217	1546	jour	obl:mod	1567	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	1548	1550	PER	M. de Courville	7254	7269	m. de courville	3	21	57	3	0	0	0	218	1550	courville	nmod	1548	PROPN	PROP	Singular	Male	3
+m_de_courville	1	1552	1552	PER	qui	7271	7274	qui	1	21	57	7	0	0	0	219	1552	qui	nsubj	1554	PRON	PRON	Ambiguous	Ambiguous	4
+m_hector	0	1553	1553	PER	le	7275	7277	le	1	21	57	8	0	0	0	220	1553	le	obj	1554	PRON	PRON	Singular	Male	3
+m_hector	0	1556	1557	PER	l'	7294	7296	l '	2	21	57	11	0	0	0	221	1556	l	obj	1558	PRON	PRON	Singular	Ambiguous	3
+berthe	2	1562	1564	PER	sa nouvelle amie	7321	7337	sa nouvelle amie	3	21	57	17	0	1	1	222	1564	amie	obl:arg	1560	NOUN	NOM	Singular	Female	3
+m_hector	0	1562	1562	PER	sa	7321	7323	sa	1	21	57	17	1	0	0	223	1562	sa	det	1564	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1566	1566	PER	lui	7339	7342	lui	1	21	57	21	0	0	0	224	1566	lui	iobj	1567	PRON	PRON	Singular	Ambiguous	3
+berthe	2	1573	1574	PER	l'	7379	7381	l '	2	21	57	28	0	0	0	225	1573	l	obj	1575	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1576	1576	PER	vous	7390	7394	-vous	1	21	57	31	0	0	0	226	1576	vous	nsubj	1575	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	1580	1581	PER	Le baron	7403	7411	le baron	2	21	58	1	0	0	0	227	1581	baron	nsubj	1582	NOUN	NOM	Singular	Male	3
+m_hector	0	1586	1586	PER	Moi	7428	7431	moi	1	21	58	7	0	0	0	228	1586	moi	obl:mod	1582	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	1588	1588	PER	moi	7434	7437	moi	1	21	58	9	0	0	0	229	1588	moi	ROOT	1588	PRON	PRON	Singular	Ambiguous	1
+berthe	2	1590	1591	PER	l'	7440	7442	l '	2	21	58	11	0	0	0	230	1590	l	obj	1592	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1602	1602	PER	il	7481	7483	il	1	21	59	8	0	0	0	231	1602	il	nsubj	1604	PRON	PRON	Singular	Male	3
+m_de_courville	1	1612	1613	PER	son compagnon	7531	7544	son compagnon	2	21	60	6	0	1	1	232	1613	compagnon	nmod	1610	NOUN	NOM	Singular	Male	3
+m_hector	0	1612	1612	PER	son	7531	7534	son	1	21	60	6	1	0	0	233	1612	son	det	1613	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1615	1615	PER	il	7546	7548	il	1	21	60	9	0	0	0	234	1615	il	nsubj	1616	PRON	PRON	Singular	Male	3
+m_de_courville	1	1622	1623	PER	mon ami	7572	7579	mon ami	2	21	60	16	0	1	1	235	1623	ami	appos	1620	NOUN	NOM	Singular	Male	3
+m_hector	0	1622	1622	PER	mon	7572	7575	mon	1	21	60	16	1	0	0	236	1622	mon	det	1623	DET	PRON	Singular	Ambiguous	1
+T1602	43	1632	1633	TIME	la nuit	7613	7620	la nuit	2	21	60	26	0	0	0	237	1633	nuit	obl:mod	1627	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1635	1635	PER	Il	7623	7625	il	1	22	61	0	0	0	0	238	1635	il	expl:subj	1638	PRON	PRON	Singular	Male	3
+T1603	42	1637	1638	TIME	trois jours	7630	7641	trois jours	2	22	61	2	0	0	0	239	1638	jours	ROOT	1638	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1643	1643	PER	il	7662	7664	il	1	22	62	1	0	0	0	240	1643	il	nsubj	1644	PRON	PRON	Singular	Male	3
+m_hector	0	1646	1646	PER	il	7674	7676	il	1	22	62	4	0	0	0	241	1646	il	nsubj:pass	1648	PRON	PRON	Singular	Male	3
+m_hector	0	1650	1650	PER	ses	7692	7695	ses	1	22	62	8	0	0	0	242	1650	ses	det	1651	DET	PRON	Singular	Ambiguous	3
+m_de_courville	1	1664	1666	PER	M. de Courville	7756	7771	m. de courville	3	22	63	4	0	0	0	243	1666	courville	nmod	1664	PROPN	PROP	Singular	Male	3
+m_de_courville	1	1669	1669	PER	Vous	7776	7780	vous	1	22	63	9	0	0	0	244	1669	vous	nsubj	1671	PRON	PRON	Ambiguous	Ambiguous	2
+berthe	2	1679	1679	PER	la	7820	7822	la	1	22	64	2	0	0	0	245	1679	la	obj	1680	PRON	PRON	Singular	Female	3
+m_hector	0	1682	1683	PER	m'	7834	7836	m '	2	22	64	5	0	0	0	246	1682	m	obj	1684	PRON	PRON	Singular	Ambiguous	1
+berthe	2	1688	1691	PER	une femme comme ça	7858	7876	une femme comme ça	4	22	65	2	0	0	0	247	1689	femme	obl:mod	1695	NOUN	NOM	Singular	Female	3
+berthe	2	1694	1694	PER	la	7881	7883	la	1	22	65	8	0	0	0	248	1694	la	obj	1695	PRON	PRON	Singular	Female	3
+m_hector	0	1698	1698	PER	moi	7902	7905	moi	1	22	65	12	0	0	0	249	1698	moi	obl:mod	1696	PRON	PRON	Singular	Ambiguous	1
+berthe_et_hector	71	1700	1700	PER	Nous	7907	7911	nous	1	22	66	0	0	0	0	250	1700	nous	nsubj	1701	PRON	PRON	Plural	Ambiguous	1
+T1605	41	1703	1705	TIME	toute l'année	7932	7945	toute l' année	3	22	66	3	0	0	0	251	1705	année	obj	1701	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	1708	1710	PER	M. de Courville	7950	7965	m. de courville	3	23	67	0	0	0	0	252	1710	courville	nmod	1708	PROPN	PROP	Singular	Male	3
+m_de_courville	1	1714	1714	PER	il	7978	7980	il	1	23	67	6	0	0	0	253	1714	il	nsubj:pass	1718	PRON	PRON	Singular	Male	3
+m_hector	0	1724	1724	PER	votre	8023	8028	votre	1	23	67	16	0	0	0	254	1724	votre	det	1725	DET	PRON	Ambiguous	Ambiguous	2
+m_hector	0	1730	1731	PER	mon cher	8052	8060	mon cher	2	23	67	22	0	1	1	255	1731	cher	dep	1726	NOUN	NOM	Singular	Male	3
+m_de_courville	1	1730	1730	PER	mon	8052	8055	mon	1	23	67	22	1	0	0	256	1730	mon	det	1731	DET	PRON	Singular	Ambiguous	1
+m_hector	0	1734	1734	PER	vous	8069	8073	-vous	1	23	68	1	0	0	0	257	1734	vous	nsubj	1733	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	1736	1736	PER	je	8078	8080	je	1	23	68	3	0	0	0	258	1736	je	nsubj	1739	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	1743	1744	PER	le baron	8102	8110	le baron	2	23	69	2	0	0	0	259	1744	baron	nsubj	1746	NOUN	NOM	Singular	Male	3
+m_hector	0	1763	1763	PER	je	8185	8187	je	1	23	69	22	0	0	0	260	1763	je	nsubj	1764	PRON	PRON	Singular	Ambiguous	1
+paris	72	1774	1774	GPE	Paris	8234	8239	paris	1	23	69	33	0	0	0	261	1774	paris	nmod	1767	PROPN	PROP	Not_Assigned	Not_Assigned	3
+m_hector	0	1778	1778	PER	je	8249	8251	je	1	23	70	2	0	0	0	262	1778	je	nsubj	1780	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	1782	1782	PER	je	8266	8268	je	1	23	70	6	0	0	0	263	1782	je	nsubj	1784	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	1783	1783	PER	vous	8269	8273	vous	1	23	70	7	0	0	0	264	1783	vous	obj	1784	PRON	PRON	Ambiguous	Ambiguous	2
+M46	27	1788	1788	PER	On	8302	8304	on	1	23	71	1	0	0	0	265	1788	on	nsubj	1791	PRON	PRON	Ambiguous	Ambiguous	3
+m_hector	0	1797	1797	PER	il	8351	8353	il	1	23	71	10	0	0	0	266	1797	il	nsubj	1798	PRON	PRON	Singular	Male	3
+T1607	56	1799	1800	TIME	le lendemain	8361	8373	le lendemain	2	23	71	12	0	0	0	267	1800	lendemain	obl:mod	1798	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M47	28	1807	1816	TIME	Une semaine, deux semaines, trois semaines se passèrent	8402	8457	une semaine , deux semaines , trois semaines se passèrent	10	24	73	0	0	0	0	268	1816	passèrent	ROOT	1816	VERB	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1818	1820	PER	M. de Coutelier	8459	8474	m. de coutelier	3	24	73	11	0	0	0	269	1820	coutelier	nmod	1818	PROPN	PROP	Singular	Male	3
+les_courville	3	1825	1826	PER	Les Courville	8496	8509	les courville	2	24	74	0	0	0	0	270	1826	courville	nsubj	1833	PROPN	PROP	Plural	Not_Assigned	3
+berthe	2	1837	1838	PER	leur amie	8553	8562	leur amie	2	24	74	12	0	1	1	271	1838	amie	obl:arg	1835	NOUN	NOM	Singular	Female	3
+les_courville	3	1837	1837	PER	leur	8553	8557	leur	1	24	74	12	1	0	0	272	1837	leur	det	1838	DET	PRON	Plural	Ambiguous	3
+berthe	2	1839	1840	PER	qu'	8563	8566	qu '	2	24	74	14	0	0	0	273	1839	qu	mark	1843	SCONJ	PRON	Ambiguous	Ambiguous	4
+les_courville	3	1841	1841	PER	ils	8567	8570	ils	1	24	74	16	0	0	0	274	1841	ils	nsubj	1843	PRON	PRON	Plural	Ambiguous	3
+m_hector	0	1847	1848	PER	du baron	8603	8611	du baron	2	24	74	22	0	0	0	275	1848	baron	nmod	1846	NOUN	NOM	Singular	Male	3
+les_courville	3	1850	1850	PER	On	8613	8615	on	1	24	75	0	0	0	0	276	1850	on	nsubj	1851	PRON	PRON	Ambiguous	Ambiguous	3
+T1612	69	1852	1855	TIME	tous les deux jours	8625	8644	tous les deux jours	4	24	75	2	0	0	0	277	1855	jours	obj	1851	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	1858	1858	PER	lui	8658	8661	lui	1	24	75	8	0	0	0	278	1858	lui	obl:arg	1856	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1860	1860	PER	ses	8665	8668	ses	1	24	75	10	0	0	0	279	1860	ses	det	1861	DET	PRON	Singular	Ambiguous	3
+T1613	55	1865	1866	PER	ses serviteurs	8690	8704	ses serviteurs	2	24	75	15	0	1	1	280	1866	serviteurs	nmod	1863	NOUN	NOM	Plural	Ambiguous	3
+m_hector	0	1865	1865	PER	ses	8690	8693	ses	1	24	75	15	1	0	0	281	1865	ses	det	1866	DET	PRON	Singular	Ambiguous	3
+T1614	65	1874	1875	TIME	un soir	8727	8734	un soir	2	25	76	2	0	0	0	282	1875	soir	obl:mod	1889	NOUN	NOM	Not_Assigned	Not_Assigned	3
+berthe	2	1878	1879	PER	Mme Vilers	8742	8752	mme vilers	2	25	76	6	0	0	0	283	1878	mme	nsubj	1880	NOUN	PROP	Singular	Female	3
+bonne	70	1887	1888	PER	une bonne	8790	8799	une bonne	2	25	76	15	0	0	0	284	1888	bonne	nsubj	1889	NOUN	NOM	Singular	Female	3
+m_de_courville	1	1897	1899	PER	M. de Courville	8838	8853	m. de courville	3	25	76	25	0	0	0	285	1899	courville	nmod	1897	PROPN	PROP	Singular	Male	3
+m_de_courville	1	1902	1902	PER	lui	8858	8861	lui	1	25	76	30	0	0	0	286	1902	lui	iobj	1903	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1907	1908	PER	un monsieur	8881	8892	un monsieur	2	25	76	35	0	0	0	287	1908	monsieur	nsubj	1910	NOUN	NOM	Singular	Male	3
+m_de_courville	1	1909	1909	PER	le	8893	8895	le	1	25	76	37	0	0	0	288	1909	le	obj	1910	PRON	PRON	Singular	Male	3
+m_hector	0	1912	1913	PER	C'	8907	8909	c '	2	25	77	0	0	0	0	289	1912	c	nsubj	1916	PRON	PRON	Ambiguous	Ambiguous	3
+m_hector	0	1915	1916	PER	le baron	8916	8924	le baron	2	25	77	3	0	0	0	290	1916	baron	ROOT	1916	NOUN	NOM	Singular	Male	3
+m_hector	0	1929	1929	PER	il	8972	8974	il	1	25	78	2	0	0	0	291	1929	il	nsubj	1930	PRON	PRON	Singular	Male	3
+m_de_courville	1	1931	1933	PER	son vieil ami	8979	8992	son vieil ami	3	25	78	4	0	1	1	292	1933	ami	obj	1930	NOUN	NOM	Singular	Male	3
+m_hector	0	1931	1931	PER	son	8979	8982	son	1	25	78	4	1	0	0	293	1931	son	det	1933	DET	PRON	Singular	Ambiguous	3
+m_hector	0	1935	1935	PER	il	8994	8996	il	1	25	78	8	0	0	0	294	1935	il	nsubj	1937	PRON	PRON	Singular	Male	3
+m_de_courville	1	1936	1936	PER	lui	8997	9000	lui	1	25	78	9	0	0	0	295	1936	lui	iobj	1937	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	1951	1952	PER	J'	9054	9056	j '	2	25	78	24	0	0	0	296	1951	j	nsubj	1953	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	1958	1959	PER	mon cher	9077	9085	mon cher	2	25	78	31	0	1	1	297	1959	cher	dep	1953	ADJ	NOM	Singular	Male	3
+m_hector	0	1958	1958	PER	mon	9077	9080	mon	1	25	78	31	1	0	0	298	1958	mon	det	1959	DET	PRON	Singular	Ambiguous	1
+m_hector	0	1962	1963	PER	j'	9090	9092	j '	2	25	78	35	0	0	0	299	1962	j	nsubj	1964	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	1966	1966	PER	vous	9106	9110	vous	1	25	78	39	0	0	0	300	1966	vous	obl:arg	1964	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	1968	1968	PER	je	9112	9114	je	1	25	78	41	0	0	0	301	1968	je	nsubj	1971	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	1976	1976	PER	il	9138	9140	il	1	25	79	2	0	0	0	302	1976	il	nsubj	1977	PRON	PRON	Singular	Male	3
+m_hector	0	1983	1983	PER	Je	9176	9178	je	1	25	79	9	0	0	0	303	1983	je	nsubj	1984	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	1985	1985	PER	vous	9187	9191	vous	1	25	79	11	0	0	0	304	1985	vous	iobj	1986	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	1998	1998	PER	vous	9247	9251	vous	1	25	79	24	0	0	0	305	1998	vous	nsubj	1999	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	2006	2008	PER	M. de Courville	9282	9297	m. de courville	3	26	80	0	0	0	0	306	2008	courville	nmod	2006	PROPN	PROP	Singular	Male	3
+m_hector	0	2009	2009	PER	le	9298	9300	le	1	26	80	3	0	0	0	307	2009	le	obj	2010	PRON	PRON	Singular	Male	3
+m_hector	0	2024	2025	PER	m'	9368	9370	m '	2	26	83	3	0	0	0	308	2024	m	iobj	2026	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2029	2029	PER	je	9387	9389	je	1	26	83	8	0	0	0	309	2029	je	nsubj	2031	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2030	2030	PER	vous	9390	9394	vous	1	26	83	9	0	0	0	310	2030	vous	obj	2031	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2044	2045	PER	j'	9451	9453	j '	2	26	83	23	0	0	0	311	2044	j	nsubj	2046	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2053	2053	PER	Je	9483	9485	je	1	26	84	0	0	0	0	312	2053	je	nsubj	2055	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2058	2058	PER	Je	9502	9504	je	1	26	84	5	0	0	0	313	2058	je	nsubj	2060	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2065	2065	PER	vous	9524	9528	vous	1	26	84	12	0	0	0	314	2065	vous	nsubj	2066	PRON	PRON	Ambiguous	Ambiguous	2
+berthe	2	2074	2075	PER	cette dame	9563	9573	cette dame	2	26	84	21	0	0	0	315	2075	dame	obj	2073	NOUN	NOM	Singular	Female	3
+m_hector	0	2077	2078	PER	J'	9575	9577	j '	2	26	85	0	0	0	0	316	2077	j	nsubj	2079	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2081	2081	PER	elle	9591	9595	elle	1	26	85	4	0	0	0	317	2081	elle	nsubj	2083	PRON	PRON	Singular	Female	3
+m_de_courville	1	2087	2087	PER	vous	9626	9630	vous	1	26	85	10	0	0	0	318	2087	vous	obl:arg	2085	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2090	2090	PER	me	9636	9638	me	1	26	85	13	0	0	0	319	2090	me	iobj	2093	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2095	2095	PER	la	9665	9667	la	1	26	85	18	0	0	0	320	2095	la	obj	2096	PRON	PRON	Singular	Female	3
+m_hector	0	2102	2102	PER	il	9689	9691	il	1	27	87	1	0	0	0	321	2102	il	nsubj	2104	PRON	PRON	Singular	Male	3
+les_courville	3	2106	2108	PER	Toute la famille	9703	9719	toute la famille	3	28	88	0	0	0	0	322	2108	famille	nsubj	2109	NOUN	NOM	Plural	Ambiguous	3
+les_courville	3	2117	2117	PER	On	9761	9763	on	1	28	89	0	0	0	0	323	2117	on	nsubj	2118	PRON	PRON	Ambiguous	Ambiguous	3
+m_hector	0	2128	2129	PER	du baron	9816	9824	du baron	2	28	89	11	0	0	0	324	2129	baron	nmod	2127	NOUN	NOM	Singular	Male	3
+m_hector	0	2132	2132	PER	il	9829	9831	il	1	28	89	15	0	0	0	325	2132	il	nsubj	2133	PRON	PRON	Singular	Male	3
+M2	16	2159	2159	PER	on	9983	9985	on	1	28	90	16	0	0	0	326	2159	on	nsubj	2160	PRON	PRON	Ambiguous	Ambiguous	3
+berthe	2	2162	2163	PER	Mme Vilers	10005	10015	mme vilers	2	28	90	19	0	0	0	327	2162	mme	obj	2160	NOUN	PROP	Singular	Female	3
+berthe	2	2165	2165	PER	qui	10017	10020	qui	1	28	90	22	0	0	0	328	2165	qui	nsubj	2168	PRON	PRON	Ambiguous	Ambiguous	4
+berthe	2	2171	2171	PER	elle	10047	10051	elle	1	28	90	28	0	0	0	329	2171	elle	nsubj	2173	PRON	PRON	Singular	Female	3
+T1619	68	2175	2177	TIME	Trois mois encore	10066	10083	trois mois encore	3	29	91	0	0	0	0	330	2176	mois	nsubj	2179	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1620	67	2181	2182	TIME	Un soir	10098	10105	un soir	2	29	92	0	0	0	0	331	2182	soir	obl:mod	2212	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	2185	2185	PER	il	10113	10115	il	1	29	92	4	0	0	0	332	2185	il	nsubj	2188	PRON	PRON	Singular	Male	3
+m_hector	0	2191	2191	PER	il	10143	10145	il	1	29	92	10	0	0	0	333	2191	il	nsubj	2192	PRON	PRON	Singular	Male	3
+m_hector	0	2196	2198	PER	M. de Coutelier	10163	10178	m. de coutelier	3	29	92	15	0	0	0	334	2198	coutelier	nmod	2196	PROPN	PROP	Singular	Male	3
+m_hector	0	2202	2202	PER	sa	10190	10192	sa	1	29	92	21	0	0	0	335	2202	sa	det	2203	DET	PRON	Singular	Ambiguous	3
+T1621	66	2204	2205	TIME	le soir	10198	10205	le soir	2	29	92	23	0	0	0	336	2205	soir	obl:mod	2201	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	2207	2209	PER	M. de Courville	10211	10226	m. de courville	3	29	92	26	0	0	0	337	2209	courville	nmod	2207	PROPN	PROP	Singular	Male	3
+m_de_courville	1	2211	2211	PER	lui	10228	10231	lui	1	29	92	30	0	0	0	338	2211	lui	iobj	2212	PRON	PRON	Singular	Ambiguous	3
+m_de_courville	1	2216	2216	PER	vous	10243	10247	vous	1	29	92	35	0	0	0	339	2216	vous	nsubj	2217	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2219	2219	PER	je	10261	10263	je	1	29	92	38	0	0	0	340	2219	je	nsubj	2220	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2223	2224	PER	votre amie	10280	10290	votre amie	2	29	92	42	0	1	1	341	2224	amie	obl:arg	2220	NOUN	NOM	Singular	Female	3
+m_de_courville	1	2223	2223	PER	votre	10280	10285	votre	1	29	92	42	1	0	0	342	2223	votre	det	2224	DET	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	2226	2226	PER	vous	10292	10296	vous	1	29	92	45	0	0	0	343	2226	vous	nsubj	2227	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2230	2230	PER	moi	10313	10316	moi	1	29	92	49	0	0	0	344	2230	moi	obl:arg	2227	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2233	2234	PER	L'autre	10321	10328	l' autre	2	30	93	0	0	0	0	345	2234	autre	nsubj	2250	PRON	PRON	Singular	Ambiguous	3
+m_hector	0	2239	2240	PER	du baron	10346	10354	du baron	2	30	93	6	0	0	0	346	2240	baron	nmod	2238	NOUN	NOM	Singular	Male	3
+m_hector	0	2249	2249	PER	lui	10399	10402	lui	1	30	93	16	0	0	0	347	2249	lui	iobj	2250	PRON	PRON	Singular	Ambiguous	3
+m_de_courville	1	2251	2251	PER	sa	10407	10409	sa	1	30	93	18	0	0	0	348	2251	sa	det	2252	DET	PRON	Singular	Ambiguous	3
+m_hector	0	2258	2259	PER	mon cher	10441	10449	mon cher	2	30	93	25	0	1	1	349	2259	cher	nmod	2256	ADJ	NOM	Singular	Male	3
+m_de_courville	1	2258	2258	PER	mon	10441	10444	mon	1	30	93	25	1	0	0	350	2258	mon	det	2259	DET	PRON	Singular	Ambiguous	1
+m_hector	0	2278	2278	PER	vous	10527	10531	vous	1	30	93	45	0	0	0	351	2278	vous	nsubj	2281	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2287	2287	PER	vous	10558	10562	vous	1	30	93	54	0	0	0	352	2287	vous	nsubj	2288	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2293	2293	PER	votre	10591	10596	votre	1	30	93	60	0	0	0	353	2293	votre	det	2294	DET	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2299	2300	PER	Le baron	10622	10630	le baron	2	31	94	0	0	0	0	354	2300	baron	nsubj	2302	NOUN	NOM	Singular	Male	3
+m_hector	0	2313	2313	PER	je	10676	10678	je	1	32	96	2	0	0	0	355	2313	je	nsubj	2317	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2324	2326	PER	M. de Courville	10718	10733	m. de courville	3	33	97	0	0	0	0	356	2326	courville	nmod	2324	PROPN	PROP	Singular	Male	3
+m_hector	0	2340	2342	PER	M. de Coutelier	10788	10803	m. de coutelier	3	34	98	1	0	0	0	357	2342	coutelier	nmod	2340	PROPN	PROP	Singular	Male	3
+m_hector	0	2367	2367	PER	Je	10905	10907	je	1	35	99	1	0	0	0	358	2367	je	nsubj	2368	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2371	2371	PER	je	10922	10924	je	1	35	99	5	0	0	0	359	2371	je	nsubj	2374	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2372	2372	PER	vous	10925	10929	vous	1	35	99	6	0	0	0	360	2372	vous	obj	2374	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2376	2376	PER	je	10943	10945	je	1	35	99	10	0	0	0	361	2376	je	nsubj	2377	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2379	2379	PER	vous	10956	10960	vous	1	35	99	13	0	0	0	362	2379	vous	iobj	2380	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2382	2382	PER	me	10971	10973	me	1	35	99	16	0	0	0	363	2382	me	obj	2384	PRON	PRON	Singular	Ambiguous	1
+M48	29	2386	2388	TIME	Depuis vingt ans	10989	11005	depuis vingt ans	3	35	100	0	0	0	0	364	2388	ans	obl:mod	2395	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	2390	2391	PER	mon ami	11007	11014	mon ami	2	35	100	4	0	1	1	365	2391	ami	obl:mod	2395	NOUN	NOM	Singular	Male	3
+m_hector	0	2390	2390	PER	mon	11007	11010	mon	1	35	100	4	1	0	0	366	2390	mon	det	2391	DET	PRON	Singular	Ambiguous	1
+m_hector	0	2393	2393	PER	je	11016	11018	je	1	35	100	7	0	0	0	367	2393	je	nsubj	2395	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2401	2401	PER	Je	11046	11048	je	1	35	101	0	0	0	0	368	2401	je	nsubj	2403	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2407	2407	PER	vous	11064	11068	vous	1	35	101	6	0	0	0	369	2407	vous	nsubj	2409	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2411	2411	PER	je	11079	11081	je	1	35	101	10	0	0	0	370	2411	je	nsubj	2414	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2428	2429	PER	cette dame	11155	11165	cette dame	2	35	102	9	0	0	0	371	2429	dame	nmod	2426	NOUN	NOM	Singular	Female	3
+m_hector	0	2438	2439	PER	m'	11206	11208	m '	2	35	102	19	0	0	0	372	2438	m	iobj	2441	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2447	2448	PER	j'	11239	11241	j '	2	35	103	4	0	0	0	373	2447	j	nsubj	2450	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2463	2463	PER	je	11293	11295	je	1	35	103	20	0	0	0	374	2463	je	nsubj	2465	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2468	2468	PER	je	11314	11316	je	1	35	103	25	0	0	0	375	2468	je	nsubj	2471	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2476	2476	PER	vous	11351	11355	vous	1	35	103	33	0	0	0	376	2476	vous	nsubj	2477	PRON	PRON	Ambiguous	Ambiguous	2
+T1623	64	2485	2486	TIME	seize ans	11402	11411	seize ans	2	35	103	42	0	0	0	377	2486	ans	obj	2483	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_de_courville	1	2499	2499	PER	vous	11467	11471	vous	1	35	103	56	0	0	0	378	2499	vous	nsubj	2500	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	2517	2517	PER	vous	11532	11536	vous	1	35	104	15	0	0	0	379	2517	vous	nsubj	2519	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2523	2524	PER	j'	11553	11555	j '	2	35	105	2	0	0	0	380	2523	j	nsubj	2525	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2531	2532	PER	J'	11583	11585	j '	2	35	106	0	0	0	0	381	2531	j	nsubj	2533	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2546	2546	PER	m'	11640	11642	m'	1	35	107	5	0	0	0	382	2546	m'	expl:comp	2547	PRON	PRON	Singular	Ambiguous	1
+M29	21	2549	2550	PER	le maire	11657	11665	le maire	2	35	107	8	0	0	0	383	2550	maire	obl:arg	2547	NOUN	NOM	Singular	Male	3
+T1626	63	2552	2553	PER	le prêtre	11669	11678	le prêtre	2	35	107	11	0	0	0	384	2553	prêtre	conj	2550	NOUN	NOM	Singular	Male	3
+m_de_courville	1	2560	2560	PER	vous	11696	11700	vous	1	35	107	19	0	0	0	385	2560	vous	nsubj	2561	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2563	2564	PER	j'	11708	11710	j '	2	35	107	22	0	0	0	386	2563	j	nsubj	2566	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2569	2569	PER	Je	11723	11725	je	1	35	108	0	0	0	0	387	2569	je	nsubj	2572	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2581	2582	PER	j'	11764	11766	j '	2	35	108	12	0	0	0	388	2581	j	nsubj	2583	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2597	2597	PER	je	11838	11840	je	1	35	109	11	0	0	0	389	2597	je	nsubj	2598	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2605	2606	PER	cette personne	11885	11899	cette personne	2	35	109	19	0	0	0	390	2606	personne	obl:arg	2603	NOUN	NOM	Singular	Ambiguous	3
+m_hector	0	2617	2617	PER	je	11936	11938	je	1	35	110	9	0	0	0	391	2617	je	nsubj	2620	PRON	PRON	Singular	Ambiguous	1
+T1629	62	2624	2627	TIME	huit jours à Paris	11969	11987	huit jours à paris	4	35	110	16	0	1	1	392	2625	jours	obj	2623	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Paris	30	2627	2627	GPE	Paris	11982	11987	paris	1	35	110	19	1	0	0	393	2627	paris	obl:arg	2623	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1630	61	2633	2634	TIME	huit jours	12003	12013	huit jours	2	36	111	4	0	0	0	394	2634	jours	nmod	2631	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	2651	2652	PER	J'	12070	12072	j '	2	36	113	0	0	0	0	395	2651	j	nsubj	2654	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2667	2667	PER	Je	12129	12131	je	1	36	114	0	0	0	0	396	2667	je	nsubj	2669	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2668	2668	PER	vous	12132	12136	vous	1	36	114	1	0	0	0	397	2668	vous	iobj	2669	PRON	PRON	Ambiguous	Ambiguous	2
+T1633	7	2671	2671	PER	elles	12147	12152	elles	1	36	114	4	0	0	0	398	2671	elles	nsubj	2673	PRON	PRON	Plural	Female	3
+T1633	7	2676	2676	PER	elles	12168	12173	elles	1	36	114	9	0	0	0	399	2676	elles	nsubj	2678	PRON	PRON	Plural	Female	3
+T1633	7	2683	2683	PER	elles	12205	12210	elles	1	36	114	16	0	0	0	400	2683	elles	nsubj	2687	PRON	PRON	Plural	Female	3
+m_de_courville	1	2692	2692	PER	vous	12250	12254	-vous	1	36	114	25	0	0	0	401	2692	vous	nsubj	2691	PRON	PRON	Ambiguous	Ambiguous	2
+T1633	7	2694	2694	PER	elles	12256	12261	elles	1	36	114	27	0	0	0	402	2694	elles	nsubj	2696	PRON	PRON	Plural	Female	3
+m_hector	0	2706	2707	PER	J'	12334	12336	j '	2	37	115	1	0	0	0	403	2706	j	nsubj	2709	PRON	PRON	Singular	Ambiguous	1
+T1635	60	2711	2712	TIME	quinze jours	12354	12366	quinze jours	2	37	115	6	0	0	0	404	2712	jours	obj	2709	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1636	59	2714	2715	TIME	trois semaines	12368	12382	trois semaines	2	37	115	9	0	0	0	405	2715	semaines	dep	2712	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	2720	2721	PER	J'	12403	12405	j '	2	37	116	0	0	0	0	406	2720	j	nsubj	2723	PRON	PRON	Singular	Ambiguous	1
+T1637	58	2725	2726	FAC	les restaurants	12420	12435	les restaurants	2	37	116	5	0	0	0	407	2726	restaurants	obl:mod	2723	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	2734	2734	PER	m'	12467	12469	m'	1	37	116	14	0	0	0	408	2734	m'	iobj	2736	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2750	2750	PER	Vous	12528	12532	vous	1	38	117	1	0	0	0	409	2750	vous	nsubj	2751	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2762	2762	PER	je	12599	12601	je	1	38	117	13	0	0	0	410	2762	je	nsubj	2764	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2775	2776	PER	j'	12650	12652	j '	2	38	118	2	0	0	0	411	2775	j	nsubj	2778	PRON	PRON	Singular	Ambiguous	1
+m_de_courville	1	2781	2783	PER	M. de Courville	12665	12680	m. de courville	3	39	120	0	0	0	0	412	2783	courville	nmod	2781	PROPN	PROP	Singular	Male	3
+m_de_courville	1	2791	2791	PER	Il	12710	12712	il	1	39	121	0	0	0	0	413	2791	il	nsubj	2792	PRON	PRON	Singular	Male	3
+m_hector	0	2796	2797	PER	du baron	12739	12747	du baron	2	39	121	5	0	0	0	414	2797	baron	nmod	2795	NOUN	NOM	Singular	Male	3
+m_hector	0	2799	2799	PER	lui	12751	12754	lui	1	39	121	8	0	0	0	415	2799	lui	iobj	2800	PRON	PRON	Singular	Ambiguous	3
+m_de_courville	1	2803	2803	PER	Je	12766	12768	je	1	39	121	12	0	0	0	416	2803	je	nsubj	2805	PRON	PRON	Singular	Ambiguous	1
+m_hector	0	2804	2804	PER	vous	12769	12773	vous	1	39	121	13	0	0	0	417	2804	vous	obj	2805	PRON	PRON	Ambiguous	Ambiguous	2
+m_hector	0	2809	2809	PER	le	12787	12789	le	1	39	121	18	0	0	0	418	2809	le	obj	2810	PRON	PRON	Singular	Male	3
+T1638	57	2815	2816	FAC	sa demeure	12823	12833	sa demeure	2	39	121	24	0	1	1	419	2816	demeure	nmod	2813	NOUN	NOM	Not_Assigned	Not_Assigned	3
+m_hector	0	2815	2815	PER	sa	12823	12825	sa	1	39	121	24	1	0	0	420	2815	sa	det	2816	DET	PRON	Singular	Ambiguous	3
+m_de_courville	1	2821	2821	PER	il	12848	12850	il	1	39	122	3	0	0	0	421	2821	il	nsubj	2823	PRON	PRON	Singular	Male	3
+mme_de_courville	5	2826	2827	PER	sa femme	12871	12879	sa femme	2	39	122	8	0	1	1	422	2827	femme	obl:mod	2823	NOUN	NOM	Singular	Female	3
+m_hector	0	2826	2826	PER	sa	12871	12873	sa	1	39	122	8	1	0	0	423	2826	sa	det	2827	DET	PRON	Singular	Ambiguous	3
+m_de_courville	1	2829	2829	PER	il	12881	12883	il	1	39	122	11	0	0	0	424	2829	il	nsubj	2831	PRON	PRON	Singular	Male	3
+mme_de_courville	5	2830	2830	PER	lui	12884	12887	lui	1	39	122	12	0	0	0	425	2830	lui	iobj	2831	PRON	PRON	Singular	Ambiguous	3
+mme_de_courville	5	2840	2842	PER	Mme de Courville	12928	12944	mme de courville	3	39	123	1	0	0	0	426	2842	courville	nmod	2840	PROPN	PROP	Singular	Female	3
+mme_de_courville	5	2847	2847	PER	elle	12962	12966	elle	1	39	123	8	0	0	0	427	2847	elle	nsubj	2848	PRON	PRON	Singular	Female	3
+m_de_courville	1	2855	2856	PER	son mari	13004	13012	son mari	2	39	123	16	0	1	1	428	2856	mari	nsubj	2858	NOUN	NOM	Singular	Male	3
+mme_de_courville	5	2855	2855	PER	son	13004	13007	son	1	39	123	16	1	0	0	429	2855	son	det	2856	DET	PRON	Singular	Ambiguous	3
+mme_de_courville	5	2860	2860	PER	elle	13025	13029	elle	1	39	123	21	0	0	0	430	2860	elle	nsubj	2861	PRON	PRON	Singular	Female	3
+m_hector	0	2868	2869	PER	Le baron	13065	13073	le baron	2	39	123	29	0	0	0	431	2869	baron	nsubj	2872	NOUN	NOM	Singular	Male	3
+m_de_courville	1	2874	2875	PER	mon cher	13088	13096	mon cher	2	39	123	35	0	1	1	432	2875	cher	dep	2872	ADJ	NOM	Singular	Male	3
+mme_de_courville	5	2874	2874	PER	mon	13088	13091	mon	1	39	123	35	1	0	0	433	2874	mon	det	2875	DET	PRON	Singular	Ambiguous	1
+m_hector	0	2877	2877	PER	il	13099	13101	il	1	39	123	38	0	0	0	434	2877	il	nsubj	2878	PRON	PRON	Singular	Male	3
+mme_de_courville	5	2884	2884	PER	Je	13126	13128	je	1	39	124	0	0	0	0	435	2884	je	nsubj	2885	PRON	PRON	Singular	Ambiguous	1
+berthe	2	2888	2888	PER	Berthe	13143	13149	berthe	1	39	124	4	0	0	0	436	2888	berthe	obl:arg	2886	PROPN	PROP	Singular	Female	3
+m_de_courville	1	2899	2901	PER	M. de Courville	13188	13203	m. de courville	3	40	125	2	0	0	0	437	2901	courville	nmod	2899	PROPN	PROP	Singular	Male	3
+m_hector	0	2909	2910	PER	leur ami	13242	13250	leur ami	2	40	125	12	0	1	1	438	2910	ami	nmod	2907	NOUN	NOM	Singular	Male	3
+M30	20	2909	2909	PER	leur	13242	13246	leur	1	40	125	12	1	0	0	439	2909	leur	det	2910	DET	PRON	Plural	Ambiguous	3
+mme_de_courville	5	2912	2912	PER	elle	13252	13256	elle	1	40	125	15	0	0	0	440	2912	elle	nsubj	2913	PRON	PRON	Singular	Female	3
+m_de_courville	1	2926	2926	PER	vous	13309	13313	-vous	1	40	125	29	0	0	0	441	2926	vous	dep	2925	PRON	PRON	Ambiguous	Ambiguous	2
+m_de_courville	1	2937	2939	PER	M. de Courville	13357	13372	m. de courville	3	41	127	1	0	0	0	442	2939	courville	nmod	2937	PROPN	PROP	Singular	Male	3
+m_de_courville	1	2947	2947	PER	lui-même	13405	13413	lui-même	1	41	127	11	0	0	0	443	2947	lui-même	dep	2941	PRON	PRON	Singular	Male	3
