@@ -1,0 +1,359 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+abbe	2	3	8	PER	Monsieur l'abbé Louis d'Ennemare	13	45	monsieur l' abbé louis d' ennemare	6	1	1	1	0	0	0	0	5	abbé	nmod	3	NOUN	PROP	Singular	Male	3
+soissons	50	11	11	GPE	Soissons	49	57	soissons	1	1	1	9	0	0	0	1	11	soissons	nmod	3	PROPN	PROP	Not_Assigned	Not_Assigned	3
+abbe	2	13	15	PER	Mon cher abbé	60	73	mon cher abbé	3	2	2	0	0	1	1	2	15	abbé	obl:mod	19	NOUN	NOM	Singular	Male	3
+henri	0	13	13	PER	Mon	60	63	mon	1	2	2	0	1	0	0	3	13	mon	det	15	DET	PRON	Singular	Ambiguous	1
+henri	0	18	18	PER	mon	82	85	mon	1	3	3	1	0	0	0	4	18	mon	det	19	DET	PRON	Singular	Ambiguous	1
+gilberte	1	21	22	PER	ta cousine	99	109	ta cousine	2	3	3	4	0	1	1	5	22	cousine	nmod	19	NOUN	NOM	Singular	Female	3
+abbe	2	21	21	PER	ta	99	101	ta	1	3	3	4	1	0	0	6	21	ta	det	22	DET	PRON	Singular	Ambiguous	2
+henri	0	38	38	PER	j'	181	183	j'	1	3	3	21	0	0	0	7	38	j'	nsubj	40	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	44	45	PER	ma fiancée	219	229	ma fiancée	2	3	3	27	0	1	1	8	45	fiancée	obl:arg	40	NOUN	NOM	Singular	Female	3
+henri	0	44	44	PER	ma	219	221	ma	1	3	3	27	1	0	0	9	44	ma	det	45	DET	PRON	Singular	Ambiguous	1
+henri	0	47	47	PER	J'	232	234	j'	1	4	4	0	0	0	0	10	47	j'	nsubj	48	PRON	PRON	Singular	Ambiguous	1
+abbe	2	51	51	PER	toi	247	250	toi	1	4	4	4	0	0	0	11	51	toi	obl:arg	48	PRON	PRON	Singular	Ambiguous	2
+abbe	2	53	55	PER	mon vieux camarade	252	270	mon vieux camarade	3	4	4	6	0	1	1	12	55	camarade	obj	48	NOUN	NOM	Singular	Male	3
+henri	0	53	53	PER	mon	252	255	mon	1	4	4	6	1	0	0	13	53	mon	det	55	DET	PRON	Singular	Ambiguous	1
+henri	0	61	61	PER	je	291	293	je	1	4	4	14	0	0	0	14	61	je	nsubj	63	PRON	PRON	Singular	Ambiguous	1
+abbe	2	66	66	PER	tu	310	312	tu	1	4	4	19	0	0	0	15	66	tu	nsubj	67	PRON	PRON	Singular	Ambiguous	2
+henri	0	68	68	PER	me	318	320	me	1	4	4	21	0	0	0	16	68	me	iobj	69	PRON	PRON	Singular	Ambiguous	1
+henri	0	73	73	PER	Je	338	340	je	1	4	5	0	0	0	0	17	73	je	nsubj	77	PRON	PRON	Singular	Ambiguous	1
+abbe	2	74	74	PER	t'	341	343	t'	1	4	5	1	0	0	0	18	74	t'	iobj	77	PRON	PRON	Singular	Ambiguous	2
+abbe	2	83	83	PER	Tu	384	386	tu	1	5	6	0	0	0	0	19	83	tu	nsubj	84	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	85	85	PER	Gilberte	395	403	gilberte	1	5	6	2	0	0	0	20	85	gilberte	obj	84	PROPN	PROP	Singular	Female	3
+abbe	2	89	89	PER	tu	415	417	tu	1	5	6	6	0	0	0	21	89	tu	nsubj	90	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	91	91	PER	la	424	426	la	1	5	6	8	0	0	0	22	91	la	obj	92	PRON	PRON	Singular	Female	3
+henri	0	160	160	PER	Je	778	780	je	1	6	9	0	0	0	0	23	160	je	nsubj	162	PRON	PRON	Singular	Ambiguous	1
+abbe	2	165	165	PER	t'	792	794	t'	1	6	9	5	0	0	0	24	165	t'	iobj	166	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	168	169	PER	ta cousine	808	818	ta cousine	2	6	9	8	0	1	1	25	169	cousine	nsubj	171	NOUN	NOM	Singular	Female	3
+abbe	2	168	168	PER	ta	808	810	ta	1	6	9	8	1	0	0	26	168	ta	det	169	DET	PRON	Singular	Ambiguous	2
+T772	28	178	184	PER	les Dames blanches ou noires de Nancy	858	895	les dames blanches ou noires de nancy	7	6	9	18	0	1	1	27	179	dames	obl:agent	176	NOUN	PROP	Plural	Not_Assigned	3
+nancy	47	184	184	GPE	Nancy	890	895	nancy	1	6	9	24	1	0	0	28	184	nancy	nmod	179	PROPN	PROP	Not_Assigned	Not_Assigned	3
+abbe	2	188	188	PER	tu	904	906	tu	1	7	10	2	0	0	0	29	188	tu	nsubj	190	PRON	PRON	Singular	Ambiguous	2
+henri	0	193	193	PER	moi	925	928	moi	1	7	10	7	0	0	0	30	193	moi	dep	191	PRON	PRON	Singular	Ambiguous	1
+abbe	2	197	197	PER	tu	937	939	tu	1	7	11	2	0	0	0	31	197	tu	nsubj	198	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	206	206	PER	elle	970	974	elle	1	7	11	11	0	0	0	32	206	elle	nsubj:pass	208	PRON	PRON	Singular	Female	3
+gilberte	1	215	215	PER	Sa	1014	1016	sa	1	7	12	0	0	0	0	33	215	sa	det	216	DET	PRON	Singular	Ambiguous	3
+gilberte	1	231	231	PER	elle	1085	1089	elle	1	7	12	16	0	0	0	34	231	elle	nsubj	233	PRON	PRON	Singular	Female	3
+abbe	2	274	274	PER	tu	1285	1287	tu	1	7	12	59	0	0	0	35	274	tu	nsubj	275	PRON	PRON	Singular	Ambiguous	2
+abbe	2	288	288	PER	tu	1344	1346	tu	1	7	12	73	0	0	0	36	288	tu	nsubj	290	PRON	PRON	Singular	Ambiguous	2
+gilberte_et_narrateur	45	295	295	PER	nous	1372	1376	nous	1	8	13	2	0	0	0	37	295	nous	nsubj	297	PRON	PRON	Plural	Ambiguous	1
+henri	0	299	299	PER	je	1394	1396	je	1	8	13	6	0	0	0	38	299	je	nsubj	302	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	300	301	PER	l'	1397	1399	l '	2	8	13	7	0	0	0	39	300	l	obj	302	PRON	PRON	Singular	Ambiguous	3
+henri	0	304	304	PER	je	1414	1416	je	1	8	13	11	0	0	0	40	304	je	nsubj	307	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	305	306	PER	l'	1417	1419	l '	2	8	13	12	0	0	0	41	305	l	obj	307	PRON	PRON	Singular	Ambiguous	3
+gilberte	1	310	310	PER	Elle	1434	1438	elle	1	8	14	0	0	0	0	42	310	elle	nsubj	311	PRON	PRON	Singular	Female	3
+henri	0	312	312	PER	m'	1448	1450	m'	1	8	14	2	0	0	0	43	312	m'	obj	313	PRON	PRON	Singular	Ambiguous	1
+T775	30	315	316	TIME	Un soir	1458	1465	un soir	2	9	15	0	0	0	0	44	316	soir	obl:mod	318	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	317	317	PER	je	1466	1468	je	1	9	15	2	0	0	0	45	317	je	nsubj	318	PRON	PRON	Singular	Ambiguous	1
+henri	0	322	322	PER	m'	1491	1493	m'	1	9	15	7	0	0	0	46	322	m'	obj	323	PRON	PRON	Singular	Ambiguous	1
+cologne	11	325	325	GPE	Cologne	1504	1511	cologne	1	9	15	10	0	0	0	47	325	cologne	obl:arg	323	PROPN	PROP	Not_Assigned	Not_Assigned	3
+henri	0	339	339	PER	je	1593	1595	je	1	9	16	1	0	0	0	48	339	je	nsubj	340	PRON	PRON	Singular	Ambiguous	1
+T777	29	342	343	TIME	le lendemain	1610	1622	le lendemain	2	9	16	4	0	0	0	49	343	lendemain	obl:mod	341	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	345	345	PER	je	1624	1626	je	1	9	16	7	0	0	0	50	345	je	nsubj	346	PRON	PRON	Singular	Ambiguous	1
+henri	0	348	348	PER	mes	1640	1643	mes	1	9	16	10	0	0	0	51	348	mes	det	349	DET	PRON	Singular	Ambiguous	1
+gilberte	1	351	351	PER	Gilberte	1653	1661	gilberte	1	9	16	13	0	0	0	52	351	gilberte	obl:arg	347	PROPN	PROP	Singular	Female	3
+henri	0	355	355	PER	je	1679	1681	je	1	9	16	17	0	0	0	53	355	je	nsubj	357	PRON	PRON	Singular	Ambiguous	1
+parents_gilberte	48	360	364	PER	mes futurs beaux-parents	1705	1729	mes futurs beaux - parents	5	9	16	22	0	1	1	54	362	beaux	obl:arg	357	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	360	360	PER	mes	1705	1708	mes	1	9	16	22	1	0	0	55	360	mes	det	362	DET	PRON	Singular	Ambiguous	1
+T780	25	365	366	TIME	le mercredi	1730	1741	le mercredi	2	9	16	27	0	0	0	56	366	mercredi	obl:mod	357	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T781	26	370	371	TIME	le vendredi	1758	1769	le vendredi	2	9	16	32	0	0	0	57	371	vendredi	conj	366	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	375	375	PER	mon	1779	1782	mon	1	9	16	37	0	0	0	58	375	mon	det	376	DET	PRON	Singular	Ambiguous	1
+T782	15	382	383	TIME	aux vendredis	1809	1822	aux vendredis	2	9	17	4	0	0	0	59	383	vendredis	obl:arg	380	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	385	385	PER	je	1825	1827	je	1	9	17	7	0	0	0	60	385	je	nsubj	387	PRON	PRON	Singular	Ambiguous	1
+abbe	2	386	386	PER	t'	1828	1830	t'	1	9	17	8	0	0	0	61	386	t'	iobj	387	PRON	PRON	Singular	Ambiguous	2
+T782	15	389	389	PER	ils	1840	1843	ils	1	9	17	11	0	0	0	62	389	ils	nsubj	391	PRON	PRON	Plural	Ambiguous	3
+henri	0	394	394	PER	je	1867	1869	je	1	10	18	1	0	0	0	63	394	je	nsubj	395	PRON	PRON	Singular	Ambiguous	1
+henri	0	397	397	PER	mon	1880	1883	mon	1	10	18	4	0	0	0	64	397	mon	det	398	DET	PRON	Singular	Ambiguous	1
+henri	0	400	400	PER	je	1892	1894	je	1	10	18	7	0	0	0	65	400	je	nsubj	401	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	405	405	PER	ses	1914	1917	ses	1	10	18	12	0	0	0	66	405	ses	det	406	DET	PRON	Singular	Ambiguous	3
+henri	0	410	410	PER	j'	1936	1938	j'	1	10	18	17	0	0	0	67	410	j'	nsubj	411	PRON	PRON	Singular	Ambiguous	1
+henri	0	412	412	PER	ma	1947	1949	ma	1	10	18	19	0	0	0	68	412	ma	det	414	DET	PRON	Singular	Ambiguous	1
+gilberte	1	416	416	PER	elle	1969	1973	elle	1	10	18	23	0	0	0	69	416	elle	nsubj	417	PRON	PRON	Singular	Female	3
+henri	0	429	429	PER	vous	2030	2034	vous	1	10	18	36	0	0	0	70	429	vous	nsubj	431	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	430	430	PER	me	2035	2037	me	1	10	18	37	0	0	0	71	430	me	iobj	431	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	447	447	PER	moi	2129	2132	moi	1	10	18	54	0	0	0	72	447	moi	obl:mod	445	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	454	454	PER	me	2159	2161	me	1	10	19	5	0	0	0	73	454	me	iobj	455	PRON	PRON	Singular	Ambiguous	1
+henri	0	462	462	PER	vous	2196	2200	-vous	1	10	19	13	0	0	0	74	462	vous	dep	461	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	464	464	PER	Je	2203	2205	je	1	10	20	0	0	0	0	75	464	je	nsubj	465	PRON	PRON	Singular	Ambiguous	1
+henri	0	467	467	PER	vous	2216	2220	vous	1	10	20	3	0	0	0	76	467	vous	nsubj	468	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	474	474	PER	Elle	2247	2251	elle	1	11	21	0	0	0	0	77	474	elle	nsubj	475	PRON	PRON	Singular	Female	3
+T783	23	476	477	TIME	quelques secondes	2262	2279	quelques secondes	2	11	21	2	0	0	0	78	477	secondes	obj	475	NOUN	NOM	Not_Assigned	Not_Assigned	3
+gilberte	1	483	483	PER	Je	2297	2299	je	1	11	21	9	0	0	0	79	483	je	nsubj	485	PRON	PRON	Singular	Ambiguous	1
+henri	0	484	484	PER	vous	2300	2304	vous	1	11	21	10	0	0	0	80	484	vous	iobj	485	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	494	494	PER	Je	2346	2348	je	1	11	22	0	0	0	0	81	494	je	nsubj	495	PRON	PRON	Singular	Ambiguous	1
+henri	0	506	506	PER	monsieur	2401	2409	monsieur	1	11	22	12	0	0	0	82	506	monsieur	obl:mod	497	NOUN	NOM	Singular	Male	3
+gilberte	1	521	521	PER	elle	2462	2466	elle	1	11	22	27	0	0	0	83	521	elle	nsubj	522	PRON	PRON	Singular	Female	3
+henri	0	534	534	PER	vous	2514	2518	vous	1	11	22	40	0	0	0	84	534	vous	iobj	535	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	551	551	PER	je	2587	2589	je	1	11	22	57	0	0	0	85	551	je	nsubj	552	PRON	PRON	Singular	Ambiguous	1
+henri	0	552	552	PER	vous	2590	2594	vous	1	11	22	58	0	0	0	86	552	vous	dep	556	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	554	554	PER	je	2598	2600	je	1	11	22	60	0	0	0	87	554	je	nsubj	556	PRON	PRON	Singular	Ambiguous	1
+henri	0	555	555	PER	vous	2601	2605	vous	1	11	22	61	0	0	0	88	555	vous	obj	556	PRON	PRON	Ambiguous	Ambiguous	2
+henri	0	559	559	PER	J'	2622	2624	j'	1	12	23	0	0	0	0	89	559	j'	nsubj	560	PRON	PRON	Singular	Ambiguous	1
+T784	24	563	564	TIME	le lendemain	2640	2652	le lendemain	2	12	23	4	0	0	0	90	564	lendemain	obl:mod	560	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T786	12	586	586	PER	On	2766	2768	on	1	12	26	0	0	0	0	91	586	on	nsubj	588	PRON	PRON	Ambiguous	Ambiguous	3
+henri	0	587	587	PER	me	2769	2771	me	1	12	26	1	0	0	0	92	587	me	obj	588	PRON	PRON	Singular	Ambiguous	1
+T786	12	590	590	PER	on	2779	2781	on	1	12	26	4	0	0	0	93	590	on	nsubj	592	PRON	PRON	Ambiguous	Ambiguous	3
+henri	0	591	591	PER	m'	2782	2784	m'	1	12	26	5	0	0	0	94	591	m'	obj	592	PRON	PRON	Singular	Ambiguous	1
+henri	0	595	595	PER	je	2802	2804	je	1	12	26	9	0	0	0	95	595	je	nsubj	597	PRON	PRON	Singular	Ambiguous	1
+T787	13	599	602	PER	des gens en larmes	2816	2834	des gens en larmes	4	12	26	13	0	0	0	96	600	gens	obj	597	NOUN	NOM	Plural	Ambiguous	3
+T787	13	603	603	PER	qui	2835	2838	qui	1	12	26	17	0	0	0	97	603	qui	nsubj	605	PRON	PRON	Ambiguous	Ambiguous	4
+henri	0	604	604	PER	m'	2839	2841	m'	1	12	26	18	0	0	0	98	604	m'	obj	605	PRON	PRON	Singular	Ambiguous	1
+henri	0	607	607	PER	j'	2859	2861	j'	1	12	26	21	0	0	0	99	607	j'	nsubj	608	PRON	PRON	Singular	Ambiguous	1
+malade	8	609	610	PER	un moribond	2868	2879	un moribond	2	12	26	23	0	0	0	100	610	moribond	obj	608	NOUN	NOM	Singular	Male	3
+malade	8	611	611	PER	qui	2880	2883	qui	1	12	26	25	0	0	0	101	611	qui	nsubj	612	PRON	PRON	Ambiguous	Ambiguous	4
+henri	0	615	615	PER	mes	2908	2911	mes	1	12	26	29	0	0	0	102	615	mes	det	616	DET	PRON	Singular	Ambiguous	1
+henri	0	618	618	PER	je	2920	2922	je	1	12	26	32	0	0	0	103	618	je	nsubj	619	PRON	PRON	Singular	Ambiguous	1
+T793	22	620	621	TIME	deux nuits	2930	2940	deux nuits	2	12	26	34	0	0	0	104	621	nuits	obj	619	NOUN	NOM	Not_Assigned	Not_Assigned	3
+malade	8	624	624	PER	lui	2949	2952	lui	1	12	26	38	0	0	0	105	624	lui	obl:arg	622	PRON	PRON	Singular	Ambiguous	3
+henri	0	629	629	PER	j'	2967	2969	j'	1	12	26	43	0	0	0	106	629	j'	nsubj	630	PRON	PRON	Singular	Ambiguous	1
+henri	0	636	636	PER	je	2998	3000	je	1	12	26	50	0	0	0	107	636	je	nsubj	638	PRON	PRON	Singular	Ambiguous	1
+T794	21	641	642	FAC	la gare	3019	3026	la gare	2	12	26	55	0	0	0	108	642	gare	obl:arg	639	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	645	645	PER	je	3032	3034	je	1	13	27	1	0	0	0	109	645	je	nsubj	648	PRON	PRON	Singular	Ambiguous	1
+henri	0	650	650	PER	j'	3051	3053	j'	1	13	27	6	0	0	0	110	650	j'	nsubj	651	PRON	PRON	Singular	Ambiguous	1
+M6	16	652	653	TIME	une heure	3059	3068	une heure	2	13	27	8	0	0	0	111	653	heure	obj	651	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	657	657	PER	J'	3079	3081	j'	1	13	28	0	0	0	0	112	657	j'	nsubj	658	PRON	PRON	Singular	Ambiguous	1
+T796	20	660	661	FAC	les rues	3092	3100	les rues	2	13	28	3	0	0	0	113	661	rues	obl:arg	658	NOUN	NOM	Not_Assigned	Not_Assigned	3
+malade	8	666	668	PER	mon pauvre malade	3122	3139	mon pauvre malade	3	13	28	9	0	1	1	114	668	malade	obl:arg	663	NOUN	NOM	Singular	Male	3
+henri	0	666	666	PER	mon	3122	3125	mon	1	13	28	9	1	0	0	115	666	mon	det	668	DET	PRON	Singular	Ambiguous	1
+vendeur_reliques	5	671	672	PER	un individu	3147	3158	un individu	2	13	28	14	0	0	0	116	672	individu	nsubj	674	NOUN	NOM	Singular	Ambiguous	3
+henri	0	673	673	PER	m'	3159	3161	m'	1	13	28	16	0	0	0	117	673	m'	obj	674	PRON	PRON	Singular	Ambiguous	1
+henri	0	676	676	PER	Je	3170	3172	je	1	14	29	0	0	0	0	118	676	je	nsubj	678	PRON	PRON	Singular	Ambiguous	1
+vendeur_reliques	5	683	683	PER	il	3198	3200	il	1	14	29	7	0	0	0	119	683	il	nsubj	684	PRON	PRON	Singular	Male	3
+henri	0	689	689	PER	je	3230	3232	je	1	14	29	13	0	0	0	120	689	je	nsubj	690	PRON	PRON	Singular	Ambiguous	1
+vendeur_reliques	5	692	692	PER	il	3244	3246	il	1	14	29	16	0	0	0	121	692	il	nsubj	694	PRON	PRON	Singular	Male	3
+henri	0	693	693	PER	me	3247	3249	me	1	14	29	17	0	0	0	122	693	me	iobj	694	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	701	701	PER	Gilberte	3289	3297	gilberte	1	14	30	3	0	0	0	123	701	gilberte	nmod	699	PROPN	PROP	Singular	Female	3
+henri	0	702	702	PER	me	3298	3300	me	1	14	30	4	0	0	0	124	702	me	iobj	703	PRON	PRON	Singular	Ambiguous	1
+henri	0	707	707	PER	je	3321	3323	je	1	14	30	9	0	0	0	125	707	je	nsubj	708	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	709	709	PER	sa	3336	3338	sa	1	14	30	11	0	0	0	126	709	sa	det	710	DET	PRON	Singular	Ambiguous	3
+henri	0	714	714	PER	mon	3365	3368	mon	1	14	31	1	0	0	0	127	714	mon	det	715	DET	PRON	Singular	Ambiguous	1
+henri	0	718	718	PER	Je	3384	3386	je	1	14	32	0	0	0	0	128	718	je	nsubj	719	PRON	PRON	Singular	Ambiguous	1
+vendeur_reliques	5	720	721	PER	l'homme	3394	3401	l' homme	2	14	32	2	0	0	0	129	721	homme	obj	719	NOUN	NOM	Singular	Male	3
+T800	19	723	728	FAC	un magasin d'objets de sainteté	3407	3438	un magasin d' objets de sainteté	6	14	32	5	0	0	0	130	724	magasin	obl:arg	719	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	731	731	PER	je	3443	3445	je	1	14	32	13	0	0	0	131	731	je	nsubj	732	PRON	PRON	Singular	Ambiguous	1
+vierges	6	740	743	GPE	des once mille fierges	3478	3500	des once mille fierges	4	14	32	22	0	0	0	132	741	once	nmod	739	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	760	760	PER	mon	3593	3596	mon	1	15	33	14	0	0	0	133	760	mon	det	761	DET	PRON	Singular	Ambiguous	1
+henri	0	763	763	PER	Je	3605	3607	je	1	16	34	0	0	0	0	134	763	je	nsubj	764	PRON	PRON	Singular	Ambiguous	1
+henri	0	768	768	PER	ma	3625	3627	ma	1	16	34	5	0	0	0	135	768	ma	det	769	DET	PRON	Singular	Ambiguous	1
+henri	0	771	771	PER	je	3637	3639	je	1	16	34	8	0	0	0	136	771	je	nsubj	772	PRON	PRON	Singular	Ambiguous	1
+henri	0	774	774	PER	mon	3652	3655	mon	1	16	34	11	0	0	0	137	774	mon	det	775	DET	PRON	Singular	Ambiguous	1
+henri	0	780	780	PER	moi	3681	3684	moi	1	17	35	3	0	0	0	138	780	moi	obl:arg	778	PRON	PRON	Singular	Ambiguous	1
+henri	0	782	782	PER	je	3686	3688	je	1	17	35	5	0	0	0	139	782	je	nsubj	783	PRON	PRON	Singular	Ambiguous	1
+henri	0	787	787	PER	mon	3716	3719	mon	1	17	35	10	0	0	0	140	787	mon	det	788	DET	PRON	Singular	Ambiguous	1
+henri	0	790	790	PER	Je	3727	3729	je	1	17	36	0	0	0	0	141	790	je	nsubj	792	PRON	PRON	Singular	Ambiguous	1
+henri	0	805	805	PER	J'	3793	3795	j'	1	17	37	0	0	0	0	142	805	j'	nsubj	806	PRON	PRON	Singular	Ambiguous	1
+henri	0	809	809	PER	ma	3813	3815	ma	1	17	37	4	0	0	0	143	809	ma	det	810	DET	PRON	Singular	Ambiguous	1
+henri	0	830	830	PER	Je	3903	3905	je	1	18	38	0	0	0	0	144	830	je	nsubj	832	PRON	PRON	Singular	Ambiguous	1
+abbe	2	834	834	PER	tu	3912	3914	tu	1	18	38	4	0	0	0	145	834	tu	nsubj	836	PRON	PRON	Singular	Ambiguous	2
+abbe	2	838	840	PER	mon cher abbé	3924	3937	mon cher abbé	3	18	38	8	0	1	1	146	840	abbé	obj	832	NOUN	NOM	Singular	Male	3
+henri	0	838	838	PER	mon	3924	3927	mon	1	18	38	8	1	0	0	147	838	mon	det	840	DET	PRON	Singular	Ambiguous	1
+abbe	2	847	847	PER	tu	3960	3962	tu	1	18	38	17	0	0	0	148	847	tu	nsubj	848	PRON	PRON	Singular	Ambiguous	2
+henri	0	859	859	PER	ma	4006	4008	ma	1	18	38	29	0	0	0	149	859	ma	det	860	DET	PRON	Singular	Ambiguous	1
+henri	0	864	864	PER	me	4025	4027	me	1	18	38	34	0	0	0	150	864	me	obj	865	PRON	PRON	Singular	Ambiguous	1
+abbe	2	874	874	PER	tu	4067	4069	tu	1	18	38	44	0	0	0	151	874	tu	dep	872	PRON	PRON	Singular	Ambiguous	2
+henri	0	877	877	PER	je	4077	4079	je	1	18	38	47	0	0	0	152	877	je	nsubj	880	PRON	PRON	Singular	Ambiguous	1
+abbe	2	889	889	PER	tu	4149	4151	tu	1	18	38	59	0	0	0	153	889	tu	nsubj	890	PRON	PRON	Singular	Ambiguous	2
+henri	0	891	891	PER	mes	4161	4164	mes	1	18	38	61	0	0	0	154	891	mes	det	892	DET	PRON	Singular	Ambiguous	1
+henri	0	915	915	PER	je	4272	4274	je	1	18	39	17	0	0	0	155	915	je	nsubj	917	PRON	PRON	Singular	Ambiguous	1
+henri	0	926	926	PER	je	4325	4327	je	1	18	39	28	0	0	0	156	926	je	nsubj	927	PRON	PRON	Singular	Ambiguous	1
+henri	0	933	933	PER	mon	4369	4372	mon	1	18	39	35	0	0	0	157	933	mon	det	934	DET	PRON	Singular	Ambiguous	1
+henri	0	937	937	PER	j'	4384	4386	j'	1	19	40	1	0	0	0	158	937	j'	nsubj	938	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	940	941	PER	ma fiancée	4397	4407	ma fiancée	2	19	40	4	0	1	1	159	941	fiancée	obl:arg	938	NOUN	NOM	Singular	Female	3
+henri	0	940	940	PER	ma	4397	4399	ma	1	19	40	4	1	0	0	160	940	ma	det	941	DET	PRON	Singular	Ambiguous	1
+gilberte	1	945	945	PER	elle	4417	4421	elle	1	20	41	2	0	0	0	161	945	elle	nsubj	947	PRON	PRON	Singular	Female	3
+henri	0	946	946	PER	me	4422	4424	me	1	20	41	3	0	0	0	162	946	me	obj	947	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	950	950	PER	elle	4437	4441	elle	1	20	41	7	0	0	0	163	950	elle	nsubj	952	PRON	PRON	Singular	Female	3
+henri	0	954	954	PER	moi	4458	4461	moi	1	20	41	11	0	0	0	164	954	moi	obl:arg	952	PRON	PRON	Singular	Ambiguous	1
+henri	0	965	965	PER	vous	4503	4507	vous	1	20	41	22	0	0	0	165	965	vous	nsubj	969	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	966	967	PER	m'	4508	4510	m '	2	20	41	23	0	0	0	166	966	m	iobj	969	PRON	PRON	Singular	Ambiguous	1
+henri	0	972	972	PER	Je	4530	4532	je	1	21	42	0	0	0	0	167	972	je	nsubj	973	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	979	979	PER	elle	4563	4567	elle	1	21	42	7	0	0	0	168	979	elle	nsubj	982	PRON	PRON	Singular	Female	3
+henri	0	981	981	PER	me	4571	4573	me	1	21	42	9	0	0	0	169	981	me	obj	982	PRON	PRON	Singular	Ambiguous	1
+henri	0	985	985	PER	Je	4584	4586	je	1	21	43	0	0	0	0	170	985	je	nsubj	987	PRON	PRON	Singular	Ambiguous	1
+henri	0	986	986	PER	me	4587	4589	me	1	21	43	1	0	0	0	171	986	me	expl:comp	987	PRON	PRON	Singular	Ambiguous	1
+henri	0	996	996	PER	je	4631	4633	je	1	21	43	11	0	0	0	172	996	je	nsubj	998	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	997	997	PER	la	4634	4636	la	1	21	43	12	0	0	0	173	997	la	obj	998	PRON	PRON	Singular	Female	3
+henri	0	1003	1003	PER	je	4666	4668	je	1	21	43	18	0	0	0	174	1003	je	nsubj	1005	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1004	1004	PER	lui	4669	4672	lui	1	21	43	19	0	0	0	175	1004	lui	iobj	1005	PRON	PRON	Singular	Ambiguous	3
+gilberte	1	1010	1010	PER	Elle	4700	4704	elle	1	21	44	0	0	0	0	176	1010	elle	nsubj	1011	PRON	PRON	Singular	Female	3
+gilberte	1	1027	1027	PER	elle	4769	4773	elle	1	21	47	2	0	0	0	177	1027	elle	nsubj	1028	PRON	PRON	Singular	Female	3
+henri	0	1033	1033	PER	J'	4806	4808	j'	1	21	48	0	0	0	0	178	1033	j'	nsubj	1034	PRON	PRON	Singular	Ambiguous	1
+henri	0	1037	1037	PER	ma	4821	4823	ma	1	21	48	4	0	0	0	179	1037	ma	det	1038	DET	PRON	Singular	Ambiguous	1
+gilberte	1	1043	1044	PER	l'	4858	4860	l '	2	22	49	3	0	0	0	180	1043	l	obj	1045	PRON	PRON	Singular	Ambiguous	3
+gilberte	1	1056	1056	PER	me	4918	4920	me	1	22	49	16	0	0	0	181	1056	me	obj	1057	PRON	PRON	Singular	Ambiguous	1
+henri	0	1065	1065	PER	vous	4955	4959	-vous	1	23	50	2	0	0	0	182	1065	vous	nsubj	1064	PRON	PRON	Ambiguous	Ambiguous	2
+henri	0	1080	1080	PER	J'	5040	5042	j'	1	26	53	0	0	0	0	183	1080	j'	nsubj:pass	1082	PRON	PRON	Singular	Ambiguous	1
+henri	0	1086	1086	PER	j'	5065	5067	j'	1	26	54	2	0	0	0	184	1086	j'	nsubj	1088	PRON	PRON	Singular	Ambiguous	1
+vendeur_reliques	5	1092	1096	PER	un marchand courant les rues	5095	5123	un marchand courant les rues	5	26	54	8	0	1	1	185	1093	marchand	obl:arg	1088	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T803	34	1095	1096	FAC	les rues	5115	5123	les rues	2	26	54	11	1	0	0	186	1096	rues	obj	1094	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1100	1100	PER	me	5133	5135	me	1	26	54	16	0	0	0	187	1100	me	obj	1101	PRON	PRON	Singular	Ambiguous	1
+henri	0	1109	1109	PER	me	5170	5172	me	1	26	56	3	0	0	0	188	1109	me	iobj	1110	PRON	PRON	Singular	Ambiguous	1
+henri	0	1114	1114	PER	je	5193	5195	je	1	26	56	8	0	0	0	189	1114	je	nsubj	1115	PRON	PRON	Singular	Ambiguous	1
+henri	0	1126	1126	PER	Je	5244	5246	je	1	27	57	1	0	0	0	190	1126	je	nsubj	1129	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1132	1132	PER	vous	5264	5268	vous	1	27	57	7	0	0	0	191	1132	vous	obl:mod	1129	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	1135	1135	PER	Elle	5273	5277	elle	1	28	58	0	0	0	0	192	1135	elle	nsubj	1137	PRON	PRON	Singular	Female	3
+henri	0	1136	1136	PER	me	5278	5280	me	1	28	58	1	0	0	0	193	1136	me	obj	1137	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1139	1139	PER	ses	5296	5299	ses	1	28	58	4	0	0	0	194	1139	ses	det	1141	DET	PRON	Singular	Ambiguous	3
+gilberte	1	1149	1149	PER	vous	5341	5345	vous	1	28	59	3	0	0	0	195	1149	vous	nsubj	1152	PRON	PRON	Ambiguous	Ambiguous	2
+cathedrale	7	1158	1159	FAC	la cathédrale	5375	5388	la cathédrale	2	28	61	1	0	0	0	196	1159	cathédrale	dep	1163	NOUN	NOM	Not_Assigned	Not_Assigned	3
+vierges	6	1165	1168	PER	des onze mille vierges	5410	5432	des onze mille vierges	4	28	61	8	0	0	0	197	1168	vierges	nmod	1163	NOUN	NOM	Plural	Not_Assigned	3
+gilberte	1	1171	1171	PER	Son	5436	5439	son	1	28	62	1	0	0	0	198	1171	son	det	1172	DET	PRON	Singular	Ambiguous	3
+gilberte	1	1175	1175	PER	elle	5456	5460	elle	1	28	62	5	0	0	0	199	1175	elle	nsubj	1176	PRON	PRON	Singular	Female	3
+gilberte	1	1180	1180	PER	elle	5485	5489	elle	1	28	62	10	0	0	0	200	1180	elle	nsubj	1181	PRON	PRON	Singular	Female	3
+henri	0	1186	1186	PER	vous	5508	5512	vous	1	29	63	3	0	0	0	201	1186	vous	nsubj	1188	PRON	PRON	Ambiguous	Ambiguous	2
+gilberte	1	1192	1192	PER	moi	5536	5539	moi	1	29	63	9	0	0	0	202	1192	moi	obl:mod	1188	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1197	1197	PER	moi	5559	5562	-moi	1	29	64	3	0	0	0	203	1197	moi	dep	1196	PRON	PRON	Singular	Ambiguous	1
+henri	0	1205	1205	PER	je	5587	5589	je	1	30	65	4	0	0	0	204	1205	je	nsubj	1207	PRON	PRON	Singular	Ambiguous	1
+henri	0	1211	1211	PER	J'	5615	5617	j'	1	30	66	0	0	0	0	205	1211	j'	nsubj	1212	PRON	PRON	Singular	Ambiguous	1
+henri	0	1223	1223	PER	J'	5691	5693	j'	1	30	67	0	0	0	0	206	1223	j'	nsubj	1225	PRON	PRON	Singular	Ambiguous	1
+gardien	9	1228	1232	PER	au gardien de l'édifice	5717	5740	au gardien de l' édifice	5	30	67	5	0	1	1	207	1229	gardien	obl:arg	1225	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cathedrale	7	1231	1232	FAC	l'édifice	5731	5740	l' édifice	2	30	67	8	1	0	0	208	1232	édifice	nmod	1229	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cathedrale	7	1234	1234	FAC	le	5746	5748	le	1	30	67	11	0	0	0	209	1234	le	obj	1235	PRON	PRON	Not_Assigned	Not_Assigned	3
+henri	0	1245	1245	PER	je	5801	5803	je	1	30	67	22	0	0	0	210	1245	je	nsubj	1246	PRON	PRON	Singular	Ambiguous	1
+T807	32	1249	1257	TIME	l'heure du déjeuner des ouvriers et du clergé	5820	5865	l' heure du déjeuner des ouvriers et du clergé	9	30	67	26	0	2	2	211	1250	heure	obl:mod	1246	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T809	44	1253	1257	PER	des ouvriers et du clergé	5840	5865	des ouvriers et du clergé	5	30	67	30	1	1	1	212	1254	ouvriers	nmod	1252	NOUN	NOM	Plural	Not_Assigned	3
+T810	43	1256	1257	PER	du clergé	5856	5865	du clergé	2	30	67	33	2	0	0	213	1257	clergé	conj	1254	NOUN	NOM	Plural	Ambiguous	3
+henri	0	1264	1264	PER	je	5895	5897	je	1	30	67	41	0	0	0	214	1264	je	nsubj	1265	PRON	PRON	Singular	Ambiguous	1
+henri	0	1269	1269	PER	j'	5930	5932	j'	1	30	67	46	0	0	0	215	1269	j'	nsubj	1271	PRON	PRON	Singular	Ambiguous	1
+henri	0	1290	1290	PER	je	6011	6013	je	1	30	67	67	0	0	0	216	1290	je	nsubj	1291	PRON	PRON	Singular	Ambiguous	1
+vierges	6	1308	1308	PER	vierges	6108	6115	vierges	1	30	67	85	0	0	0	217	1308	vierges	nmod	1306	NOUN	NOM	Not_Assigned	Female	3
+henri	0	1312	1312	PER	je	6124	6126	je	1	30	68	1	0	0	0	218	1312	je	nsubj	1315	PRON	PRON	Singular	Ambiguous	1
+T812	33	1317	1318	PER	un orfèvre	6146	6156	un orfèvre	2	30	68	6	0	0	0	219	1318	orfèvre	obl:arg	1315	NOUN	NOM	Singular	Not_Assigned	3
+henri	0	1320	1320	PER	j'	6160	6162	j'	1	30	68	9	0	0	0	220	1320	j'	nsubj	1322	PRON	PRON	Singular	Ambiguous	1
+henri	0	1330	1330	PER	Je	6206	6208	je	1	31	69	0	0	0	0	221	1330	je	nsubj	1334	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1336	1336	PER	lui	6230	6233	lui	1	31	69	6	0	0	0	222	1336	lui	iobj	1338	PRON	PRON	Singular	Ambiguous	3
+henri	0	1342	1342	PER	m'	6264	6266	m'	1	31	69	12	0	0	0	223	1342	m'	iobj	1344	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1350	1350	PER	elle	6303	6307	elle	1	32	70	1	0	0	0	224	1350	elle	nsubj	1352	PRON	PRON	Singular	Female	3
+gilberte	1	1357	1357	PER	elle	6335	6339	elle	1	32	70	8	0	0	0	225	1357	elle	nsubj	1359	PRON	PRON	Singular	Female	3
+henri	0	1358	1358	PER	m'	6340	6342	m'	1	32	70	9	0	0	0	226	1358	m'	obj	1359	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1365	1365	PER	Elle	6375	6379	elle	1	32	71	0	0	0	0	227	1365	elle	nsubj	1366	PRON	PRON	Singular	Female	3
+gilberte	1	1370	1370	PER	je	6398	6400	je	1	32	71	5	0	0	0	228	1370	je	nsubj	1372	PRON	PRON	Singular	Ambiguous	1
+henri	0	1371	1371	PER	vous	6401	6405	vous	1	32	71	6	0	0	0	229	1371	vous	obj	1372	PRON	PRON	Ambiguous	Ambiguous	2
+henri	0	1380	1380	PER	mes	6440	6443	mes	1	32	71	15	0	0	0	230	1380	mes	det	1381	DET	PRON	Singular	Ambiguous	1
+henri	0	1386	1386	PER	J'	6467	6469	j'	1	33	72	3	0	0	0	231	1386	j'	nsubj	1388	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1391	1391	PER	elle	6488	6492	elle	1	33	72	8	0	0	0	232	1391	elle	obl:mod	1388	PRON	PRON	Singular	Female	3
+henri	0	1396	1396	PER	J'	6508	6510	j'	1	33	73	0	0	0	0	233	1396	j'	nsubj	1398	PRON	PRON	Singular	Ambiguous	1
+henri	0	1400	1400	PER	j'	6523	6525	j'	1	33	73	4	0	0	0	234	1400	j'	nsubj	1402	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1417	1417	PER	Elle	6604	6608	elle	1	33	74	0	0	0	0	235	1417	elle	nsubj	1419	PRON	PRON	Singular	Female	3
+henri	0	1418	1418	PER	m'	6609	6611	m'	1	33	74	1	0	0	0	236	1418	m'	obj	1419	PRON	PRON	Singular	Ambiguous	1
+henri	0	1423	1423	PER	me	6631	6633	me	1	33	74	6	0	0	0	237	1423	me	obj	1424	PRON	PRON	Singular	Ambiguous	1
+abbe	2	1436	1438	PER	mon cher abbé	6687	6700	mon cher abbé	3	33	75	5	0	1	1	238	1438	abbé	appos	1434	NOUN	NOM	Singular	Male	3
+henri	0	1436	1436	PER	mon	6687	6690	mon	1	33	75	5	1	0	0	239	1436	mon	det	1438	DET	PRON	Singular	Ambiguous	1
+M8	31	1444	1446	TIME	Pendant deux mois	6719	6736	pendant deux mois	3	34	76	0	0	0	0	240	1446	mois	obl:mod	1452	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1448	1448	PER	je	6738	6740	je	1	34	76	4	0	0	0	241	1448	je	nsubj	1452	PRON	PRON	Singular	Ambiguous	1
+henri	0	1450	1454	PER	le plus admirable des fiancés	6745	6774	le plus admirable des fiancés	5	34	76	6	0	0	0	242	1452	admirable	ROOT	1452	ADJ	NOM	Not_Assigned	Not_Assigned	3
+gilberte	1	1456	1456	PER	Elle	6776	6780	elle	1	34	77	0	0	0	0	243	1456	elle	nsubj	1458	PRON	PRON	Singular	Female	3
+T816	40	1460	1461	FAC	sa chambre	6801	6811	sa chambre	2	34	77	4	0	1	1	244	1461	chambre	obl:mod	1458	NOUN	NOM	Not_Assigned	Not_Assigned	3
+gilberte	1	1460	1460	PER	sa	6801	6803	sa	1	34	77	4	1	0	0	245	1460	sa	det	1461	DET	PRON	Singular	Ambiguous	3
+T819	41	1468	1468	FAC	y	6850	6851	y	1	34	77	12	0	0	0	246	1468	y	iobj	1469	PRON	PRON	Not_Assigned	Not_Assigned	3
+henri	0	1475	1475	PER	m'	6891	6893	m'	1	34	77	19	0	0	0	247	1475	m'	obj	1478	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1481	1481	PER	elle	6923	6927	-elle	1	34	77	25	0	0	0	248	1481	elle	nsubj	1480	PRON	PRON	Singular	Female	3
+gilberte	1	1490	1490	PER	elle	6957	6961	elle	1	34	77	34	0	0	0	249	1490	elle	nsubj	1492	PRON	PRON	Singular	Female	3
+henri	0	1500	1500	PER	Je	7000	7002	je	1	35	78	0	0	0	0	250	1500	je	nsubj	1504	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1501	1502	PER	l'	7003	7005	l '	2	35	78	1	0	0	0	251	1501	l	obj	1504	PRON	PRON	Singular	Ambiguous	3
+henri	0	1512	1512	PER	je	7049	7051	-je	1	35	78	12	0	0	0	252	1512	je	nsubj	1511	PRON	PRON	Singular	Ambiguous	1
+henri	0	1515	1515	PER	me	7056	7058	me	1	35	78	15	0	0	0	253	1515	me	obj	1516	PRON	PRON	Singular	Ambiguous	1
+allemagne	35	1523	1524	GPE	l'Allemagne	7090	7101	l' allemagne	2	35	78	23	0	0	0	254	1524	allemagne	obl:arg	1521	PROPN	PROP	Not_Assigned	Not_Assigned	3
+gilberte	1	1526	1526	PER	Elle	7103	7107	elle	1	35	79	0	0	0	0	255	1526	elle	nsubj	1530	PRON	PRON	Singular	Female	3
+henri	0	1527	1528	PER	m'	7108	7110	m '	2	35	79	1	0	0	0	256	1527	m	iobj	1530	PRON	PRON	Singular	Ambiguous	1
+T821	42	1537	1541	TIME	au commencement de l'été	7144	7168	au commencement de l' été	5	36	80	4	0	0	0	257	1538	commencement	obl:mod	1547	NOUN	NOM	Not_Assigned	Not_Assigned	3
+gilberte	1	1546	1546	PER	lui	7183	7186	lui	1	36	80	13	0	0	0	258	1546	lui	iobj	1547	PRON	PRON	Singular	Ambiguous	3
+henri	0	1553	1553	PER	mon	7211	7214	mon	1	36	80	20	0	0	0	259	1553	mon	det	1554	DET	PRON	Singular	Ambiguous	1
+gilberte	1	1556	1556	PER	Elle	7224	7228	elle	1	36	81	0	0	0	0	260	1556	elle	nsubj	1557	PRON	PRON	Singular	Female	3
+pere_gilberte	4	1562	1563	PER	son père	7250	7258	son père	2	36	81	6	0	1	1	261	1563	père	obj	1558	NOUN	NOM	Singular	Male	3
+gilberte	1	1562	1562	PER	son	7250	7253	son	1	36	81	6	1	0	0	262	1562	son	det	1563	DET	PRON	Singular	Ambiguous	3
+pere_gilberte	4	1566	1566	PER	lui	7265	7268	lui	1	36	81	10	0	0	0	263	1566	lui	iobj	1567	PRON	PRON	Singular	Ambiguous	3
+gilberte	1	1568	1568	PER	sa	7276	7278	sa	1	36	81	12	0	0	0	264	1568	sa	det	1569	DET	PRON	Singular	Ambiguous	3
+pere_gilberte	4	1573	1573	PER	il	7298	7300	il	1	36	81	17	0	0	0	265	1573	il	nsubj	1576	PRON	PRON	Singular	Male	3
+gilberte	1	1574	1575	PER	l'	7301	7303	l '	2	36	81	18	0	0	0	266	1574	l	obj	1576	PRON	PRON	Singular	Ambiguous	3
+cologne	11	1578	1578	GPE	Cologne	7313	7320	cologne	1	36	81	22	0	0	0	267	1578	cologne	obl:arg	1576	PROPN	PROP	Not_Assigned	Not_Assigned	3
+henri	0	1580	1580	PER	me	7324	7326	me	1	36	81	24	0	0	0	268	1580	me	iobj	1581	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1589	1590	PER	sa fille	7370	7378	sa fille	2	36	81	33	0	1	1	269	1590	fille	nmod	1587	NOUN	NOM	Singular	Female	3
+pere_gilberte	4	1589	1589	PER	sa	7370	7372	sa	1	36	81	33	1	0	0	270	1589	sa	det	1590	DET	PRON	Singular	Ambiguous	3
+henri	0	1592	1592	PER	Je	7381	7383	je	1	37	82	0	0	0	0	271	1592	je	nsubj	1594	PRON	PRON	Singular	Ambiguous	1
+abbe	2	1598	1598	PER	te	7403	7405	te	1	37	82	6	0	0	0	272	1598	te	iobj	1599	PRON	PRON	Singular	Ambiguous	2
+henri	0	1601	1601	PER	je	7415	7417	je	1	37	82	9	0	0	0	273	1601	je	nsubj	1605	PRON	PRON	Singular	Ambiguous	1
+cathedrale	7	1606	1607	FAC	la cathédrale	7430	7443	la cathédrale	2	37	82	14	0	0	0	274	1607	cathédrale	obj	1605	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1612	1612	PER	J'	7459	7461	j'	1	37	83	0	0	0	0	275	1612	j'	nsubj	1613	PRON	PRON	Singular	Ambiguous	1
+vierges	6	1626	1629	PER	des onze mille vierges	7508	7530	des onze mille vierges	4	37	83	14	0	0	0	276	1629	vierges	nmod	1613	NOUN	NOM	Plural	Not_Assigned	3
+henri	0	1641	1641	PER	Je	7584	7586	je	1	38	85	0	0	0	0	277	1641	je	nsubj	1642	PRON	PRON	Singular	Ambiguous	1
+T826	39	1644	1646	TIME	huit jours après	7594	7610	huit jours après	3	38	85	3	0	0	0	278	1645	jours	obl:mod	1646	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1650	1650	PER	me	7623	7625	me	1	38	85	9	0	0	0	279	1650	me	iobj	1651	PRON	PRON	Singular	Ambiguous	1
+henri	0	1652	1652	PER	ma	7634	7636	ma	1	38	85	11	0	0	0	280	1652	ma	det	1653	DET	PRON	Singular	Ambiguous	1
+pere_gilberte	4	1660	1660	PER	père	7677	7681	père	1	38	85	19	0	0	0	281	1660	père	nmod	1657	NOUN	NOM	Singular	Male	3
+gilberte	1	1672	1672	PER	elle	7727	7731	elle	1	39	86	7	0	0	0	282	1672	elle	nsubj	1674	PRON	PRON	Singular	Female	3
+gilberte	1	1676	1677	PER	ma supercherie	7754	7768	ma supercherie	2	39	86	11	0	1	1	283	1677	supercherie	obj	1674	NOUN	NOM	Singular	Not_Assigned	3
+henri	0	1676	1676	PER	ma	7754	7756	ma	1	39	86	11	1	0	0	284	1676	ma	det	1677	DET	PRON	Singular	Ambiguous	1
+henri	0	1679	1679	PER	mon	7770	7773	mon	1	39	86	14	0	0	0	285	1679	mon	det	1680	DET	PRON	Singular	Ambiguous	1
+henri	0	1688	1688	PER	ma	7803	7805	ma	1	39	86	23	0	0	0	286	1688	ma	det	1690	DET	PRON	Singular	Ambiguous	1
+gardien	9	1694	1697	PER	au gardien des reliques	7838	7861	au gardien des reliques	4	39	87	2	0	0	0	287	1695	gardien	obl:arg	1693	NOUN	NOM	Singular	Male	3
+gardien	9	1706	1707	PER	l'homme	7895	7902	l' homme	2	39	87	14	0	0	0	288	1707	homme	nsubj	1710	NOUN	NOM	Singular	Male	3
+henri	0	1726	1726	PER	je	7996	7998	je	1	39	88	4	0	0	0	289	1726	je	nsubj	1730	PRON	PRON	Singular	Ambiguous	1
+henri	0	1736	1736	PER	ma	8044	8046	ma	1	39	88	14	0	0	0	290	1736	ma	det	1737	DET	PRON	Singular	Ambiguous	1
+henri	0	1745	1745	PER	je	8092	8094	je	1	39	88	23	0	0	0	291	1745	je	nsubj	1749	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1751	1755	PER	ma blonde et délicate fiancée	8117	8146	ma blonde et délicate fiancée	5	39	88	29	0	1	1	292	1752	blonde	amod	1755	ADJ	NOM	Plural	Not_Assigned	3
+henri	0	1751	1751	PER	ma	8117	8119	ma	1	39	88	29	1	0	0	293	1751	ma	det	1752	DET	PRON	Singular	Ambiguous	1
+T829	36	1757	1757	PER	On	8149	8151	on	1	40	89	0	0	0	0	294	1757	on	nsubj	1759	PRON	PRON	Ambiguous	Ambiguous	3
+henri	0	1758	1758	PER	me	8152	8154	me	1	40	89	1	0	0	0	295	1758	me	iobj	1759	PRON	PRON	Singular	Ambiguous	1
+maison_gilberte	46	1763	1764	FAC	la maison	8176	8185	la maison	2	40	89	6	0	0	0	296	1764	maison	nmod	1761	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1766	1766	PER	J'	8187	8189	j'	1	40	90	0	0	0	0	297	1766	j'	nsubj	1767	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1777	1779	PER	la belle dévote	8237	8252	la belle dévote	3	40	90	11	0	0	0	298	1779	dévote	obj	1776	NOUN	NOM	Singular	Female	3
+henri	0	1781	1781	PER	Je	8255	8257	je	1	41	91	0	0	0	0	299	1781	je	nsubj	1783	PRON	PRON	Singular	Ambiguous	1
+T831	37	1789	1791	TIME	la semaine dernière	8286	8305	la semaine dernière	3	42	92	2	0	0	0	300	1790	semaine	obl:mod	1808	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cousine_gilberte	3	1793	1794	PER	sa cousine	8307	8317	sa cousine	2	42	92	6	0	1	1	301	1794	cousine	nsubj	1808	NOUN	NOM	Singular	Female	3
+gilberte	1	1793	1793	PER	sa	8307	8309	sa	1	42	92	6	1	0	0	302	1793	sa	det	1794	DET	PRON	Singular	Ambiguous	3
+cousine_gilberte	3	1796	1796	PER	qui	8319	8322	qui	1	42	92	9	0	0	0	303	1796	qui	nsubj	1800	PRON	PRON	Ambiguous	Ambiguous	4
+cousine_gilberte	3	1799	1800	PER	la tienne	8333	8342	la tienne	2	42	92	12	0	1	1	304	1800	tienne	acl:relcl	1794	NOUN	PRON	Singular	Female	3
+abbe	2	1800	1800	PER	tienne	8336	8342	tienne	1	42	92	13	1	0	0	305	1800	tienne	acl:relcl	1794	NOUN	PRON	Singular	Ambiguous	2
+cousine_gilberte	3	1802	1804	PER	Mme d'Arville	8344	8357	mme d' arville	3	42	92	15	0	0	0	306	1804	arville	nmod	1802	PROPN	PROP	Singular	Female	3
+henri	0	1806	1806	PER	me	8359	8361	me	1	42	92	19	0	0	0	307	1806	me	dep	1808	PRON	PRON	Singular	Ambiguous	1
+cousine_gilberte	3	1810	1810	PER	la	8375	8377	la	1	42	92	23	0	0	0	308	1810	la	obj	1811	PRON	PRON	Singular	Female	3
+henri	0	1818	1818	PER	mon	8418	8421	mon	1	43	93	4	0	0	0	309	1818	mon	det	1819	DET	PRON	Singular	Ambiguous	1
+henri	0	1824	1824	PER	j'	8442	8444	j'	1	43	94	3	0	0	0	310	1824	j'	nsubj	1825	PRON	PRON	Singular	Ambiguous	1
+pape	10	1836	1839	PER	Notre Saint-Père le Pape	8503	8527	notre saint-père le pape	4	43	94	15	0	0	0	311	1837	saint-père	obl:agent	1834	PROPN	PROP	Singular	Male	3
+sainte_quelconque	14	1842	1846	PER	une vierge et martyre quelconque	8531	8563	une vierge et martyre quelconque	5	43	94	21	0	0	0	312	1843	vierge	nmod	1827	NOUN	NOM	Not_Assigned	Not_Assigned	3
+henri	0	1848	1848	PER	Je	8565	8567	je	1	43	95	0	0	0	0	313	1848	je	nsubj	1849	PRON	PRON	Singular	Ambiguous	1
+henri	0	1857	1857	PER	J'	8609	8611	j'	1	44	96	0	0	0	0	314	1857	j'	nsubj	1858	PRON	PRON	Singular	Ambiguous	1
+rome	49	1860	1860	GPE	Rome	8618	8622	rome	1	44	96	3	0	0	0	315	1860	rome	obl:arg	1858	PROPN	PROP	Not_Assigned	Not_Assigned	3
+henri	0	1868	1868	PER	je	8643	8645	je	1	44	97	1	0	0	0	316	1868	je	nsubj	1870	PRON	PRON	Singular	Ambiguous	1
+henri	0	1871	1871	PER	me	8654	8656	me	1	44	97	4	0	0	0	317	1871	me	expl:comp	1872	PRON	PRON	Singular	Ambiguous	1
+pape	10	1874	1874	PER	Pape	8670	8674	pape	1	44	97	7	0	0	0	318	1874	pape	obl:arg	1872	NOUN	NOM	Not_Assigned	Male	3
+pape	10	1879	1879	PER	lui	8693	8696	lui	1	44	97	12	0	0	0	319	1879	lui	iobj	1880	PRON	PRON	Singular	Ambiguous	3
+henri	0	1881	1881	PER	ma	8706	8708	ma	1	44	97	14	0	0	0	320	1881	ma	det	1883	DET	PRON	Singular	Ambiguous	1
+henri	0	1887	1887	PER	je	8733	8735	je	1	44	98	2	0	0	0	321	1887	je	nsubj	1888	PRON	PRON	Singular	Ambiguous	1
+M9	27	1890	1890	PER	on	8745	8747	on	1	44	98	5	0	0	0	322	1890	on	nsubj	1891	PRON	PRON	Ambiguous	Ambiguous	3
+abbe	2	1901	1901	PER	tu	8810	8812	tu	1	45	99	3	0	0	0	323	1901	tu	dep	1899	PRON	PRON	Singular	Ambiguous	2
+henri	0	1902	1902	PER	me	8813	8815	me	1	45	99	4	0	0	0	324	1902	me	iobj	1903	PRON	PRON	Singular	Ambiguous	1
+M13	17	1905	1906	PER	quelque monsignor	8830	8847	quelque monsignor	2	45	99	7	0	0	0	325	1906	monsignor	obl:arg	1903	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M14	18	1911	1913	PER	quelque prélat français	8864	8887	quelque prélat français	3	45	99	13	0	0	0	326	1912	prélat	conj	1906	NOUN	NOM	Not_Assigned	Not_Assigned	3
+sainte_quelconque	14	1919	1920	PER	une sainte	8917	8927	une sainte	2	45	99	21	0	0	0	327	1920	sainte	nmod	1917	NOUN	NOM	Singular	Female	3
+abbe	2	1922	1924	PER	Toi-même	8930	8938	toi - même	3	45	100	0	0	0	0	328	1922	toi	dep	1927	PRON	PRON	Not_Assigned	Ambiguous	2
+abbe	2	1929	1929	PER	tu	8949	8951	tu	1	45	100	7	0	0	0	329	1929	tu	dep	1928	PRON	PRON	Singular	Ambiguous	2
+abbe	2	1932	1932	PER	tes	8959	8962	tes	1	45	100	10	0	0	0	330	1932	tes	det	1933	DET	PRON	Singular	Ambiguous	2
+henri	0	1940	1940	PER	moi	9010	9013	-moi	1	46	101	1	0	0	0	331	1940	moi	dep	1939	PRON	PRON	Singular	Ambiguous	1
+abbe	2	1942	1944	PER	mon cher abbé	9015	9028	mon cher abbé	3	46	101	3	0	1	1	332	1944	abbé	obj	1939	NOUN	NOM	Singular	Male	3
+henri	0	1942	1942	PER	mon	9015	9018	mon	1	46	101	3	1	0	0	333	1942	mon	det	1944	DET	PRON	Singular	Ambiguous	1
+henri	0	1947	1947	PER	je	9033	9035	je	1	46	101	8	0	0	0	334	1947	je	nsubj	1949	PRON	PRON	Singular	Ambiguous	1
+abbe	2	1948	1948	PER	te	9036	9038	te	1	46	101	9	0	0	0	335	1948	te	iobj	1949	PRON	PRON	Singular	Ambiguous	2
+henri	0	1951	1951	PER	me	9050	9052	me	1	46	101	12	0	0	0	336	1951	me	obj	1952	PRON	PRON	Singular	Ambiguous	1
+T838	38	1953	1956	TIME	dix ans plus tôt	9063	9079	dix ans plus tôt	4	46	101	14	0	0	0	337	1956	tôt	advmod	1952	ADV	NOM	Not_Assigned	Not_Assigned	3
+cousine_gilberte	3	1958	1960	PER	Mme d'Arville	9083	9096	mme d' arville	3	47	102	0	0	0	0	338	1960	arville	nmod	1958	PROPN	PROP	Singular	Female	3
+cousine_gilberte	3	1962	1962	PER	qui	9098	9101	qui	1	47	102	4	0	0	0	339	1962	qui	nsubj	1963	PRON	PRON	Ambiguous	Ambiguous	4
+henri	0	1969	1969	PER	m'	9129	9131	m'	1	47	102	11	0	0	0	340	1969	m'	iobj	1971	PRON	PRON	Singular	Ambiguous	1
+gilberte	1	1974	1976	PER	Cette pauvre Gilberte	9141	9162	cette pauvre gilberte	3	47	102	16	0	0	0	341	1976	gilberte	nsubj	1979	PROPN	PROP	Singular	Female	3
+abbe	2	1983	1985	PER	Mon bon camarade	9188	9204	mon bon camarade	3	48	103	0	0	1	1	342	1985	camarade	obl:mod	1987	NOUN	NOM	Singular	Male	3
+henri	0	1983	1983	PER	Mon	9188	9191	mon	1	48	103	0	1	0	0	343	1983	mon	det	1985	DET	PRON	Singular	Ambiguous	1
+abbe	2	1989	1989	PER	tu	9216	9218	tu	1	48	103	6	0	0	0	344	1989	tu	dep	1987	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	1990	1991	PER	ta cousine	9219	9229	ta cousine	2	48	103	7	0	1	1	345	1991	cousine	obj	1987	NOUN	NOM	Singular	Female	3
+abbe	2	1990	1990	PER	ta	9219	9221	ta	1	48	103	7	1	0	0	346	1990	ta	det	1991	DET	PRON	Singular	Ambiguous	2
+henri	0	1999	1999	PER	Je	9272	9274	je	1	48	104	0	0	0	0	347	1999	je	nsubj	2002	PRON	PRON	Singular	Ambiguous	1
+abbe	2	2000	2000	PER	t'	9275	9277	t'	1	48	104	1	0	0	0	348	2000	t'	iobj	2002	PRON	PRON	Singular	Ambiguous	2
+gilberte	1	2006	2006	PER	elle	9297	9301	elle	1	48	104	7	0	0	0	349	2006	elle	nsubj	2011	PRON	PRON	Singular	Female	3
+henri	0	2018	2018	PER	je	9350	9352	je	1	49	105	2	0	0	0	350	2018	je	nsubj	2020	PRON	PRON	Singular	Ambiguous	1
+henri	0	2023	2023	PER	je	9373	9375	je	1	49	105	7	0	0	0	351	2023	je	nsubj	2025	PRON	PRON	Singular	Ambiguous	1
+abbe	2	2024	2024	PER	t'	9376	9378	t'	1	49	105	8	0	0	0	352	2024	t'	obj	2025	PRON	PRON	Singular	Ambiguous	2
+henri	0	2027	2027	PER	je	9390	9392	je	1	49	105	11	0	0	0	353	2027	je	nsubj	2029	PRON	PRON	Singular	Ambiguous	1
+abbe	2	2028	2028	PER	t'	9393	9395	t'	1	49	105	12	0	0	0	354	2028	t'	obj	2029	PRON	PRON	Singular	Ambiguous	2
+henri	0	2034	2036	PER	Ton vieil ami	9416	9429	ton vieil ami	3	50	106	0	0	1	1	355	2036	ami	nsubj	2083	NOUN	NOM	Singular	Male	3
+abbe	2	2034	2034	PER	Ton	9416	9419	ton	1	50	106	0	1	0	0	356	2034	ton	det	2036	DET	PRON	Singular	Ambiguous	2
+henri	0	2038	2039	PER	HENRI FONTAL	9432	9444	henri fontal	2	51	107	0	0	0	0	357	2038	henri	appos	2036	PROPN	PROP	Singular	Male	3
