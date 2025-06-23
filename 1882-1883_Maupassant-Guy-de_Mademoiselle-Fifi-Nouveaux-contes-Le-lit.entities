@@ -1,0 +1,162 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+T839	25	6	8	TIME	du dernier été	35	49	du dernier été	3	1	1	4	0	0	0	0	8	été	nmod	5	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T840	28	10	14	FAC	le vaste hôtel des Ventes	51	76	le vaste hôtel des ventes	5	1	1	8	0	0	0	1	12	hôtel	nsubj	15	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T841	27	19	22	PER	les commissaires-priseurs	98	123	les commissaires - priseurs	4	1	1	17	0	0	0	2	20	commissaires	nsubj	23	NOUN	NOM	Plural	Not_Assigned	3
+T842	23	30	37	FAC	une salle du fond, au premier étage	162	197	une salle du fond , au premier étage	8	1	2	1	0	0	0	3	31	salle	obl:mod	46	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T843	24	88	89	PER	Quelques revendeurs	472	491	quelques revendeurs	2	3	4	0	0	0	0	4	89	revendeurs	nsubj	90	NOUN	NOM	Plural	Not_Assigned	3
+T845	21	92	103	PER	deux ou trois hommes à barbes sales et une grosse femme ventrue	505	568	deux ou trois hommes à barbes sales et une grosse femme ventrue	12	3	4	4	0	1	1	5	102	femme	conj	95	NOUN	NOM	Plural	Not_Assigned	3
+T846	22	100	103	PER	une grosse femme ventrue	544	568	une grosse femme ventrue	4	3	4	12	1	0	0	6	102	femme	conj	95	NOUN	NOM	Singular	Female	3
+T847	20	105	113	PER	une de ces marchandes dites _à la toilette	570	612	une de ces marchandes dites _ à la toilette	9	3	4	17	0	1	1	7	108	marchandes	nmod	105	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T849	11	107	113	PER	ces marchandes dites _à la toilette	577	612	ces marchandes dites _ à la toilette	7	3	4	19	1	0	0	8	108	marchandes	nmod	105	NOUN	NOM	Plural	Not_Assigned	3
+T849	11	123	123	PER	qui	664	667	qui	1	3	4	35	0	0	0	9	123	qui	nsubj	124	PRON	PRON	Ambiguous	Ambiguous	4
+T850	19	135	139	PER	les jeunes et vieilles nippes	732	761	les jeunes et vieilles nippes	5	3	4	47	0	0	0	10	139	nippes	dep	132	NOUN	NOM	Plural	Not_Assigned	3
+T852	3	196	196	PER	je	1035	1037	je	1	4	6	1	0	0	0	11	196	je	nsubj	198	PRON	PRON	Singular	Ambiguous	1
+T852	3	201	201	PER	je	1053	1055	je	1	4	6	6	0	0	0	12	201	je	nsubj	203	PRON	PRON	Singular	Ambiguous	1
+T859	18	233	233	TIME	autrefois	1219	1228	autrefois	1	4	6	38	0	0	0	13	233	autrefois	nmod	231	ADV	NOM	Not_Assigned	Not_Assigned	3
+T852	3	248	248	PER	je	1306	1308	je	1	5	7	1	0	0	0	14	248	je	nsubj	250	PRON	PRON	Singular	Ambiguous	1
+T852	3	252	252	PER	moi	1320	1323	moi	1	5	7	5	0	0	0	15	252	moi	obl:mod	250	PRON	PRON	Singular	Ambiguous	1
+T852	3	254	255	PER	j'	1325	1327	j '	2	5	7	7	0	0	0	16	255		nsubj	257	SYM	PRON	Singular	Ambiguous	1
+T860	17	263	266	TIME	la même époque charmante	1367	1391	la même époque charmante	4	5	7	16	0	0	0	17	265	époque	nmod	261	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T852	3	277	277	PER	je	1435	1437	je	1	5	7	30	0	0	0	18	277	je	nsubj	278	PRON	PRON	Singular	Ambiguous	1
+T852	3	280	280	PER	mes	1450	1453	mes	1	5	7	33	0	0	0	19	280	mes	det	281	DET	PRON	Singular	Ambiguous	1
+T852	3	296	296	PER	mes	1540	1543	mes	1	5	8	9	0	0	0	20	296	mes	det	297	DET	PRON	Singular	Ambiguous	1
+T874	1	331	331	PER	monsieur	1702	1710	monsieur	1	5	10	19	0	0	0	21	331	monsieur	nmod	329	NOUN	NOM	Singular	Male	3
+T874	1	333	337	PER	monsieur l'abbé d'Argencé	1712	1737	monsieur l' abbé d' argencé	5	5	10	21	0	1	1	22	335	abbé	nmod	333	NOUN	PROP	Singular	Male	3
+T887	31	337	337	GPE	Argencé	1730	1737	argencé	1	5	10	25	1	0	0	23	337	argencé	nmod	335	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T874	1	355	356	PER	Mon ami	1836	1843	mon ami	2	7	13	1	0	1	1	24	356	ami	obl:mod	360	NOUN	NOM	Singular	Male	3
+M16	0	355	355	PER	Mon	1836	1839	mon	1	7	13	1	1	0	0	25	355	mon	det	356	DET	PRON	Singular	Ambiguous	1
+M16	0	358	358	PER	je	1845	1847	je	1	7	13	4	0	0	0	26	358	je	nsubj	360	PRON	PRON	Singular	Ambiguous	1
+M16	0	366	366	PER	je	1882	1884	je	1	7	13	12	0	0	0	27	366	je	nsubj	368	PRON	PRON	Singular	Ambiguous	1
+M16	0	380	380	PER	je	1936	1938	je	1	7	14	7	0	0	0	28	380	je	nsubj	381	PRON	PRON	Singular	Ambiguous	1
+M16	0	393	393	PER	J'	2004	2006	j'	1	7	15	0	0	0	0	29	393	j'	nsubj	394	PRON	PRON	Singular	Ambiguous	1
+M16	0	401	401	PER	j'	2032	2034	j'	1	7	15	8	0	0	0	30	401	j'	nsubj	402	PRON	PRON	Singular	Ambiguous	1
+M16	0	405	405	PER	me	2046	2048	me	1	7	15	12	0	0	0	31	405	me	iobj	406	PRON	PRON	Singular	Ambiguous	1
+M16	0	412	412	PER	moi	2076	2079	moi	1	7	15	19	0	0	0	32	412	moi	nmod	410	PRON	PRON	Singular	Ambiguous	1
+T874	1	414	414	PER	Vous	2081	2085	vous	1	7	16	0	0	0	0	33	414	vous	nsubj	415	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	416	416	PER	je	2092	2094	-je	1	7	16	2	0	0	0	34	416	je	dep	415	PRON	PRON	Singular	Ambiguous	1
+T874	1	421	421	PER	Vous	2109	2113	vous	1	7	18	0	0	0	0	35	421	vous	nsubj	423	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	422	422	PER	me	2114	2116	me	1	7	18	1	0	0	0	36	422	me	obj	423	PRON	PRON	Singular	Ambiguous	1
+M16	0	428	428	PER	j'	2141	2143	j'	1	7	19	3	0	0	0	37	428	j'	nsubj	430	PRON	PRON	Singular	Ambiguous	1
+M16	0	432	432	PER	je	2150	2152	je	1	7	19	7	0	0	0	38	432	je	nsubj	433	PRON	PRON	Singular	Ambiguous	1
+M16	0	436	436	PER	je	2163	2165	je	1	7	19	11	0	0	0	39	436	je	nsubj	437	PRON	PRON	Singular	Ambiguous	1
+T874	1	438	438	PER	vous	2171	2175	vous	1	7	19	13	0	0	0	40	438	vous	iobj	439	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	453	453	PER	me	2237	2239	me	1	8	20	10	0	0	0	41	453	me	iobj	454	PRON	PRON	Singular	Ambiguous	1
+M16	0	458	458	PER	je	2260	2262	je	1	8	20	15	0	0	0	42	458	je	nsubj	460	PRON	PRON	Singular	Ambiguous	1
+T874	1	459	459	PER	vous	2263	2267	vous	1	8	20	16	0	0	0	43	459	vous	obj	460	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	466	466	PER	j'	2300	2302	j'	1	8	20	23	0	0	0	44	466	j'	nsubj	468	PRON	PRON	Singular	Ambiguous	1
+T874	1	470	470	PER	vous	2313	2317	vous	1	8	20	27	0	0	0	45	470	vous	obl:arg	468	PRON	PRON	Ambiguous	Ambiguous	2
+T889	7	475	476	TIME	trois jours	2336	2347	trois jours	2	9	21	3	0	0	0	46	476	jours	obl:mod	473	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M16	0	478	478	PER	mon	2351	2354	mon	1	9	21	6	0	0	0	47	478	mon	det	479	DET	PRON	Singular	Ambiguous	1
+M16	0	484	484	PER	mon	2368	2371	mon	1	9	21	12	0	0	0	48	484	mon	det	485	DET	PRON	Singular	Ambiguous	1
+M16	0	495	495	PER	j'	2414	2416	j'	1	9	21	23	0	0	0	49	495	j'	nsubj	497	PRON	PRON	Singular	Ambiguous	1
+T874	1	504	505	PER	mon ami	2445	2452	mon ami	2	10	22	4	0	1	1	50	505	ami	appos	502	NOUN	NOM	Singular	Male	3
+M16	0	504	504	PER	mon	2445	2448	mon	1	10	22	4	1	0	0	51	504	mon	det	505	DET	PRON	Singular	Ambiguous	1
+T891	32	541	543	PER	M. de Crébillon	2568	2583	m. de crébillon	3	11	24	7	0	0	0	52	543	crébillon	nmod	541	PROPN	PROP	Singular	Male	3
+M16	0	545	545	PER	j'	2585	2587	j'	1	11	24	11	0	0	0	53	545	j'	nsubj	546	PRON	PRON	Singular	Ambiguous	1
+T874	1	592	592	PER	Vous	2819	2823	vous	1	12	27	1	0	0	0	54	592	vous	nsubj	593	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	594	594	PER	mon	2835	2838	mon	1	12	27	3	0	0	0	55	594	mon	det	595	DET	PRON	Singular	Ambiguous	1
+T874	1	597	598	PER	mon ami	2844	2851	mon ami	2	12	27	6	0	1	1	56	598	ami	nmod	595	NOUN	NOM	Singular	Male	3
+M16	0	597	597	PER	mon	2844	2847	mon	1	12	27	6	1	0	0	57	597	mon	det	598	DET	PRON	Singular	Ambiguous	1
+T874	1	600	600	PER	Vous	2853	2857	vous	1	12	28	0	0	0	0	58	600	vous	nsubj	603	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	608	608	PER	j'	2897	2899	j'	1	12	28	8	0	0	0	59	608	j'	nsubj	611	PRON	PRON	Singular	Ambiguous	1
+T889	7	613	614	TIME	trois jours	2923	2934	trois jours	2	12	28	13	0	0	0	60	614	jours	obl:mod	611	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M16	0	618	618	PER	je	2945	2947	je	1	12	28	18	0	0	0	61	618	je	nsubj	620	PRON	PRON	Singular	Ambiguous	1
+M16	0	624	624	PER	me	2969	2971	me	1	12	29	1	0	0	0	62	624	me	iobj	625	PRON	PRON	Singular	Ambiguous	1
+M16	0	631	631	PER	je	3000	3002	-je	1	12	29	8	0	0	0	63	631	je	nsubj	630	PRON	PRON	Singular	Ambiguous	1
+T892	30	634	637	PER	un tas de gens	3008	3022	un tas de gens	4	12	29	11	0	1	1	64	635	tas	obl:agent	630	NOUN	NOM	Plural	Not_Assigned	3
+T894	5	637	637	PER	gens	3018	3022	gens	1	12	29	14	1	0	0	65	637	gens	nmod	635	NOUN	NOM	Plural	Ambiguous	3
+T894	5	638	638	PER	que	3023	3026	que	1	12	29	15	0	0	0	66	638	que	obj	641	PRON	PRON	Ambiguous	Ambiguous	4
+M16	0	639	639	PER	je	3027	3029	je	1	12	29	16	0	0	0	67	639	je	nsubj	641	PRON	PRON	Singular	Ambiguous	1
+T894	5	644	644	PER	qui	3054	3057	qui	1	12	29	21	0	0	0	68	644	qui	nsubj	647	PRON	PRON	Ambiguous	Ambiguous	4
+T894	5	651	651	PER	eux	3096	3099	eux	1	12	29	28	0	0	0	69	651	eux	nmod	649	PRON	PRON	Plural	Ambiguous	3
+M16	0	660	660	PER	je	3131	3133	je	1	13	30	4	0	0	0	70	660	je	nsubj	662	PRON	PRON	Singular	Ambiguous	1
+T897	29	664	669	PER	ceux qui achètent des lits nouveaux	3151	3186	ceux qui achètent des lits nouveaux	6	13	30	8	0	0	0	71	666	achètent	acl:relcl	664	VERB	NOM	Not_Assigned	Not_Assigned	3
+T874	1	708	709	PER	mon ami	3339	3346	mon ami	2	13	32	3	0	1	1	72	709	ami	dep	705	NOUN	NOM	Singular	Male	3
+M16	0	708	708	PER	mon	3339	3342	mon	1	13	32	3	1	0	0	73	708	mon	det	709	DET	PRON	Singular	Ambiguous	1
+T899	13	747	748	TIME	trois siècles	3516	3529	trois siècles	2	13	33	6	0	0	0	74	748	siècles	obl:mod	745	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T899	13	749	750	TIME	qu'	3530	3533	qu '	2	13	33	8	0	0	0	75	749	qu	mark	752	SCONJ	PRON	Not_Assigned	Not_Assigned	4
+T900	2	757	760	PER	une jeune femme étendue	3556	3579	une jeune femme étendue	4	14	34	2	0	0	0	76	759	femme	obj	756	NOUN	NOM	Singular	Female	3
+T900	2	766	766	PER	elle	3599	3603	elle	1	14	35	4	0	0	0	77	766	elle	nsubj	767	PRON	PRON	Singular	Female	3
+T900	2	772	772	PER	elle	3627	3631	elle	1	14	35	10	0	0	0	78	772	elle	nsubj	773	PRON	PRON	Singular	Female	3
+T910	35	776	778	PER	les vieux parents	3643	3660	les vieux parents	3	14	35	14	0	0	0	79	778	parents	nsubj	781	NOUN	NOM	Plural	Ambiguous	3
+T900	2	779	780	PER	l'	3661	3663	l '	2	14	35	17	0	0	0	80	779	l	obj	781	PRON	PRON	Singular	Ambiguous	3
+T900	2	787	787	PER	elle	3691	3695	elle	1	14	35	25	0	0	0	81	787	elle	obl:mod	788	PRON	PRON	Singular	Female	3
+T913	6	789	801	PER	un petit être miaulant comme un chat, et crispé, tout ridé	3701	3759	un petit être miaulant comme un chat , et crispé , tout ridé	13	14	35	27	0	0	0	82	792	miaulant	acl	791	VERB	NOM	Not_Assigned	Not_Assigned	3
+T913	6	803	804	PER	C'	3761	3763	c '	2	14	36	0	0	0	0	83	803	c	nsubj	807	PRON	PRON	Ambiguous	Ambiguous	3
+T913	6	806	807	PER	un homme	3768	3776	un homme	2	14	36	3	0	0	0	84	807	homme	ROOT	807	NOUN	NOM	Singular	Male	3
+T900	2	811	811	PER	Elle	3791	3795	elle	1	14	37	0	0	0	0	85	811	elle	nsubj	818	PRON	PRON	Singular	Female	3
+T900	2	813	815	PER	la jeune mère	3797	3810	la jeune mère	3	14	37	2	0	0	0	86	815	mère	appos	811	NOUN	NOM	Singular	Female	3
+T900	2	822	822	PER	elle	3846	3850	elle	1	14	37	11	0	0	0	87	822	elle	nsubj	823	PRON	PRON	Singular	Female	3
+T915	36	841	841	PER	on	3929	3931	on	1	14	37	30	0	0	0	88	841	on	nsubj	842	PRON	PRON	Ambiguous	Ambiguous	3
+T913	6	847	855	PER	ce petit morceau de créature vivante séparé d'elle	3958	4008	ce petit morceau de créature vivante séparé d' elle	9	14	37	36	0	1	1	89	849	morceau	nsubj	861	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T900	2	855	855	PER	elle	4004	4008	elle	1	14	37	44	1	0	0	90	855	elle	obl:arg	853	PRON	PRON	Singular	Female	3
+T916	33	857	858	PER	c'	4010	4012	c '	2	14	37	46	0	0	0	91	857	c	expl:subj	861	PRON	PRON	Ambiguous	Ambiguous	3
+T918	34	860	862	PER	la famille continuée	4017	4037	la famille continuée	3	14	37	49	0	0	0	92	861	famille	ROOT	861	NOUN	NOM	Plural	Ambiguous	3
+M17	12	875	876	PER	des vieux	4085	4094	des vieux	2	14	37	64	0	0	0	93	876	vieux	nmod	867	NOUN	NOM	Plural	Ambiguous	3
+M17	12	877	877	PER	qui	4095	4098	qui	1	14	37	66	0	0	0	94	877	qui	nsubj	878	PRON	PRON	Ambiguous	Ambiguous	4
+T923	4	891	892	PER	deux amants	4168	4179	deux amants	2	15	38	8	0	0	0	95	892	amants	nsubj	894	NOUN	NOM	Plural	Ambiguous	3
+T923	4	905	905	PER	Ils	4236	4239	ils	1	15	39	0	0	0	0	96	905	ils	nsubj	906	PRON	PRON	Plural	Ambiguous	3
+T923	4	913	913	PER	ils	4282	4285	ils	1	15	39	8	0	0	0	97	913	ils	nsubj	915	PRON	PRON	Plural	Ambiguous	3
+T923	4	930	930	PER	leurs	4350	4355	leurs	1	15	39	25	0	0	0	98	930	leurs	det	931	DET	PRON	Plural	Ambiguous	3
+T923	4	938	938	PER	les	4394	4397	les	1	15	40	3	0	0	0	99	938	les	obj	939	PRON	PRON	Plural	Ambiguous	3
+T923	4	958	958	PER	les	4490	4493	les	1	15	40	23	0	0	0	100	958	les	obj	959	PRON	PRON	Plural	Ambiguous	3
+T923	4	969	969	PER	leur	4540	4544	leur	1	15	41	1	0	0	0	101	969	leur	det	970	DET	PRON	Plural	Ambiguous	3
+T928	10	1015	1016	PER	deux êtres	4760	4770	deux êtres	2	15	42	16	0	0	0	102	1016	êtres	obl:arg	1013	NOUN	NOM	Plural	Ambiguous	3
+T929	39	1017	1018	PER	un seul	4771	4778	un seul	2	15	42	18	0	0	0	103	1018	seul	obj	1013	ADJ	NOM	Singular	Male	3
+T930	40	1023	1023	PER	chacun	4793	4799	chacun	1	15	42	24	0	0	0	104	1023	chacun	obl:arg	1021	PRON	PRON	Ambiguous	Ambiguous	3
+T928	10	1045	1045	PER	eux	4893	4896	eux	1	15	42	46	0	0	0	105	1045	eux	obl:arg	1043	PRON	PRON	Plural	Ambiguous	3
+T874	1	1056	1056	PER	vous	4950	4954	-vous	1	16	43	3	0	0	0	106	1056	vous	nsubj	1055	PRON	PRON	Ambiguous	Ambiguous	2
+T874	1	1060	1060	PER	vous	4968	4972	vous	1	16	43	7	0	0	0	107	1060	vous	nsubj	1063	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	1061	1061	PER	m'	4973	4975	m'	1	16	43	8	0	0	0	108	1061	m'	iobj	1063	PRON	PRON	Singular	Ambiguous	1
+T931	38	1065	1067	TIME	l'autre année	4985	4998	l' autre année	3	16	43	12	0	0	0	109	1067	année	obl:mod	1063	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T932	37	1070	1072	PER	quelque poète antique	5005	5026	quelque poète antique	3	16	43	17	0	0	0	110	1071	poète	obl:mod	1063	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M16	0	1074	1074	PER	je	5028	5030	je	1	16	43	21	0	0	0	111	1074	je	nsubj	1076	PRON	PRON	Singular	Ambiguous	1
+T933	42	1080	1082	PER	le doux Ronsard	5057	5072	le doux ronsard	3	16	43	27	0	0	0	112	1082	ronsard	appos	1076	PROPN	PROP	Singular	Male	3
+T935	16	1088	1088	PER	nous	5093	5097	nous	1	17	44	4	0	0	0	113	1088	nous	nsubj:pass	1090	PRON	PRON	Plural	Ambiguous	1
+T935	16	1092	1092	PER	nous	5117	5121	nous	1	17	44	8	0	0	0	114	1092	nous	nsubj	1093	PRON	PRON	Plural	Ambiguous	1
+T936	41	1094	1095	PER	Les lascifs	5129	5140	les lascifs	2	17	44	10	0	0	0	115	1095	lascifs	obj	1093	NOUN	NOM	Plural	Not_Assigned	3
+T923	4	1100	1101	PER	Des amants	5159	5169	des amants	2	17	44	16	0	0	0	116	1101	amants	nmod	1099	NOUN	NOM	Plural	Ambiguous	3
+M16	0	1125	1125	PER	mon	5302	5305	mon	1	18	45	14	0	0	0	117	1125	mon	det	1126	DET	PRON	Singular	Ambiguous	1
+T939	14	1130	1132	PER	Pyrame et Thisbé	5316	5332	pyrame et thisbé	3	18	45	19	0	1	2	118	1132	thisbé	conj	1130	PROPN	PROP	Plural	Not_Assigned	3
+M18	26	1130	1130	PER	Pyrame	5316	5322	pyrame	1	18	45	19	1	0	0	119	1130	pyrame	nsubj	1134	PROPN	PROP	Singular	Not_Assigned	3
+T940	44	1132	1132	PER	Thisbé	5326	5332	thisbé	1	18	45	21	1	0	0	120	1132	thisbé	conj	1130	PROPN	PROP	Singular	Not_Assigned	3
+M16	0	1133	1133	PER	me	5333	5335	me	1	18	45	22	0	0	0	121	1133	me	iobj	1134	PRON	PRON	Singular	Ambiguous	1
+T939	14	1138	1138	PER	leurs	5360	5365	leurs	1	18	45	27	0	0	0	122	1138	leurs	det	1139	DET	PRON	Plural	Ambiguous	3
+T874	1	1150	1151	PER	mon ami	5410	5417	mon ami	2	19	46	7	0	1	1	123	1151	ami	appos	1148	NOUN	NOM	Singular	Male	3
+M16	0	1150	1150	PER	mon	5410	5413	mon	1	19	46	7	1	0	0	124	1150	mon	det	1151	DET	PRON	Singular	Ambiguous	1
+T941	43	1154	1166	PER	tous ceux qui ont exhalé vers Dieu leur dernier souffle en ce lit	5421	5486	tous ceux qui ont exhalé vers dieu leur dernier souffle en ce lit	13	19	46	11	0	1	1	125	1158	exhalé	acl:relcl	1155	VERB	PROP	Singular	Male	3
+T942	45	1160	1160	PER	Dieu	5451	5455	dieu	1	19	46	17	1	0	0	126	1160	dieu	obl:arg	1158	PROPN	PROP	Singular	Male	3
+M16	0	1251	1251	PER	je	5885	5887	je	1	19	48	59	0	0	0	127	1251	je	nsubj	1253	PRON	PRON	Singular	Ambiguous	1
+T874	1	1252	1252	PER	vous	5888	5892	vous	1	19	48	60	0	0	0	128	1252	vous	iobj	1253	PRON	PRON	Ambiguous	Ambiguous	2
+T943	15	1256	1257	TIME	trois siècles	5907	5920	trois siècles	2	19	48	64	0	0	0	129	1257	siècles	obl:mod	1253	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T943	15	1258	1259	TIME	qu'	5921	5924	qu '	2	19	48	66	0	0	0	130	1258	qu	obj	1261	PRON	PRON	Not_Assigned	Not_Assigned	4
+T945	46	1262	1263	PER	aux hommes	5934	5944	aux hommes	2	19	48	70	0	0	0	131	1263	hommes	obl:arg	1261	NOUN	NOM	Plural	Not_Assigned	3
+M16	0	1282	1282	PER	je	6008	6010	je	1	20	49	15	0	0	0	132	1282	je	nsubj	1285	PRON	PRON	Singular	Ambiguous	1
+T889	7	1289	1290	TIME	trois jours	6042	6053	trois jours	2	20	49	22	0	0	0	133	1290	jours	obl:mod	1285	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T946	47	1329	1330	PER	des malades	6216	6227	des malades	2	22	53	4	0	0	0	134	1330	malades	nmod	1328	NOUN	NOM	Plural	Ambiguous	3
+T947	9	1349	1351	PER	Notre Seigneur Jésus	6295	6315	notre seigneur jésus	3	23	55	0	0	0	0	135	1350	seigneur	nsubj	1364	NOUN	PROP	Singular	Male	3
+T947	9	1356	1356	PER	il	6333	6335	il	1	23	55	7	0	0	0	136	1356	il	nsubj	1358	PRON	PRON	Singular	Male	3
+T947	9	1374	1374	PER	Il	6406	6408	il	1	23	56	0	0	0	0	137	1374	il	nsubj	1376	PRON	PRON	Singular	Male	3
+M19	8	1388	1388	GPE	créatures	6465	6474	créatures	1	23	56	14	0	0	0	138	1388	créatures	obl:arg	1386	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M19	8	1390	1390	PER	nous	6481	6485	nous	1	23	56	16	0	0	0	139	1390	nous	obl:mod	1386	PRON	PRON	Plural	Ambiguous	1
+M19	8	1391	1391	PER	leur	6486	6490	leur	1	23	56	17	0	0	0	140	1391	leur	det	1392	DET	PRON	Plural	Ambiguous	3
+M16	0	1404	1404	PER	me	6547	6549	me	1	24	57	5	0	0	0	141	1404	me	iobj	1407	PRON	PRON	Singular	Ambiguous	1
+M16	0	1410	1410	PER	je	6576	6578	je	1	24	57	11	0	0	0	142	1410	je	nsubj	1412	PRON	PRON	Singular	Ambiguous	1
+T874	1	1416	1416	PER	vous	6596	6600	vous	1	24	57	17	0	0	0	143	1416	vous	iobj	1418	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	1422	1422	PER	me	6622	6624	me	1	24	57	23	0	0	0	144	1422	me	iobj	1423	PRON	PRON	Singular	Ambiguous	1
+M16	0	1430	1430	PER	je	6662	6664	je	1	24	57	31	0	0	0	145	1430	je	nsubj:pass	1434	PRON	PRON	Singular	Ambiguous	1
+M16	0	1436	1436	PER	je	6693	6695	je	1	24	57	37	0	0	0	146	1436	je	nsubj	1437	PRON	PRON	Singular	Ambiguous	1
+M16	0	1439	1439	PER	mes	6709	6712	mes	1	24	57	40	0	0	0	147	1439	mes	det	1440	DET	PRON	Singular	Ambiguous	1
+M16	0	1442	1442	PER	m'	6724	6726	m'	1	24	57	43	0	0	0	148	1442	m'	expl:comp	1443	PRON	PRON	Singular	Ambiguous	1
+M16	0	1454	1454	PER	me	6780	6782	me	1	25	58	2	0	0	0	149	1454	me	obj	1455	PRON	PRON	Singular	Ambiguous	1
+T950	48	1458	1459	TIME	trois heures	6797	6809	trois heures	2	25	58	6	0	0	0	150	1459	heures	obl:mod	1455	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M16	0	1463	1463	PER	je	6828	6830	-je	1	25	58	11	0	0	0	151	1463	je	nsubj	1464	PRON	PRON	Singular	Ambiguous	1
+T874	1	1466	1466	PER	vous	6840	6844	vous	1	25	58	14	0	0	0	152	1466	vous	nsubj	1468	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	1469	1469	PER	je	6856	6858	-je	1	25	58	17	0	0	0	153	1469	je	dep	1468	PRON	PRON	Singular	Ambiguous	1
+T874	1	1475	1476	PER	mon ami	6879	6886	mon ami	2	26	59	3	0	1	1	154	1476	ami	nmod	1473	NOUN	NOM	Singular	Male	3
+M16	0	1475	1475	PER	mon	6879	6882	mon	1	26	59	3	1	0	0	155	1475	mon	det	1476	DET	PRON	Singular	Ambiguous	1
+M16	0	1479	1479	PER	mes	6895	6898	mes	1	26	59	7	0	0	0	156	1479	mes	det	1480	DET	PRON	Singular	Ambiguous	1
+T874	1	1483	1483	PER	vous	6914	6918	vous	1	26	59	11	0	0	0	157	1483	vous	nsubj	1485	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	1488	1488	PER	je	6935	6937	je	1	26	59	16	0	0	0	158	1488	je	nsubj	1490	PRON	PRON	Singular	Ambiguous	1
+T874	1	1489	1489	PER	vous	6938	6942	vous	1	26	59	17	0	0	0	159	1489	vous	iobj	1490	PRON	PRON	Ambiguous	Ambiguous	2
+M16	0	1492	1492	PER	mes	6955	6958	mes	1	26	59	20	0	0	0	160	1492	mes	det	1493	DET	PRON	Singular	Ambiguous	1

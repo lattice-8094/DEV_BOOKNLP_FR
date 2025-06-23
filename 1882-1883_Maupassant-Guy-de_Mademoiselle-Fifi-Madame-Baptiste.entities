@@ -1,0 +1,390 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+madame_baptiste	91	0	1	PER	MADAME BAPTISTE	0	15	madame baptiste	2	0	0	0	0	0	0	0	0	madame	ROOT	0	NOUN	NOM	Singular	Female	3
+narrateur	1	3	4	PER	j'	23	25	j '	2	1	1	1	0	0	0	1	3	j	nsubj	5	PRON	PRON	Singular	Ambiguous	1
+T779	69	7	15	FAC	la salle des voyageurs de la gare de Loubain	38	82	la salle des voyageurs de la gare de loubain	9	1	1	5	0	2	3	2	8	salle	obl:arg	5	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T780	70	10	10	PER	voyageurs	51	60	voyageurs	1	1	1	8	1	0	0	3	10	voyageurs	nmod	8	NOUN	NOM	Plural	Ambiguous	3
+gare_de_loubain	26	12	15	FAC	la gare de Loubain	64	82	la gare de loubain	4	1	1	10	1	1	1	4	13	gare	nmod	8	NOUN	PROP	Not_Assigned	Not_Assigned	3
+loubain	8	15	15	LOC	Loubain	75	82	loubain	1	1	1	13	2	0	0	5	15	loubain	nmod	13	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	1	17	17	PER	mon	84	87	mon	1	1	1	15	0	0	0	6	17	mon	det	19	DET	PRON	Singular	Ambiguous	1
+narrateur	1	25	26	PER	J'	123	125	j '	2	1	2	0	0	0	0	7	25	j	nsubj	27	PRON	PRON	Singular	Ambiguous	1
+T788	71	30	33	TIME	deux heures dix minutes	143	166	deux heures dix minutes	4	1	2	5	0	0	0	8	31	heures	case	35	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T789	72	34	37	VEH	l'express de Paris	167	185	l' express de paris	4	1	2	9	0	1	1	9	35	express	obj	29	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Paris	41	37	37	LOC	Paris	180	185	paris	1	1	2	12	1	0	0	10	37	paris	nmod	35	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	1	39	39	PER	Je	188	190	je	1	2	3	0	0	0	0	11	39	je	nsubj	41	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	52	52	PER	je	251	253	je	1	2	3	13	0	0	0	12	52	je	nsubj	53	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	56	56	PER	moi	273	276	moi	1	2	3	17	0	0	0	13	56	moi	dep	54	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	59	60	PER	j'	286	288	j '	2	2	3	20	0	0	0	14	59	j	nsubj	61	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	74	74	PER	je	352	354	je	1	2	3	35	0	0	0	15	74	je	nsubj	75	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	77	77	PER	m'	368	370	m'	1	2	3	38	0	0	0	16	77	m'	expl:comp	78	PRON	PRON	Singular	Ambiguous	1
+gare_de_loubain	26	83	84	FAC	la gare	397	404	la gare	2	2	3	44	0	0	0	17	84	gare	nmod	81	NOUN	NOM	Not_Assigned	Not_Assigned	3
+rue_gare	12	99	100	FAC	La rue	473	479	la rue	2	3	4	0	0	0	0	18	100	rue	nsubj	125	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T795	73	114	117	FAC	maisons inégales et différentes	546	577	maisons inégales et différentes	4	3	4	15	0	0	0	19	114	maisons	nmod	112	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T796	74	129	129	LOC	colline	629	636	colline	1	3	4	30	0	0	0	20	129	colline	nmod	127	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T797	75	141	142	FAC	un parc	689	696	un parc	2	3	4	42	0	0	0	21	142	parc	nsubj	146	NOUN	NOM	Not_Assigned	Not_Assigned	3
+rue_gare	12	143	144	FAC	l'	697	699	l '	2	3	4	44	0	0	0	22	143	l	obj	146	PRON	PRON	Not_Assigned	Not_Assigned	3
+rue_gare	12	155	156	FAC	la chaussée	752	763	la chaussée	2	4	5	7	0	0	0	23	156	chaussée	obj	154	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M23	60	159	160	PER	les ruisseaux	775	788	les ruisseaux	2	4	5	11	0	0	0	24	160	ruisseaux	obj	158	NOUN	NOM	Plural	Not_Assigned	3
+narrateur	1	183	183	PER	Je	899	901	je	1	4	7	0	0	0	0	25	183	je	nsubj	185	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	192	193	PER	m'	952	954	m '	2	5	8	3	0	0	0	26	192	m	iobj	194	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	202	202	PER	Je	988	990	je	1	5	11	0	0	0	0	27	202	je	nsubj	203	PRON	PRON	Singular	Ambiguous	1
+cafe	68	212	218	FAC	le petit café du chemin de fer	1048	1078	le petit café du chemin de fer	7	5	11	10	0	1	1	28	214	café	obl:mod	203	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T803	76	215	218	FAC	du chemin de fer	1062	1078	du chemin de fer	4	5	11	13	1	0	0	29	216	chemin	nmod	214	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T804	77	228	229	LOC	du lieu	1128	1135	du lieu	2	5	11	26	0	0	0	30	229	lieu	nmod	227	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	232	233	PER	j'	1143	1145	j '	2	5	11	30	0	0	0	31	232	j	nsubj	234	PRON	PRON	Singular	Ambiguous	1
+convoi	20	235	237	VEH	un convoi funèbre	1154	1171	un convoi funèbre	3	5	11	33	0	0	0	32	236	convoi	obj	234	NOUN	NOM	Not_Assigned	Not_Assigned	3
+convoi	20	238	238	VEH	qui	1172	1175	qui	1	5	11	36	0	0	0	33	238	qui	nsubj	239	PRON	PRON	Not_Assigned	Not_Assigned	4
+T807	78	240	242	FAC	une rue latérale	1185	1201	une rue latérale	3	5	11	38	0	0	0	34	241	rue	obj	239	NOUN	NOM	Not_Assigned	Not_Assigned	3
+rue_gare	12	247	251	FAC	celle où je me trouvais	1222	1245	celle où je me trouvais	5	5	11	45	0	1	1	35	251	trouvais	acl:relcl	247	VERB	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	249	249	PER	je	1231	1233	je	1	5	11	47	1	0	0	36	249	je	nsubj	251	PRON	PRON	Singular	Ambiguous	1
+corbillard	29	255	256	VEH	du corbillard	1255	1268	du corbillard	2	6	12	2	0	0	0	37	256	corbillard	nmod	254	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	261	261	PER	moi	1293	1296	moi	1	6	12	8	0	0	0	38	261	moi	nmod	259	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	274	274	PER	mon	1353	1356	mon	1	7	14	2	0	0	0	39	274	mon	det	275	DET	PRON	Singular	Ambiguous	1
+la_morte	0	278	279	PER	Le mort	1377	1384	le mort	2	7	15	0	0	0	0	40	279	mort	nsubj:pass	282	NOUN	NOM	Singular	Male	3
+huit_messieurs	11	285	286	PER	huit messieurs	1407	1421	huit messieurs	2	7	15	7	0	0	0	41	286	messieurs	obl:mod	282	NOUN	NOM	Plural	Male	3
+huit_messieurs	11	287	287	PER	dont	1422	1426	dont	1	7	15	9	0	0	0	42	287	dont	nmod	288	PRON	PRON	Ambiguous	Ambiguous	4
+pleureur	94	288	288	PER	un	1427	1429	un	1	7	15	10	0	0	0	43	288	un	nsubj	289	PRON	PRON	Singular	Male	3
+sept_hommes	95	291	292	PER	Les autres	1440	1450	les autres	2	7	16	0	0	0	0	44	292	autres	nsubj	293	PRON	PRON	Plural	Ambiguous	3
+narrateur	1	301	301	PER	Je	1503	1505	je	1	7	18	0	0	0	0	45	301	je	nsubj	302	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	312	312	PER	je	1552	1554	je	1	7	18	11	0	0	0	46	312	je	nsubj	313	PRON	PRON	Singular	Ambiguous	1
+loubain	8	315	318	GPE	une ville comme Loubain	1568	1591	une ville comme loubain	4	7	18	14	0	0	0	47	316	ville	nsubj	319	NOUN	PROP	Not_Assigned	Not_Assigned	3
+libres_penseurs	33	323	328	PER	une centaine de libre-penseurs	1617	1647	une centaine de libre - penseurs	6	7	18	22	0	0	0	48	324	centaine	obj	320	NOUN	NOM	Not_Assigned	Not_Assigned	3
+libres_penseurs	33	329	329	PER	qui	1648	1651	qui	1	7	18	28	0	0	0	49	329	qui	nsubj	332	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	353	355	PER	ce défunt-là	1772	1784	ce défunt -là	3	7	20	11	0	0	0	50	354	défunt	obj	352	NOUN	NOM	Singular	Male	3
+narrateur	1	367	367	PER	Ma	1837	1839	ma	1	8	21	0	0	0	0	51	367	ma	det	368	DET	PRON	Singular	Ambiguous	1
+corbillard	29	382	384	VEH	la voiture funèbre	1924	1942	la voiture funèbre	3	8	21	15	0	0	0	52	383	voiture	nsubj	385	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	387	387	PER	moi	1958	1961	moi	1	8	21	20	0	0	0	53	387	moi	obl:arg	385	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	392	392	PER	me	1980	1982	me	1	8	21	25	0	0	0	54	392	me	iobj	393	PRON	PRON	Singular	Ambiguous	1
+huit_messieurs	11	400	402	PER	les huit messieurs	2013	2031	les huit messieurs	3	8	21	33	0	0	0	55	402	messieurs	obl:mod	398	NOUN	NOM	Plural	Male	3
+narrateur	1	404	405	PER	J'	2033	2035	j '	2	8	22	0	0	0	0	56	404	j	nsubj	406	PRON	PRON	Singular	Ambiguous	1
+T925	79	408	413	TIME	une heure au moins d'occupation	2045	2076	une heure au moins d' occupation	6	8	22	4	0	0	0	57	409	heure	obj	406	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	416	416	PER	je	2081	2083	je	1	8	22	12	0	0	0	58	416	je	nsubj	418	PRON	PRON	Singular	Ambiguous	1
+huit_messieurs	11	428	429	PER	les autres	2128	2138	les autres	2	8	22	24	0	0	0	59	429	autres	obl:mod	418	PRON	PRON	Plural	Ambiguous	3
+deux_derniers	5	431	433	PER	Les deux derniers	2141	2158	les deux derniers	3	9	23	0	0	0	0	60	433	derniers	nsubj	435	ADJ	NOM	Plural	Ambiguous	3
+deux_derniers	5	444	444	PER	Ils	2215	2218	ils	1	9	24	0	0	0	0	61	444	ils	nsubj	446	PRON	PRON	Plural	Ambiguous	3
+narrateur	1	449	450	PER	j'	2250	2252	j '	2	9	24	5	0	0	0	62	449	j	nsubj	454	PRON	PRON	Singular	Ambiguous	1
+loubain	8	453	454	GPE	la ville	2262	2270	la ville	2	9	24	9	0	0	0	63	454	ville	ccomp	446	NOUN	NOM	Not_Assigned	Not_Assigned	3
+deux_derniers	5	457	457	PER	ils	2277	2280	ils	1	9	25	1	0	0	0	64	457	ils	nsubj	458	PRON	PRON	Plural	Ambiguous	3
+deux_autres	14	459	461	PER	les deux précédents	2294	2313	les deux précédents	3	9	25	3	0	0	0	65	461	précédents	obj	458	NOUN	NOM	Plural	Not_Assigned	3
+deux_autres	14	463	463	PER	qui	2315	2318	qui	1	9	25	7	0	0	0	66	463	qui	nsubj	465	PRON	PRON	Ambiguous	Ambiguous	4
+deux_autres	14	467	467	PER	leur	2331	2335	leur	1	9	25	11	0	0	0	67	467	leur	det	468	DET	PRON	Plural	Ambiguous	3
+narrateur	1	470	470	PER	me	2343	2345	me	1	9	25	14	0	0	0	68	470	me	obj	471	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	476	476	PER	me	2388	2390	me	1	9	26	3	0	0	0	69	476	me	nsubj	477	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	486	486	PER	je	2422	2424	je	1	9	26	13	0	0	0	70	486	je	nsubj	488	PRON	PRON	Singular	Ambiguous	1
+deux_derniers	5	490	491	PER	mes voisins	2440	2451	mes voisins	2	9	26	17	0	1	1	71	491	voisins	obl:arg	488	NOUN	NOM	Plural	Ambiguous	3
+narrateur	1	490	490	PER	mes	2440	2443	mes	1	9	26	17	1	0	0	72	490	mes	det	491	DET	PRON	Singular	Ambiguous	1
+deux_derniers	5	493	493	PER	Les	2453	2456	les	1	9	27	0	0	0	0	73	493	les	obj	495	PRON	PRON	Plural	Ambiguous	3
+narrateur	1	497	497	PER	je	2471	2473	je	1	9	27	4	0	0	0	74	497	je	nsubj	498	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	501	501	PER	Je	2482	2484	je	1	9	27	8	0	0	0	75	501	je	nsubj	503	PRON	PRON	Singular	Ambiguous	1
+deux_derniers	5	502	502	PER	vous	2485	2489	vous	1	9	27	9	0	0	0	76	502	vous	iobj	503	PRON	PRON	Ambiguous	Ambiguous	2
+deux_derniers	5	507	507	PER	messieurs	2511	2520	messieurs	1	9	27	14	0	0	0	77	507	messieurs	dep	503	NOUN	NOM	Plural	Male	3
+narrateur	1	510	511	PER	j'	2525	2527	j '	2	9	27	17	0	0	0	78	510	j	nsubj	512	PRON	PRON	Singular	Ambiguous	1
+deux_derniers	5	513	513	PER	votre	2539	2544	votre	1	9	27	20	0	0	0	79	513	votre	det	514	DET	PRON	Ambiguous	Ambiguous	2
+narrateur	1	523	523	PER	je	2598	2600	je	1	9	28	7	0	0	0	80	523	je	nsubj	526	PRON	PRON	Singular	Ambiguous	1
+la_morte	0	536	537	PER	le mort	2659	2666	le mort	2	9	28	20	0	0	0	81	537	mort	obj	531	NOUN	NOM	Singular	Male	3
+la_morte	0	538	538	PER	que	2667	2670	que	1	9	28	22	0	0	0	82	538	que	obj	540	PRON	PRON	Ambiguous	Ambiguous	4
+deux_derniers	5	539	539	PER	vous	2671	2675	vous	1	9	28	23	0	0	0	83	539	vous	nsubj	540	PRON	PRON	Ambiguous	Ambiguous	2
+T946	80	543	545	PER	Un des messieurs	2691	2707	un des messieurs	3	9	28	27	0	1	1	84	545	messieurs	nmod	543	NOUN	NOM	Plural	Male	3
+deux_derniers	5	544	545	PER	des messieurs	2694	2707	des messieurs	2	9	28	28	1	0	0	85	545	messieurs	nmod	543	NOUN	NOM	Plural	Male	3
+la_morte	0	549	550	PER	C'	2721	2723	c '	2	9	28	33	0	0	0	86	549	c	nsubj	553	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	552	553	PER	une morte	2728	2737	une morte	2	9	28	36	0	0	0	87	553	morte	ccomp	546	NOUN	NOM	Singular	Female	3
+narrateur	1	556	556	PER	Je	2741	2743	je	1	9	28	40	0	0	0	88	556	je	nsubj:pass	558	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	560	560	PER	je	2759	2761	je	1	9	28	44	0	0	0	89	560	je	nsubj	561	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	578	580	PER	L'autre monsieur	2836	2852	l' autre monsieur	3	10	29	0	0	0	0	90	580	monsieur	nsubj	589	NOUN	NOM	Singular	Male	3
+autre_monsieur	3	582	582	PER	qui	2854	2857	qui	1	10	29	4	0	0	0	91	582	qui	nsubj	583	PRON	PRON	Ambiguous	Ambiguous	4
+narrateur	1	585	586	PER	m'	2878	2880	m '	2	10	29	7	0	0	0	92	585	m	iobj	587	PRON	PRON	Singular	Ambiguous	1
+clerge	30	598	599	ORG	Le clergé	2923	2932	le clergé	2	10	30	0	0	0	0	93	599	clergé	nsubj	602	NOUN	NOM	Not_Assigned	Not_Assigned	3
+huit_messieurs	11	600	600	PER	nous	2933	2937	nous	1	10	30	2	0	0	0	94	600	nous	iobj	602	PRON	PRON	Plural	Ambiguous	1
+eglise_2	32	606	607	FAC	l'église	2959	2967	l' église	2	10	30	8	0	0	0	95	607	église	nmod	604	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	610	610	PER	Je	2971	2973	je	1	10	30	12	0	0	0	96	610	je	nsubj	611	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	624	624	PER	Je	3024	3026	je	1	10	31	0	0	0	0	97	624	je	nsubj	626	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	631	633	PER	Mon obligeant voisin	3056	3076	mon obligeant voisin	3	11	32	0	0	1	1	98	633	voisin	nsubj	635	NOUN	NOM	Singular	Male	3
+narrateur	1	631	631	PER	Mon	3056	3059	mon	1	11	32	0	1	0	0	99	631	mon	det	633	DET	PRON	Singular	Ambiguous	1
+narrateur	1	634	634	PER	me	3077	3079	me	1	11	32	3	0	0	0	100	634	me	obj	635	PRON	PRON	Singular	Ambiguous	1
+la_morte	0	650	652	PER	Cette jeune femme	3136	3153	cette jeune femme	3	11	33	0	0	0	0	101	652	femme	nsubj	655	NOUN	NOM	Singular	Female	3
+la_morte	0	665	665	PER	la	3198	3200	la	1	11	33	15	0	0	0	102	665	la	obj	667	PRON	PRON	Singular	Female	3
+mari	13	670	671	PER	C'	3232	3234	c '	2	11	34	0	0	0	0	103	670	c	expl:subj	674	PRON	PRON	Ambiguous	Ambiguous	3
+mari	13	673	674	PER	son mari	3239	3247	son mari	2	11	34	3	0	1	1	104	674	mari	ROOT	674	NOUN	NOM	Singular	Male	3
+la_morte	0	673	673	PER	son	3239	3242	son	1	11	34	3	1	0	0	105	673	son	det	674	DET	PRON	Singular	Ambiguous	3
+mari	13	675	675	PER	que	3248	3251	que	1	11	34	5	0	0	0	106	675	que	obj	677	PRON	PRON	Ambiguous	Ambiguous	4
+narrateur	1	676	676	PER	vous	3252	3256	vous	1	11	34	6	0	0	0	107	676	vous	nsubj	677	PRON	PRON	Ambiguous	Ambiguous	2
+mari	13	683	685	PER	celui qui pleure	3279	3295	celui qui pleure	3	11	34	13	0	0	0	108	685	pleure	acl:relcl	683	VERB	NOM	Singular	Not_Assigned	3
+narrateur	1	690	690	PER	je	3307	3309	je	1	12	35	2	0	0	0	109	690	je	nsubj	691	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	697	697	PER	Vous	3337	3341	vous	1	12	35	9	0	0	0	110	697	vous	nsubj	700	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	1	698	699	PER	m'	3342	3344	m '	2	12	35	10	0	0	0	111	698	m	iobj	700	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	702	702	PER	vous	3356	3360	vous	1	12	35	14	0	0	0	112	702	vous	nsubj	705	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	1	703	704	PER	m'	3361	3363	m '	2	12	35	15	0	0	0	113	703	m	iobj	705	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	708	708	PER	monsieur	3385	3393	monsieur	1	12	35	20	0	0	0	114	708	monsieur	dep	691	NOUN	NOM	Singular	Male	3
+autre_monsieur	3	714	714	PER	vous	3418	3422	vous	1	12	36	4	0	0	0	115	714	vous	iobj	715	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	1	717	717	PER	me	3435	3437	me	1	12	36	7	0	0	0	116	717	me	iobj	718	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	723	723	PER	je	3465	3467	je	1	12	37	1	0	0	0	117	723	je	nsubj	725	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	724	724	PER	vous	3468	3472	vous	1	12	37	2	0	0	0	118	724	vous	obj	725	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	1	729	729	PER	je	3495	3497	je	1	12	37	7	0	0	0	119	729	je	nsubj	733	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	736	737	PER	Le monsieur	3516	3527	le monsieur	2	13	38	0	0	0	0	120	737	monsieur	nsubj	739	NOUN	NOM	Singular	Male	3
+narrateur	1	738	738	PER	me	3528	3530	me	1	13	38	2	0	0	0	121	738	me	iobj	739	PRON	PRON	Singular	Ambiguous	1
+autre_monsieur	3	761	761	PER	Je	3625	3627	je	1	13	40	0	0	0	0	122	761	je	nsubj	762	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	763	763	PER	vous	3633	3637	vous	1	13	40	2	0	0	0	123	763	vous	iobj	764	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur_et_monsieur	90	772	772	PER	Nous	3666	3670	nous	1	13	41	0	0	0	0	124	772	nous	nsubj	773	PRON	PRON	Plural	Ambiguous	1
+cimetiere	19	780	781	FAC	au cimetière	3703	3715	au cimetière	2	13	41	8	0	0	0	125	781	cimetière	obl:arg	779	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cimetiere	19	783	783	FAC	dont	3717	3721	dont	1	13	41	11	0	0	0	126	783	dont	dep	785	PRON	PRON	Not_Assigned	Not_Assigned	4
+narrateur	1	784	784	PER	vous	3722	3726	vous	1	13	41	12	0	0	0	127	784	vous	nsubj	785	PRON	PRON	Ambiguous	Ambiguous	2
+autre_monsieur	3	800	800	PER	il	3782	3784	il	1	14	43	1	0	0	0	128	800	il	nsubj	801	PRON	PRON	Singular	Male	3
+narrateur	1	805	805	PER	vous	3807	3811	-vous	1	14	43	6	0	0	0	129	805	vous	dep	804	PRON	PRON	Ambiguous	Ambiguous	2
+la_morte	0	807	809	PER	cette jeune femme	3816	3833	cette jeune femme	3	14	43	8	0	0	0	130	809	femme	nsubj	817	NOUN	NOM	Singular	Female	3
+la_morte	0	811	813	PER	Mme Paul Hamot	3835	3849	mme paul hamot	3	14	43	12	0	0	0	131	811	mme	appos	809	NOUN	PROP	Singular	Female	3
+pere_paule	16	819	823	PER	un riche commerçant du pays	3868	3895	un riche commerçant du pays	5	14	43	20	0	1	1	132	821	commerçant	nmod	817	NOUN	NOM	Not_Assigned	Not_Assigned	3
+region	93	822	823	LOC	du pays	3888	3895	du pays	2	14	43	23	1	0	0	133	823	pays	nmod	821	NOUN	NOM	Not_Assigned	Not_Assigned	3
+pere_paule	16	825	826	PER	M. Fontanelle	3897	3910	m. fontanelle	2	14	43	26	0	0	0	134	825	m.	appos	821	NOUN	PROP	Singular	Male	3
+la_morte	0	828	828	PER	Elle	3912	3916	elle	1	14	44	0	0	0	0	135	828	elle	nsubj	829	PRON	PRON	Singular	Female	3
+valet	6	846	847	PER	un valet	3986	3994	un valet	2	14	44	18	0	0	0	136	847	valet	nsubj	849	NOUN	NOM	Singular	Male	3
+la_morte	0	848	848	PER	la	3995	3997	la	1	14	44	20	0	0	0	137	848	la	obj	849	PRON	PRON	Singular	Female	3
+la_morte	0	851	851	PER	Elle	4007	4011	elle	1	14	45	0	0	0	0	138	851	elle	nsubj	853	PRON	PRON	Singular	Female	3
+valet	6	858	859	PER	ce misérable	4045	4057	ce misérable	2	14	45	7	0	0	0	139	859	misérable	obl:agent	856	ADJ	NOM	Singular	Male	3
+valet	6	860	860	PER	que	4058	4061	que	1	14	45	9	0	0	0	140	860	que	obj	863	PRON	PRON	Ambiguous	Ambiguous	4
+valet	6	861	861	PER	sa	4062	4064	sa	1	14	45	10	0	0	0	141	861	sa	det	862	DET	PRON	Singular	Ambiguous	3
+M19	59	873	875	TIME	depuis trois mois	4130	4147	depuis trois mois	3	14	46	8	0	0	0	142	875	mois	obl:mod	880	NOUN	NOM	Not_Assigned	Not_Assigned	3
+la_morte	0	876	878	PER	la pauvre martyre	4148	4165	la pauvre martyre	3	14	46	11	0	0	0	143	878	martyre	nsubj	880	NOUN	NOM	Singular	Female	3
+valet	6	885	886	PER	cette brute	4207	4218	cette brute	2	14	46	20	0	0	0	144	886	brute	nmod	883	NOUN	NOM	Singular	Ambiguous	3
+valet	6	888	889	PER	L'homme	4220	4227	l' homme	2	14	47	0	0	0	0	145	889	homme	nsubj:pass	891	NOUN	NOM	Singular	Male	3
+la_morte	0	899	901	PER	La petite fille	4277	4292	la petite fille	3	15	48	1	0	0	0	146	901	fille	nsubj	902	NOUN	NOM	Singular	Female	3
+T983	25	917	919	PER	les grandes personnes	4366	4387	les grandes personnes	3	15	48	19	0	0	0	147	919	personnes	obl:agent	915	NOUN	NOM	Plural	Ambiguous	3
+T983	25	920	920	PER	qui	4388	4391	qui	1	15	48	22	0	0	0	148	920	qui	nsubj	922	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	929	929	PER	son	4438	4441	son	1	15	48	31	0	0	0	149	929	son	det	930	DET	PRON	Singular	Ambiguous	3
+la_morte	0	933	933	PER	Elle	4452	4456	elle	1	16	49	1	0	0	0	150	933	elle	nsubj	935	PRON	PRON	Singular	Female	3
+loubain	8	937	938	GPE	la ville	4476	4484	la ville	2	16	49	5	0	0	0	151	938	ville	obl:mod	935	NOUN	NOM	Not_Assigned	Not_Assigned	3
+la_morte	0	939	945	PER	une sorte de monstre, de phénomène	4485	4519	une sorte de monstre , de phénomène	7	16	49	7	0	0	0	152	942	monstre	nmod	940	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M20	57	947	947	PER	On	4521	4523	on	1	16	50	0	0	0	0	153	947	on	nsubj	948	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	956	958	PER	la petite Fontanelle	4556	4576	la petite fontanelle	3	16	50	9	0	0	0	154	958	fontanelle	obj	954	PROPN	PROP	Singular	Female	3
+T997	67	964	966	PER	tout le monde	4592	4605	tout le monde	3	16	50	17	0	0	0	155	966	monde	nsubj	968	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	970	970	PER	elle	4626	4630	elle	1	16	50	23	0	0	0	156	970	elle	nsubj	971	PRON	PRON	Singular	Female	3
+M21	58	973	973	PER	On	4640	4642	on	1	16	51	0	0	0	0	157	973	on	nsubj	975	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	982	982	PER	la	4686	4688	la	1	16	51	9	0	0	0	158	982	la	obj	983	PRON	PRON	Singular	Female	3
+T998	66	988	992	PER	les servantes des autres familles	4714	4747	les servantes des autres familles	5	16	51	15	0	1	1	159	989	servantes	nsubj	994	NOUN	NOM	Plural	Not_Assigned	3
+T999	65	990	992	PER	des autres familles	4728	4747	des autres familles	3	16	51	17	1	0	0	160	992	familles	nmod	989	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	1006	1007	PER	l'enfant	4808	4816	l' enfant	2	16	51	33	0	0	0	161	1007	enfant	obl:arg	1004	NOUN	NOM	Singular	Ambiguous	3
+la_morte	0	1015	1016	PER	l'	4848	4850	l '	2	16	51	42	0	0	0	162	1015	l	obj	1017	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	1025	1027	PER	cette pauvre petite	4890	4909	cette pauvre petite	3	17	52	6	0	0	0	163	1027	petite	obj	1024	NOUN	NOM	Singular	Female	3
+T1000	42	1034	1035	PER	les mioches	4937	4948	les mioches	2	17	52	15	0	0	0	164	1035	mioches	nsubj	1032	NOUN	NOM	Plural	Not_Assigned	3
+T1001	44	1036	1038	TIME	toutes les après-midi	4949	4970	toutes les après-midi	3	17	52	17	0	0	0	165	1038	après-midi	nsubj	1032	NOUN	NOM	Not_Assigned	Not_Assigned	3
+la_morte	0	1040	1040	PER	Elle	4972	4976	elle	1	17	53	0	0	0	0	166	1040	elle	nsubj	1041	PRON	PRON	Singular	Female	3
+domestique	31	1048	1049	PER	sa domestique	5013	5026	sa domestique	2	17	53	8	0	1	1	167	1049	domestique	dep	1046	NOUN	NOM	Singular	Female	3
+la_morte	0	1048	1048	PER	sa	5013	5015	sa	1	17	53	8	1	0	0	168	1048	sa	det	1049	DET	PRON	Singular	Ambiguous	3
+autres_enfants	15	1056	1058	PER	les autres gamins	5054	5071	les autres gamins	3	17	53	16	0	0	0	169	1058	gamins	obj	1051	NOUN	NOM	Plural	Ambiguous	3
+autres_enfants	15	1059	1059	PER	qui	5072	5075	qui	1	17	53	19	0	0	0	170	1059	qui	nsubj	1061	PRON	PRON	Ambiguous	Ambiguous	4
+autres_enfants	15	1073	1074	PER	aux enfants	5146	5157	aux enfants	2	17	54	10	0	0	0	171	1074	enfants	obl:arg	1072	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	1076	1076	PER	elle	5159	5163	elle	1	17	54	13	0	0	0	172	1076	elle	nsubj	1078	PRON	PRON	Singular	Female	3
+groupe	88	1089	1090	PER	un groupe	5230	5239	un groupe	2	17	54	26	0	0	0	173	1090	groupe	obl:arg	1087	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	1099	1099	PER	son	5277	5280	son	1	17	54	36	0	0	0	174	1099	son	det	1100	DET	PRON	Singular	Ambiguous	3
+femmes_ville	18	1111	1118	PER	les mères, les bonnes, les tantes	5336	5369	les mères , les bonnes , les tantes	8	17	55	9	0	1	3	175	1112	mères	obj	1110	NOUN	NOM	Plural	Not_Assigned	3
+les_meres	28	1111	1112	PER	les mères	5336	5345	les mères	2	17	55	9	1	0	0	176	1112	mères	obj	1110	NOUN	NOM	Plural	Female	3
+M25	50	1114	1115	PER	les bonnes	5347	5357	les bonnes	2	17	55	12	1	0	0	177	1115	bonnes	conj	1112	ADJ	NOM	Plural	Not_Assigned	3
+T1014	43	1117	1118	PER	les tantes	5359	5369	les tantes	2	17	55	15	1	0	0	178	1118	tantes	conj	1112	NOUN	NOM	Plural	Female	3
+femmes_ville	18	1120	1120	PER	qui	5371	5374	qui	1	17	55	18	0	0	0	179	1120	qui	nsubj	1121	PRON	PRON	Ambiguous	Ambiguous	4
+fillettes	27	1125	1126	PER	les fillettes	5400	5413	les fillettes	2	17	55	23	0	0	0	180	1126	fillettes	obj	1121	NOUN	NOM	Plural	Female	3
+femmes_ville	18	1129	1129	PER	leur	5425	5429	leur	1	17	55	27	0	0	0	181	1129	leur	det	1130	DET	PRON	Plural	Ambiguous	3
+fillettes	27	1132	1132	PER	les	5439	5442	les	1	17	55	30	0	0	0	182	1132	les	obj	1133	PRON	PRON	Plural	Ambiguous	3
+la_morte	0	1136	1138	PER	La petite Fontanelle	5469	5489	la petite fontanelle	3	17	56	0	0	0	0	183	1138	fontanelle	nsubj	1139	PROPN	PROP	Singular	Female	3
+la_morte	0	1148	1148	PER	elle	5538	5542	elle	1	17	56	12	0	0	0	184	1148	elle	nsubj	1150	PRON	PRON	Singular	Female	3
+la_morte	0	1161	1161	PER	elle	5599	5603	elle	1	17	57	1	0	0	0	185	1161	elle	nsubj	1162	PRON	PRON	Singular	Female	3
+domestique	31	1175	1176	PER	sa bonne	5667	5675	sa bonne	2	17	57	15	0	1	1	186	1176	bonne	nmod	1173	NOUN	NOM	Singular	Female	3
+la_morte	0	1175	1175	PER	sa	5667	5669	sa	1	17	57	15	1	0	0	187	1175	sa	det	1176	DET	PRON	Singular	Ambiguous	3
+la_morte	0	1179	1179	PER	Elle	5680	5684	elle	1	18	58	1	0	0	0	188	1179	elle	nsubj	1180	PRON	PRON	Singular	Female	3
+M1	61	1187	1187	PER	On	5714	5716	on	1	18	59	0	0	0	0	189	1187	on	nsubj	1188	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	1190	1190	PER	elle	5729	5733	elle	1	18	59	3	0	0	0	190	1190	elle	obl:arg	1188	PRON	PRON	Singular	Female	3
+jeunes_filles	17	1191	1193	PER	les jeunes filles	5734	5751	les jeunes filles	3	18	59	4	0	0	0	191	1193	filles	obj	1188	NOUN	NOM	Plural	Female	3
+la_morte	0	1202	1204	PER	cette jeune personne	5792	5812	cette jeune personne	3	18	60	3	0	0	0	192	1204	personne	nsubj	1206	NOUN	NOM	Singular	Ambiguous	3
+la_morte	0	1215	1215	PER	elle	5854	5858	elle	1	18	60	16	0	0	0	193	1215	elle	nsubj	1217	PRON	PRON	Singular	Female	3
+la_morte	0	1228	1228	PER	elle	5915	5919	elle	1	18	60	29	0	0	0	194	1228	elle	nsubj	1230	PRON	PRON	Singular	Female	3
+la_morte	0	1260	1260	PER	elle	6080	6084	elle	1	19	61	2	0	0	0	195	1260	elle	nsubj	1261	PRON	PRON	Singular	Female	3
+gouvernante	87	1268	1269	PER	sa gouvernante	6121	6135	sa gouvernante	2	19	61	10	0	1	1	196	1269	gouvernante	obl:agent	1266	NOUN	NOM	Singular	Female	3
+la_morte	0	1268	1268	PER	sa	6121	6123	sa	1	19	61	10	1	0	0	197	1268	sa	det	1269	DET	PRON	Singular	Ambiguous	3
+la_morte	0	1274	1275	PER	l'	6149	6151	l '	2	19	61	16	0	0	0	198	1274	l	obj	1277	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	1292	1292	PER	elle	6244	6248	elle	1	19	61	34	0	0	0	199	1292	elle	nsubj	1293	PRON	PRON	Singular	Female	3
+la_morte	0	1307	1307	PER	elle	6325	6329	elle	1	19	61	49	0	0	0	200	1307	elle	nsubj	1308	PRON	PRON	Singular	Female	3
+la_morte	0	1311	1311	PER	elle	6348	6352	elle	1	19	61	53	0	0	0	201	1311	elle	obl:arg	1309	PRON	PRON	Singular	Female	3
+jeunes_filles	17	1313	1316	PER	les autres jeunes filles	6354	6378	les autres jeunes filles	4	19	61	55	0	0	0	202	1316	filles	nsubj	1325	NOUN	NOM	Plural	Female	3
+la_morte	0	1327	1327	PER	la	6425	6427	la	1	19	61	69	0	0	0	203	1327	la	obj	1328	PRON	PRON	Singular	Female	3
+la_morte	0	1349	1349	PER	elle	6543	6547	elle	1	19	61	91	0	0	0	204	1349	elle	nsubj	1351	PRON	PRON	Singular	Female	3
+jeunes_filles	17	1350	1350	PER	les	6548	6551	les	1	19	61	92	0	0	0	205	1350	les	obj	1351	PRON	PRON	Plural	Ambiguous	3
+M22	49	1354	1354	PER	On	6563	6565	on	1	20	62	1	0	0	0	206	1354	on	nsubj	1356	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	1355	1355	PER	la	6566	6568	la	1	20	62	2	0	0	0	207	1355	la	obj	1356	PRON	PRON	Singular	Female	3
+hommes	85	1362	1363	PER	quelques hommes	6593	6608	quelques hommes	2	20	63	2	0	0	0	208	1363	hommes	nsubj	1365	NOUN	NOM	Plural	Not_Assigned	3
+les_meres	28	1367	1368	PER	Les mères	6626	6635	les mères	2	20	64	0	0	0	0	209	1368	mères	nsubj	1369	NOUN	NOM	Plural	Female	3
+la_morte	0	1372	1373	PER	l'	6653	6655	l '	2	20	64	5	0	0	0	210	1372	l	obj	1376	PRON	PRON	Singular	Ambiguous	3
+voyous	96	1378	1380	PER	Quelques petits voyous	6675	6697	quelques petits voyous	3	20	65	0	0	0	0	211	1380	voyous	nsubj	1383	NOUN	NOM	Plural	Not_Assigned	3
+la_morte	0	1381	1382	PER	l'	6698	6700	l '	2	20	65	3	0	0	0	212	1381	l	obj	1383	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	1385	1386	PER	madame Baptiste	6714	6729	madame baptiste	2	20	65	7	0	0	0	213	1385	madame	xcomp	1383	NOUN	PROP	Singular	Female	3
+valet	6	1391	1392	PER	du valet	6740	6748	du valet	2	20	65	13	0	0	0	214	1392	valet	nmod	1390	NOUN	NOM	Singular	Male	3
+valet	6	1393	1393	PER	qui	6749	6752	qui	1	20	65	15	0	0	0	215	1393	qui	nsubj	1397	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	1394	1395	PER	l'	6753	6755	l '	2	20	65	16	0	0	0	216	1394	l	obj	1397	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	1409	1409	PER	son	6834	6837	son	1	21	66	8	0	0	0	217	1409	son	det	1410	DET	PRON	Singular	Ambiguous	3
+la_morte	0	1413	1413	PER	elle	6848	6852	elle	1	21	66	12	0	0	0	218	1413	elle	nsubj	1415	PRON	PRON	Singular	Female	3
+parents_paule	9	1422	1423	PER	Ses parents	6890	6901	ses parents	2	21	67	0	0	1	1	219	1423	parents	nsubj	1427	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	1422	1422	PER	Ses	6890	6893	ses	1	21	67	0	1	0	0	220	1422	ses	det	1423	DET	PRON	Singular	Ambiguous	3
+parents_paule	9	1424	1426	PER	eux-mêmes	6902	6911	eux - mêmes	3	21	67	2	0	0	0	221	1424	eux	dep	1423	PRON	PRON	Not_Assigned	Not_Assigned	3
+la_morte	0	1430	1430	PER	elle	6936	6940	elle	1	21	67	8	0	0	0	222	1430	elle	obl:mod	1428	PRON	PRON	Singular	Female	3
+parents_paule	9	1434	1434	PER	ils	6950	6953	ils	1	21	67	12	0	0	0	223	1434	ils	nsubj	1437	PRON	PRON	Plural	Ambiguous	3
+la_morte	0	1435	1435	PER	lui	6954	6957	lui	1	21	67	13	0	0	0	224	1435	lui	iobj	1437	PRON	PRON	Singular	Ambiguous	3
+parents_paule	9	1470	1473	PER	M. et Mme Fontanelle	7137	7157	m. et mme fontanelle	4	22	69	0	0	1	2	225	1470	m.	nsubj	1474	NOUN	PROP	Plural	Not_Assigned	3
+pere_paule	16	1470	1470	PER	M	7137	7138	m.	1	22	69	0	1	0	0	226	1470	m.	nsubj	1474	NOUN	NOM	Not_Assigned	Male	3
+mere_paule	92	1472	1473	PER	Mme Fontanelle	7143	7157	mme fontanelle	2	22	69	2	1	0	0	227	1472	mme	conj	1470	NOUN	PROP	Singular	Female	3
+la_morte	0	1475	1476	PER	leur fille	7172	7182	leur fille	2	22	69	5	0	1	1	228	1476	fille	obj	1474	NOUN	NOM	Singular	Female	3
+parents_paule	9	1475	1475	PER	leur	7172	7176	leur	1	22	69	5	1	0	0	229	1475	leur	det	1476	DET	PRON	Plural	Ambiguous	3
+parents_paule	9	1478	1478	PER	ils	7189	7192	ils	1	22	69	8	0	0	0	230	1478	ils	nsubj	1480	PRON	PRON	Plural	Ambiguous	3
+la_morte	0	1489	1489	PER	Elle	7237	7241	elle	1	23	70	1	0	0	0	231	1489	elle	nsubj	1491	PRON	PRON	Singular	Female	3
+la_morte	0	1500	1500	PER	Elle	7289	7293	elle	1	23	71	0	0	0	0	232	1500	elle	nsubj	1505	PRON	PRON	Singular	Female	3
+autre_monsieur	3	1501	1502	PER	m'	7294	7296	m '	2	23	71	1	0	0	0	233	1501	m	nsubj	1505	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	1507	1507	PER	monsieur	7318	7326	monsieur	1	23	71	7	0	0	0	234	1507	monsieur	dep	1505	NOUN	NOM	Singular	Male	3
+M24	51	1517	1517	PER	nous	7361	7365	nous	1	24	72	4	0	0	0	235	1517	nous	nsubj	1519	PRON	PRON	Plural	Ambiguous	1
+sous_prefet	4	1520	1522	PER	un nouveau sous-préfet	7375	7397	un nouveau sous-préfet	3	24	72	7	0	0	0	236	1522	sous-préfet	obj	1519	NOUN	NOM	Singular	Male	3
+M26	56	1524	1527	TIME	voici maintenant dix-huit mois	7399	7429	voici maintenant dix-huit mois	4	24	72	11	0	0	0	237	1524	voici	ROOT	1524	VERB	NOM	Not_Assigned	Not_Assigned	3
+sous_prefet	4	1529	1529	PER	il	7431	7433	il	1	24	72	16	0	0	0	238	1529	il	nsubj	1530	PRON	PRON	Singular	Male	3
+sous_prefet	4	1532	1532	PER	lui	7445	7448	lui	1	24	72	19	0	0	0	239	1532	lui	obl:mod	1530	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1533	1535	PER	son secrétaire particulier	7449	7475	son secrétaire particulier	3	24	72	20	0	1	1	240	1534	secrétaire	obj	1530	NOUN	NOM	Singular	Male	3
+sous_prefet	4	1533	1533	PER	son	7449	7452	son	1	24	72	20	1	0	0	241	1533	son	det	1534	DET	PRON	Singular	Ambiguous	3
+paul_hamot	2	1537	1540	PER	un drôle de garçon	7477	7495	un drôle de garçon	4	24	72	24	0	0	0	242	1538	drôle	appos	1534	NOUN	NOM	Singular	Male	3
+paul_hamot	2	1541	1541	PER	qui	7496	7499	qui	1	24	72	28	0	0	0	243	1541	qui	nsubj	1543	PRON	PRON	Ambiguous	Ambiguous	4
+T1085	47	1547	1549	FAC	le quartier Latin	7523	7540	le quartier latin	3	24	72	34	0	0	0	244	1548	quartier	obl:mod	1543	NOUN	NOM	Not_Assigned	Not_Assigned	3
+paul_hamot	2	1555	1555	PER	Il	7556	7558	il	1	25	73	1	0	0	0	245	1555	il	nsubj	1556	PRON	PRON	Singular	Male	3
+la_morte	0	1557	1558	PER	Mlle Fontanelle	7563	7578	mlle fontanelle	2	25	73	3	0	0	0	246	1557	mlle	obj	1556	NOUN	PROP	Singular	Female	3
+M31	55	1564	1564	PER	On	7602	7604	on	1	25	74	0	0	0	0	247	1564	on	nsubj	1566	PRON	PRON	Ambiguous	Ambiguous	3
+paul_hamot	2	1565	1565	PER	lui	7605	7608	lui	1	25	74	1	0	0	0	248	1565	lui	iobj	1566	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1569	1569	PER	Il	7619	7621	il	1	25	75	0	0	0	0	249	1569	il	nsubj	1571	PRON	PRON	Singular	Male	3
+paul_hamot	2	1588	1589	PER	J'	7702	7704	j '	2	25	76	0	0	0	0	250	1588	j	nsubj	1590	PRON	PRON	Singular	Ambiguous	1
+la_morte	0	1600	1602	PER	cette femme-là	7749	7763	cette femme -là	3	25	77	1	0	0	0	251	1601	femme	obl:mod	1605	NOUN	NOM	Singular	Female	3
+paul_hamot	2	1604	1604	PER	je	7765	7767	je	1	25	77	5	0	0	0	252	1604	je	nsubj	1605	PRON	PRON	Singular	Ambiguous	1
+paul_hamot	2	1610	1610	PER	Il	7794	7796	il	1	26	78	1	0	0	0	253	1610	il	nsubj	1611	PRON	PRON	Singular	Male	3
+paul_hamot	2	1612	1612	PER	sa	7801	7803	sa	1	26	78	3	0	0	0	254	1612	sa	det	1613	DET	PRON	Singular	Ambiguous	3
+la_morte	0	1615	1615	PER	la	7810	7812	la	1	26	78	6	0	0	0	255	1615	la	obj	1616	PRON	PRON	Singular	Female	3
+la_morte	0	1620	1621	PER	l'	7835	7837	l '	2	26	78	11	0	0	0	256	1620	l	obj	1622	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1630	1630	PER	il	7870	7872	il	1	26	79	6	0	0	0	257	1630	il	nsubj	1631	PRON	PRON	Singular	Male	3
+T1086	48	1643	1644	PER	Quelques personnes	7923	7941	quelques personnes	2	26	80	0	0	0	0	258	1644	personnes	nsubj	1646	NOUN	NOM	Plural	Ambiguous	3
+M32	53	1655	1655	PER	on	7987	7989	on	1	26	81	2	0	0	0	259	1655	on	nsubj	1656	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	1660	1660	PER	elle	8014	8018	elle	1	26	81	7	0	0	0	260	1660	elle	nsubj	1661	PRON	PRON	Singular	Female	3
+narrateur	1	1670	1670	PER	vous	8059	8063	vous	1	27	82	3	0	0	0	261	1670	vous	iobj	1671	PRON	PRON	Ambiguous	Ambiguous	2
+la_morte	0	1673	1673	PER	elle	8072	8076	elle	1	27	82	6	0	0	0	262	1673	elle	nsubj	1674	PRON	PRON	Singular	Female	3
+paul_hamot	2	1675	1676	PER	son mari	8085	8093	son mari	2	27	82	8	0	1	1	263	1676	mari	obj	1674	NOUN	NOM	Singular	Male	3
+la_morte	0	1675	1675	PER	son	8085	8088	son	1	27	82	8	1	0	0	264	1675	son	det	1676	DET	PRON	Singular	Ambiguous	3
+paul_hamot	2	1683	1683	PER	il	8119	8121	il	1	27	83	2	0	0	0	265	1683	il	nsubj	1686	PRON	PRON	Singular	Male	3
+la_morte	0	1684	1684	PER	lui	8122	8125	lui	1	27	83	3	0	0	0	266	1684	lui	iobj	1686	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1691	1691	PER	il	8152	8154	il	1	27	83	10	0	0	0	267	1691	il	nsubj	1696	PRON	PRON	Singular	Male	3
+la_morte	0	1692	1693	PER	l'	8155	8157	l '	2	27	83	11	0	0	0	268	1692	l	obj	1696	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1703	1703	PER	il	8201	8203	il	1	27	83	22	0	0	0	269	1703	il	nsubj	1705	PRON	PRON	Singular	Male	3
+la_morte	0	1731	1731	PER	Elle	8334	8338	elle	1	27	84	0	0	0	0	270	1731	elle	nsubj	1732	PRON	PRON	Singular	Female	3
+paul_hamot	2	1735	1735	PER	lui	8355	8358	lui	1	27	84	4	0	0	0	271	1735	lui	obl:mod	1732	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	1743	1743	PER	Elle	8397	8401	elle	1	28	85	1	0	0	0	272	1743	elle	nsubj	1744	PRON	PRON	Singular	Female	3
+M33	54	1750	1750	PER	on	8429	8431	on	1	28	85	8	0	0	0	273	1750	on	nsubj	1751	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	1752	1752	PER	sa	8439	8441	sa	1	28	85	10	0	0	0	274	1752	sa	det	1753	DET	PRON	Singular	Ambiguous	3
+T1091	22	1755	1759	PER	les personnes les plus chatouilleuses	8453	8490	les personnes les plus chatouilleuses	5	28	85	13	0	0	0	275	1756	personnes	nsubj	1761	NOUN	NOM	Plural	Not_Assigned	3
+la_morte	0	1760	1760	PER	lui	8491	8494	lui	1	28	85	18	0	0	0	276	1760	lui	iobj	1761	PRON	PRON	Singular	Ambiguous	3
+T1091	22	1762	1762	PER	leur	8505	8509	leur	1	28	85	20	0	0	0	277	1762	leur	det	1763	DET	PRON	Plural	Ambiguous	3
+la_morte	0	1767	1767	PER	elle	8526	8530	elle	1	28	85	25	0	0	0	278	1767	elle	nsubj:pass	1771	PRON	PRON	Singular	Female	3
+M34	52	1795	1795	PER	nous	8659	8663	nous	1	29	87	9	0	0	0	279	1795	nous	nsubj	1797	PRON	PRON	Plural	Ambiguous	1
+T1092	46	1799	1801	TIME	l'autre jour	8674	8686	l' autre jour	3	29	87	13	0	0	0	280	1801	jour	obl:mod	1797	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M35	62	1803	1807	TIME	la fête patronale du pays	8688	8713	la fête patronale du pays	5	29	87	17	0	1	1	281	1804	fête	obj	1797	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1093	37	1806	1807	LOC	du pays	8706	8713	du pays	2	29	87	20	1	0	0	282	1807	pays	nmod	1804	NOUN	NOM	Not_Assigned	Not_Assigned	3
+sous_prefet	4	1809	1810	PER	Le préfet	8715	8724	le préfet	2	29	88	0	0	0	0	283	1810	préfet	nsubj	1822	NOUN	NOM	Singular	Male	3
+sous_prefet	4	1812	1820	PER	entouré de son état-major et des autorités	8726	8768	entouré de son état - major et des autorités	9	29	88	3	0	2	3	284	1812	entouré	acl	1810	VERB	NOM	Plural	Not_Assigned	3
+M36	63	1814	1817	PER	son état-major	8737	8751	son état - major	4	29	88	5	1	1	1	285	1815	état	obl:agent	1812	NOUN	NOM	Singular	Not_Assigned	3
+sous_prefet	4	1814	1814	PER	son	8737	8740	son	1	29	88	5	2	0	0	286	1814	son	det	1815	DET	PRON	Singular	Ambiguous	3
+T1096	39	1819	1820	ORG	des autorités	8755	8768	des autorités	2	29	88	10	1	0	0	287	1820	autorités	conj	1817	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1097	40	1825	1826	PER	des orphéons	8792	8804	des orphéons	2	29	88	16	0	0	0	288	1826	orphéons	nmod	1824	NOUN	NOM	Plural	Not_Assigned	3
+sous_prefet	4	1829	1829	PER	il	8809	8811	il	1	29	88	20	0	0	0	289	1829	il	nsubj	1830	PRON	PRON	Singular	Male	3
+sous_prefet	4	1833	1833	PER	son	8832	8835	son	1	29	88	24	0	0	0	290	1833	son	det	1834	DET	PRON	Singular	Ambiguous	3
+paul_hamot	2	1843	1845	PER	son secrétaire particulier	8897	8923	son secrétaire particulier	3	29	88	34	0	1	1	291	1844	secrétaire	nsubj	1850	NOUN	NOM	Singular	Male	3
+sous_prefet	4	1843	1843	PER	son	8897	8900	son	1	29	88	34	1	0	0	292	1843	son	det	1844	DET	PRON	Singular	Ambiguous	3
+paul_hamot	2	1847	1848	PER	Paul Hamot	8925	8935	paul hamot	2	29	88	38	0	0	0	293	1847	paul	appos	1844	PROPN	PROP	Singular	Female	3
+narrateur	1	1856	1856	PER	Vous	8970	8974	vous	1	30	89	1	0	0	0	294	1856	vous	nsubj	1857	PRON	PRON	Ambiguous	Ambiguous	2
+femmes_de_loubain	86	1881	1886	PER	Toutes les dames de la ville	9092	9120	toutes les dames de la ville	6	31	90	1	0	1	1	295	1883	dames	nsubj	1887	NOUN	NOM	Plural	Not_Assigned	3
+loubain	8	1885	1886	GPE	la ville	9112	9120	la ville	2	31	90	5	1	0	0	296	1886	ville	nmod	1883	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chef_de_musique	7	1896	1896	PER	son	9153	9156	son	1	32	91	2	0	0	0	297	1896	son	det	1897	DET	PRON	Singular	Ambiguous	3
+chef_de_musique	7	1900	1907	PER	le chef de musique du bourg de Mormillon	9171	9211	le chef de musique du bourg de mormillon	8	32	91	6	0	1	1	298	1901	chef	nsubj	1899	NOUN	PROP	Singular	Not_Assigned	3
+M37	64	1904	1907	GPE	du bourg de Mormillon	9190	9211	du bourg de mormillon	4	32	91	10	1	0	0	299	1905	bourg	nmod	1901	NOUN	PROP	Not_Assigned	Not_Assigned	3
+chef_de_musique	7	1909	1909	PER	Sa	9213	9215	sa	1	32	92	0	0	0	0	300	1909	sa	det	1910	DET	PRON	Singular	Ambiguous	3
+paul_hamot	2	1941	1943	PER	le secrétaire particulier	9352	9377	le secrétaire particulier	3	33	94	2	0	0	0	301	1942	secrétaire	nsubj	1945	NOUN	NOM	Singular	Male	3
+chef_de_musique	7	1944	1944	PER	lui	9378	9381	lui	1	33	94	5	0	0	0	302	1944	lui	iobj	1945	PRON	PRON	Singular	Ambiguous	3
+chef_de_musique	7	1946	1946	PER	son	9388	9391	son	1	33	94	7	0	0	0	303	1946	son	det	1947	DET	PRON	Singular	Ambiguous	3
+chef_de_musique	7	1951	1952	PER	cet homme	9411	9420	cet homme	2	33	94	12	0	0	0	304	1952	homme	nsubj	1955	NOUN	NOM	Singular	Male	3
+paul_hamot	2	1954	1954	PER	lui	9424	9427	lui	1	33	94	15	0	0	0	305	1954	lui	iobj	1955	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	1963	1963	PER	Tu	9460	9462	tu	1	33	94	24	0	0	0	306	1963	tu	nsubj	1964	PRON	PRON	Singular	Ambiguous	2
+valet	6	1968	1968	PER	Baptiste	9483	9491	baptiste	1	33	94	29	0	0	0	307	1968	baptiste	obl:mod	1966	PROPN	PROP	Singular	Female	3
+paul_hamot	2	1970	1970	PER	ta	9493	9495	ta	1	33	94	31	0	0	0	308	1970	ta	det	1971	DET	PRON	Singular	Ambiguous	2
+paul_hamot	2	1973	1973	PER	Tu	9506	9508	tu	1	33	95	0	0	0	0	309	1973	tu	nsubj	1976	PRON	PRON	Singular	Ambiguous	2
+valet	6	1974	1974	PER	lui	9509	9512	lui	1	33	95	1	0	0	0	310	1974	lui	iobj	1976	PRON	PRON	Singular	Ambiguous	3
+chef_de_musique	7	1986	1986	PER	moi	9565	9568	moi	1	33	95	13	0	0	0	311	1986	moi	ccomp	1976	PRON	PRON	Singular	Ambiguous	1
+gens_qui_rient	35	1994	1997	PER	un tas de peuple	9589	9605	un tas de peuple	4	34	96	5	0	0	0	312	1995	tas	obj	1992	NOUN	NOM	Plural	Not_Assigned	3
+gens_qui_rient	35	1998	1998	PER	qui	9606	9609	qui	1	34	96	9	0	0	0	313	1998	qui	nsubj	2000	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	2021	2023	PER	cette pauvre dame	9706	9723	cette pauvre dame	3	34	97	17	0	0	0	314	2023	dame	obl:arg	2019	NOUN	NOM	Singular	Female	3
+narrateur	1	2028	2028	PER	monsieur	9732	9740	monsieur	1	35	98	3	0	0	0	315	2028	monsieur	obl:mod	2033	NOUN	NOM	Singular	Male	3
+narrateur	1	2031	2031	PER	vous	9747	9751	-vous	1	35	98	6	0	0	0	316	2031	vous	nsubj	2033	PRON	PRON	Ambiguous	Ambiguous	2
+foule	10	2044	2044	PER	nous	9806	9810	nous	1	35	100	3	0	0	0	317	2044	nous	nsubj	2046	PRON	PRON	Plural	Ambiguous	1
+la_morte	0	2052	2052	PER	Elle	9845	9849	elle	1	35	101	0	0	0	0	318	2052	elle	nsubj	2054	PRON	PRON	Singular	Female	3
+la_morte	0	2058	2058	PER	son	9873	9876	son	1	35	101	6	0	0	0	319	2058	son	det	2059	DET	PRON	Singular	Ambiguous	3
+la_morte	0	2067	2067	PER	elle	9913	9917	elle	1	35	101	15	0	0	0	320	2067	elle	nsubj	2069	PRON	PRON	Singular	Female	3
+la_morte	0	2075	2075	PER	elle	9952	9956	elle	1	35	101	23	0	0	0	321	2075	elle	nsubj	2077	PRON	PRON	Singular	Female	3
+foule	10	2079	2081	PER	toute cette foule	9979	9996	toute cette foule	3	35	101	27	0	0	0	322	2081	foule	obj	2078	NOUN	NOM	Plural	Ambiguous	3
+foule	10	2082	2082	PER	qui	9997	10000	qui	1	35	101	30	0	0	0	323	2082	qui	nsubj	2085	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	2083	2084	PER	l'	10001	10003	l '	2	35	101	31	0	0	0	324	2083	l	obj	2085	PRON	PRON	Singular	Ambiguous	3
+foule	10	2095	2096	PER	le public	10047	10056	le public	2	36	102	8	0	0	0	325	2096	public	obl:mod	2098	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	2104	2105	PER	madame Baptiste	10079	10094	madame baptiste	2	36	102	17	0	0	0	326	2104	madame	ROOT	2104	NOUN	PROP	Singular	Female	3
+M39	24	2135	2135	PER	On	10231	10233	on	1	37	104	0	0	0	0	327	2135	on	nsubj	2137	PRON	PRON	Ambiguous	Ambiguous	3
+M39	24	2141	2141	PER	on	10255	10257	on	1	37	104	6	0	0	0	328	2141	on	nsubj	2143	PRON	PRON	Ambiguous	Ambiguous	3
+la_morte	0	2150	2151	PER	cette malheureuse	10302	10319	cette malheureuse	2	37	104	15	0	0	0	329	2151	malheureuse	nsubj	2149	NOUN	NOM	Singular	Female	3
+T1121	21	2153	2154	PER	des maris	10322	10331	des maris	2	37	104	18	0	0	0	330	2154	maris	nsubj	2155	NOUN	NOM	Plural	Male	3
+T1122	23	2156	2157	PER	leurs femmes	10343	10355	leurs femmes	2	37	104	21	0	1	1	331	2157	femmes	obj	2155	NOUN	NOM	Plural	Female	3
+T1121	21	2156	2156	PER	leurs	10343	10348	leurs	1	37	104	21	1	0	0	332	2156	leurs	det	2157	DET	PRON	Plural	Ambiguous	3
+T1121	21	2159	2159	PER	leurs	10361	10366	leurs	1	37	104	24	0	0	0	333	2159	leurs	det	2160	DET	PRON	Plural	Ambiguous	3
+la_morte	0	2163	2163	PER	la	10380	10382	la	1	37	104	28	0	0	0	334	2163	la	obj	2165	PRON	PRON	Singular	Female	3
+T1122	23	2164	2164	PER	leur	10383	10387	leur	1	37	104	29	0	0	0	335	2164	leur	iobj	2165	PRON	PRON	Plural	Ambiguous	3
+T1123	38	2167	2168	PER	des gens	10398	10406	des gens	2	37	104	32	0	0	0	336	2168	gens	nsubj	2169	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	2172	2172	PER	Laquelle	10423	10431	laquelle	1	37	104	37	0	0	0	337	2172	laquelle	obl:mod	2169	ADJ	NOM	Singular	Female	3
+T1124	36	2179	2180	PER	Les gamins	10451	10461	les gamins	2	37	104	44	0	0	0	338	2180	gamins	nsubj	2181	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	2197	2197	PER	Elle	10540	10544	elle	1	38	105	1	0	0	0	339	2197	elle	nsubj	2199	PRON	PRON	Singular	Female	3
+la_morte	0	2205	2205	PER	son	10575	10578	son	1	38	105	9	0	0	0	340	2205	son	det	2206	DET	PRON	Singular	Ambiguous	3
+la_morte	0	2212	2212	PER	elle	10608	10612	elle	1	38	105	16	0	0	0	341	2212	elle	nsubj:pass	2215	PRON	PRON	Singular	Female	3
+foule	10	2219	2220	PER	l'assemblée	10643	10654	l' assemblée	2	38	105	23	0	0	0	342	2220	assemblée	obl:mod	2215	NOUN	NOM	Plural	Ambiguous	3
+la_morte	0	2222	2222	PER	Elle	10656	10660	elle	1	38	106	0	0	0	0	343	2222	elle	nsubj	2224	PRON	PRON	Singular	Female	3
+la_morte	0	2233	2233	PER	son	10713	10716	son	1	38	106	11	0	0	0	344	2233	son	det	2234	DET	PRON	Singular	Ambiguous	3
+la_morte	0	2236	2236	PER	Ses	10725	10728	ses	1	38	107	0	0	0	0	345	2236	ses	det	2237	DET	PRON	Singular	Ambiguous	3
+la_morte	0	2245	2245	PER	lui	10795	10798	lui	1	38	107	9	0	0	0	346	2245	lui	iobj	2247	PRON	PRON	Singular	Ambiguous	3
+la_morte	0	2252	2252	PER	elle	10823	10827	elle	1	38	107	16	0	0	0	347	2252	elle	nsubj	2253	PRON	PRON	Singular	Female	3
+la_morte	0	2271	2271	PER	la	10907	10909	la	1	39	108	6	0	0	0	348	2271	la	obj	2272	PRON	PRON	Singular	Female	3
+paul_hamot	2	2275	2276	PER	M. Hamot	10919	10927	m. hamot	2	40	109	1	0	0	0	349	2275	m.	nsubj	2278	NOUN	PROP	Singular	Male	3
+chef_de_musique	7	2282	2284	PER	ce grossier personnage	10951	10973	ce grossier personnage	3	40	109	8	0	0	0	350	2284	personnage	obj	2278	NOUN	NOM	Singular	Ambiguous	3
+paul_et_chef_d_orchestre	89	2287	2287	PER	ils	10978	10981	ils	1	40	109	13	0	0	0	351	2287	ils	nsubj	2289	PRON	PRON	Plural	Ambiguous	3
+M40	45	2306	2308	TIME	Une heure après	11076	11091	une heure après	3	42	111	1	0	0	0	352	2307	heure	obl:mod	2308	NOUN	NOM	Not_Assigned	Not_Assigned	3
+les_hamot	34	2313	2314	PER	les Hamot	11106	11115	les hamot	2	42	111	8	0	0	0	353	2314	hamot	nsubj	2315	NOUN	NOM	Plural	Not_Assigned	3
+les_hamot	34	2317	2317	PER	eux	11132	11135	eux	1	42	111	12	0	0	0	354	2317	eux	obl:arg	2315	PRON	PRON	Plural	Ambiguous	3
+la_morte	0	2319	2321	PER	la jeune femme	11137	11151	la jeune femme	3	42	111	14	0	0	0	355	2321	femme	nsubj	2352	NOUN	NOM	Singular	Female	3
+la_morte	0	2323	2323	PER	qui	11153	11156	qui	1	42	111	18	0	0	0	356	2323	qui	nsubj	2327	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	2336	2336	PER	qui	11213	11216	qui	1	42	111	31	0	0	0	357	2336	qui	nsubj	2337	PRON	PRON	Ambiguous	Ambiguous	4
+la_morte	0	2341	2341	PER	ses	11241	11244	ses	1	42	111	36	0	0	0	358	2341	ses	det	2342	DET	PRON	Singular	Ambiguous	3
+T1130	84	2358	2359	FAC	du pont	11323	11330	du pont	2	42	111	53	0	0	0	359	2359	pont	nmod	2357	NOUN	NOM	Not_Assigned	Not_Assigned	3
+paul_hamot	2	2362	2363	PER	son mari	11340	11348	son mari	2	42	111	57	0	1	1	360	2363	mari	nsubj	2365	NOUN	NOM	Singular	Male	3
+la_morte	0	2362	2362	PER	son	11340	11343	son	1	42	111	57	1	0	0	361	2362	son	det	2363	DET	PRON	Singular	Ambiguous	3
+la_morte	0	2369	2369	PER	la	11368	11370	la	1	42	111	64	0	0	0	362	2369	la	obj	2370	PRON	PRON	Singular	Female	3
+T1131	83	2376	2377	LOC	la rivière	11396	11406	la rivière	2	42	111	71	0	0	0	363	2377	rivière	obl:arg	2374	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1133	82	2390	2391	TIME	deux heures	11454	11465	deux heures	2	43	113	2	0	0	0	364	2391	heures	dep	2394	NOUN	NOM	Not_Assigned	Not_Assigned	3
+la_morte	0	2396	2396	PER	la	11486	11488	la	1	43	113	8	0	0	0	365	2396	la	obj	2397	PRON	PRON	Singular	Female	3
+la_morte	0	2399	2399	PER	Elle	11499	11503	elle	1	43	114	0	0	0	0	366	2399	elle	nsubj	2401	PRON	PRON	Singular	Female	3
+autre_monsieur	3	2406	2407	PER	Le conteur	11535	11545	le conteur	2	44	115	0	0	0	0	367	2407	conteur	nsubj	2409	NOUN	NOM	Singular	Male	3
+autre_monsieur	3	2412	2412	PER	il	11559	11561	il	1	44	116	1	0	0	0	368	2412	il	nsubj	2413	PRON	PRON	Singular	Male	3
+la_morte	0	2421	2421	PER	elle	11595	11599	elle	1	44	116	10	0	0	0	369	2421	elle	nsubj	2422	PRON	PRON	Singular	Female	3
+la_morte	0	2428	2428	PER	sa	11628	11630	sa	1	44	116	17	0	0	0	370	2428	sa	det	2429	DET	PRON	Singular	Ambiguous	3
+narrateur	1	2443	2443	PER	Vous	11682	11686	vous	1	45	118	1	0	0	0	371	2443	vous	nsubj	2444	PRON	PRON	Ambiguous	Ambiguous	2
+clerge	30	2447	2448	ORG	le clergé	11717	11726	le clergé	2	45	118	5	0	0	0	372	2448	clergé	nsubj	2450	NOUN	NOM	Not_Assigned	Not_Assigned	3
+eglise_2	32	2454	2455	FAC	l'église	11748	11756	l' église	2	45	118	12	0	0	0	373	2455	église	nmod	2452	NOUN	NOM	Not_Assigned	Not_Assigned	3
+loubain	8	2465	2467	GPE	toute la ville	11800	11814	toute la ville	3	45	119	8	0	0	0	374	2467	ville	nsubj	2469	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	2472	2472	PER	vous	11834	11838	vous	1	45	120	1	0	0	0	375	2472	vous	nsubj	2473	PRON	PRON	Ambiguous	Ambiguous	2
+T1135	81	2484	2485	PER	les familles	11895	11907	les familles	2	45	120	13	0	0	0	376	2485	familles	nsubj	2488	NOUN	NOM	Plural	Ambiguous	3
+convoi	20	2508	2508	PER	Nous	12007	12011	nous	1	46	121	0	0	0	0	377	2508	nous	nsubj	2509	PRON	PRON	Plural	Ambiguous	1
+cimetiere	19	2512	2513	FAC	du cimetière	12035	12047	du cimetière	2	46	121	4	0	0	0	378	2513	cimetière	nmod	2511	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	1	2516	2517	PER	j'	12052	12054	j '	2	46	122	1	0	0	0	379	2516	j	nsubj	2518	PRON	PRON	Singular	Ambiguous	1
+narrateur	1	2533	2534	PER	m'	12122	12124	m '	2	46	122	18	0	0	0	380	2533	m	expl:comp	2535	PRON	PRON	Singular	Ambiguous	1
+paul_hamot	2	2536	2538	PER	du pauvre garçon	12135	12151	du pauvre garçon	3	46	122	21	0	0	0	381	2538	garçon	obl:arg	2535	NOUN	NOM	Singular	Male	3
+paul_hamot	2	2539	2539	PER	qui	12152	12155	qui	1	46	122	24	0	0	0	382	2539	qui	nsubj	2540	PRON	PRON	Ambiguous	Ambiguous	4
+paul_hamot	2	2542	2542	PER	lui	12170	12173	lui	1	46	122	27	0	0	0	383	2542	lui	iobj	2543	PRON	PRON	Singular	Ambiguous	3
+paul_hamot	2	2548	2548	PER	Il	12205	12207	il	1	47	123	0	0	0	0	384	2548	il	nsubj	2550	PRON	PRON	Singular	Male	3
+narrateur	1	2549	2549	PER	me	12208	12210	me	1	47	123	1	0	0	0	385	2549	me	obj	2550	PRON	PRON	Singular	Ambiguous	1
+paul_hamot	2	2555	2555	PER	ses	12243	12246	ses	1	47	123	7	0	0	0	386	2555	ses	det	2556	DET	PRON	Singular	Ambiguous	3
+narrateur	1	2564	2564	PER	monsieur	12280	12288	monsieur	1	47	123	16	0	0	0	387	2564	monsieur	dep	2562	NOUN	NOM	Singular	Male	3
+narrateur	1	2568	2568	PER	je	12295	12297	je	1	47	123	20	0	0	0	388	2568	je	nsubj	2570	PRON	PRON	Singular	Ambiguous	1

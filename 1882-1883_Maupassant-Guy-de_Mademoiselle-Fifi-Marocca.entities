@@ -1,0 +1,584 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+destinataire	3	3	4	PER	Mon ami	28	35	mon ami	2	2	2	0	0	1	1	0	4	ami	obl:mod	9	NOUN	NOM	Singular	Male	3
+narrateur	0	3	3	PER	Mon	28	31	mon	1	2	2	0	1	0	0	1	3	mon	det	4	DET	PRON	Singular	Ambiguous	1
+destinataire	3	6	6	PER	tu	37	39	tu	1	2	2	3	0	0	0	2	6	tu	nsubj	9	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	7	7	PER	m'	40	42	m'	1	2	2	4	0	0	0	3	7	m'	iobj	9	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	11	12	PER	t'	56	58	t '	2	2	2	8	0	0	0	4	11	t	iobj	13	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	14	14	PER	mes	67	70	mes	1	2	2	11	0	0	0	5	14	mes	det	15	DET	PRON	Singular	Ambiguous	1
+narrateur	0	17	17	PER	mes	84	87	mes	1	2	2	14	0	0	0	6	17	mes	det	18	DET	PRON	Singular	Ambiguous	1
+narrateur	0	22	22	PER	mes	110	113	mes	1	2	2	19	0	0	0	7	22	mes	det	23	DET	PRON	Singular	Ambiguous	1
+afrique	6	30	30	GPE	Afrique	150	157	afrique	1	2	2	27	0	0	0	8	30	afrique	nmod	28	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	0	32	32	PER	m'	162	164	m'	1	2	2	29	0	0	0	9	32	m'	iobj	33	PRON	PRON	Singular	Ambiguous	1
+M1	33	34	36	TIME	depuis si longtemps	173	192	depuis si longtemps	3	2	2	31	0	0	0	10	36	longtemps	advmod	33	ADV	NOM	Not_Assigned	Not_Assigned	3
+destinataire	3	38	38	PER	Tu	194	196	tu	1	2	3	0	0	0	0	11	38	tu	nsubj	39	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	46	46	PER	mes	226	229	mes	1	2	3	8	0	0	0	12	46	mes	det	47	DET	PRON	Singular	Ambiguous	1
+destinataire	3	51	51	PER	tu	255	257	tu	1	2	3	13	0	0	0	13	51	tu	nsubj	52	PRON	PRON	Singular	Ambiguous	2
+destinataire	3	56	56	PER	tu	271	273	tu	1	2	3	18	0	0	0	14	56	tu	nsubj	58	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	57	57	PER	me	274	276	me	1	2	3	19	0	0	0	15	57	me	obj	58	PRON	PRON	Singular	Ambiguous	1
+mauricaudes	13	84	85	PER	des Mauricaudes	412	427	des mauricaudes	2	3	4	2	0	0	0	16	85	mauricaudes	nmod	83	NOUN	NOM	Plural	Not_Assigned	3
+narrateur	0	91	91	PER	j'	452	454	j'	1	3	4	9	0	0	0	17	91	j'	nsubj	94	PRON	PRON	Singular	Ambiguous	1
+mauricaudes	13	92	92	PER	en	454	456	en	1	3	4	10	0	0	0	18	92	en	iobj	94	PRON	PRON	Ambiguous	Ambiguous	3
+mauricaudes	13	97	97	PER	qui	478	481	qui	1	3	4	15	0	0	0	19	97	qui	nsubj	100	PRON	PRON	Ambiguous	Ambiguous	4
+narrateur	0	98	98	PER	m'	482	484	m'	1	3	4	16	0	0	0	20	98	m'	iobj	100	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	104	104	PER	me	511	513	me	1	3	4	22	0	0	0	21	104	me	obj	105	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	111	111	PER	je	544	546	je	1	3	4	29	0	0	0	22	111	je	nsubj	113	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	115	115	PER	mon	563	566	mon	1	3	4	33	0	0	0	23	115	mon	det	116	DET	PRON	Singular	Ambiguous	1
+destinataire	3	127	127	PER	Tu	632	634	tu	1	4	5	0	0	0	0	24	127	tu	nsubj	130	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	128	128	PER	m'	635	637	m'	1	4	5	1	0	0	0	25	128	m'	obj	130	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	133	133	PER	ta	652	654	ta	1	4	5	6	0	0	0	26	133	ta	det	135	DET	PRON	Singular	Ambiguous	2
+destinataire	3	139	139	PER	je	681	683	je	1	4	5	12	0	0	0	27	139	je	nsubj	140	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	148	148	PER	je	719	721	je	1	4	5	21	0	0	0	28	148	je	nsubj	149	PRON	PRON	Singular	Ambiguous	1
+ici	95	167	167	LOC	ici	794	797	ici	1	4	5	40	0	0	0	29	167	ici	advmod	169	ADV	NOM	Not_Assigned	Not_Assigned	3
+M20	34	168	168	PER	on	798	800	on	1	4	5	41	0	0	0	30	168	on	nsubj	169	PRON	PRON	Ambiguous	Ambiguous	3
+M21	39	175	178	TIME	dès les premiers jours	829	851	dès les premiers jours	4	4	6	3	0	0	0	31	178	jours	obl:mod	173	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur_et_destinataire	102	239	239	GPE	nous	1197	1201	-nous	1	5	7	1	0	0	0	32	239	nous	dep	238	PRON	PRON	Not_Assigned	Not_Assigned	1
+narrateur	0	242	242	PER	Je	1208	1210	je	1	5	8	0	0	0	0	33	242	je	nsubj	244	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	248	248	PER	vous	1229	1233	vous	1	5	8	6	0	0	0	34	248	vous	nsubj	249	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	0	275	275	PER	j'	1355	1357	j'	1	5	8	33	0	0	0	35	275	j'	nsubj	277	PRON	PRON	Singular	Ambiguous	1
+afrique	6	354	357	PER	un continent tout entier	1720	1744	un continent tout entier	4	5	10	47	0	0	0	36	355	continent	nmod	352	NOUN	NOM	Singular	Not_Assigned	3
+soleil	14	363	367	LOC	un énorme et dévorant soleil	1773	1801	un énorme et dévorant soleil	5	5	10	56	0	0	0	37	367	soleil	obl:agent	358	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	380	380	PER	j'	1863	1865	j'	1	6	11	1	0	0	0	38	380	j'	nsubj	381	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	383	383	PER	mon	1874	1877	mon	1	6	11	4	0	0	0	39	383	mon	det	384	DET	PRON	Singular	Ambiguous	1
+narrateur	0	386	386	PER	Je	1888	1890	je	1	6	12	0	0	0	0	40	386	je	nsubj	389	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	388	388	PER	te	1894	1896	te	1	6	12	2	0	0	0	41	388	te	iobj	389	PRON	PRON	Singular	Ambiguous	2
+T32	56	392	398	TIME	mes premiers temps de séjour en Algérie	1909	1948	mes premiers temps de séjour en algérie	7	6	12	6	0	1	2	42	394	temps	obl:arg	389	NOUN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	0	392	392	PER	mes	1909	1912	mes	1	6	12	6	1	0	0	43	392	mes	det	394	DET	PRON	Singular	Ambiguous	1
+algerie	94	398	398	GPE	Algérie	1941	1948	algérie	1	6	12	12	1	0	0	44	398	algérie	nmod	396	PROPN	PROP	Not_Assigned	Not_Assigned	3
+bone	84	403	403	GPE	Bône	1969	1973	bône	1	6	13	3	0	0	0	45	403	bône	obj	402	PROPN	PROP	Not_Assigned	Not_Assigned	3
+constantine	87	405	405	GPE	Constantine	1975	1986	constantine	1	6	13	5	0	0	0	46	405	constantine	conj	403	PROPN	PROP	Not_Assigned	Not_Assigned	3
+biskra	89	407	407	GPE	Biskra	1988	1994	biskra	1	6	13	7	0	0	0	47	407	biskra	conj	403	PROPN	PROP	Not_Assigned	Not_Assigned	3
+setif	109	409	409	GPE	Sétif	1998	2003	sétif	1	6	13	9	0	0	0	48	409	sétif	conj	403	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	0	411	411	PER	je	2005	2007	je	1	6	13	11	0	0	0	49	411	je	nsubj	413	PRON	PRON	Singular	Ambiguous	1
+bougie	4	415	415	GPE	Bougie	2020	2026	bougie	1	6	13	15	0	0	0	50	415	bougie	obl:arg	413	PROPN	PROP	Not_Assigned	Not_Assigned	3
+gorges_du_chabet	98	417	420	LOC	les gorges du Chabet	2031	2051	les gorges du chabet	4	6	13	17	0	0	0	51	418	gorges	obl:mod	413	NOUN	PROP	Not_Assigned	Not_Assigned	3
+route	18	423	430	FAC	une incomparable route au milieu des forêts kabyles	2056	2107	une incomparable route au milieu des forêts kabyles	8	6	13	23	0	1	1	52	425	route	conj	418	NOUN	NOM	Not_Assigned	Not_Assigned	3
+forets_kabyles	101	428	430	LOC	des forêts kabyles	2089	2107	des forêts kabyles	3	6	13	28	1	0	0	53	429	forêts	nmod	427	NOUN	NOM	Not_Assigned	Not_Assigned	3
+route	18	432	432	FAC	qui	2109	2112	qui	1	6	13	32	0	0	0	54	432	qui	nsubj	433	PRON	PRON	Not_Assigned	Not_Assigned	4
+mer	7	434	435	LOC	la mer	2118	2124	la mer	2	6	13	34	0	0	0	55	435	mer	obj	433	NOUN	NOM	Not_Assigned	Not_Assigned	3
+mer	7	437	437	LOC	la	2128	2130	la	1	6	13	37	0	0	0	56	437	la	obj	438	PRON	PRON	Not_Assigned	Not_Assigned	3
+montagne	20	450	451	LOC	haute montagne	2197	2211	haute montagne	2	6	13	50	0	0	0	57	451	montagne	nmod	448	NOUN	NOM	Not_Assigned	Not_Assigned	3
+golfe_de_bougie	8	455	459	LOC	ce merveilleux golfe de Bougie	2221	2251	ce merveilleux golfe de bougie	5	6	13	55	0	1	1	58	457	golfe	obl:mod	445	NOUN	PROP	Not_Assigned	Not_Assigned	3
+bougie	4	459	459	GPE	Bougie	2245	2251	bougie	1	6	13	59	1	0	0	59	459	bougie	nmod	457	PROPN	PROP	Not_Assigned	Not_Assigned	3
+golde_de_naples	100	463	465	LOC	celui de Naples	2267	2282	celui de naples	3	6	13	63	0	1	1	60	465	naples	nmod	463	PROPN	PROP	Not_Assigned	Not_Assigned	3
+naples	106	465	465	GPE	Naples	2276	2282	naples	1	6	13	65	1	0	0	61	465	naples	nmod	463	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T70	79	468	470	LOC	celui d'Ajaccio	2288	2303	celui d' ajaccio	3	6	13	68	0	1	1	62	470	ajaccio	nmod	468	PROPN	PROP	Not_Assigned	Not_Assigned	3
+ajaccio	93	470	470	GPE	Ajaccio	2296	2303	ajaccio	1	6	13	70	1	0	0	63	470	ajaccio	nmod	468	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T72	76	473	475	LOC	celui de Douarnenez	2311	2330	celui de douarnenez	3	6	13	73	0	1	1	64	475	douarnenez	nmod	473	PROPN	PROP	Not_Assigned	Not_Assigned	3
+douarnenze	80	475	475	GPE	Douarnenez	2320	2330	douarnenez	1	6	13	75	1	0	0	65	475	douarnenez	nmod	473	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	0	481	481	PER	je	2356	2358	je	1	6	13	81	0	0	0	66	481	je	nsubj	482	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	484	484	PER	J'	2370	2372	j'	1	6	14	0	0	0	0	67	484	j'	nsubj	485	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	487	487	PER	ma	2385	2387	ma	1	6	14	3	0	0	0	68	487	ma	det	488	DET	PRON	Singular	Ambiguous	1
+M3	44	489	493	LOC	cette invraisemblable baie de Porto	2400	2435	cette invraisemblable baie de porto	5	6	14	5	0	1	1	69	491	baie	obj	485	NOUN	PROP	Not_Assigned	Not_Assigned	3
+porto	107	493	493	GPE	Porto	2430	2435	porto	1	6	14	9	1	0	0	70	493	porto	nmod	491	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T76	77	513	518	LOC	les « Calanche » de Piana	2537	2562	les « calanche » de piana	6	6	14	29	0	1	1	71	515	calanche	xcomp	512	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T77	73	518	518	GPE	Piana	2557	2562	piana	1	6	14	34	1	0	0	72	518	piana	nmod	515	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T78	72	521	526	LOC	les côtes Ouest de la Corse	2568	2595	les côtes ouest de la corse	6	6	14	37	0	1	1	73	522	côtes	obl:mod	512	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T79	91	525	526	GPE	la Corse	2587	2595	la corse	2	6	14	41	1	0	0	74	526	corse	nmod	522	PROPN	PROP	Not_Assigned	Not_Assigned	3
+bassin_bougie	88	538	545	LOC	le grand bassin où dort l'eau pacifique	2641	2680	le grand bassin où dort l' eau pacifique	8	7	15	10	0	0	0	75	540	bassin	obj	537	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	549	549	GPE	Bougie	2694	2700	bougie	1	7	15	21	0	0	0	76	549	bougie	obj	548	PROPN	PROP	Not_Assigned	Not_Assigned	3
+bougie	4	551	551	GPE	Elle	2702	2706	elle	1	7	16	0	0	0	0	77	551	elle	nsubj:pass	553	PRON	PRON	Not_Assigned	Not_Assigned	3
+mont_bougie	97	559	567	LOC	un mont très élevé et couronné par des bois	2742	2785	un mont très élevé et couronné par des bois	9	7	16	8	0	1	1	78	560	mont	nmod	556	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bois	15	566	567	LOC	des bois	2777	2785	des bois	2	7	16	15	1	0	0	79	567	bois	obl:agent	564	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	569	570	GPE	C'	2787	2789	c '	2	7	17	0	0	0	0	80	569	c	nsubj	573	PRON	PRON	Not_Assigned	Not_Assigned	3
+bougie	4	572	578	GPE	une tache blanche dans cette pente verte	2794	2834	une tache blanche dans cette pente verte	7	7	17	3	0	0	0	81	573	tache	ROOT	573	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	594	594	PER	j'	2896	2898	j'	1	8	18	2	0	0	0	82	594	j'	nsubj	596	PRON	PRON	Singular	Ambiguous	1
+bougie	4	600	605	GPE	cette toute petite et ravissante ville	2919	2957	cette toute petite et ravissante ville	6	8	18	8	0	0	0	83	605	ville	obl:arg	596	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	607	607	PER	je	2959	2961	je	1	8	18	15	0	0	0	84	607	je	nsubj	608	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	610	610	PER	j'	2974	2976	j'	1	8	18	18	0	0	0	85	610	j'	nsubj	611	PRON	PRON	Singular	Ambiguous	1
+bougie	4	612	612	GPE	y	2983	2984	y	1	8	18	20	0	0	0	86	612	y	iobj	613	PRON	PRON	Not_Assigned	Not_Assigned	3
+mer	7	641	643	LOC	la pleine mer	3135	3148	la pleine mer	3	8	19	25	0	0	0	87	643	mer	obj	638	NOUN	NOM	Not_Assigned	Not_Assigned	3
+golfe_de_bougie	8	647	648	LOC	le golfe	3157	3165	le golfe	2	8	19	31	0	0	0	88	648	golfe	nsubj	649	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M22	36	702	703	LOC	l'un	3395	3399	l' un	2	8	21	4	0	0	0	89	703	un	obj	701	PRON	PRON	Not_Assigned	Not_Assigned	3
+M23	37	705	706	LOC	l'autre	3405	3412	l' autre	2	8	21	7	0	0	0	90	706	autre	nmod	703	PRON	PRON	Not_Assigned	Not_Assigned	3
+bougie	4	713	713	GPE	Bougie	3444	3450	bougie	1	9	22	0	0	0	0	91	713	bougie	nsubj	716	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	715	718	GPE	la ville des ruines	3455	3474	la ville des ruines	4	9	22	2	0	0	0	92	716	ville	ROOT	716	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M24	38	721	722	FAC	le quai	3480	3487	le quai	2	9	23	1	0	0	0	93	722	quai	obl:mod	728	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	741	742	GPE	C'	3565	3567	c '	2	9	24	0	0	0	0	94	741	c	nsubj	746	PRON	PRON	Not_Assigned	Not_Assigned	3
+bougie	4	744	751	GPE	la vieille porte Sarrasine, envahie de lierre	3572	3617	la vieille porte sarrasine , envahie de lierre	8	9	24	3	0	0	0	95	746	porte	ROOT	746	NOUN	PROP	Not_Assigned	Not_Assigned	3
+bois	15	755	761	LOC	les bois montueux autour de la cité	3627	3662	les bois montueux autour de la cité	7	9	25	2	0	1	1	96	756	bois	obl:mod	763	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	760	761	GPE	la cité	3655	3662	la cité	2	9	25	7	1	0	0	97	761	cité	dep	758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+murailles	103	770	771	FAC	murailles romaines	3696	3714	murailles romaines	2	9	25	17	0	0	0	98	770	murailles	nmod	768	NOUN	NOM	Not_Assigned	Not_Assigned	3
+monuments	96	776	777	FAC	monuments sarrasins	3732	3751	monuments sarrasins	2	9	25	23	0	0	0	99	776	monuments	nmod	774	NOUN	NOM	Not_Assigned	Not_Assigned	3
+constructions	83	782	783	FAC	constructions arabes	3767	3787	constructions arabes	2	9	25	29	0	0	0	100	782	constructions	nmod	780	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	785	785	PER	J'	3790	3792	j'	1	10	26	0	0	0	0	101	785	j'	nsubj	787	PRON	PRON	Singular	Ambiguous	1
+ville_haute	111	789	791	FAC	la ville haute	3808	3822	la ville haute	3	10	26	4	0	0	0	102	790	ville	obl:mod	787	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison_mauresque	12	792	795	FAC	une petite maison mauresque	3823	3850	une petite maison mauresque	4	10	26	7	0	0	0	103	794	maison	obj	787	NOUN	NOM	Not_Assigned	Not_Assigned	3
+destinataire	3	797	797	PER	Tu	3852	3854	tu	1	10	27	0	0	0	0	104	797	tu	nsubj	798	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	855	855	PER	Je	4127	4129	je	1	11	30	0	0	0	0	105	855	je	nsubj	857	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	856	856	PER	me	4130	4132	me	1	11	30	1	0	0	0	106	856	me	expl:comp	857	PRON	PRON	Singular	Ambiguous	1
+pays_chauds	104	863	865	LOC	des pays chauds	4164	4179	des pays chauds	3	11	30	8	0	0	0	107	864	pays	nmod	862	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M25	47	877	879	TIME	après mon déjeuner	4212	4230	après mon déjeuner	3	11	30	22	0	1	1	108	879	déjeuner	obl:mod	874	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	878	878	PER	mon	4218	4221	mon	1	11	30	23	1	0	0	109	878	mon	det	879	DET	PRON	Singular	Ambiguous	1
+M26	40	881	885	TIME	C'est l'heure étouffante	4232	4256	c' est l' heure étouffante	5	11	31	0	0	0	0	110	884	heure	ROOT	884	NOUN	NOM	Not_Assigned	Not_Assigned	3
+afrique	6	887	887	GPE	Afrique	4259	4266	afrique	1	11	31	6	0	0	0	111	887	afrique	nmod	884	PROPN	PROP	Not_Assigned	Not_Assigned	3
+M27	41	889	896	TIME	l'heure où l'on ne respire plus	4268	4299	l' heure où l' on ne respire plus	8	11	31	8	0	0	0	112	895	respire	acl:relcl	890	VERB	NOM	Not_Assigned	Not_Assigned	3
+M28	42	898	902	TIME	l'heure où les rues	4301	4320	l' heure où les rues	5	11	31	17	0	1	1	113	899	heure	conj	884	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T98	90	901	902	FAC	les rues	4312	4320	les rues	2	11	31	20	1	0	0	114	902	rues	nsubj	912	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T99	92	904	905	LOC	les plaines	4322	4333	les plaines	2	11	31	23	0	0	0	115	905	plaines	conj	902	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T100	68	907	910	FAC	les longues routes aveuglantes	4335	4365	les longues routes aveuglantes	4	11	31	26	0	0	0	116	909	routes	conj	902	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	934	934	PER	J'	4474	4476	j'	1	12	32	0	0	0	0	117	934	j'	nsubj	936	PRON	PRON	Singular	Ambiguous	1
+T101	67	938	944	FAC	ma salle à colonnettes d'architecture arabe	4496	4539	ma salle à colonnettes d' architecture arabe	7	12	32	4	0	0	0	118	939	salle	obl:arg	936	NOUN	NOM	Not_Assigned	Not_Assigned	3
+djebel_amour	81	953	956	GPE	du Djebel-Amour	4582	4597	du djebel - amour	4	12	32	19	0	0	0	119	954	djebel	nmod	952	PROPN	PROP	Not_Assigned	Not_Assigned	3
+narrateur	0	958	958	PER	Je	4599	4601	je	1	12	33	0	0	0	0	120	958	je	nsubj	960	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	959	959	PER	m'	4602	4604	m'	1	12	33	1	0	0	0	121	959	m'	expl:comp	960	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	974	974	PER	je	4664	4666	je	1	12	33	16	0	0	0	122	974	je	nsubj	977	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	983	983	PER	ma	4706	4708	ma	1	12	33	25	0	0	0	123	983	ma	det	984	DET	PRON	Singular	Ambiguous	1
+destinataire	3	988	989	PER	mon ami	4727	4734	mon ami	2	13	34	2	0	1	1	124	989	ami	nmod	986	NOUN	NOM	Singular	Male	3
+narrateur	0	988	988	PER	mon	4727	4730	mon	1	13	34	2	1	0	0	125	988	mon	det	989	DET	PRON	Singular	Ambiguous	1
+narrateur	0	999	999	PER	je	4777	4779	je	1	13	34	13	0	0	0	126	999	je	nsubj	1002	PRON	PRON	Singular	Ambiguous	1
+destinataire	3	1001	1001	PER	te	4783	4785	te	1	13	34	15	0	0	0	127	1001	te	iobj	1002	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	1023	1023	PER	Je	4883	4885	je	1	13	36	0	0	0	0	128	1023	je	nsubj	1025	PRON	PRON	Singular	Ambiguous	1
+desert	82	1028	1029	LOC	le désert	4900	4909	le désert	2	13	37	1	0	0	0	129	1029	désert	obl:mod	1032	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T105	66	1051	1054	LOC	certaines villes du littoral	5008	5036	certaines villes du littoral	4	13	38	6	0	1	1	130	1052	villes	obl:mod	1047	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T106	65	1053	1054	LOC	du littoral	5025	5036	du littoral	2	13	38	8	1	0	0	131	1054	littoral	nmod	1052	NOUN	NOM	Not_Assigned	Not_Assigned	3
+femmes_en_afrique	10	1064	1064	PER	elles	5081	5086	elles	1	13	39	1	0	0	0	132	1064	elles	nsubj	1066	PRON	PRON	Plural	Female	3
+femmes_en_afrique	10	1069	1070	PER	les filles	5104	5114	les filles	2	13	39	6	0	0	0	133	1070	filles	obj	1066	NOUN	NOM	Plural	Female	3
+afrique	6	1073	1073	GPE	Afrique	5119	5126	afrique	1	13	39	10	0	0	0	134	1073	afrique	obl:mod	1066	PROPN	PROP	Not_Assigned	Not_Assigned	3
+femmes_en_afrique	10	1075	1075	PER	Elles	5129	5134	elles	1	13	40	0	0	0	0	135	1075	elles	nsubj	1076	PRON	PRON	Plural	Female	3
+narrateur	0	1085	1085	PER	ma	5183	5185	ma	1	13	40	10	0	0	0	136	1085	ma	det	1086	DET	PRON	Singular	Ambiguous	1
+femmes_en_afrique	10	1088	1088	PER	elles	5199	5204	elles	1	13	40	13	0	0	0	137	1088	elles	nsubj	1093	PRON	PRON	Plural	Female	3
+afrique	6	1089	1089	GPE	y	5205	5206	y	1	13	40	14	0	0	0	138	1089	y	iobj	1090	PRON	PRON	Not_Assigned	Not_Assigned	3
+puits_sahariens	108	1100	1102	FAC	des puits sahariens	5273	5292	des puits sahariens	3	13	40	25	0	0	0	139	1101	puits	nmod	1098	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T113	63	1108	1109	TIME	un jour	5308	5315	un jour	2	14	41	4	0	0	0	140	1109	jour	obl:mod	1118	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1117	1117	PER	je	5345	5347	je	1	14	41	13	0	0	0	141	1117	je	nsubj	1118	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1129	1129	PER	Mes	5390	5393	mes	1	14	42	0	0	0	0	142	1129	mes	det	1130	DET	PRON	Singular	Ambiguous	1
+narrateur	0	1140	1140	PER	me	5459	5461	me	1	14	42	11	0	0	0	143	1140	me	iobj	1141	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1146	1146	PER	mes	5491	5494	mes	1	14	42	17	0	0	0	144	1146	mes	det	1147	DET	PRON	Singular	Ambiguous	1
+narrateur	0	1156	1156	PER	je	5526	5528	je	1	14	43	7	0	0	0	145	1156	je	nsubj	1158	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1157	1157	PER	me	5529	5531	me	1	14	43	8	0	0	0	146	1157	me	expl:comp	1158	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1160	1160	PER	je	5541	5543	je	1	14	43	11	0	0	0	147	1160	je	nsubj	1161	PRON	PRON	Singular	Ambiguous	1
+M29	43	1165	1166	TIME	en juillet	5561	5571	en juillet	2	15	44	2	0	0	0	148	1166	juillet	obl:mod	1164	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T115	62	1169	1171	TIME	une après-midi torride	5577	5599	une après-midi torride	3	15	44	6	0	0	0	149	1170	après-midi	obl:mod	1164	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T116	60	1175	1176	FAC	des rues	5611	5619	des rues	2	15	45	2	0	0	0	150	1176	rues	nmod	1174	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1222	1222	PER	Je	5833	5835	je	1	16	46	0	0	0	0	151	1222	je	nsubj	1223	PRON	PRON	Singular	Ambiguous	1
+mer	7	1226	1227	LOC	la mer	5854	5860	la mer	2	16	46	4	0	0	0	152	1227	mer	obl:arg	1224	NOUN	NOM	Not_Assigned	Not_Assigned	3
+port	23	1232	1233	FAC	le port	5879	5886	le port	2	16	46	10	0	0	0	153	1233	port	obj	1231	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1235	1235	PER	je	5888	5890	je	1	16	46	13	0	0	0	154	1235	je	nsubj	1237	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1236	1236	PER	me	5891	5893	me	1	16	46	14	0	0	0	155	1236	me	expl:comp	1237	PRON	PRON	Singular	Ambiguous	1
+baie	16	1245	1247	LOC	la jolie baie	5927	5940	la jolie baie	3	16	46	23	0	0	0	156	1247	baie	nmod	1243	NOUN	NOM	Not_Assigned	Not_Assigned	3
+baie	16	1248	1248	LOC	où	5941	5943	où	1	16	46	26	0	0	0	157	1248	où	iobj	1249	PRON	PRON	Not_Assigned	Not_Assigned	3
+bains	71	1250	1251	FAC	les bains	5949	5958	les bains	2	16	46	28	0	0	0	158	1251	bains	nsubj	1249	NOUN	NOM	Not_Assigned	Not_Assigned	3
+montagne	20	1253	1259	LOC	La montagne escarpée, couverte de taillis	5960	6001	la montagne escarpée , couverte de taillis	7	16	47	0	0	0	0	159	1254	montagne	nsubj	1270	NOUN	NOM	Not_Assigned	Not_Assigned	3
+crique	17	1275	1276	LOC	cette crique	6089	6101	cette crique	2	16	47	22	0	0	0	160	1276	crique	dep	1273	NOUN	NOM	Not_Assigned	Not_Assigned	3
+crique	17	1277	1277	LOC	où	6102	6104	où	1	16	47	24	0	0	0	161	1277	où	iobj	1278	PRON	PRON	Not_Assigned	Not_Assigned	3
+mer	7	1319	1321	LOC	la mer immobile	6278	6293	la mer immobile	3	17	48	28	0	0	0	162	1320	mer	nsubj	1322	NOUN	NOM	Not_Assigned	Not_Assigned	3
+soleil	14	1325	1326	LOC	le soleil	6320	6329	le soleil	2	17	48	34	0	0	0	163	1326	soleil	obl:mod	1323	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1334	1334	PER	je	6356	6358	je	1	17	49	6	0	0	0	164	1334	je	nsubj	1335	PRON	PRON	Singular	Ambiguous	1
+M2	35	1347	1357	LOC	une de ces roches à demi noyées dans l'onde silencieuse	6428	6483	une de ces roches à demi noyées dans l' onde silencieuse	11	18	50	3	0	1	1	165	1350	roches	nmod	1347	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M30	45	1349	1357	LOC	ces roches à demi noyées dans l'onde silencieuse	6435	6483	ces roches à demi noyées dans l' onde silencieuse	9	18	50	5	1	0	0	166	1356	onde	obl:arg	1353	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1359	1359	PER	je	6485	6487	je	1	18	50	15	0	0	0	167	1359	je	nsubj	1360	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1367	1367	PER	m'	6521	6523	m'	1	18	50	23	0	0	0	168	1367	m'	expl:comp	1369	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1371	1371	PER	j'	6539	6541	j'	1	18	50	27	0	0	0	169	1371	j'	nsubj	1372	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1375	1375	PER	son	6558	6561	son	1	18	50	31	0	0	0	170	1375	son	det	1376	DET	PRON	Singular	Ambiguous	3
+marocca	1	1387	1390	PER	une grande fille nue	6614	6634	une grande fille nue	4	18	50	43	0	0	0	171	1389	fille	obj	1379	NOUN	NOM	Singular	Female	3
+marocca	1	1397	1397	PER	Elle	6662	6666	elle	1	18	51	0	0	0	0	172	1397	elle	nsubj	1398	PRON	PRON	Singular	Female	3
+mer	7	1402	1404	LOC	la pleine mer	6689	6702	la pleine mer	3	18	51	5	0	0	0	173	1404	mer	obl:arg	1398	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1410	1410	PER	me	6733	6735	me	1	18	51	13	0	0	0	174	1410	me	obj	1411	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1421	1423	PER	cette belle femme	6782	6799	cette belle femme	3	19	52	8	0	0	0	175	1423	femme	appos	1413	NOUN	NOM	Singular	Female	3
+marocca	1	1438	1438	PER	elle	6879	6883	elle	1	19	53	1	0	0	0	176	1438	elle	nsubj	1440	PRON	PRON	Singular	Female	3
+marocca	1	1443	1444	PER	cette femme	6914	6925	cette femme	2	19	53	6	0	0	0	177	1444	femme	obl:mod	1440	NOUN	NOM	Singular	Female	3
+marocca	1	1446	1450	PER	grande, modelée en statue	6927	6952	grande , modelée en statue	5	19	53	9	0	0	0	178	1450	statue	obl:mod	1448	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1452	1452	PER	Elle	6955	6959	elle	1	20	54	0	0	0	0	179	1452	elle	nsubj	1454	PRON	PRON	Singular	Female	3
+M31	46	1474	1475	LOC	sa roche	7055	7063	sa roche	2	20	54	22	0	1	1	180	1475	roche	obl:arg	1469	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1474	1474	PER	sa	7055	7057	sa	1	20	54	22	1	0	0	181	1474	sa	det	1475	DET	PRON	Singular	Ambiguous	3
+marocca	1	1482	1482	PER	elle	7091	7095	elle	1	21	55	5	0	0	0	182	1482	elle	nsubj	1483	PRON	PRON	Singular	Female	3
+narrateur	0	1485	1485	PER	je	7104	7106	je	1	21	55	8	0	0	0	183	1485	je	nsubj	1487	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1486	1486	PER	m'	7107	7109	m'	1	21	55	9	0	0	0	184	1486	m'	expl:comp	1487	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1492	1492	PER	j'	7131	7133	j'	1	21	55	15	0	0	0	185	1492	j'	nsubj	1493	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1496	1496	PER	elle	7149	7153	elle	1	21	56	1	0	0	0	186	1496	elle	nsubj	1497	PRON	PRON	Singular	Female	3
+marocca	1	1500	1500	PER	sa	7176	7178	sa	1	21	56	5	0	0	0	187	1500	sa	det	1501	DET	PRON	Singular	Ambiguous	3
+marocca	1	1511	1511	PER	Sa	7230	7232	sa	1	21	57	0	0	0	0	188	1511	sa	det	1512	DET	PRON	Singular	Ambiguous	3
+marocca	1	1523	1523	PER	ses	7298	7301	ses	1	21	57	12	0	0	0	189	1523	ses	det	1524	DET	PRON	Singular	Ambiguous	3
+marocca	1	1531	1531	PER	sa	7336	7338	sa	1	21	57	20	0	0	0	190	1531	sa	det	1532	DET	PRON	Singular	Ambiguous	3
+soleil	14	1556	1559	LOC	le soleil des nègres	7458	7478	le soleil des nègres	4	21	57	45	0	0	0	191	1557	soleil	obl:agent	1554	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1561	1561	PER	Elle	7481	7485	elle	1	22	58	0	0	0	0	192	1561	elle	nsubj	1563	PRON	PRON	Singular	Female	3
+narrateur	0	1562	1562	PER	me	7486	7488	me	1	22	58	1	0	0	0	193	1562	me	iobj	1563	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1567	1567	PER	vous	7504	7508	-vous	1	22	58	6	0	0	0	194	1567	vous	dep	1566	PRON	PRON	Ambiguous	Ambiguous	2
+marocca	1	1572	1572	PER	sa	7518	7520	sa	1	22	58	11	0	0	0	195	1572	sa	det	1573	DET	PRON	Singular	Ambiguous	3
+marocca	1	1580	1582	PER	toute sa personne	7553	7570	toute sa personne	3	22	58	19	0	1	1	196	1582	personne	obl:mod	1578	NOUN	NOM	Plural	Ambiguous	3
+marocca	1	1581	1581	PER	sa	7559	7561	sa	1	22	58	20	1	0	0	197	1581	sa	det	1582	DET	PRON	Singular	Ambiguous	3
+narrateur	0	1589	1589	PER	Je	7598	7600	je	1	22	59	0	0	0	0	198	1589	je	nsubj	1591	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1594	1594	PER	Elle	7619	7623	elle	1	22	60	0	0	0	0	199	1594	elle	nsubj	1595	PRON	PRON	Singular	Female	3
+narrateur	0	1607	1607	PER	monsieur	7667	7675	monsieur	1	22	60	13	0	0	0	200	1607	monsieur	dep	1595	NOUN	NOM	Singular	Male	3
+marocca	1	1616	1616	PER	sa	7693	7695	sa	1	22	60	22	0	0	0	201	1616	sa	det	1617	DET	PRON	Singular	Ambiguous	3
+narrateur	0	1624	1624	PER	Je	7734	7736	je	1	22	61	0	0	0	0	202	1624	je	nsubj	1626	PRON	PRON	Singular	Ambiguous	1
+M33	32	1634	1637	TIME	Dix minutes s'écoulèrent	7781	7805	dix minutes s' écoulèrent	4	23	63	0	0	0	0	203	1637	écoulèrent	advcl	1656	VERB	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1675	1675	PER	elle	7993	7997	elle	1	24	64	3	0	0	0	204	1675	elle	nsubj	1676	PRON	PRON	Singular	Female	3
+marocca	1	1681	1681	PER	elle	8018	8022	elle	1	24	64	9	0	0	0	205	1681	elle	nsubj	1682	PRON	PRON	Singular	Female	3
+narrateur	0	1685	1685	PER	Vous	8032	8036	vous	1	24	64	13	0	0	0	206	1685	vous	nsubj	1686	PRON	PRON	Ambiguous	Ambiguous	2
+marocca	1	1687	1687	PER	me	8043	8045	me	1	24	64	15	0	0	0	207	1687	me	obj	1689	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1692	1692	PER	Je	8066	8068	je	1	24	65	0	0	0	0	208	1692	je	nsubj	1694	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1698	1698	PER	vous	8094	8098	vous	1	24	65	6	0	0	0	209	1698	vous	nsubj	1699	PRON	PRON	Ambiguous	Ambiguous	2
+narrateur	0	1704	1704	PER	je	8117	8119	je	1	24	65	12	0	0	0	210	1704	je	nsubj	1706	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1705	1705	PER	me	8120	8122	me	1	24	65	13	0	0	0	211	1705	me	expl:comp	1706	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1708	1708	PER	m'	8132	8134	m'	1	24	65	16	0	0	0	212	1708	m'	expl:comp	1710	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	1714	1714	PER	me	8153	8155	me	1	24	65	22	0	0	0	213	1714	me	expl:comp	1715	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1719	1719	PER	elle	8181	8185	elle	1	24	66	1	0	0	0	214	1719	elle	nsubj	1721	PRON	PRON	Singular	Female	3
+narrateur	0	1720	1720	PER	me	8186	8188	me	1	24	66	2	0	0	0	215	1720	me	obj	1721	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1725	1725	PER	elle	8207	8211	elle	1	24	66	7	0	0	0	216	1725	elle	nsubj	1726	PRON	PRON	Singular	Female	3
+marocca	1	1737	1737	PER	ses	8257	8260	ses	1	24	66	19	0	0	0	217	1737	ses	det	1738	DET	PRON	Singular	Ambiguous	3
+marocca	1	1741	1741	PER	elle	8272	8276	elle	1	24	66	23	0	0	0	218	1741	elle	nsubj	1742	PRON	PRON	Singular	Female	3
+M34	25	1746	1747	LOC	du roc	8300	8306	du roc	2	24	66	28	0	0	0	219	1747	roc	nmod	1745	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1757	1757	PER	Je	8349	8351	je	1	25	67	0	0	0	0	220	1757	je	nsubj	1758	PRON	PRON	Singular	Ambiguous	1
+T302	61	1759	1760	TIME	le lendemain	8359	8371	le lendemain	2	25	67	2	0	0	0	221	1760	lendemain	obl:mod	1758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1762	1762	PER	Elle	8373	8377	elle	1	25	68	0	0	0	0	222	1762	elle	nsubj	1763	PRON	PRON	Singular	Female	3
+marocca	1	1775	1775	PER	Elle	8432	8436	elle	1	25	69	0	0	0	0	223	1775	elle	nsubj	1777	PRON	PRON	Singular	Female	3
+narrateur	0	1781	1781	PER	me	8454	8456	me	1	25	69	6	0	0	0	224	1781	me	iobj	1782	PRON	PRON	Singular	Ambiguous	1
+marocca	1	1783	1783	PER	ses	8466	8469	ses	1	25	69	8	0	0	0	225	1783	ses	det	1784	DET	PRON	Singular	Ambiguous	3
+M35	27	1787	1789	TIME	Huit jours après	8488	8504	huit jours après	3	26	70	0	0	0	0	226	1788	jours	obl:mod	1789	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur_et_jeune_fille	5	1791	1791	PER	nous	8506	8510	nous	1	26	70	4	0	0	0	227	1791	nous	nsubj	1793	PRON	PRON	Plural	Ambiguous	1
+M36	26	1795	1798	TIME	Huit jours de plus	8524	8542	huit jours de plus	4	26	71	0	0	0	0	228	1796	jours	ROOT	1796	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur_et_jeune_fille	5	1801	1801	PER	nous	8547	8551	nous	1	26	71	6	0	0	0	229	1801	nous	nsubj	1803	PRON	PRON	Plural	Ambiguous	1
+marocca	1	1807	1807	PER	Elle	8584	8588	elle	1	27	72	0	0	0	0	230	1807	elle	nsubj	1809	PRON	PRON	Singular	Female	3
+marocca	1	1835	1835	PER	elle	8716	8720	elle	1	27	72	28	0	0	0	231	1835	elle	nsubj	1837	PRON	PRON	Singular	Female	3
+pontabeze	2	1838	1841	PER	un Français nommé Pontabèze	8734	8761	un français nommé pontabèze	4	27	72	31	0	0	0	232	1839	français	obj	1837	NOUN	PROP	Singular	Male	3
+pontabeze	2	1843	1844	PER	Son mari	8763	8771	son mari	2	27	73	0	0	1	1	233	1844	mari	nsubj	1846	NOUN	NOM	Singular	Male	3
+marocca	1	1843	1843	PER	Son	8763	8766	son	1	27	73	0	1	0	0	234	1843	son	det	1844	DET	PRON	Singular	Ambiguous	3
+etat	99	1848	1849	ORG	l'État	8789	8795	l' état	2	27	73	5	0	0	0	235	1849	état	nmod	1846	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1851	1851	PER	Je	8797	8799	je	1	27	74	0	0	0	0	236	1851	je	nsubj	1855	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	1861	1861	PER	il	8847	8849	il	1	27	74	10	0	0	0	237	1861	il	nsubj	1862	PRON	PRON	Singular	Male	3
+narrateur	0	1864	1864	PER	Je	8863	8865	je	1	27	75	0	0	0	0	238	1864	je	nsubj	1865	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	1867	1867	PER	il	8879	8881	il	1	27	75	3	0	0	0	239	1867	il	nsubj:pass	1870	PRON	PRON	Singular	Male	3
+narrateur	0	1873	1873	PER	je	8904	8906	je	1	27	75	9	0	0	0	240	1873	je	nsubj	1876	PRON	PRON	Singular	Ambiguous	1
+M37	31	1883	1888	TIME	changeant l'heure de son bain	8944	8973	changeant l' heure de son bain	6	28	76	2	0	1	1	241	1885	heure	obj	1883	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1887	1887	PER	son	8965	8968	son	1	28	76	6	1	0	0	242	1887	son	det	1888	DET	PRON	Singular	Ambiguous	3
+marocca	1	1890	1890	PER	elle	8975	8979	elle	1	28	76	9	0	0	0	243	1890	elle	nsubj	1891	PRON	PRON	Singular	Female	3
+T360	59	1892	1893	TIME	chaque jour	8985	8996	chaque jour	2	28	76	11	0	0	0	244	1893	jour	obl:mod	1891	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1895	1895	PER	mon	9003	9006	mon	1	28	76	14	0	0	0	245	1895	mon	det	1896	DET	PRON	Singular	Ambiguous	1
+maison_mauresque	12	1901	1902	FAC	ma maison	9035	9044	ma maison	2	28	76	20	0	1	1	246	1902	maison	obl:mod	1897	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	1901	1901	PER	ma	9035	9037	ma	1	28	76	20	1	0	0	247	1901	ma	det	1902	DET	PRON	Singular	Ambiguous	1
+marocca	1	1914	1915	PER	C'	9088	9090	c '	2	29	79	0	0	0	0	248	1914	c	nsubj	1920	PRON	PRON	Ambiguous	Ambiguous	3
+marocca	1	1918	1930	PER	une admirable fille, d'un type un peu bestial, mais superbe	9106	9165	une admirable fille , d' un type un peu bestial , mais superbe	13	29	79	4	0	0	0	249	1920	fille	ROOT	1920	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	1932	1932	PER	Ses	9167	9170	ses	1	29	80	0	0	0	0	250	1932	ses	det	1933	DET	PRON	Singular	Ambiguous	3
+marocca	1	1940	1940	PER	sa	9218	9220	sa	1	29	80	8	0	0	0	251	1940	sa	det	1941	DET	PRON	Singular	Ambiguous	3
+marocca	1	1944	1944	PER	ses	9242	9245	ses	1	29	80	12	0	0	0	252	1944	ses	det	1945	DET	PRON	Singular	Ambiguous	3
+marocca	1	1948	1948	PER	son	9262	9265	son	1	29	80	16	0	0	0	253	1948	son	det	1949	DET	PRON	Singular	Ambiguous	3
+marocca	1	1959	1959	PER	ses	9328	9331	ses	1	29	80	27	0	0	0	254	1959	ses	det	1960	DET	PRON	Singular	Ambiguous	3
+marocca	1	1987	1987	PER	son	9475	9478	son	1	29	80	55	0	0	0	255	1987	son	det	1988	DET	PRON	Singular	Ambiguous	3
+marocca	1	1996	1996	PER	elle	9521	9525	elle	1	29	80	64	0	0	0	256	1996	elle	obl:arg	1994	PRON	PRON	Singular	Female	3
+narrateur	0	2015	2015	PER	moi	9626	9629	moi	1	29	80	83	0	0	0	257	2015	moi	obl:mod	2013	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2049	2049	PER	Ses	9817	9820	ses	1	30	82	0	0	0	0	258	2049	ses	det	2050	DET	PRON	Singular	Ambiguous	3
+marocca	1	2053	2053	PER	ses	9842	9845	ses	1	30	82	4	0	0	0	259	2053	ses	det	2055	DET	PRON	Singular	Ambiguous	3
+marocca	1	2081	2081	PER	elle	10012	10016	elle	1	30	83	1	0	0	0	260	2081	elle	nsubj	2083	PRON	PRON	Singular	Female	3
+narrateur	0	2086	2086	PER	mes	10046	10049	mes	1	30	83	6	0	0	0	261	2086	mes	det	2087	DET	PRON	Singular	Ambiguous	1
+marocca	1	2102	2102	PER	Son	10126	10129	son	1	31	84	0	0	0	0	262	2102	son	det	2103	DET	PRON	Singular	Ambiguous	3
+marocca	1	2121	2121	PER	lui	10213	10216	lui	1	31	84	19	0	0	0	263	2121	lui	iobj	2122	PRON	PRON	Singular	Ambiguous	3
+marocca	1	2131	2131	PER	sa	10263	10265	sa	1	32	85	4	0	0	0	264	2131	sa	det	2132	DET	PRON	Singular	Ambiguous	3
+marocca	1	2134	2134	PER	elle	10274	10278	elle	1	32	85	7	0	0	0	265	2134	elle	nsubj	2135	PRON	PRON	Singular	Female	3
+marocca	1	2145	2145	PER	elle	10328	10332	elle	1	32	85	18	0	0	0	266	2145	elle	nsubj	2146	PRON	PRON	Singular	Female	3
+maison_mauresque	12	2152	2153	FAC	ma maison	10368	10377	ma maison	2	32	85	25	0	1	1	267	2153	maison	obl:mod	2150	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	2152	2152	PER	ma	10368	10370	ma	1	32	85	25	1	0	0	268	2152	ma	det	2153	DET	PRON	Singular	Ambiguous	1
+marocca	1	2162	2162	PER	elle	10426	10430	elle	1	32	86	1	0	0	0	269	2162	elle	nsubj:pass	2165	PRON	PRON	Singular	Female	3
+marocca	1	2176	2176	PER	elle	10491	10495	elle	1	32	86	15	0	0	0	270	2176	elle	nsubj	2177	PRON	PRON	Singular	Female	3
+narrateur	0	2179	2179	PER	mes	10506	10509	mes	1	32	86	18	0	0	0	271	2179	mes	det	2180	DET	PRON	Singular	Ambiguous	1
+marocca	1	2201	2201	PER	sa	10615	10617	sa	1	32	86	40	0	0	0	272	2201	sa	det	2202	DET	PRON	Singular	Ambiguous	3
+marocca	1	2212	2212	PER	elle	10674	10678	elle	1	32	86	51	0	0	0	273	2212	elle	obl:arg	2210	PRON	PRON	Singular	Female	3
+marocca	1	2215	2215	PER	ses	10683	10686	ses	1	32	86	54	0	0	0	274	2215	ses	det	2216	DET	PRON	Singular	Ambiguous	3
+marocca	1	2219	2219	PER	sa	10705	10707	sa	1	32	86	58	0	0	0	275	2219	sa	det	2220	DET	PRON	Singular	Ambiguous	3
+marocca	1	2224	2224	PER	ses	10722	10725	ses	1	32	86	63	0	0	0	276	2224	ses	det	2225	DET	PRON	Singular	Ambiguous	3
+marocca	1	2237	2237	PER	elle	10794	10798	elle	1	33	87	1	0	0	0	277	2237	elle	nsubj	2238	PRON	PRON	Singular	Female	3
+T363	58	2239	2240	TIME	le soir	10808	10815	le soir	2	33	87	3	0	0	0	278	2240	soir	obl:mod	2238	NOUN	NOM	Not_Assigned	Not_Assigned	3
+pontabeze	2	2242	2243	PER	son mari	10817	10825	son mari	2	33	87	6	0	1	1	279	2243	mari	nsubj	2246	NOUN	NOM	Singular	Male	3
+marocca	1	2242	2242	PER	son	10817	10820	son	1	33	87	6	1	0	0	280	2242	son	det	2243	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2247	2247	PER	je	10843	10845	je	1	33	87	11	0	0	0	281	2247	je	nsubj	2249	PRON	PRON	Singular	Ambiguous	1
+narrateur_et_jeune_fille	5	2252	2252	PER	Nous	10858	10862	nous	1	33	88	0	0	0	0	282	2252	nous	nsubj	2254	PRON	PRON	Plural	Ambiguous	1
+terasse	110	2257	2258	FAC	la terrasse	10888	10899	la terrasse	2	33	88	5	0	0	0	283	2258	terrasse	obl:arg	2254	NOUN	NOM	Not_Assigned	Not_Assigned	3
+orient	105	2270	2270	GPE	Orient	10953	10959	orient	1	33	88	18	0	0	0	284	2270	orient	nmod	2268	PROPN	PROP	Not_Assigned	Not_Assigned	3
+M38	28	2272	2286	TIME	Quand la grande lune illuminante des pays chauds s'étalait en plein dans le ciel	10962	11042	quand la grande lune illuminante des pays chauds s' étalait en plein dans le ciel	15	34	89	0	0	2	2	285	2281	étalait	advcl	2302	VERB	NOM	Not_Assigned	Not_Assigned	3
+lune	22	2273	2279	LOC	la grande lune illuminante des pays chauds	10968	11010	la grande lune illuminante des pays chauds	7	34	89	1	1	1	1	286	2275	lune	nsubj	2281	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T366	57	2277	2279	LOC	des pays chauds	10995	11010	des pays chauds	3	34	89	5	2	0	0	287	2278	pays	nmod	2275	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bougie	4	2289	2290	GPE	la ville	11054	11062	la ville	2	34	89	17	0	0	0	288	2290	ville	obj	2288	NOUN	NOM	Not_Assigned	Not_Assigned	3
+golfe_de_bougie	8	2292	2293	LOC	le golfe	11066	11074	le golfe	2	34	89	20	0	0	0	289	2293	golfe	conj	2290	NOUN	NOM	Not_Assigned	Not_Assigned	3
+golfe_de_bougie	8	2295	2295	LOC	son	11080	11083	son	1	34	89	23	0	0	0	290	2295	son	det	2296	DET	PRON	Not_Assigned	Not_Assigned	3
+narrateur_et_jeune_fille	5	2301	2301	PER	nous	11112	11116	nous	1	34	89	29	0	0	0	291	2301	nous	nsubj	2302	PRON	PRON	Plural	Ambiguous	1
+T368	55	2305	2308	FAC	toutes les autres terrasses	11139	11166	toutes les autres terrasses	4	34	89	33	0	0	0	292	2308	terrasses	obl:arg	2302	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M40	29	2340	2343	TIME	ces soirées d'Afrique	11343	11364	ces soirées d' afrique	4	35	90	4	0	1	1	293	2341	soirées	nmod	2338	NOUN	PROP	Not_Assigned	Not_Assigned	3
+afrique	6	2343	2343	GPE	Afrique	11357	11364	afrique	1	35	90	7	1	0	0	294	2343	afrique	nmod	2341	PROPN	PROP	Not_Assigned	Not_Assigned	3
+marocca	1	2345	2345	PER	Marroca	11366	11373	marroca	1	35	90	9	0	0	0	295	2345	marroca	nsubj	2347	PROPN	PROP	Singular	Not_Assigned	3
+lune	22	2358	2359	LOC	la lune	11435	11442	la lune	2	35	90	22	0	0	0	296	2359	lune	nmod	2356	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	2361	2361	PER	elle	11445	11449	elle	1	35	90	25	0	0	0	297	2361	elle	nsubj	2364	PRON	PRON	Singular	Female	3
+narrateur_et_jeune_fille	5	2370	2370	PER	nous	11489	11493	nous	1	35	90	34	0	0	0	298	2370	nous	iobj	2371	PRON	PRON	Plural	Ambiguous	1
+marocca	1	2376	2376	PER	elle	11521	11525	elle	1	35	90	40	0	0	0	299	2376	elle	nsubj	2377	PRON	PRON	Singular	Female	3
+T369	54	2379	2380	TIME	la nuit	11539	11546	la nuit	2	35	90	43	0	0	0	300	2380	nuit	obl:mod	2377	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	2383	2383	PER	mes	11555	11558	mes	1	35	90	47	0	0	0	301	2383	mes	det	2384	DET	PRON	Singular	Ambiguous	1
+marocca	1	2386	2386	PER	mes	11571	11574	mes	1	35	90	50	0	0	0	302	2386	mes	det	2387	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2403	2403	PER	je	11656	11658	je	1	36	91	1	0	0	0	303	2403	je	nsubj	2404	PRON	PRON	Singular	Ambiguous	1
+T370	53	2405	2406	TIME	un soir	11671	11678	un soir	2	36	91	3	0	0	0	304	2406	soir	obl:mod	2404	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M41	30	2415	2415	LOC	étoiles	11722	11729	étoiles	1	36	91	13	0	0	0	305	2415	étoiles	obl:arg	2413	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	2417	2417	PER	elle	11731	11735	elle	1	36	91	15	0	0	0	306	2417	elle	nsubj	2418	PRON	PRON	Singular	Female	3
+marocca	1	2422	2422	PER	mon	11759	11762	mon	1	36	91	20	0	0	0	307	2422	mon	det	2423	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2428	2428	PER	ma	11787	11789	ma	1	36	91	26	0	0	0	308	2428	ma	det	2429	DET	PRON	Singular	Ambiguous	1
+marocca	1	2430	2430	PER	ses	11797	11800	ses	1	36	91	28	0	0	0	309	2430	ses	det	2432	DET	PRON	Singular	Ambiguous	3
+marocca	1	2440	2440	PER	elle	11845	11849	-elle	1	37	92	5	0	0	0	310	2440	elle	nsubj	2439	PRON	PRON	Singular	Female	3
+narrateur	0	2443	2443	PER	tu	11855	11857	tu	1	37	92	8	0	0	0	311	2443	tu	nsubj	2444	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2447	2447	PER	moi	11878	11881	moi	1	37	92	12	0	0	0	312	2447	moi	obl:mod	2445	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2450	2450	PER	Je	11886	11888	je	1	38	93	0	0	0	0	313	2450	je	nsubj	2452	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2459	2459	PER	toi	11924	11927	toi	1	38	93	9	0	0	0	314	2459	toi	dep	2456	PRON	PRON	Singular	Ambiguous	2
+pontabeze	2	2464	2465	PER	mon mari	11944	11952	mon mari	2	39	94	3	0	1	1	315	2465	mari	nsubj	2467	NOUN	NOM	Singular	Male	3
+marocca	1	2464	2464	PER	mon	11944	11947	mon	1	39	94	3	1	0	0	316	2464	mon	det	2465	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2469	2469	PER	tu	11965	11967	tu	1	39	94	8	0	0	0	317	2469	tu	nsubj	2470	PRON	PRON	Singular	Ambiguous	2
+pontabeze	2	2473	2473	PER	sa	11986	11988	sa	1	39	94	12	0	0	0	318	2473	sa	det	2474	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2477	2477	PER	Je	11999	12001	je	1	40	95	0	0	0	0	319	2477	je	nsubj	2479	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2480	2480	PER	m'	12009	12011	m'	1	40	95	3	0	0	0	320	2480	m'	expl:comp	2481	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2490	2490	PER	tu	12053	12055	tu	1	41	96	5	0	0	0	321	2490	tu	nsubj	2491	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2495	2495	PER	Elle	12071	12075	elle	1	42	98	0	0	0	0	322	2495	elle	nsubj	2496	PRON	PRON	Singular	Female	3
+narrateur	0	2499	2499	PER	me	12087	12089	me	1	42	98	4	0	0	0	323	2499	me	iobj	2500	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2505	2505	PER	me	12114	12116	me	1	42	98	10	0	0	0	324	2505	me	iobj	2506	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2507	2507	PER	son	12124	12127	son	1	42	98	12	0	0	0	325	2507	son	det	2508	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2517	2517	PER	ma	12174	12176	ma	1	42	98	22	0	0	0	326	2517	ma	det	2518	DET	PRON	Singular	Ambiguous	1
+marocca	1	2520	2520	PER	son	12190	12193	son	1	42	98	25	0	0	0	327	2520	son	det	2521	DET	PRON	Singular	Ambiguous	3
+marocca	1	2528	2528	PER	me	12219	12221	me	1	42	98	33	0	0	0	328	2528	me	iobj	2529	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2550	2550	PER	Je	12325	12327	je	1	43	100	0	0	0	0	329	2550	je	nsubj	2552	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2554	2554	PER	son	12348	12351	son	1	43	100	4	0	0	0	330	2554	son	det	2555	DET	PRON	Singular	Ambiguous	3
+marocca	1	2557	2557	PER	Elle	12358	12362	elle	1	43	101	0	0	0	0	331	2557	elle	nsubj	2558	PRON	PRON	Singular	Female	3
+marocca	1	2559	2559	PER	ses	12369	12372	ses	1	43	101	2	0	0	0	332	2559	ses	det	2560	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2562	2562	PER	mon	12380	12383	mon	1	43	101	5	0	0	0	333	2562	mon	det	2563	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2568	2568	PER	tu	12400	12402	tu	1	43	102	3	0	0	0	334	2568	tu	nsubj	2570	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2574	2575	PER	j'	12421	12423	j '	2	43	102	9	0	0	0	335	2574	j	nsubj	2577	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2581	2582	PER	j'	12445	12447	j '	2	43	103	2	0	0	0	336	2581	j	nsubj	2583	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	2584	2585	PER	mon mari	12460	12468	mon mari	2	43	103	5	0	1	1	337	2585	mari	obj	2583	NOUN	NOM	Singular	Male	3
+marocca	1	2584	2584	PER	mon	12460	12463	mon	1	43	103	5	1	0	0	338	2584	mon	det	2585	DET	PRON	Singular	Ambiguous	1
+marocca	1	2588	2588	PER	me	12473	12475	me	1	43	103	9	0	0	0	339	2588	me	iobj	2589	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2593	2593	PER	toi	12497	12500	toi	1	43	103	14	0	0	0	340	2593	toi	ccomp	2589	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2608	2608	PER	sa	12547	12549	sa	1	44	104	12	0	0	0	341	2608	sa	det	2609	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2616	2616	PER	Je	12596	12598	je	1	45	105	0	0	0	0	342	2616	je	nsubj	2617	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2625	2625	PER	tu	12641	12643	tu	1	46	106	2	0	0	0	343	2625	tu	nsubj	2627	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	2629	2629	PER	J'	12654	12656	j'	1	46	107	0	0	0	0	344	2629	j'	nsubj	2630	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2637	2637	PER	Je	12687	12689	je	1	47	108	0	0	0	0	345	2637	je	nsubj	2639	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2667	2667	PER	elle	12831	12835	elle	1	47	109	1	0	0	0	346	2667	elle	nsubj	2669	PRON	PRON	Singular	Female	3
+narrateur	0	2668	2668	PER	me	12836	12838	me	1	47	109	2	0	0	0	347	2668	me	obj	2669	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2671	2671	PER	me	12845	12847	me	1	47	109	5	0	0	0	348	2671	me	obj	2672	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2681	2681	PER	Tu	12885	12887	tu	1	47	109	15	0	0	0	349	2681	tu	nsubj	2682	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2684	2684	PER	je	12901	12903	je	1	47	109	18	0	0	0	350	2684	je	nsubj	2686	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2685	2685	PER	t'	12904	12906	t'	1	47	109	19	0	0	0	351	2685	t'	obj	2686	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	2690	2690	PER	T'	12920	12922	t'	1	47	109	24	0	0	0	352	2690	t'	nsubj	2691	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2706	2706	PER	Son	13003	13006	son	1	48	110	0	0	0	0	353	2706	son	det	2707	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2708	2708	PER	me	13013	13015	me	1	48	110	2	0	0	0	354	2708	me	iobj	2709	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2713	2713	PER	je	13049	13051	je	1	48	110	7	0	0	0	355	2713	je	nsubj	2717	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2715	2715	PER	me	13055	13057	me	1	48	110	9	0	0	0	356	2715	me	iobj	2717	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2726	2726	PER	je	13100	13102	je	1	48	110	20	0	0	0	357	2726	je	nsubj	2727	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	2733	2734	PER	son mari	13146	13154	son mari	2	48	110	27	0	1	1	358	2734	mari	nmod	2730	NOUN	NOM	Singular	Male	3
+marocca	1	2733	2733	PER	son	13146	13149	son	1	48	110	27	1	0	0	359	2733	son	det	2734	DET	PRON	Singular	Ambiguous	3
+narrateur	0	2767	2767	PER	Je	13308	13310	je	1	49	111	0	0	0	0	360	2767	je	nsubj	2769	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2768	2768	PER	lui	13311	13314	lui	1	49	111	1	0	0	0	361	2768	lui	iobj	2769	PRON	PRON	Singular	Ambiguous	3
+pontabeze	2	2773	2774	PER	Ton mari	13325	13333	ton mari	2	49	111	6	0	1	1	362	2774	mari	nsubj	2777	NOUN	NOM	Singular	Male	3
+marocca	1	2773	2773	PER	Ton	13325	13328	ton	1	49	111	6	1	0	0	363	2773	ton	det	2774	DET	PRON	Singular	Ambiguous	2
+marocca	1	2779	2779	PER	toi	13356	13359	toi	1	49	111	12	0	0	0	364	2779	toi	obl:mod	2777	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2782	2782	PER	Elle	13365	13369	elle	1	50	112	0	0	0	0	365	2782	elle	nsubj	2783	PRON	PRON	Singular	Female	3
+marocca	1	2797	2797	PER	tu	13420	13422	tu	1	51	114	1	0	0	0	366	2797	tu	nsubj	2801	PRON	PRON	Singular	Ambiguous	2
+pontabeze	2	2799	2800	PER	l'	13426	13428	l '	2	51	114	3	0	0	0	367	2799	l	obj	2801	PRON	PRON	Singular	Ambiguous	3
+marocca	1	2804	2804	PER	toi	13440	13443	toi	1	51	114	8	0	0	0	368	2804	toi	parataxis	2801	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2807	2807	PER	Elle	13449	13453	elle	1	52	115	0	0	0	0	369	2807	elle	nsubj	2809	PRON	PRON	Singular	Female	3
+marocca	1	2811	2811	PER	ses	13467	13470	ses	1	52	115	4	0	0	0	370	2811	ses	det	2813	DET	PRON	Singular	Ambiguous	3
+marocca	1	2819	2819	PER	je	13499	13501	je	1	53	116	3	0	0	0	371	2819	je	nsubj	2822	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	2820	2821	PER	l'	13502	13504	l '	2	53	116	4	0	0	0	372	2820	l	obj	2822	PRON	PRON	Singular	Ambiguous	3
+narrateur	0	2836	2836	PER	toi	13572	13575	toi	1	53	116	20	0	0	0	373	2836	toi	dep	2834	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	2838	2839	PER	mon coeurrr	13577	13588	mon coeurrr	2	53	116	22	0	1	1	374	2839	coeurrr	obj	2822	NOUN	NOM	Singular	Not_Assigned	3
+marocca	1	2838	2838	PER	mon	13577	13580	mon	1	53	116	22	1	0	0	375	2838	mon	det	2839	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2842	2842	PER	Je	13593	13595	je	1	54	117	0	0	0	0	376	2842	je	nsubj	2844	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2851	2851	PER	je	13633	13635	je	1	54	117	9	0	0	0	377	2851	je	nsubj	2852	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2856	2856	PER	elle	13657	13661	elle	1	54	117	14	0	0	0	378	2856	elle	nsubj	2857	PRON	PRON	Singular	Female	3
+narrateur	0	2859	2859	PER	ma	13673	13675	ma	1	54	117	17	0	0	0	379	2859	ma	det	2860	DET	PRON	Singular	Ambiguous	1
+marocca	1	2866	2866	PER	elle	13708	13712	elle	1	54	117	24	0	0	0	380	2866	elle	nsubj	2867	PRON	PRON	Singular	Female	3
+marocca	1	2872	2872	PER	elle	13742	13746	elle	1	54	117	30	0	0	0	381	2872	elle	nsubj	2873	PRON	PRON	Singular	Female	3
+narrateur	0	2877	2877	PER	Tu	13761	13763	tu	1	54	117	35	0	0	0	382	2877	tu	nsubj	2878	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	2883	2883	PER	Je	13784	13786	je	1	55	119	0	0	0	0	383	2883	je	nsubj	2884	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2888	2888	PER	elle	13813	13817	elle	1	55	120	1	0	0	0	384	2888	elle	nsubj	2890	PRON	PRON	Singular	Female	3
+marocca	1	2899	2899	PER	Elle	13857	13861	elle	1	56	121	0	0	0	0	385	2899	elle	nsubj	2902	PRON	PRON	Singular	Female	3
+T379	11	2901	2902	TIME	huit jours	13866	13876	huit jours	2	56	121	2	0	0	0	386	2902	jours	ROOT	2902	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T382	52	2907	2909	TIME	Le neuvième jour	13894	13910	le neuvième jour	3	56	122	0	0	0	0	387	2909	jour	obl:mod	2911	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	2910	2910	PER	elle	13911	13915	elle	1	56	122	3	0	0	0	388	2910	elle	nsubj	2911	PRON	PRON	Singular	Female	3
+chambre_narrateur	86	2920	2921	FAC	ma chambre	13960	13970	ma chambre	2	56	122	13	0	1	1	389	2921	chambre	nmod	2918	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	2920	2920	PER	ma	13960	13962	ma	1	56	122	13	1	0	0	390	2920	ma	det	2921	DET	PRON	Singular	Ambiguous	1
+narrateur	0	2929	2929	PER	tu	13997	13999	tu	1	56	122	22	0	0	0	391	2929	tu	dep	2927	PRON	PRON	Singular	Ambiguous	2
+T385	51	2930	2931	TIME	ce soir	14000	14007	ce soir	2	56	122	23	0	0	0	392	2931	soir	obl:mod	2927	NOUN	NOM	Not_Assigned	Not_Assigned	3
+marocca	1	2934	2934	PER	moi	14024	14027	moi	1	56	122	27	0	0	0	393	2934	moi	obl:mod	2927	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2937	2937	PER	tu	14033	14035	tu	1	56	123	1	0	0	0	394	2937	tu	nsubj	2939	PRON	PRON	Singular	Ambiguous	2
+marocca	1	2942	2942	PER	je	14050	14052	je	1	56	123	6	0	0	0	395	2942	je	nsubj	2945	PRON	PRON	Singular	Ambiguous	1
+T379	11	2948	2949	TIME	Huit jours	14067	14077	huit jours	2	57	124	0	0	0	0	396	2949	jours	obl:mod	2953	NOUN	NOM	Not_Assigned	Not_Assigned	3
+destinataire	3	2955	2956	PER	mon ami	14091	14098	mon ami	2	57	124	7	0	1	1	397	2956	ami	obj	2953	NOUN	NOM	Singular	Male	3
+narrateur	0	2955	2955	PER	mon	14091	14094	mon	1	57	124	7	1	0	0	398	2955	mon	det	2956	DET	PRON	Singular	Ambiguous	1
+afrique	6	2961	2961	GPE	Afrique	14107	14114	afrique	1	57	124	13	0	0	0	399	2961	afrique	obl:mod	2967	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T379	11	2963	2966	TIME	ces huit jours-là	14116	14133	ces huit jours -là	4	57	124	15	0	0	0	400	2965	jours	nsubj	2967	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	2972	2972	PER	Je	14158	14160	je	1	57	124	24	0	0	0	401	2972	je	nsubj	2973	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	2980	2980	PER	j'	14182	14184	j'	1	57	124	32	0	0	0	402	2980	j'	nsubj	2981	PRON	PRON	Singular	Ambiguous	1
+marocca	1	2985	2985	PER	Elle	14201	14205	elle	1	57	125	0	0	0	0	403	2985	elle	nsubj	2988	PRON	PRON	Singular	Female	3
+marocca	1	2990	2990	PER	Elle	14217	14221	elle	1	58	126	0	0	0	0	404	2990	elle	nsubj	2992	PRON	PRON	Singular	Female	3
+narrateur	0	2991	2991	PER	m'	14222	14224	m'	1	58	126	1	0	0	0	405	2991	m'	obj	2992	PRON	PRON	Singular	Ambiguous	1
+T387	50	2995	2996	TIME	la nuit	14236	14243	la nuit	2	58	126	5	0	0	0	406	2996	nuit	obl:mod	2992	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T388	49	2999	3001	FAC	une rue voisine	14250	14265	une rue voisine	3	58	126	9	0	0	0	407	3000	rue	obl:mod	2992	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3004	3004	PER	me	14270	14272	me	1	58	126	14	0	0	0	408	3004	me	obj	3005	PRON	PRON	Singular	Ambiguous	1
+couple_marie	9	3007	3007	PER	Ils	14281	14284	ils	1	59	127	0	0	0	0	409	3007	ils	nsubj	3008	PRON	PRON	Plural	Ambiguous	3
+port	23	3010	3011	FAC	du port	14301	14308	du port	2	59	127	3	0	0	0	410	3011	port	dep	3009	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison_marocca	21	3012	3015	FAC	une petite maison basse	14309	14332	une petite maison basse	4	59	127	5	0	0	0	411	3014	maison	obj	3008	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3017	3017	PER	Je	14334	14336	je	1	59	128	0	0	0	0	412	3017	je	nsubj	3018	PRON	PRON	Singular	Ambiguous	1
+cuisine	19	3021	3022	FAC	une cuisine	14355	14366	une cuisine	2	59	128	4	0	0	0	413	3022	cuisine	obj	3018	NOUN	NOM	Not_Assigned	Not_Assigned	3
+couple_marie	9	3024	3025	PER	le ménage	14370	14379	le ménage	2	59	128	7	0	0	0	414	3025	ménage	nsubj	3026	NOUN	NOM	Plural	Ambiguous	3
+couple_marie	9	3027	3027	PER	ses	14388	14391	ses	1	59	128	10	0	0	0	415	3027	ses	det	3028	DET	PRON	Singular	Ambiguous	3
+narrateur	0	3031	3031	PER	je	14402	14404	je	1	59	128	14	0	0	0	416	3031	je	nsubj	3032	PRON	PRON	Singular	Ambiguous	1
+chambre_marocca	85	3034	3041	FAC	la chambre blanchie à la chaux, propre	14419	14457	la chambre blanchie à la chaux , propre	8	59	128	17	0	0	0	417	3035	chambre	obl:arg	3032	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T396	48	3047	3047	PER	parents	14485	14492	parents	1	59	128	30	0	0	0	418	3047	parents	nmod	3045	NOUN	NOM	Plural	Ambiguous	3
+marocca	1	3061	3061	PER	Marroca	14551	14558	marroca	1	59	129	0	0	0	0	419	3061	marroca	nsubj	3062	PROPN	PROP	Singular	Not_Assigned	3
+marocca	1	3067	3067	PER	elle	14584	14588	elle	1	59	129	6	0	0	0	420	3067	elle	nsubj	3068	PRON	PRON	Singular	Female	3
+narrateur	0	3074	3074	PER	Te	14613	14615	te	1	59	129	13	0	0	0	421	3074	te	nsubj	3075	PRON	PRON	Singular	Ambiguous	2
+couple_marie	9	3077	3077	PER	nous	14627	14631	nous	1	59	129	16	0	0	0	422	3077	nous	obl:arg	3075	PRON	PRON	Plural	Ambiguous	1
+narrateur	0	3079	3079	PER	te	14633	14635	te	1	59	129	18	0	0	0	423	3079	te	nsubj	3080	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	3082	3082	PER	toi	14647	14650	toi	1	59	129	21	0	0	0	424	3082	toi	obl:mod	3080	PRON	PRON	Singular	Ambiguous	2
+narrateur	0	3085	3085	PER	J'	14655	14657	j'	1	60	130	0	0	0	0	425	3085	j'	nsubj	3086	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3093	3093	PER	moi	14684	14687	moi	1	60	130	8	0	0	0	426	3093	moi	obl:mod	3086	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3095	3095	PER	J'	14690	14692	j'	1	61	131	0	0	0	0	427	3095	j'	nsubj	3099	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3101	3101	PER	je	14711	14713	je	1	61	131	6	0	0	0	428	3101	je	nsubj	3103	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3109	3109	PER	j'	14743	14745	j'	1	61	132	1	0	0	0	429	3109	j'	nsubj	3110	PRON	PRON	Singular	Ambiguous	1
+maison_marocca	21	3113	3115	FAC	cette demeure inconnue	14760	14782	cette demeure inconnue	3	61	132	5	0	0	0	430	3114	demeure	obl:mod	3110	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3118	3118	PER	me	14786	14788	me	1	61	132	10	0	0	0	431	3118	me	expl:comp	3119	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3140	3140	PER	elle	14911	14915	elle	1	61	132	32	0	0	0	432	3140	elle	nsubj	3143	PRON	PRON	Singular	Female	3
+narrateur	0	3141	3141	PER	me	14916	14918	me	1	61	132	33	0	0	0	433	3141	me	iobj	3143	PRON	PRON	Singular	Ambiguous	1
+M43	24	3150	3152	FAC	la pièce voisine	14956	14972	la pièce voisine	3	61	132	42	0	0	0	434	3151	pièce	obl:arg	3148	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3156	3156	PER	mes	14986	14989	mes	1	61	132	48	0	0	0	435	3156	mes	det	3158	DET	PRON	Singular	Ambiguous	1
+narrateur	0	3160	3160	PER	Je	15006	15008	je	1	62	133	0	0	0	0	436	3160	je	nsubj	3161	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3163	3163	PER	mon	15022	15025	mon	1	62	133	3	0	0	0	437	3163	mon	det	3164	DET	PRON	Singular	Ambiguous	1
+narrateur	0	3166	3166	PER	je	15039	15041	je	1	62	133	6	0	0	0	438	3166	je	nsubj	3169	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3168	3168	PER	lui	15045	15048	lui	1	62	133	8	0	0	0	439	3168	lui	iobj	3169	PRON	PRON	Singular	Ambiguous	3
+narrateur	0	3172	3172	PER	mon	15065	15068	mon	1	62	133	12	0	0	0	440	3172	mon	det	3173	DET	PRON	Singular	Ambiguous	1
+M44	70	3178	3182	TIME	au bout de deux heures	15089	15111	au bout de deux heures	5	62	133	18	0	0	0	441	3179	bout	obl:mod	3185	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur_et_jeune_fille	5	3183	3183	PER	nous	15112	15116	nous	1	62	133	23	0	0	0	442	3183	nous	nsubj	3185	PRON	PRON	Plural	Ambiguous	1
+narrateur_et_jeune_fille	5	3200	3200	PER	nous	15209	15213	nous	1	62	133	40	0	0	0	443	3200	nous	dep	3202	PRON	PRON	Plural	Ambiguous	1
+T399	74	3209	3209	PER	homme	15255	15260	homme	1	62	133	49	0	0	0	444	3209	homme	nmod	3206	NOUN	NOM	Singular	Male	3
+marocca	1	3214	3214	PER	Marroca	15272	15279	marroca	1	62	133	54	0	0	0	445	3214	marroca	dep	3219	PROPN	PROP	Singular	Not_Assigned	3
+pontabeze	2	3216	3217	PER	c'	15281	15283	c '	2	62	133	56	0	0	0	446	3216	c	iobj	3219	PRON	PRON	Ambiguous	Ambiguous	3
+pontabeze	2	3219	3219	PER	moi	15288	15291	moi	1	62	133	59	0	0	0	447	3219	moi	ROOT	3219	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3222	3222	PER	Elle	15296	15300	elle	1	63	135	0	0	0	0	448	3222	elle	nsubj	3223	PRON	PRON	Singular	Female	3
+pontabeze	2	3229	3230	PER	Mon mari	15319	15327	mon mari	2	63	135	7	0	1	1	449	3230	mari	ROOT	3230	NOUN	NOM	Singular	Male	3
+narrateur	0	3229	3229	PER	Mon	15319	15322	mon	1	63	135	7	1	0	0	450	3229	mon	det	3230	DET	PRON	Singular	Ambiguous	1
+narrateur	0	3234	3234	PER	toi	15342	15345	cache-toi	1	63	136	2	0	0	0	451	3234	cache-toi	ROOT	3234	VERB	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3240	3240	PER	Je	15361	15363	je	1	63	137	1	0	0	0	452	3240	je	nsubj	3241	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3243	3243	PER	mon	15385	15388	mon	1	63	137	4	0	0	0	453	3243	mon	det	3244	DET	PRON	Singular	Ambiguous	1
+marocca	1	3247	3247	PER	elle	15405	15409	elle	1	63	137	8	0	0	0	454	3247	elle	nsubj	3249	PRON	PRON	Singular	Female	3
+narrateur	0	3248	3248	PER	me	15410	15412	me	1	63	137	9	0	0	0	455	3248	me	obj	3249	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3262	3262	PER	Je	15458	15460	je	1	64	138	0	0	0	0	456	3262	je	nsubj	3264	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3269	3269	PER	me	15488	15490	me	1	64	138	7	0	0	0	457	3269	me	expl:comp	3270	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3279	3279	PER	j'	15537	15539	j'	1	64	138	17	0	0	0	458	3279	j'	nsubj	3282	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3285	3285	PER	elle	15561	15565	elle	1	65	139	1	0	0	0	459	3285	elle	nsubj	3286	PRON	PRON	Singular	Female	3
+cuisine	19	3288	3289	FAC	la cuisine	15577	15587	la cuisine	2	65	139	4	0	0	0	460	3289	cuisine	obl:arg	3286	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3291	3291	PER	Je	15589	15591	je	1	65	140	0	0	0	0	461	3291	je	nsubj	3294	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3292	3293	PER	l'	15592	15594	l '	2	65	140	1	0	0	0	462	3292	l	obj	3294	PRON	PRON	Singular	Ambiguous	3
+marocca	1	3303	3303	PER	elle	15640	15644	elle	1	65	140	12	0	0	0	463	3303	elle	nsubj	3304	PRON	PRON	Singular	Female	3
+narrateur	0	3310	3310	PER	je	15676	15678	je	1	65	140	19	0	0	0	464	3310	je	nsubj	3312	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3317	3317	PER	elle	15702	15706	elle	1	65	140	26	0	0	0	465	3317	elle	nsubj	3318	PRON	PRON	Singular	Female	3
+pontabeze	2	3326	3327	PER	son mari	15746	15754	son mari	2	65	140	35	0	1	1	466	3327	mari	nsubj	3328	NOUN	NOM	Singular	Male	3
+marocca	1	3326	3326	PER	son	15746	15749	son	1	65	140	35	1	0	0	467	3326	son	det	3327	DET	PRON	Singular	Ambiguous	3
+marocca	1	3331	3331	PER	elle	15773	15777	elle	1	65	140	40	0	0	0	468	3331	elle	nsubj	3332	PRON	PRON	Singular	Female	3
+marocca	1	3342	3342	PER	Je	15818	15820	je	1	65	140	51	0	0	0	469	3342	je	nsubj	3344	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3358	3358	PER	je	15886	15888	je	1	65	140	67	0	0	0	470	3358	je	nsubj	3361	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3359	3360	PER	t'	15889	15891	t '	2	65	140	68	0	0	0	471	3359	t	obj	3361	PRON	PRON	Singular	Ambiguous	2
+marocca	1	3366	3366	PER	elle	15908	15912	elle	1	65	140	75	0	0	0	472	3366	elle	nsubj	3367	PRON	PRON	Singular	Female	3
+pontabeze	2	3369	3370	PER	L'homme	15922	15929	l' homme	2	66	141	0	0	0	0	473	3370	homme	nsubj	3371	NOUN	NOM	Singular	Male	3
+marocca	1	3373	3373	PER	Je	15937	15939	je	1	66	142	0	0	0	0	474	3373	je	nsubj	3375	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3377	3377	PER	ses	15951	15954	ses	1	66	142	4	0	0	0	475	3377	ses	det	3378	DET	PRON	Singular	Ambiguous	3
+pontabeze	2	3392	3392	PER	il	16020	16022	il	1	66	143	8	0	0	0	476	3392	il	nsubj	3393	PRON	PRON	Singular	Male	3
+pontabeze	2	3395	3396	PER	un colosse	16035	16045	un colosse	2	66	143	11	0	0	0	477	3396	colosse	xcomp	3393	NOUN	NOM	Singular	Male	3
+narrateur	0	3398	3398	PER	J'	16048	16050	j'	1	67	144	0	0	0	0	478	3398	j'	nsubj	3399	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3415	3415	PER	il	16117	16119	il	1	67	144	17	0	0	0	479	3415	il	nsubj	3416	PRON	PRON	Singular	Male	3
+pontabeze	2	3424	3424	PER	Zé	16157	16159	zé	1	67	144	26	0	0	0	480	3424	zé	aux:tense	3425	PROPN	PROP	Singular	Not_Assigned	3
+pontabeze	2	3426	3426	PER	ma	16167	16169	ma	1	67	144	28	0	0	0	481	3426	ma	det	3427	DET	PRON	Singular	Ambiguous	1
+pontabeze	2	3438	3438	PER	je	16213	16215	je	1	67	145	2	0	0	0	482	3438	je	nsubj	3439	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3441	3441	PER	tu	16226	16228	tu	1	67	145	5	0	0	0	483	3441	tu	nsubj	3442	PRON	PRON	Singular	Ambiguous	2
+pontabeze	2	3448	3448	PER	Il	16253	16255	il	1	67	145	12	0	0	0	484	3448	il	nsubj	3449	PRON	PRON	Singular	Male	3
+pontabeze	2	3455	3455	PER	chercha	16279	16286	chercha	1	67	145	19	0	0	0	485	3455	chercha	advcl	3449	VERB	NOM	Not_Assigned	Not_Assigned	3
+pontabeze	2	3460	3460	PER	lui	16306	16309	lui	1	67	145	24	0	0	0	486	3460	lui	iobj	3461	PRON	PRON	Singular	Ambiguous	3
+marocca	1	3464	3464	PER	Marroca	16325	16332	marroca	1	67	145	28	0	0	0	487	3464	marroca	nsubj	3467	PROPN	PROP	Singular	Not_Assigned	3
+pontabeze	2	3476	3476	PER	il	16387	16389	il	1	67	145	40	0	0	0	488	3476	il	nsubj	3477	PRON	PRON	Singular	Male	3
+marocca	1	3479	3479	PER	elle	16399	16403	elle	1	67	145	43	0	0	0	489	3479	elle	obl:arg	3477	PRON	PRON	Singular	Female	3
+pontabeze	2	3484	3484	PER	il	16419	16421	il	1	67	145	48	0	0	0	490	3484	il	nsubj	3485	PRON	PRON	Singular	Male	3
+marocca	1	3487	3487	PER	la	16434	16436	la	1	67	145	51	0	0	0	491	3487	la	obj	3488	PRON	PRON	Singular	Female	3
+marocca	1	3491	3491	PER	elle	16451	16455	elle	1	67	145	55	0	0	0	492	3491	elle	nsubj	3493	PRON	PRON	Singular	Female	3
+pontabeze	2	3492	3492	PER	lui	16456	16459	lui	1	67	145	56	0	0	0	493	3492	lui	iobj	3493	PRON	PRON	Singular	Ambiguous	3
+narrateur	0	3511	3511	PER	moi	16548	16551	moi	1	68	146	6	0	0	0	494	3511	moi	obl:arg	3509	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3521	3521	PER	me	16595	16597	me	1	68	146	16	0	0	0	495	3521	me	iobj	3522	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3529	3529	PER	Je	16636	16638	je	1	68	147	0	0	0	0	496	3529	je	nsubj	3531	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3530	3530	PER	me	16639	16641	me	1	68	147	1	0	0	0	497	3530	me	expl:comp	3531	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3534	3534	PER	il	16657	16659	il	1	69	148	1	0	0	0	498	3534	il	nsubj	3536	PRON	PRON	Singular	Male	3
+pontabeze	2	3539	3539	PER	ses	16682	16685	ses	1	69	148	6	0	0	0	499	3539	ses	det	3540	DET	PRON	Singular	Ambiguous	3
+pontabeze	2	3542	3542	PER	il	16695	16697	il	1	69	148	9	0	0	0	500	3542	il	nsubj	3544	PRON	PRON	Singular	Male	3
+marocca	1	3548	3548	PER	Tu	16712	16714	tu	1	69	149	2	0	0	0	501	3548	tu	nsubj	3551	PRON	PRON	Singular	Ambiguous	2
+M42	64	3552	3552	TIME	aujourd'hui	16731	16742	aujourd'hui	1	69	149	6	0	0	0	502	3552	aujourd'hui	advmod	3551	ADV	NOM	Not_Assigned	Not_Assigned	3
+pontabeze	2	3556	3556	PER	il	16750	16752	-il	1	69	149	10	0	0	0	503	3556	il	nsubj	3555	PRON	PRON	Singular	Male	3
+pontabeze	2	3559	3559	PER	il	16759	16761	il	1	69	150	1	0	0	0	504	3559	il	nsubj	3561	PRON	PRON	Singular	Male	3
+pontabeze	2	3562	3562	PER	son	16770	16773	son	1	69	150	4	0	0	0	505	3562	son	det	3563	DET	PRON	Singular	Ambiguous	3
+marocca	1	3569	3569	PER	petite	16793	16799	petite	1	69	151	4	0	0	0	506	3569	petite	amod	3567	ADJ	NOM	Singular	Ambiguous	3
+narrateur	0	3584	3584	PER	me	16866	16868	me	1	69	151	19	0	0	0	507	3584	me	dep	3586	PRON	PRON	Singular	Ambiguous	1
+T402	75	3595	3597	FAC	la pièce voisine	16924	16940	la pièce voisine	3	69	151	30	0	0	0	508	3596	pièce	obl:mod	3593	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T403	78	3603	3604	FAC	la rue	16958	16964	la rue	2	69	151	38	0	0	0	509	3604	rue	nmod	3601	NOUN	NOM	Not_Assigned	Not_Assigned	3
+narrateur	0	3608	3608	PER	J'	16978	16980	j'	1	70	152	0	0	0	0	510	3608	j'	nsubj:pass	3610	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3612	3612	PER	Je	16995	16997	je	1	71	153	0	0	0	0	511	3612	je	nsubj	3613	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3616	3616	PER	ma	17018	17020	ma	1	71	153	4	0	0	0	512	3616	ma	det	3617	DET	PRON	Singular	Ambiguous	1
+marocca	1	3626	3626	PER	Marroca	17063	17070	marroca	1	71	153	14	0	0	0	513	3626	marroca	nsubj	3631	PROPN	PROP	Singular	Not_Assigned	3
+narrateur	0	3636	3636	PER	moi	17114	17117	moi	1	71	153	24	0	0	0	514	3636	moi	dep	3634	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3646	3646	PER	je	17160	17162	je	1	71	153	34	0	0	0	515	3646	je	nsubj	3648	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3647	3647	PER	me	17163	17165	me	1	71	153	35	0	0	0	516	3647	me	expl:comp	3648	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3656	3656	PER	je	17213	17215	je	1	71	154	1	0	0	0	517	3656	je	nsubj	3658	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3657	3657	PER	me	17216	17218	me	1	71	154	2	0	0	0	518	3657	me	expl:comp	3658	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3668	3668	PER	moi	17268	17271	moi	1	71	154	13	0	0	0	519	3668	moi	obl:mod	3666	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3672	3672	PER	je	17282	17284	je	1	71	154	17	0	0	0	520	3672	je	nsubj	3677	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3679	3680	PER	ma complice	17311	17322	ma complice	2	71	154	24	0	1	1	521	3680	complice	dep	3677	NOUN	NOM	Singular	Female	3
+narrateur	0	3679	3679	PER	ma	17311	17313	ma	1	71	154	24	1	0	0	522	3679	ma	det	3680	DET	PRON	Singular	Ambiguous	1
+narrateur	0	3684	3684	PER	m'	17335	17337	m'	1	71	154	29	0	0	0	523	3684	m'	iobj	3686	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3688	3688	PER	Je	17350	17352	je	1	71	155	0	0	0	0	524	3688	je	nsubj	3690	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3689	3689	PER	me	17353	17355	me	1	71	155	1	0	0	0	525	3689	me	expl:comp	3690	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3692	3692	PER	Je	17368	17370	je	1	72	156	0	0	0	0	526	3692	je	nsubj	3693	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3695	3695	PER	m'	17381	17383	m'	1	72	156	3	0	0	0	527	3695	m'	expl:comp	3696	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3719	3719	PER	Je	17501	17503	je	1	72	158	0	0	0	0	528	3719	je	nsubj	3724	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3728	3728	PER	Marroca	17540	17547	marroca	1	73	159	0	0	0	0	529	3728	marroca	nsubj	3734	PROPN	PROP	Singular	Not_Assigned	3
+narrateur	0	3731	3731	PER	mon	17556	17559	mon	1	73	159	3	0	0	0	530	3731	mon	det	3732	DET	PRON	Singular	Ambiguous	1
+marocca	1	3748	3748	PER	son	17637	17640	son	1	73	159	20	0	0	0	531	3748	son	det	3749	DET	PRON	Singular	Ambiguous	3
+narrateur	0	3751	3751	PER	Je	17650	17652	je	1	74	160	0	0	0	0	532	3751	je	nsubj	3752	PRON	PRON	Singular	Ambiguous	1
+narrateur_et_jeune_fille	5	3759	3759	PER	Nous	17696	17700	nous	1	74	161	0	0	0	0	533	3759	nous	nsubj	3761	PRON	PRON	Plural	Ambiguous	1
+narrateur_et_jeune_fille	5	3762	3762	PER	notre	17713	17718	notre	1	74	161	3	0	0	0	534	3762	notre	det	3763	DET	PRON	Plural	Ambiguous	1
+narrateur	0	3766	3766	PER	j'	17737	17739	j'	1	74	161	7	0	0	0	535	3766	j'	nsubj	3768	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3779	3779	PER	me	17792	17794	me	1	74	161	20	0	0	0	536	3779	me	iobj	3780	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3787	3788	PER	ton mari	17823	17831	ton mari	2	75	162	3	0	1	1	537	3788	mari	nsubj	3791	NOUN	NOM	Singular	Male	3
+marocca	1	3787	3787	PER	ton	17823	17826	ton	1	75	162	3	1	0	0	538	3787	ton	det	3788	DET	PRON	Singular	Ambiguous	2
+narrateur	0	3789	3789	PER	m'	17832	17834	m'	1	75	162	5	0	0	0	539	3789	m'	obj	3791	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3794	3794	PER	lui	17846	17849	lui	1	75	162	10	0	0	0	540	3794	lui	iobj	3795	PRON	PRON	Singular	Ambiguous	3
+narrateur	0	3796	3796	PER	je	17859	17861	-je	1	75	162	12	0	0	0	541	3796	je	nsubj	3795	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3798	3798	PER	Elle	17864	17868	elle	1	76	163	0	0	0	0	542	3798	elle	nsubj	3799	PRON	PRON	Singular	Female	3
+pontabeze	2	3820	3820	PER	lui	17956	17959	lui	1	77	166	1	0	0	0	543	3820	lui	iobj	3821	PRON	PRON	Singular	Ambiguous	3
+narrateur	0	3826	3826	PER	me	17989	17991	me	1	77	166	7	0	0	0	544	3826	me	obj	3827	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3830	3830	PER	Elle	18004	18008	elle	1	78	167	0	0	0	0	545	3830	elle	nsubj	3832	PRON	PRON	Singular	Female	3
+marocca	1	3835	3835	PER	elle	18025	18029	elle	1	78	167	5	0	0	0	546	3835	elle	nsubj	3836	PRON	PRON	Singular	Female	3
+narrateur	0	3839	3839	PER	me	18052	18054	me	1	78	167	9	0	0	0	547	3839	me	obj	3840	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3842	3842	PER	ses	18068	18071	ses	1	78	167	12	0	0	0	548	3842	ses	det	3844	DET	PRON	Singular	Ambiguous	3
+pontabeze	2	3854	3854	PER	Il	18127	18129	il	1	79	168	1	0	0	0	549	3854	il	nsubj	3859	PRON	PRON	Singular	Male	3
+narrateur	0	3862	3862	PER	J'	18158	18160	j'	1	80	169	0	0	0	0	550	3862	j'	nsubj	3863	PRON	PRON	Singular	Ambiguous	1
+pontabeze	2	3871	3871	PER	il	18191	18193	il	1	80	171	1	0	0	0	551	3871	il	nsubj	3874	PRON	PRON	Singular	Male	3
+pontabeze	2	3876	3876	PER	son	18224	18227	son	1	80	171	6	0	0	0	552	3876	son	det	3877	DET	PRON	Singular	Ambiguous	3
+narrateur	0	3888	3888	PER	j'	18280	18282	j'	1	80	171	18	0	0	0	553	3888	j'	nsubj	3890	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3892	3892	PER	moi	18296	18299	moi	1	80	171	22	0	0	0	554	3892	moi	parataxis	3890	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3899	3899	PER	Elle	18321	18325	elle	1	81	172	0	0	0	0	555	3899	elle	nsubj	3900	PRON	PRON	Singular	Female	3
+narrateur	0	3902	3902	PER	mes	18335	18338	mes	1	81	172	3	0	0	0	556	3902	mes	det	3903	DET	PRON	Singular	Ambiguous	1
+marocca	1	3904	3904	PER	ses	18347	18350	ses	1	81	172	5	0	0	0	557	3904	ses	det	3905	DET	PRON	Singular	Ambiguous	3
+marocca	1	3918	3918	PER	elle	18406	18410	elle	1	81	172	19	0	0	0	558	3918	elle	nsubj	3921	PRON	PRON	Singular	Female	3
+narrateur	0	3919	3919	PER	m'	18411	18413	m'	1	81	172	20	0	0	0	559	3919	m'	obj	3921	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3925	3925	PER	Je	18427	18429	je	1	81	172	26	0	0	0	560	3925	je	nsubj	3927	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3926	3926	PER	t'	18430	18432	t'	1	81	172	27	0	0	0	561	3926	t'	obj	3927	PRON	PRON	Singular	Ambiguous	2
+marocca	1	3930	3930	PER	elle	18443	18447	elle	1	81	172	31	0	0	0	562	3930	elle	nsubj	3931	PRON	PRON	Singular	Female	3
+pontabeze	2	3937	3937	PER	il	18471	18473	il	1	81	172	38	0	0	0	563	3937	il	nsubj	3942	PRON	PRON	Singular	Male	3
+narrateur	0	3945	3945	PER	Je	18502	18504	je	1	82	173	0	0	0	0	564	3945	je	nsubj	3947	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3955	3955	PER	Elle	18547	18551	elle	1	84	175	0	0	0	0	565	3955	elle	nsubj	3956	PRON	PRON	Singular	Female	3
+marocca	1	3964	3964	PER	sa	18591	18593	sa	1	84	175	9	0	0	0	566	3964	sa	det	3965	DET	PRON	Singular	Ambiguous	3
+narrateur	0	3970	3970	PER	je	18617	18619	je	1	84	175	15	0	0	0	567	3970	je	nsubj	3971	PRON	PRON	Singular	Ambiguous	1
+narrateur	0	3973	3973	PER	m'	18630	18632	m'	1	84	175	18	0	0	0	568	3973	m'	expl:comp	3974	PRON	PRON	Singular	Ambiguous	1
+marocca	1	3977	3977	PER	son	18645	18648	son	1	84	175	22	0	0	0	569	3977	son	det	3978	DET	PRON	Singular	Ambiguous	3
+marocca	1	3984	3984	PER	sa	18672	18674	sa	1	84	175	29	0	0	0	570	3984	sa	det	3985	DET	PRON	Singular	Ambiguous	3
+marocca	1	3987	3987	PER	ses	18681	18684	ses	1	84	175	32	0	0	0	571	3987	ses	det	3988	DET	PRON	Singular	Ambiguous	3
+marocca	1	3991	3991	PER	ses	18707	18710	ses	1	84	175	36	0	0	0	572	3991	ses	det	3992	DET	PRON	Singular	Ambiguous	3
+narrateur	0	4001	4001	PER	me	18757	18759	me	1	84	175	46	0	0	0	573	4001	me	iobj	4002	PRON	PRON	Singular	Ambiguous	1
+marocca	1	4017	4017	PER	Elle	18839	18843	elle	1	85	176	0	0	0	0	574	4017	elle	nsubj	4018	PRON	PRON	Singular	Female	3
+narrateur	0	4027	4027	PER	m'	18879	18881	m'	1	85	176	10	0	0	0	575	4027	m'	obj	4028	PRON	PRON	Singular	Ambiguous	1
+marocca	1	4034	4034	PER	elle	18917	18921	elle	1	85	176	17	0	0	0	576	4034	elle	obl:mod	4028	PRON	PRON	Singular	Female	3
+marocca	1	4037	4037	PER	sa	18931	18933	sa	1	85	176	20	0	0	0	577	4037	sa	det	4038	DET	PRON	Singular	Ambiguous	3
+narrateur	0	4041	4041	PER	mienne	18946	18952	mienne	1	85	176	24	0	0	0	578	4041	mienne	obl:arg	4036	PRON	PRON	Singular	Ambiguous	1
+marocca	1	4046	4046	PER	elle	18968	18972	elle	1	85	176	29	0	0	0	579	4046	elle	nsubj	4047	PRON	PRON	Singular	Female	3
+destinataire	3	4061	4062	PER	mon cher	19042	19050	mon cher	2	86	178	3	0	1	1	580	4062	cher	dep	4059	ADJ	NOM	Singular	Male	3
+narrateur	0	4061	4061	PER	mon	19042	19045	mon	1	86	178	3	1	0	0	581	4061	mon	det	4062	DET	PRON	Singular	Ambiguous	1
+M45	69	4065	4065	PER	on	19060	19062	on	1	86	178	7	0	0	0	582	4065	on	nsubj	4066	PRON	PRON	Ambiguous	Ambiguous	3
