@@ -1,0 +1,1509 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+BouvardEtPecuchet	0	0	2	PER	Bouvard et Pécuchet	0	19	bouvard et pécuchet	3	0	0	0	0	1	2	0	0	bouvard	ROOT	0	PROPN	PROP	Plural	Not_Assigned	3
+Bouvard	2	0	0	PER	Bouvard	0	7	bouvard	1	0	0	0	1	0	0	1	0	bouvard	ROOT	0	PROPN	PROP	Singular	Male	3
+Pecuchet	1	2	2	PER	Pécuchet	11	19	pécuchet	1	0	0	2	1	0	0	2	2	pécuchet	conj	0	PROPN	PROP	Singular	Not_Assigned	3
+boulevard_bourdon	32	21	23	FAC	le boulevard Bourdon	90	110	le boulevard bourdon	3	2	3	9	0	0	0	3	22	boulevard	nsubj	25	NOUN	PROP	Not_Assigned	Not_Assigned	3
+canal_saint_martin	59	32	34	FAC	le canal Saint-Martin	153	174	le canal saint-martin	3	3	4	3	0	0	0	4	33	canal	nsubj	42	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T9	218	38	40	FAC	les deux écluses	186	202	les deux écluses	3	3	4	9	0	0	0	5	40	écluses	obl:agent	36	NOUN	NOM	Not_Assigned	Not_Assigned	3
+canal_saint_martin	59	46	46	FAC	son	228	231	son	1	3	4	17	0	0	0	6	46	son	det	47	DET	PRON	Not_Assigned	Not_Assigned	3
+T10	232	57	61	FAC	un bateau plein de bois	274	297	un bateau plein de bois	5	3	5	5	0	0	0	7	58	bateau	obj	54	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T11	257	65	66	LOC	la berge	306	314	la berge	2	3	5	13	0	0	0	8	66	berge	nmod	68	NOUN	NOM	Not_Assigned	Not_Assigned	3
+canal_saint_martin	59	74	75	FAC	du canal	349	357	du canal	2	4	6	2	0	0	0	9	75	canal	dep	72	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T13	76	78	79	FAC	les maisons	365	376	les maisons	2	4	6	6	0	0	0	10	79	maisons	obl:mod	81	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T13	76	80	80	FAC	que	377	380	que	1	4	6	8	0	0	0	11	80	que	obj	81	PRON	PRON	Not_Assigned	Not_Assigned	4
+T14	116	82	83	FAC	des chantiers	390	403	des chantiers	2	4	6	10	0	0	0	12	83	chantiers	obj	81	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T16	23	100	101	LOC	du soleil	484	493	du soleil	2	4	6	28	0	0	0	13	101	soleil	nmod	99	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T20	214	112	115	FAC	les quais de granit	539	558	les quais de granit	4	4	6	40	0	0	0	14	113	quais	conj	104	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M6	287	142	144	TIME	jours d'été	713	724	jours d' été	3	4	7	24	0	0	0	15	144	été	nmod	142	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	146	147	PER	Deux hommes	727	738	deux hommes	2	5	8	0	0	0	0	16	147	hommes	nsubj	148	NOUN	NOM	Plural	Male	3
+Bouvard	2	150	151	PER	L'un	750	754	l' un	2	6	9	0	0	0	0	17	151	un	nsubj	152	PRON	PRON	Singular	Male	3
+T594	213	154	155	LOC	la Bastille	765	776	la bastille	2	6	9	4	0	0	0	18	155	bastille	obl:arg	152	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Pecuchet	1	157	158	PER	l'autre	778	785	l' autre	2	6	9	7	0	0	0	19	158	autre	appos	155	PRON	PRON	Singular	Ambiguous	3
+T881	212	159	162	FAC	du Jardin des Plantes	786	807	du jardin des plantes	4	6	9	9	0	0	0	20	160	jardin	nmod	158	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	164	166	PER	Le plus grand	809	822	le plus grand	3	6	10	0	0	0	0	21	166	grand	nsubj	172	ADJ	NOM	Singular	Male	3
+Bouvard	2	168	170	PER	vêtu de toile	824	837	vêtu de toile	3	6	10	4	0	0	0	22	170	toile	obl:arg	168	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	182	182	PER	sa	894	896	sa	1	6	10	18	0	0	0	23	182	sa	det	183	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	188	190	PER	Le plus petit	916	929	le plus petit	3	6	11	0	0	0	0	24	190	petit	nsubj	201	ADJ	NOM	Singular	Male	3
+Pecuchet	1	192	192	PER	dont	931	935	dont	1	6	11	4	0	0	0	25	192	dont	nmod	194	PRON	PRON	Ambiguous	Ambiguous	4
+BouvardEtPecuchet	0	212	212	PER	ils	1048	1051	ils	1	7	12	1	0	0	0	26	212	ils	nsubj	214	PRON	PRON	Plural	Ambiguous	3
+T882	211	215	218	LOC	au milieu du boulevard	1067	1089	au milieu du boulevard	4	7	12	4	0	1	1	27	216	milieu	obl:arg	214	NOUN	NOM	Not_Assigned	Not_Assigned	3
+boulevard_bourdon	32	217	218	FAC	du boulevard	1077	1089	du boulevard	2	7	12	6	1	0	0	28	218	boulevard	nmod	216	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	220	220	PER	ils	1091	1094	ils	1	7	12	9	0	0	0	29	220	ils	nsubj	222	PRON	PRON	Plural	Ambiguous	3
+M9	233	224	227	TIME	à la même minute	1107	1123	à la même minute	4	7	12	13	0	0	0	30	227	minute	obl:mod	222	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	240	240	PER	ils	1169	1172	ils	1	8	13	6	0	0	0	31	240	ils	nsubj	241	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	242	242	PER	leurs	1184	1189	leurs	1	8	13	8	0	0	0	32	242	leurs	det	243	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	246	246	PER	chacun	1205	1211	chacun	1	8	13	12	0	0	0	33	246	chacun	nsubj	247	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	250	250	PER	soi	1225	1228	soi	1	8	13	16	0	0	0	34	250	soi	obl:arg	248	PRON	PRON	Not_Assigned	Ambiguous	3
+Pecuchet	1	253	255	PER	le petit homme	1234	1248	le petit homme	3	8	13	19	0	0	0	35	255	homme	nsubj	256	NOUN	NOM	Singular	Male	3
+Bouvard	2	263	264	PER	son voisin	1283	1293	son voisin	2	8	13	29	0	1	1	36	264	voisin	nmod	261	NOUN	NOM	Singular	Male	3
+Pecuchet	1	263	263	PER	son	1283	1286	son	1	8	13	29	1	0	0	37	263	son	det	264	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	270	270	PER	celui-ci	1318	1326	celui-ci	1	8	13	36	0	0	0	38	270	celui-ci	nsubj	271	PRON	PRON	Singular	Male	3
+Pecuchet	1	276	279	PER	du particulier en redingote	1366	1393	du particulier en redingote	4	8	13	42	0	0	0	39	277	particulier	nmod	275	NOUN	NOM	Singular	Male	3
+Bouvard	2	289	289	PER	il	1427	1429	-il	1	9	14	4	0	0	0	40	289	il	nsubj	288	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	291	291	PER	nous	1431	1435	nous	1	9	14	6	0	0	0	41	291	nous	nsubj	293	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	301	301	PER	notre	1476	1481	notre	1	9	14	16	0	0	0	42	301	notre	det	302	DET	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	304	304	PER	nos	1491	1494	nos	1	9	14	19	0	0	0	43	304	nos	det	305	DET	PRON	Plural	Ambiguous	1
+Pecuchet	1	308	308	PER	Mon	1512	1515	mon	1	10	15	1	0	0	0	44	308	mon	det	309	DET	PRON	Singular	Ambiguous	1
+Pecuchet	1	317	317	PER	mien	1550	1554	mien	1	10	15	10	0	0	0	45	317	mien	obj	315	PRON	PRON	Singular	Ambiguous	1
+T884	210	319	320	PER	mon bureau	1557	1567	mon bureau	2	10	15	12	0	1	1	46	320	bureau	obl:mod	315	NOUN	NOM	Singular	Not_Assigned	3
+Pecuchet	1	319	319	PER	mon	1557	1560	mon	1	10	15	12	1	0	0	47	319	mon	det	320	DET	PRON	Singular	Ambiguous	1
+Bouvard	2	326	326	PER	moi	1585	1588	moi	1	11	16	4	0	0	0	48	326	moi	obl:mod	330	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	328	328	PER	je	1590	1592	je	1	11	16	6	0	0	0	49	328	je	nsubj:pass	330	PRON	PRON	Singular	Ambiguous	1
+BouvardEtPecuchet	0	333	333	PER	ils	1614	1617	ils	1	12	17	1	0	0	0	50	333	ils	nsubj	335	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	341	341	PER	Bouvard	1657	1664	bouvard	1	13	18	4	0	0	0	51	341	bouvard	nmod	338	PROPN	PROP	Singular	Male	3
+Pecuchet	1	345	345	PER	Pécuchet	1681	1689	pécuchet	1	13	18	8	0	0	0	52	345	pécuchet	obj	342	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	347	347	PER	Ses	1692	1695	ses	1	14	19	0	0	0	0	53	347	ses	det	348	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	356	356	PER	son	1749	1752	son	1	14	19	9	0	0	0	54	356	son	det	357	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	377	377	PER	son	1852	1855	son	1	14	20	17	0	0	0	55	377	son	det	378	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	382	382	PER	sa	1880	1882	sa	1	14	20	22	0	0	0	56	382	sa	det	383	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	389	389	PER	ses	1910	1913	ses	1	14	20	29	0	0	0	57	389	ses	det	390	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	402	402	PER	lui	1969	1972	lui	1	14	20	42	0	0	0	58	402	lui	iobj	403	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	409	409	PER	Il	2010	2012	il	1	15	21	0	0	0	0	59	409	il	nsubj	410	PRON	PRON	Singular	Male	3
+Pecuchet	1	425	425	PER	Pécuchet	2093	2101	pécuchet	1	16	22	4	0	0	0	60	425	pécuchet	nmod	422	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	427	427	PER	Bouvard	2109	2116	bouvard	1	16	22	6	0	0	0	61	427	bouvard	obj	426	PROPN	PROP	Singular	Male	3
+Pecuchet	1	433	433	PER	il	2136	2138	il	1	17	23	4	0	0	0	62	433	il	nsubj	434	PRON	PRON	Singular	Male	3
+Pecuchet	1	442	442	PER	son	2188	2191	son	1	17	23	13	0	0	0	63	442	son	det	443	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	450	450	PER	Sa	2230	2232	sa	1	17	24	0	0	0	0	64	450	sa	det	451	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	466	466	PER	Ses	2306	2309	ses	1	17	25	0	0	0	0	65	466	ses	det	467	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	486	486	PER	il	2408	2410	il	1	17	25	20	0	0	0	66	486	il	nsubj	487	PRON	PRON	Singular	Male	3
+Pecuchet	1	496	496	PER	lui	2464	2467	lui	1	18	26	2	0	0	0	67	496	lui	iobj	497	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	501	501	PER	on	2487	2489	on	1	19	27	2	0	0	0	68	501	on	nsubj	506	PRON	PRON	Ambiguous	Ambiguous	3
+campagne	14	504	506	LOC	à la campagne	2502	2515	à la campagne	3	19	27	5	0	0	0	69	506	campagne	ROOT	506	NOUN	NOM	Not_Assigned	Not_Assigned	3
+campagne	14	509	510	LOC	la banlieue	2524	2535	la banlieue	2	20	28	1	0	0	0	70	510	banlieue	nsubj	516	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	513	513	PER	Bouvard	2543	2550	bouvard	1	20	28	5	0	0	0	71	513	bouvard	obl:mod	516	PROPN	PROP	Singular	Male	3
+T908	208	520	521	FAC	des guinguettes	2583	2598	des guinguettes	2	20	28	12	0	0	0	72	521	guinguettes	nmod	519	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	523	523	PER	Pécuchet	2600	2608	pécuchet	1	20	29	0	0	0	0	73	523	pécuchet	nsubj	524	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	528	528	PER	Il	2626	2628	il	1	20	30	0	0	0	0	74	528	il	nsubj	529	PRON	PRON	Singular	Male	3
+Paris	15	536	537	GPE	la capitale	2673	2684	la capitale	2	20	30	8	0	0	0	75	537	capitale	obl:arg	534	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	539	539	PER	Bouvard	2686	2693	bouvard	1	20	30	11	0	0	0	76	539	bouvard	obj	533	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	543	543	PER	leurs	2705	2710	leurs	1	21	31	1	0	0	0	77	543	leurs	det	544	DET	PRON	Plural	Ambiguous	3
+T917	207	569	570	FAC	une usine	2826	2835	une usine	2	21	31	27	0	0	0	78	570	usine	nmod	567	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	584	584	PER	Ils	2896	2899	ils	1	21	32	0	0	0	0	79	584	ils	nsubj	586	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	593	593	PER	ils	2937	2940	ils	1	21	33	1	0	0	0	80	593	ils	nsubj	594	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	596	596	PER	eux	2955	2958	eux	1	21	33	4	0	0	0	81	596	eux	obl:mod	594	PRON	PRON	Plural	Ambiguous	3
+M10	180	600	602	FAC	Grenier d'abondance	2971	2990	grenier d' abondance	3	21	33	8	0	0	0	82	602	abondance	nmod	600	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Pecuchet	1	607	607	PER	Pécuchet	3008	3016	pécuchet	1	22	34	3	0	0	0	83	607	pécuchet	nsubj:pass	610	PROPN	PROP	Singular	Not_Assigned	3
+T918	206	618	619	FAC	les rues	3067	3075	les rues	2	22	34	14	0	0	0	84	619	rues	obl:mod	613	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	624	624	PER	Bouvard	3092	3099	bouvard	1	23	35	0	0	0	0	85	624	bouvard	nsubj	627	PROPN	PROP	Singular	Male	3
+Pecuchet	1	625	626	PER	l'	3100	3102	l '	2	23	35	1	0	0	0	86	625	l	obj	627	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	631	631	PER	sa	3124	3126	sa	1	23	35	7	0	0	0	87	631	sa	det	632	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	634	634	PER	Lui	3138	3141	lui	1	23	36	0	0	0	0	88	634	lui	obl:mod	638	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	636	636	PER	il	3143	3145	il	1	23	36	2	0	0	0	89	636	il	nsubj	638	PRON	PRON	Singular	Male	3
+T932	205	650	651	PER	un ivrogne	3191	3201	un ivrogne	2	24	37	3	0	0	0	90	651	ivrogne	nsubj	652	NOUN	NOM	Singular	Male	3
+T933	204	655	656	FAC	le trottoir	3221	3232	le trottoir	2	24	37	8	0	0	0	91	656	trottoir	obj	652	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T934	203	662	663	PER	des ouvriers	3248	3260	des ouvriers	2	24	37	15	0	0	0	92	663	ouvriers	nmod	661	NOUN	NOM	Plural	Ambiguous	3
+BouvardEtPecuchet	0	665	665	PER	ils	3262	3265	ils	1	24	37	18	0	0	0	93	665	ils	nsubj	666	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	671	671	PER	Leurs	3305	3310	leurs	1	24	38	0	0	0	0	94	671	leurs	det	672	DET	PRON	Plural	Ambiguous	3
+Bouvard	2	679	679	PER	Bouvard	3348	3355	bouvard	1	24	38	8	0	0	0	95	679	bouvard	nsubj	683	PROPN	PROP	Singular	Male	3
+T936	67	701	704	VEH	trois calèches de remise	3470	3494	trois calèches de remise	4	25	39	16	0	0	0	96	702	calèches	obj	689	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T936	67	705	705	VEH	qui	3495	3498	qui	1	25	39	20	0	0	0	97	705	qui	nsubj	708	PRON	PRON	Not_Assigned	Not_Assigned	4
+T937	202	710	710	GPE	Bercy	3518	3523	bercy	1	25	39	25	0	0	0	98	710	bercy	obl:arg	708	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T939	79	713	714	PER	une mariée	3535	3545	une mariée	2	25	39	28	0	0	0	99	714	mariée	obj	712	NOUN	NOM	Singular	Female	3
+T939	79	716	716	PER	son	3551	3554	son	1	25	39	31	0	0	0	100	716	son	det	717	DET	PRON	Singular	Ambiguous	3
+T940	201	719	723	PER	des bourgeois en cravate blanche	3564	3596	des bourgeois en cravate blanche	5	25	39	34	0	0	0	101	720	bourgeois	conj	714	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T941	77	725	726	PER	des dames	3598	3607	des dames	2	25	39	40	0	0	0	102	726	dames	conj	714	NOUN	NOM	Plural	Female	3
+T941	77	732	732	PER	leur	3642	3646	leur	1	25	39	47	0	0	0	103	732	leur	det	733	DET	PRON	Plural	Ambiguous	3
+T943	191	735	739	PER	deux ou trois petites filles	3654	3682	deux ou trois petites filles	5	25	39	50	0	0	0	104	739	filles	conj	712	NOUN	NOM	Plural	Not_Assigned	3
+T944	164	741	742	PER	un collégien	3684	3696	un collégien	2	25	39	56	0	0	0	105	742	collégien	conj	689	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	750	752	PER	Bouvard et Pécuchet	3725	3744	bouvard et pécuchet	3	25	40	6	0	1	2	106	752	pécuchet	conj	750	PROPN	PROP	Plural	Not_Assigned	3
+Bouvard	2	750	750	PER	Bouvard	3725	3732	bouvard	1	25	40	6	1	0	0	107	750	bouvard	obj	749	PROPN	PROP	Singular	Male	3
+Pecuchet	1	752	752	PER	Pécuchet	3736	3744	pécuchet	1	25	40	8	1	0	0	108	752	pécuchet	conj	750	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	759	759	PER	ils	3769	3772	ils	1	25	40	15	0	0	0	109	759	ils	nsubj	760	PRON	PRON	Plural	Ambiguous	3
+Pecuchet	1	795	795	PER	Pécuchet	3960	3968	pécuchet	1	25	42	10	0	0	0	110	795	pécuchet	nsubj	797	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	801	801	PER	Moi	3997	4000	moi	1	26	43	1	0	0	0	111	801	moi	dep	805	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	803	803	PER	je	4002	4004	je	1	26	43	3	0	0	0	112	803	je	nsubj	805	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	808	808	PER	Bouvard	4020	4027	bouvard	1	26	43	8	0	0	0	113	808	bouvard	obj	807	PROPN	PROP	Singular	Male	3
+Bouvard	2	821	821	PER	vous	4082	4086	vous	1	27	44	7	0	0	0	114	821	vous	nmod	819	PRON	PRON	Ambiguous	Ambiguous	2
+T952	163	835	838	LOC	au bord du quai	4144	4159	au bord du quai	4	28	46	2	0	1	1	115	836	bord	obl:mod	839	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T953	162	837	838	FAC	du quai	4152	4159	du quai	2	28	46	4	1	0	0	116	838	quai	nmod	836	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T955	49	840	843	PER	une fille de joie	4166	4183	une fille de joie	4	28	46	7	0	0	0	117	841	fille	obj	839	NOUN	NOM	Singular	Female	3
+T958	73	845	846	PER	un soldat	4189	4198	un soldat	2	28	46	12	0	0	0	118	846	soldat	nmod	841	NOUN	NOM	Singular	Male	3
+T955	49	859	859	PER	elle	4254	4258	elle	1	28	47	11	0	0	0	119	859	elle	nsubj	861	PRON	PRON	Singular	Female	3
+T958	73	865	866	PER	du militaire	4282	4294	du militaire	2	28	47	17	0	0	0	120	866	militaire	nmod	864	NOUN	NOM	Singular	Male	3
+T955	49	878	878	PER	elle	4353	4357	elle	1	29	48	1	0	0	0	121	878	elle	nsubj	881	PRON	PRON	Singular	Female	3
+Bouvard	2	883	883	PER	Bouvard	4373	4380	bouvard	1	29	48	6	0	0	0	122	883	bouvard	nsubj	885	PROPN	PROP	Singular	Male	3
+Pecuchet	1	890	890	PER	Pécuchet	4414	4422	pécuchet	1	29	49	0	0	0	0	123	890	pécuchet	nsubj	891	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	904	904	PER	lui	4483	4486	lui	1	29	49	14	0	0	0	124	904	lui	iobj	905	PRON	PRON	Singular	Ambiguous	3
+pretre	54	908	909	PER	un prêtre	4505	4514	un prêtre	2	29	49	18	0	0	0	125	909	prêtre	obj	905	NOUN	NOM	Singular	Male	3
+pretre	54	910	910	PER	qui	4515	4518	qui	1	29	49	20	0	0	0	126	910	qui	nsubj	912	PRON	PRON	Ambiguous	Ambiguous	4
+pretre	54	914	915	PER	L'ecclésiastique	4532	4548	l' ecclésiastique	2	30	50	0	0	0	0	127	915	ecclésiastique	nsubj	916	NOUN	NOM	Singular	Not_Assigned	3
+boulevard_bourdon	32	919	923	FAC	l'avenue des maigres ormeaux	4572	4600	l' avenue des maigres ormeaux	5	30	50	5	0	0	0	128	920	avenue	obj	916	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T962	161	925	926	FAC	le trottoir	4611	4622	le trottoir	2	30	50	11	0	0	0	129	926	trottoir	obj	924	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	929	929	PER	Bouvard	4627	4634	bouvard	1	30	50	15	0	0	0	130	929	bouvard	nsubj	935	PROPN	PROP	Singular	Male	3
+Bouvard	2	933	933	PER	il	4643	4645	il	1	30	50	19	0	0	0	131	933	il	nsubj	935	PRON	PRON	Singular	Male	3
+Bouvard	2	945	945	PER	il	4698	4700	il	1	30	50	31	0	0	0	132	945	il	nsubj	946	PRON	PRON	Singular	Male	3
+Pecuchet	1	950	950	PER	Pécuchet	4724	4732	pécuchet	1	30	51	0	0	0	0	133	950	pécuchet	nsubj	956	PROPN	PROP	Singular	Not_Assigned	3
+M11	280	964	966	TIME	le crépuscule tombait	4807	4828	le crépuscule tombait	3	31	52	1	0	0	0	134	966	tombait	ROOT	966	VERB	NOM	Not_Assigned	Not_Assigned	3
+T966	160	977	978	PER	Les passants	4876	4888	les passants	2	31	53	0	0	0	0	135	978	passants	nsubj	979	NOUN	NOM	Plural	Ambiguous	3
+M12	178	983	985	TIME	Sept heures sonnèrent	4914	4935	sept heures sonnèrent	3	31	54	0	0	0	0	136	985	sonnèrent	ROOT	985	VERB	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	987	987	PER	Leurs	4938	4943	leurs	1	32	55	0	0	0	0	137	987	leurs	det	988	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1005	1005	PER	Ils	5080	5083	ils	1	32	56	0	0	0	0	138	1005	ils	nsubj	1006	PRON	PRON	Plural	Ambiguous	3
+T968	159	1007	1012	ORG	le corps des ponts et chaussées	5096	5127	le corps des ponts et chaussées	6	32	56	2	0	0	0	139	1008	corps	obj	1006	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T969	158	1014	1017	ORG	la régie des tabacs	5129	5148	la régie des tabacs	4	32	56	9	0	0	0	140	1015	régie	conj	1008	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T970	157	1022	1023	FAC	les théâtres	5163	5175	les théâtres	2	32	56	17	0	0	0	141	1023	théâtres	conj	1008	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T973	48	1025	1026	ORG	notre marine	5177	5189	notre marine	2	32	56	20	0	0	0	142	1026	marine	conj	1008	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	1043	1043	PER	Chacun	5263	5269	chacun	1	32	57	0	0	0	0	143	1043	chacun	nsubj	1045	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	1046	1047	PER	l'autre	5282	5289	l' autre	2	32	57	3	0	0	0	144	1047	autre	obj	1045	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	1052	1052	PER	lui-même	5316	5324	lui-même	1	32	57	9	0	0	0	145	1052	lui-même	nmod	1050	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	1058	1058	PER	ils	5346	5349	ils	1	32	58	3	0	0	0	146	1058	ils	nsubj	1060	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1067	1067	PER	ils	5391	5394	ils	1	32	58	12	0	0	0	147	1067	ils	nsubj	1068	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1088	1088	PER	ils	5506	5509	ils	1	33	59	2	0	0	0	148	1088	ils	nsubj	1091	PRON	PRON	Plural	Ambiguous	3
+boulevard_bourdon	32	1101	1102	FAC	du boulevard	5572	5584	du boulevard	2	33	59	15	0	0	0	149	1102	boulevard	nmod	1100	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T976	165	1105	1108	FAC	l'écluse d'amont	5593	5609	l' écluse d' amont	4	33	59	19	0	0	0	150	1106	écluse	obl:mod	1091	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T977	155	1111	1114	FAC	l'écluse d'aval	5618	5633	l' écluse d' aval	4	33	59	25	0	0	0	151	1112	écluse	nmod	1106	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	1135	1135	PER	Ils	5722	5725	ils	1	34	60	0	0	0	0	152	1135	ils	nsubj	1137	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1141	1141	PER	leurs	5753	5758	leurs	1	34	60	6	0	0	0	153	1141	leurs	det	1142	DET	PRON	Plural	Ambiguous	3
+Bouvard	2	1147	1147	PER	Bouvard	5788	5795	bouvard	1	34	60	12	0	0	0	154	1147	bouvard	nsubj	1148	PROPN	PROP	Singular	Male	3
+Bouvard	2	1154	1154	PER	Ma	5817	5819	ma	1	35	61	1	0	0	0	155	1154	ma	det	1155	DET	PRON	Singular	Ambiguous	1
+BouvardEtPecuchet	0	1158	1158	PER	nous	5829	5833	nous	1	35	61	5	0	0	0	156	1158	nous	nsubj	1159	PRON	PRON	Plural	Ambiguous	1
+Pecuchet	1	1163	1164	PER	J'	5856	5858	j '	2	36	62	1	0	0	0	157	1163	j	nsubj	1166	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	1171	1171	PER	Pécuchet	5884	5892	pécuchet	1	36	62	9	0	0	0	158	1171	pécuchet	obj	1170	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	1174	1174	PER	je	5899	5901	je	1	36	62	12	0	0	0	159	1174	je	nsubj	1176	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	1178	1178	PER	vous	5914	5918	vous	1	36	62	16	0	0	0	160	1178	vous	iobj	1180	PRON	PRON	Ambiguous	Ambiguous	2
+Pecuchet	1	1183	1183	PER	il	5937	5939	il	1	37	63	1	0	0	0	161	1183	il	nsubj	1185	PRON	PRON	Singular	Male	3
+T978	154	1190	1193	FAC	l'Hôtel de Ville	5970	5986	l' hôtel de ville	4	37	63	8	0	0	0	162	1191	hôtel	nmod	1188	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T979	68	1196	1198	FAC	un petit restaurant	5993	6012	un petit restaurant	3	37	63	14	0	0	0	163	1198	restaurant	obl:mod	1186	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T979	68	1199	1199	FAC	où	6013	6015	où	1	37	63	17	0	0	0	164	1199	où	iobj	1202	PRON	PRON	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	1201	1201	PER	on	6018	6020	on	1	37	63	19	0	0	0	165	1201	on	nsubj	1202	PRON	PRON	Ambiguous	Ambiguous	3
+Bouvard	2	1205	1205	PER	Bouvard	6035	6042	bouvard	1	38	64	0	0	0	0	166	1205	bouvard	nsubj	1206	PROPN	PROP	Singular	Male	3
+Pecuchet	1	1210	1210	PER	Pécuchet	6062	6070	pécuchet	1	39	65	0	0	0	0	167	1210	pécuchet	nsubj	1211	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	1217	1217	PER	lui	6107	6110	lui	1	39	65	7	0	0	0	168	1217	lui	iobj	1218	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	1233	1233	PER	ils	6182	6185	ils	1	39	67	2	0	0	0	169	1233	ils	nsubj	1234	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1266	1266	PER	ils	6337	6340	ils	1	39	68	10	0	0	0	170	1266	ils	nsubj	1267	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1273	1273	PER	ils	6373	6376	ils	1	39	68	17	0	0	0	171	1273	ils	nsubj	1274	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1285	1285	PER	ils	6437	6440	ils	1	39	68	29	0	0	0	172	1285	ils	nsubj	1290	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	1287	1289	PER	tous les deux	6449	6462	tous les deux	3	39	68	31	0	0	0	173	1287	tous	amod	1290	ADJ	NOM	Plural	Ambiguous	3
+Bouvard	2	1292	1292	PER	Bouvard	6473	6480	bouvard	1	39	68	36	0	0	0	174	1292	bouvard	obj	1274	PROPN	PROP	Singular	Male	3
+T981	153	1294	1297	FAC	une maison de commerce	6486	6508	une maison de commerce	4	39	68	38	0	0	0	175	1295	maison	nmod	1292	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1299	1299	PER	Pécuchet	6510	6518	pécuchet	1	39	68	43	0	0	0	176	1299	pécuchet	conj	1292	PROPN	PROP	Singular	Not_Assigned	3
+T982	152	1300	1304	ORG	au ministère de la marine	6519	6544	au ministère de la marine	5	39	68	44	0	1	1	177	1301	ministère	nmod	1299	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T973	48	1303	1304	ORG	la marine	6535	6544	la marine	2	39	68	47	1	0	0	178	1304	marine	nmod	1301	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1309	1310	PER	l'	6557	6559	l '	2	39	68	53	0	0	0	179	1309	l	obj	1311	PRON	PRON	Singular	Ambiguous	3
+T983	151	1316	1317	TIME	chaque soir	6588	6599	chaque soir	2	39	68	60	0	0	0	180	1317	soir	obl:mod	1314	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1325	1325	PER	Il	6629	6631	il	1	39	69	0	0	0	0	181	1325	il	nsubj	1327	PRON	PRON	Singular	Male	3
+Pecuchet	1	1338	1338	PER	il	6686	6688	il	1	39	69	13	0	0	0	182	1338	il	nsubj	1339	PRON	PRON	Singular	Male	3
+dumouchel	7	1346	1348	PER	un certain Dumouchel	6724	6744	un certain dumouchel	3	39	69	21	0	0	0	183	1348	dumouchel	nmod	1344	PROPN	PROP	Singular	Male	3
+dumouchel	7	1350	1350	PER	professeur	6746	6756	professeur	1	39	69	25	0	0	0	184	1350	professeur	appos	1348	NOUN	NOM	Singular	Male	3
+Bouvard	2	1352	1352	PER	Bouvard	6759	6766	bouvard	1	40	70	0	0	0	0	185	1352	bouvard	nsubj	1354	PROPN	PROP	Singular	Male	3
+Bouvard	2	1360	1360	PER	Sa	6799	6801	sa	1	40	71	0	0	0	0	186	1360	sa	det	1361	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	1370	1370	PER	il	6849	6851	il	1	40	71	10	0	0	0	187	1370	il	nsubj	1371	PRON	PRON	Singular	Male	3
+Bouvard	2	1382	1382	PER	il	6919	6921	il	1	40	71	22	0	0	0	188	1382	il	nsubj	1383	PRON	PRON	Singular	Male	3
+Pecuchet	1	1401	1401	PER	Pécuchet	7015	7023	pécuchet	1	40	71	41	0	0	0	189	1401	pécuchet	obj	1400	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	1427	1427	PER	Bouvard	7140	7147	bouvard	1	40	73	2	0	0	0	190	1427	bouvard	nmod	1425	PROPN	PROP	Singular	Male	3
+Bouvard	2	1434	1434	PER	ses	7182	7185	ses	1	40	73	9	0	0	0	191	1434	ses	det	1435	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	1437	1437	PER	lui	7193	7196	lui	1	40	73	12	0	0	0	192	1437	lui	iobj	1438	PRON	PRON	Singular	Ambiguous	3
+M13	177	1452	1454	TIME	Le repas fini	7271	7284	le repas fini	3	41	74	0	0	0	0	193	1453	repas	obl:mod	1457	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	1456	1456	PER	ils	7286	7289	ils	1	41	74	4	0	0	0	194	1456	ils	nsubj	1457	PRON	PRON	Plural	Ambiguous	3
+T997	150	1462	1464	FAC	un autre établissement	7320	7342	un autre établissement	3	41	74	10	0	0	0	195	1464	établissement	obl:mod	1458	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1466	1466	PER	Pécuchet	7344	7352	pécuchet	1	41	75	0	0	0	0	196	1466	pécuchet	nsubj	1475	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	1493	1493	PER	Bouvard	7470	7477	bouvard	1	41	76	0	0	0	0	197	1493	bouvard	nsubj	1496	PROPN	PROP	Singular	Male	3
+Bouvard	2	1501	1501	PER	Il	7515	7517	il	1	41	77	0	0	0	0	198	1501	il	nsubj	1502	PRON	PRON	Singular	Male	3
+Bouvard	2	1512	1512	PER	sa	7572	7574	sa	1	41	77	11	0	0	0	199	1512	sa	det	1513	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	1520	1520	PER	Il	7620	7622	il	1	42	78	0	0	0	0	200	1520	il	nsubj	1521	PRON	PRON	Singular	Male	3
+barberou	6	1541	1546	PER	Barberou, un de ses amis	7728	7752	barberou , un de ses amis	6	42	78	21	0	2	2	201	1541	barberou	nsubj	1540	PROPN	PROP	Singular	Not_Assigned	3
+T1015	231	1545	1546	PER	ses amis	7744	7752	ses amis	2	42	78	25	1	1	1	202	1546	amis	nmod	1543	NOUN	NOM	Plural	Ambiguous	3
+Bouvard	2	1545	1545	PER	ses	7744	7747	ses	1	42	78	25	2	0	0	203	1545	ses	det	1546	DET	PRON	Singular	Ambiguous	3
+T1016	230	1561	1562	PER	des personnes	7831	7844	des personnes	2	42	79	13	0	0	0	204	1562	personnes	nmod	1560	NOUN	NOM	Plural	Ambiguous	3
+T1017	44	1570	1571	PER	Le garçon	7874	7883	le garçon	2	42	80	0	0	0	0	205	1571	garçon	nsubj	1589	NOUN	NOM	Singular	Male	3
+T1017	44	1573	1573	PER	qui	7885	7888	qui	1	42	80	3	0	0	0	206	1573	qui	nsubj	1575	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	1594	1594	PER	Pécuchet	7993	8001	pécuchet	1	42	81	0	0	0	0	207	1594	pécuchet	nsubj	1595	PROPN	PROP	Singular	Not_Assigned	3
+T1017	44	1599	1599	PER	lui	8024	8027	lui	1	42	81	5	0	0	0	208	1599	lui	obl:arg	1595	PRON	PRON	Singular	Ambiguous	3
+T1022	60	1601	1602	PER	le limonadier	8030	8043	le limonadier	2	42	81	7	0	0	0	209	1602	limonadier	nsubj	1603	NOUN	NOM	Singular	Male	3
+T1022	60	1605	1605	PER	il	8053	8055	il	1	42	81	11	0	0	0	210	1605	il	nsubj	1607	PRON	PRON	Singular	Male	3
+Pecuchet	1	1609	1609	PER	ses	8069	8072	ses	1	42	81	15	0	0	0	211	1609	ses	det	1610	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	1618	1618	PER	Il	8119	8121	il	1	43	82	0	0	0	0	212	1618	il	nsubj	1619	PRON	PRON	Singular	Male	3
+T1027	33	1627	1628	FAC	son domicile	8178	8190	son domicile	2	43	82	9	0	1	1	213	1628	domicile	obl:mod	1622	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1627	1627	PER	son	8178	8181	son	1	43	82	9	1	0	0	214	1627	son	det	1628	DET	PRON	Singular	Ambiguous	3
+T1027	33	1630	1630	FAC	qui	8192	8195	qui	1	43	82	12	0	0	0	215	1630	qui	nsubj	1633	PRON	PRON	Not_Assigned	Not_Assigned	4
+T1028	229	1635	1636	FAC	rue Saint-Martin	8213	8229	rue saint-martin	2	43	82	17	0	0	0	216	1635	rue	appos	1628	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1642	1642	PER	il	8247	8249	il	1	44	83	4	0	0	0	217	1642	il	nsubj	1643	PRON	PRON	Singular	Male	3
+T1027	33	1655	1656	FAC	son appartement	8317	8332	son appartement	2	44	83	17	0	1	1	218	1656	appartement	nmod	1653	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	1655	1655	PER	son	8317	8320	son	1	44	83	17	1	0	0	219	1655	son	det	1656	DET	PRON	Singular	Ambiguous	3
+T1029	45	1738	1739	GPE	du Havre	8746	8754	du havre	2	45	84	80	0	0	0	220	1739	havre	obl:arg	1737	PROPN	PROP	Not_Assigned	Not_Assigned	3
+dumouchel	7	1741	1741	PER	Dumouchel	8759	8768	dumouchel	1	45	84	83	0	0	0	221	1741	dumouchel	obl:agent	1737	PROPN	PROP	Singular	Male	3
+Bouvard	2	1788	1788	PER	Bouvard	9006	9013	bouvard	1	46	88	0	0	0	0	222	1788	bouvard	nsubj	1798	PROPN	PROP	Singular	Male	3
+Pecuchet	1	1814	1814	PER	Pécuchet	9129	9137	pécuchet	1	47	89	8	0	0	0	223	1814	pécuchet	obj	1813	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	1816	1816	PER	qui	9139	9142	qui	1	47	89	10	0	0	0	224	1816	qui	nsubj	1817	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	1828	1828	PER	il	9194	9196	il	1	48	90	1	0	0	0	225	1828	il	nsubj	1829	PRON	PRON	Singular	Male	3
+T1032	239	1831	1833	FAC	cette petite chambre	9211	9231	cette petite chambre	3	48	90	4	0	0	0	226	1833	chambre	obl:mod	1829	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M14	176	1836	1838	TIME	depuis le matin	9242	9257	depuis le matin	3	48	90	9	0	0	0	227	1838	matin	obl:mod	1835	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	1846	1846	PER	Bouvard	9291	9298	bouvard	1	49	91	0	0	0	0	228	1846	bouvard	nsubj	1848	PROPN	PROP	Singular	Male	3
+Pecuchet	1	1847	1847	PER	lui	9299	9302	lui	1	49	91	1	0	0	0	229	1847	lui	iobj	1848	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	1852	1852	PER	votre	9314	9319	votre	1	50	92	2	0	0	0	230	1852	votre	det	1853	DET	PRON	Ambiguous	Ambiguous	2
+Bouvard	2	1855	1856	PER	j'	9327	9329	j '	2	50	92	5	0	0	0	231	1855	j	nsubj	1857	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	1858	1858	PER	ma	9338	9340	ma	1	50	92	8	0	0	0	232	1858	ma	det	1859	DET	PRON	Singular	Ambiguous	1
+Pecuchet	1	1865	1865	PER	Pécuchet	9369	9377	pécuchet	1	52	94	1	0	0	0	233	1865	pécuchet	nsubj	1866	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	1879	1879	PER	son	9437	9440	son	1	52	94	15	0	0	0	234	1879	son	det	1880	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	1886	1886	PER	moi	9467	9470	-moi	1	53	95	2	0	0	0	235	1886	moi	dep	1885	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	1891	1891	PER	Bouvard	9491	9498	bouvard	1	53	95	7	0	0	0	236	1891	bouvard	obj	1890	PROPN	PROP	Singular	Male	3
+Pecuchet	1	1896	1896	PER	vous	9516	9520	vous	1	53	95	12	0	0	0	237	1896	vous	obj	1897	PRON	PRON	Ambiguous	Ambiguous	2
+Pecuchet	1	1900	1900	PER	Pécuchet	9541	9549	pécuchet	1	54	96	1	0	0	0	238	1900	pécuchet	nsubj	1901	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	1902	1902	PER	ses	9558	9561	ses	1	54	96	3	0	0	0	239	1902	ses	det	1903	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	1908	1908	PER	Vous	9588	9592	vous	1	55	97	1	0	0	0	240	1908	vous	nsubj	1911	PRON	PRON	Ambiguous	Ambiguous	2
+Pecuchet	1	1909	1910	PER	m'	9593	9595	m '	2	55	97	2	0	0	0	241	1909	m	obj	1911	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	1913	1913	PER	ma	9608	9610	ma	1	55	97	6	0	0	0	242	1913	ma	det	1914	DET	PRON	Singular	Ambiguous	1
+Pecuchet	1	1923	1923	PER	il	9654	9656	il	1	56	98	5	0	0	0	243	1923	il	nsubj	1926	PRON	PRON	Singular	Male	3
+Bouvard	2	1924	1925	PER	l'	9657	9659	l '	2	56	98	6	0	0	0	244	1924	l	obj	1926	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	1929	1929	PER	lui	9683	9686	lui	1	56	98	11	0	0	0	245	1929	lui	obl:mod	1926	PRON	PRON	Singular	Ambiguous	3
+T1034	227	1934	1937	FAC	la rue de Béthune	9699	9716	la rue de béthune	4	56	98	16	0	0	0	246	1935	rue	nmod	1932	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1036	226	1941	1945	FAC	le pont de la Tournelle	9726	9749	le pont de la tournelle	5	56	98	23	0	0	0	247	1942	pont	nmod	1932	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1038	225	1947	1950	FAC	La chambre de Bouvard	9752	9773	la chambre de bouvard	4	57	99	0	0	1	1	248	1948	chambre	nsubj	1966	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	1950	1950	PER	Bouvard	9766	9773	bouvard	1	57	99	3	1	0	0	249	1950	bouvard	nmod	1948	PROPN	PROP	Singular	Male	3
+T1039	224	1968	1969	FAC	un balcon	9853	9862	un balcon	2	57	99	21	0	0	0	250	1969	balcon	obl:arg	1966	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1040	223	1973	1974	LOC	la rivière	9877	9887	la rivière	2	57	99	26	0	0	0	251	1974	rivière	obl:arg	1971	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1041	222	2000	2001	PER	des amis	10027	10035	des amis	2	57	100	24	0	0	0	252	2001	amis	obj	1999	NOUN	NOM	Plural	Ambiguous	3
+oncle_bouvard	3	2013	2014	PER	Mon oncle	10083	10092	mon oncle	2	58	101	1	0	1	1	253	2014	oncle	ROOT	2014	NOUN	NOM	Singular	Male	3
+Bouvard	2	2013	2013	PER	Mon	10083	10086	mon	1	58	101	1	1	0	0	254	2013	mon	det	2014	DET	PRON	Singular	Ambiguous	1
+Bouvard	2	2017	2017	PER	Bouvard	10099	10106	bouvard	1	58	101	5	0	0	0	255	2017	bouvard	nsubj	2016	PROPN	PROP	Singular	Male	3
+Bouvard	2	2023	2023	PER	il	10127	10129	il	1	59	102	4	0	0	0	256	2023	il	nsubj	2024	PRON	PRON	Singular	Male	3
+oncle_bouvard	3	2026	2027	PER	un monsieur	10145	10156	un monsieur	2	59	102	7	0	0	0	257	2027	monsieur	obj	2025	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	2033	2033	PER	son	10192	10195	son	1	60	103	4	0	0	0	258	2033	son	det	2034	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	2044	2044	PER	Sa	10247	10249	sa	1	60	104	0	0	0	0	259	2044	sa	det	2046	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	2066	2067	PER	l'	10339	10341	l '	2	60	104	22	0	0	0	260	2066	l	nsubj	2068	PRON	PRON	Singular	Ambiguous	3
+M15	175	2070	2070	PER	On	10355	10357	on	1	60	105	0	0	0	0	261	2070	on	nsubj	2072	PRON	PRON	Ambiguous	Ambiguous	3
+oncle_bouvard	3	2079	2079	PER	Ses	10398	10401	ses	1	60	106	0	0	0	0	262	2079	ses	det	2080	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	2087	2087	PER	il	10440	10442	il	1	60	106	8	0	0	0	263	2087	il	nsubj	2088	PRON	PRON	Singular	Male	3
+Pecuchet	1	2095	2095	PER	Pécuchet	10478	10486	pécuchet	1	61	107	0	0	0	0	264	2095	pécuchet	nsubj	2097	PROPN	PROP	Singular	Not_Assigned	3
+oncle_bouvard	3	2105	2105	PER	le	10521	10523	le	1	62	108	2	0	0	0	265	2105	le	obj	2106	PRON	PRON	Singular	Male	3
+T1086	221	2109	2110	PER	votre père	10546	10556	votre père	2	62	108	6	0	1	1	266	2110	père	obl:arg	2106	NOUN	NOM	Singular	Male	3
+Bouvard	2	2109	2109	PER	votre	10546	10551	votre	1	62	108	6	1	0	0	267	2109	votre	det	2110	DET	PRON	Ambiguous	Ambiguous	2
+oncle_bouvard	3	2115	2116	PER	mon parrain	10568	10579	mon parrain	2	63	109	3	0	1	1	268	2116	parrain	ROOT	2116	NOUN	NOM	Singular	Male	3
+Bouvard	2	2115	2115	PER	mon	10568	10571	mon	1	63	109	3	1	0	0	269	2115	mon	det	2116	DET	PRON	Singular	Ambiguous	1
+Bouvard	2	2119	2119	PER	Bouvard	10590	10597	bouvard	1	63	109	7	0	0	0	270	2119	bouvard	nsubj	2118	PROPN	PROP	Singular	Male	3
+Bouvard	2	2124	2124	PER	il	10624	10626	il	1	63	109	12	0	0	0	271	2124	il	nsubj	2126	PRON	PRON	Singular	Male	3
+Bouvard	2	2128	2128	PER	ses	10641	10644	ses	1	63	109	16	0	0	0	272	2128	ses	det	2129	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2140	2140	PER	Pécuchet	10697	10705	pécuchet	1	63	110	2	0	0	0	273	2140	pécuchet	nmod	2138	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	2150	2150	PER	ils	10741	10744	ils	1	63	110	12	0	0	0	274	2150	ils	nsubj	2151	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2163	2163	PER	leur	10804	10808	leur	1	63	111	2	0	0	0	275	2163	leur	iobj	2164	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2168	2168	PER	les	10827	10830	les	1	63	111	7	0	0	0	276	2168	les	obj	2169	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2171	2171	PER	chacun	10840	10846	chacun	1	63	111	10	0	0	0	277	2171	chacun	nsubj	2173	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	2174	2175	PER	l'autre	10857	10864	l' autre	2	63	111	13	0	0	0	278	2175	autre	obj	2173	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	2182	2182	PER	ils	10896	10899	ils	1	63	112	2	0	0	0	279	2182	ils	nsubj	2183	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2200	2200	PER	nous	10994	10998	nous	1	64	113	6	0	0	0	280	2200	nous	nsubj	2204	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	2207	2207	PER	nous	11031	11035	nous	1	64	113	13	0	0	0	281	2207	nous	expl:comp	2208	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	2210	2210	PER	nous	11046	11050	nous	1	64	113	16	0	0	0	282	2210	nous	nsubj	2212	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	2216	2216	PER	nous	11078	11082	nous	1	64	113	22	0	0	0	283	2216	nous	obj	2217	PRON	PRON	Plural	Ambiguous	1
+T1088	220	2226	2227	PER	leurs patrons	11126	11139	leurs patrons	2	65	114	7	0	1	1	284	2227	patrons	nmod	2224	NOUN	NOM	Plural	Not_Assigned	3
+BouvardEtPecuchet	0	2226	2226	PER	leurs	11126	11131	leurs	1	65	114	7	1	0	0	285	2226	leurs	det	2227	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2229	2229	PER	ils	11141	11144	ils	1	65	114	10	0	0	0	286	2229	ils	nsubj	2231	PRON	PRON	Plural	Ambiguous	3
+T1089	219	2241	2242	PER	les dames	11197	11206	les dames	2	66	115	5	0	0	0	287	2242	dames	obj	2240	NOUN	NOM	Plural	Female	3
+Bouvard	2	2245	2245	PER	Bouvard	11214	11221	bouvard	1	66	115	9	0	0	0	288	2245	bouvard	ROOT	2245	PROPN	PROP	Singular	Male	3
+T1090	249	2247	2248	FAC	l'escalier	11227	11237	l' escalier	2	66	115	11	0	0	0	289	2248	escalier	ROOT	2248	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	2250	2250	PER	Pécuchet	11240	11248	pécuchet	1	67	116	0	0	0	0	290	2250	pécuchet	nsubj	2251	PROPN	PROP	Singular	Not_Assigned	3
+T1091	259	2260	2261	TIME	Le lendemain	11302	11314	le lendemain	2	68	117	0	0	0	0	291	2261	lendemain	obl:mod	2265	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M21	169	2264	2279	FAC	la cour de Mm. Descambos frères : tissus d'Alsace, rue Hautefeuille, 92	11321	11392	la cour de mm . descambos frères : tissus d' alsace , rue hautefeuille , 92	16	68	117	4	0	2	2	292	2269	descambos	vocative	2283	PROPN	PROP	Not_Assigned	Not_Assigned	3
+boutique_descambos	35	2267	2279	FAC	Mm. Descambos frères : tissus d'Alsace, rue Hautefeuille, 92	11332	11392	mm . descambos frères : tissus d' alsace , rue hautefeuille , 92	13	68	117	7	1	1	1	293	2269	descambos	vocative	2283	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Mm_Descambos	43	2267	2270	PER	Mm. Descambos frères	11332	11352	mm . descambos frères	4	68	117	7	2	0	0	294	2269	descambos	vocative	2283	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	2286	2286	PER	Bouvard	11415	11422	bouvard	1	69	119	1	0	0	0	295	2286	bouvard	ROOT	2286	PROPN	PROP	Singular	Male	3
+Bouvard	2	2288	2289	PER	Monsieur Bouvard	11425	11441	monsieur bouvard	2	69	119	3	0	0	0	296	2288	monsieur	nmod	2286	NOUN	PROP	Singular	Male	3
+Bouvard	2	2291	2293	PER	Celui-ci	11445	11453	celui - ci	3	70	120	0	0	0	0	297	2291	celui	nsubj	2294	PRON	PRON	Singular	Male	3
+Pecuchet	1	2302	2302	PER	Pécuchet	11497	11505	pécuchet	1	70	120	11	0	0	0	298	2302	pécuchet	obj	2301	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	2303	2303	PER	qui	11506	11509	qui	1	70	120	12	0	0	0	299	2303	qui	nsubj	2304	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	2309	2309	PER	Je	11534	11536	je	1	71	121	1	0	0	0	300	2309	je	nsubj	2313	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	2315	2315	PER	Je	11558	11560	je	1	71	122	0	0	0	0	301	2315	je	nsubj	2318	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	2328	2328	PER	Pécuchet	11605	11613	pécuchet	1	73	124	4	0	0	0	302	2328	pécuchet	ROOT	2328	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	2332	2332	PER	sa	11628	11630	sa	1	73	124	8	0	0	0	303	2332	sa	det	2333	DET	PRON	Singular	Ambiguous	3
+T1027	33	2346	2347	FAC	l'appartement	11696	11709	l' appartement	2	74	125	11	0	0	0	304	2347	appartement	nmod	2344	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	2355	2356	PER	l'	11742	11744	l '	2	74	125	20	0	0	0	305	2355	l	expl:subj	2358	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2371	2371	PER	il	11802	11804	il	1	74	125	36	0	0	0	306	2371	il	nsubj	2373	PRON	PRON	Singular	Male	3
+Pecuchet	1	2376	2376	PER	lui	11826	11829	lui	1	74	125	41	0	0	0	307	2376	lui	obl:arg	2373	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2377	2377	PER	sa	11830	11832	sa	1	74	125	42	0	0	0	308	2377	sa	det	2378	DET	PRON	Singular	Ambiguous	3
+T1094	258	2380	2381	TIME	Le matin	11843	11851	le matin	2	74	126	0	0	0	0	309	2381	matin	obl:mod	2386	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	2383	2383	PER	il	11853	11855	il	1	74	126	3	0	0	0	310	2383	il	nsubj	2386	PRON	PRON	Singular	Male	3
+Pecuchet	1	2387	2387	PER	son	11872	11875	son	1	74	126	7	0	0	0	311	2387	son	det	2388	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2395	2395	PER	il	11918	11920	il	1	74	126	15	0	0	0	312	2395	il	nsubj	2396	PRON	PRON	Singular	Male	3
+Bouvard	2	2399	2399	PER	Bouvard	11941	11948	bouvard	1	74	126	19	0	0	0	313	2399	bouvard	obj	2398	PROPN	PROP	Singular	Male	3
+Bouvard	2	2401	2401	PER	qui	11950	11953	qui	1	74	126	21	0	0	0	314	2401	qui	nsubj:pass	2407	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	2409	2409	PER	son	11978	11981	son	1	74	126	29	0	0	0	315	2409	son	det	2410	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2416	2416	PER	Il	12017	12019	il	1	75	127	0	0	0	0	316	2416	il	nsubj	2419	PRON	PRON	Singular	Male	3
+Pecuchet	1	2418	2423	PER	le fils d'un petit marchand	12026	12053	le fils d' un petit marchand	6	75	127	2	0	1	1	317	2419	fils	ROOT	2419	NOUN	NOM	Not_Assigned	Not_Assigned	3
+pere_pecuchet	84	2421	2423	PER	un petit marchand	12036	12053	un petit marchand	3	75	127	5	1	0	0	318	2423	marchand	nmod	2419	NOUN	NOM	Singular	Male	3
+Pecuchet	1	2426	2426	PER	avait	12059	12064	avait	1	75	127	10	0	0	0	319	2426	avait	aux:tense	2428	AUX	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	2429	2429	PER	sa	12075	12077	sa	1	75	127	13	0	0	0	320	2429	sa	det	2430	DET	PRON	Singular	Ambiguous	3
+mere_pecuchet	41	2430	2430	PER	mère	12078	12082	mère	1	75	127	14	0	0	0	321	2430	mère	obj	2428	NOUN	NOM	Singular	Female	3
+mere_pecuchet	41	2432	2434	PER	morte très jeune	12084	12100	morte très jeune	3	75	127	16	0	0	0	322	2434	jeune	xcomp	2432	ADJ	NOM	Not_Assigned	Not_Assigned	3
+M2	171	2436	2436	PER	On	12102	12104	on	1	75	128	0	0	0	0	323	2436	on	nsubj	2445	PRON	PRON	Ambiguous	Ambiguous	3
+Pecuchet	1	2437	2438	PER	l'	12105	12107	l '	2	75	128	1	0	0	0	324	2437	l	obj	2445	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2449	2449	PER	le	12152	12154	le	1	75	128	13	0	0	0	325	2449	le	obj	2450	PRON	PRON	Singular	Male	3
+M16	63	2451	2453	FAC	chez un huissier	12162	12178	chez un huissier	3	75	128	15	0	1	1	326	2453	huissier	obl:arg	2450	NOUN	NOM	Not_Assigned	Not_Assigned	3
+huissier	83	2452	2453	PER	un huissier	12167	12178	un huissier	2	75	128	16	1	0	0	327	2453	huissier	obl:arg	2450	NOUN	NOM	Singular	Male	3
+T1101	256	2455	2456	PER	Les gendarmes	12180	12193	les gendarmes	2	75	129	0	0	0	0	328	2456	gendarmes	nsubj	2458	NOUN	NOM	Plural	Ambiguous	3
+M16	63	2457	2457	FAC	y	12194	12195	y	1	75	129	2	0	0	0	329	2457	y	iobj	2458	PRON	PRON	Not_Assigned	Not_Assigned	3
+huissier	83	2461	2462	PER	le patron	12211	12220	le patron	2	75	129	6	0	0	0	330	2462	patron	nsubj:pass	2464	NOUN	NOM	Singular	Male	3
+Pecuchet	1	2471	2471	PER	lui	12268	12271	lui	1	75	129	16	0	0	0	331	2471	lui	iobj	2472	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2480	2480	PER	il	12312	12314	il	1	75	130	2	0	0	0	332	2480	il	nsubj	2482	PRON	PRON	Singular	Male	3
+T1105	255	2497	2503	VEH	un des paquebots de la haute Seine	12400	12434	un des paquebots de la haute seine	7	75	130	19	0	2	2	333	2503	seine	nmod	2499	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1106	254	2498	2503	VEH	des paquebots de la haute Seine	12403	12434	des paquebots de la haute seine	6	75	130	20	1	1	1	334	2503	seine	nmod	2499	PROPN	PROP	Not_Assigned	Not_Assigned	3
+seine	99	2501	2503	LOC	la haute Seine	12420	12434	la haute seine	3	75	130	23	2	0	0	335	2503	seine	nmod	2499	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1108	253	2507	2510	PER	un chef de division	12443	12462	un chef de division	4	75	131	2	0	0	0	336	2508	chef	nsubj	2520	NOUN	NOM	Singular	Male	3
+Pecuchet	1	2514	2514	PER	son	12475	12478	son	1	75	131	9	0	0	0	337	2514	son	det	2515	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2517	2518	PER	l'	12489	12491	l '	2	75	131	12	0	0	0	338	2517	l	obj	2520	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2539	2539	PER	lui	12613	12616	lui	1	75	131	34	0	0	0	339	2539	lui	iobj	2540	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2543	2543	PER	son	12637	12640	son	1	75	131	38	0	0	0	340	2543	son	det	2544	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2547	2547	PER	il	12653	12655	il	1	75	131	42	0	0	0	341	2547	il	nsubj	2548	PRON	PRON	Singular	Male	3
+Pecuchet	1	2558	2558	PER	Sa	12712	12714	sa	1	75	132	0	0	0	0	342	2558	sa	det	2559	DET	PRON	Singular	Ambiguous	3
+T1110	252	2562	2563	TIME	le dimanche	12734	12745	le dimanche	2	75	132	4	0	0	0	343	2563	dimanche	obl:mod	2566	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	2576	2576	PER	Bouvard	12809	12816	bouvard	1	76	133	5	0	0	0	344	2576	bouvard	nmod	2574	PROPN	PROP	Singular	Male	3
+Bouvard	2	2577	2577	PER	le	12817	12819	le	1	76	133	6	0	0	0	345	2577	le	obj	2578	PRON	PRON	Singular	Male	3
+T1111	251	2580	2584	LOC	les bords de la Loire	12836	12857	les bords de la loire	5	76	133	9	0	1	1	346	2581	bords	obl:mod	2578	NOUN	PROP	Not_Assigned	Not_Assigned	3
+loire	279	2583	2584	LOC	la Loire	12849	12857	la loire	2	76	133	12	1	0	0	347	2584	loire	nmod	2581	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1113	250	2587	2590	FAC	une cour de ferme	12864	12881	une cour de ferme	4	76	133	16	0	0	0	348	2588	cour	obl:mod	2578	NOUN	NOM	Not_Assigned	Not_Assigned	3
+oncle_bouvard	3	2592	2593	PER	Un homme	12883	12891	un homme	2	76	134	0	0	0	0	349	2593	homme	nsubj	2603	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	2595	2595	PER	qui	12893	12896	qui	1	76	134	3	0	0	0	350	2595	qui	nsubj	2598	PRON	PRON	Ambiguous	Ambiguous	4
+oncle_bouvard	3	2597	2598	PER	son oncle	12903	12912	son oncle	2	76	134	5	0	1	1	351	2598	oncle	acl:relcl	2593	NOUN	NOM	Singular	Male	3
+Bouvard	2	2597	2597	PER	son	12903	12906	son	1	76	134	5	1	0	0	352	2597	son	det	2598	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	2600	2601	PER	l'	12914	12916	l '	2	76	134	8	0	0	0	353	2600	l	obj	2603	PRON	PRON	Singular	Ambiguous	3
+Paris	15	2605	2605	GPE	Paris	12932	12937	paris	1	76	134	13	0	0	0	354	2605	paris	obl:arg	2603	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	2607	2607	PER	lui	12943	12946	lui	1	76	134	15	0	0	0	355	2607	lui	iobj	2608	PRON	PRON	Singular	Ambiguous	3
+M17	183	2612	2614	TIME	À sa majorité	12970	12983	à sa majorité	3	76	135	0	0	1	1	356	2614	majorité	obl:mod	2618	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	2613	2613	PER	sa	12972	12974	sa	1	76	135	1	1	0	0	357	2613	sa	det	2614	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	2617	2617	PER	lui	12988	12991	lui	1	76	135	5	0	0	0	358	2617	lui	iobj	2618	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	2624	2624	PER	il	13027	13029	il	1	76	136	1	0	0	0	359	2624	il	nsubj	2626	PRON	PRON	Singular	Male	3
+T1114	260	2630	2633	FAC	une boutique de confiseur	13057	13082	une boutique de confiseur	4	76	136	7	0	0	0	360	2631	boutique	obj	2629	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M18	173	2635	2638	TIME	Six mois plus tard	13084	13102	six mois plus tard	4	76	137	0	0	0	0	361	2636	mois	obl:mod	2637	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1115	248	2640	2641	PER	son épouse	13104	13114	son épouse	2	76	137	5	0	1	1	362	2641	épouse	nsubj	2642	NOUN	NOM	Singular	Female	3
+Bouvard	2	2640	2640	PER	son	13104	13107	son	1	76	137	5	1	0	0	363	2640	son	det	2641	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	2663	2663	PER	sa	13229	13231	sa	1	76	138	15	0	0	0	364	2663	sa	det	2664	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	2667	2667	PER	il	13244	13246	il	1	76	139	1	0	0	0	365	2667	il	nsubj	2668	PRON	PRON	Singular	Male	3
+Bouvard	2	2673	2673	PER	sa	13276	13278	sa	1	76	139	7	0	0	0	366	2673	sa	det	2675	DET	PRON	Singular	Ambiguous	3
+M19	172	2678	2680	TIME	depuis douze ans	13295	13311	depuis douze ans	3	76	139	12	0	0	0	367	2680	ans	obl:mod	2684	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	2682	2682	PER	il	13313	13315	il	1	76	139	16	0	0	0	368	2682	il	nsubj	2684	PRON	PRON	Singular	Male	3
+boutique_descambos	35	2690	2694	FAC	chez Mm. Descambos frères	13346	13371	chez mm . descambos frères	5	76	139	24	0	1	1	369	2693	descambos	ROOT	2693	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Mm_Descambos	43	2691	2694	PER	Mm. Descambos frères	13351	13371	mm . descambos frères	4	76	139	25	1	0	0	370	2693	descambos	ROOT	2693	PROPN	PROP	Singular	Not_Assigned	3
+boutique_descambos	35	2696	2701	FAC	tissus, rue Hautefeuille, 92	13374	13402	tissus , rue hautefeuille , 92	6	76	140	3	0	0	0	371	2698	rue	nmod	2693	NOUN	PROP	Not_Assigned	Not_Assigned	3
+oncle_bouvard	3	2705	2706	PER	son oncle	13412	13421	son oncle	2	76	141	2	0	1	1	372	2706	oncle	obl:mod	2720	NOUN	NOM	Singular	Male	3
+Bouvard	2	2705	2705	PER	son	13412	13415	son	1	76	141	2	1	0	0	373	2705	son	det	2706	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	2708	2708	PER	qui	13423	13426	qui	1	76	141	5	0	0	0	374	2708	qui	nsubj	2712	PRON	PRON	Ambiguous	Ambiguous	4
+Bouvard	2	2710	2710	PER	lui	13437	13440	lui	1	76	141	7	0	0	0	375	2710	lui	iobj	2712	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	2719	2719	PER	Bouvard	13490	13497	bouvard	1	76	141	16	0	0	0	376	2719	bouvard	nsubj	2720	PROPN	PROP	Singular	Male	3
+oncle_bouvard	3	2722	2722	PER	sa	13512	13514	sa	1	76	141	19	0	0	0	377	2722	sa	det	2723	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	2726	2726	PER	en	13530	13532	en	1	76	141	23	0	0	0	378	2726	en	iobj	2727	PRON	PRON	Ambiguous	Ambiguous	3
+Bouvard	2	2737	2737	PER	ses	13587	13590	ses	1	76	142	6	0	0	0	379	2737	ses	det	2738	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	2741	2741	PER	lui	13608	13611	lui	1	76	142	10	0	0	0	380	2741	lui	iobj	2742	PRON	PRON	Singular	Ambiguous	3
+T1117	247	2754	2755	FAC	un estaminet	13670	13682	un estaminet	2	76	142	23	0	0	0	381	2755	estaminet	obl:mod	2750	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	2758	2758	PER	leur	13691	13695	leur	1	77	143	1	0	0	0	382	2758	leur	det	2759	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2768	2768	PER	Ils	13744	13747	ils	1	77	144	0	0	0	0	383	2768	ils	nsubj	2776	PRON	PRON	Plural	Ambiguous	3
+M22	168	2824	2829	TIME	Avant la fin de la semaine	14046	14072	avant la fin de la semaine	6	77	148	0	0	0	0	384	2826	fin	obl:mod	2833	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	2831	2831	PER	ils	14074	14077	ils	1	77	148	7	0	0	0	385	2831	ils	nsubj	2833	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2837	2837	PER	ils	14103	14106	ils	1	78	149	2	0	0	0	386	2837	ils	nsubj	2838	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	2842	2843	FAC	leur comptoir	14130	14143	leur comptoir	2	78	149	7	0	0	0	387	2843	comptoir	obl:mod	2840	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	2847	2848	PER	l'un	14153	14157	l' un	2	78	150	2	0	0	0	388	2848	un	nsubj	2849	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	2851	2852	PER	l'autre	14170	14177	l' autre	2	78	150	6	0	0	0	389	2852	autre	nsubj	2853	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	2854	2854	PER	son	14186	14189	son	1	78	150	9	0	0	0	390	2854	son	det	2855	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	2858	2858	PER	ils	14202	14205	ils	1	78	150	13	0	0	0	391	2858	ils	nsubj	2861	PRON	PRON	Plural	Ambiguous	3
+T1121	246	2864	2865	FAC	les rues	14234	14242	les rues	2	78	150	19	0	0	0	392	2865	rues	obl:mod	2861	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	2867	2867	PER	Bouvard	14244	14251	bouvard	1	78	151	0	0	0	0	393	2867	bouvard	nsubj	2868	PROPN	PROP	Singular	Male	3
+Pecuchet	1	2875	2875	PER	Pécuchet	14293	14301	pécuchet	1	78	151	8	0	0	0	394	2875	pécuchet	nsubj	2877	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	2882	2882	PER	sa	14329	14331	sa	1	78	151	15	0	0	0	395	2882	sa	det	2883	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2885	2885	PER	lui	14346	14349	lui	1	78	151	18	0	0	0	396	2885	lui	iobj	2886	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	2898	2898	PER	leurs	14414	14419	leurs	1	78	152	2	0	0	0	397	2898	leurs	det	2899	DET	PRON	Plural	Ambiguous	3
+Bouvard	2	2904	2904	PER	Bouvard	14456	14463	bouvard	1	78	153	0	0	0	0	398	2904	bouvard	nsubj	2905	PROPN	PROP	Singular	Male	3
+Bouvard	2	2915	2915	PER	sa	14521	14523	sa	1	78	153	11	0	0	0	399	2915	sa	det	2916	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	2918	2918	PER	Pécuchet	14536	14544	pécuchet	1	78	154	0	0	0	0	400	2918	pécuchet	nsubj	2919	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	2938	2939	PER	L'un	14642	14646	l' un	2	78	155	0	0	0	0	401	2939	un	nsubj	2941	PRON	PRON	Singular	Male	3
+Pecuchet	1	2947	2948	PER	l'autre	14683	14690	l' autre	2	78	155	9	0	0	0	402	2948	autre	nsubj	2949	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	2956	2956	PER	lui	14726	14729	lui	1	79	156	1	0	0	0	403	2956	lui	iobj	2958	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	2960	2960	PER	Bouvard	14745	14752	bouvard	1	79	156	5	0	0	0	404	2960	bouvard	nsubj	2961	PROPN	PROP	Singular	Male	3
+Pecuchet	1	2964	2964	PER	Pécuchet	14768	14776	pécuchet	1	79	156	9	0	0	0	405	2964	pécuchet	obl:arg	2962	PROPN	PROP	Singular	Not_Assigned	3
+barberou	6	2968	2968	PER	Barberou	14796	14804	barberou	1	79	156	13	0	0	0	406	2968	barberou	obl:arg	2962	PROPN	PROP	Singular	Not_Assigned	3
+barberou	6	2972	2988	PER	un ancien commis voyageur, actuellement boursier, très bon enfant, patriote, ami des dames	14814	14904	un ancien commis voyageur , actuellement boursier , très bon enfant , patriote , ami des dames	17	79	157	2	0	1	1	407	2974	commis	ROOT	2974	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1122	245	2987	2988	PER	des dames	14895	14904	des dames	2	79	157	17	1	0	0	408	2988	dames	nmod	2986	NOUN	NOM	Plural	Female	3
+barberou	6	2991	2991	PER	qui	14909	14912	qui	1	79	157	21	0	0	0	409	2991	qui	nsubj	2992	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	2997	2997	PER	Pécuchet	14946	14954	pécuchet	1	79	158	0	0	0	0	410	2997	pécuchet	nsubj	2999	PROPN	PROP	Singular	Not_Assigned	3
+barberou	6	2998	2998	PER	le	14955	14957	le	1	79	158	1	0	0	0	411	2998	le	obj	2999	PRON	PRON	Singular	Male	3
+Pecuchet	1	3002	3002	PER	il	14979	14981	il	1	79	158	5	0	0	0	412	3002	il	nsubj	3003	PRON	PRON	Singular	Male	3
+Bouvard	2	3004	3004	PER	Bouvard	14992	14999	bouvard	1	79	158	7	0	0	0	413	3004	bouvard	obj	3003	PROPN	PROP	Singular	Male	3
+dumouchel	7	3006	3006	PER	Dumouchel	15005	15014	dumouchel	1	79	158	9	0	0	0	414	3006	dumouchel	obl:arg	3003	PROPN	PROP	Singular	Male	3
+dumouchel	7	3008	3009	PER	Cet auteur	15016	15026	cet auteur	2	79	159	0	0	0	0	415	3009	auteur	nsubj	3019	NOUN	NOM	Singular	Male	3
+dumouchel	7	3012	3012	PER	il	15032	15034	il	1	79	159	4	0	0	0	416	3012	il	nsubj	3014	PRON	PRON	Singular	Male	3
+T1123	244	3025	3029	FAC	un pensionnat de jeunes personnes	15112	15145	un pensionnat de jeunes personnes	5	79	159	17	0	0	0	417	3026	pensionnat	obl:mod	3019	NOUN	NOM	Not_Assigned	Not_Assigned	3
+dumouchel	7	3040	3040	PER	Il	15199	15201	il	1	79	160	0	0	0	0	418	3040	il	nsubj	3041	PRON	PRON	Singular	Male	3
+Bouvard	2	3042	3042	PER	Bouvard	15209	15216	bouvard	1	79	160	2	0	0	0	419	3042	bouvard	obj	3041	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	3046	3046	PER	deux	15229	15233	deux	1	80	161	2	0	0	0	420	3046	deux	nmod	3044	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3051	3052	PER	l'autre	15250	15257	l' autre	2	80	161	7	0	0	0	421	3052	autre	obl:arg	3049	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	3053	3053	PER	son	15258	15261	son	1	80	161	9	0	0	0	422	3053	son	det	3054	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	3056	3056	PER	Chacun	15271	15277	chacun	1	80	162	0	0	0	0	423	3056	chacun	nsubj	3058	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	3062	3062	PER	Leurs	15303	15308	leurs	1	80	163	0	0	0	0	424	3062	leurs	det	3063	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3068	3068	PER	leur	15343	15347	leur	1	80	163	6	0	0	0	425	3068	leur	det	3069	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3072	3072	PER	ils	15368	15371	ils	1	80	163	10	0	0	0	426	3072	ils	nsubj	3073	PRON	PRON	Plural	Ambiguous	3
+M23	167	3077	3079	TIME	tous les jours	15400	15414	tous les jours	3	80	163	15	0	0	0	427	3079	jours	obj	3075	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3081	3081	PER	Ils	15417	15420	ils	1	81	164	0	0	0	0	428	3081	ils	nsubj	3082	PRON	PRON	Plural	Ambiguous	3
+T1124	243	3095	3096	ORG	le gouvernement	15493	15508	le gouvernement	2	81	164	14	0	0	0	429	3096	gouvernement	nmod	3087	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M25	166	3113	3116	TIME	l'histoire du Collier	15575	15596	l' histoire du collier	4	81	165	5	0	0	0	430	3114	histoire	nsubj	3122	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M24	228	3118	3121	TIME	le procès de Fualdès	15600	15620	le procès de fualdès	4	81	165	10	0	0	0	431	3119	procès	conj	3114	NOUN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3124	3124	PER	leurs	15635	15640	leurs	1	81	165	16	0	0	0	432	3124	leurs	det	3125	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3130	3130	PER	ils	15661	15664	ils	1	81	165	22	0	0	0	433	3130	ils	nsubj	3131	PRON	PRON	Plural	Ambiguous	3
+T1126	242	3135	3136	TIME	la Révolution	15691	15704	la révolution	2	81	165	27	0	0	0	434	3136	révolution	nmod	3133	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3138	3138	PER	Ils	15707	15710	ils	1	82	166	0	0	0	0	435	3138	ils	nsubj	3139	PRON	PRON	Plural	Ambiguous	3
+T1127	241	3142	3145	FAC	des boutiques de bric-à-brac	15729	15757	des boutiques de bric-à-brac	4	82	166	4	0	0	0	436	3143	boutiques	nmod	3141	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3147	3147	PER	Ils	15759	15762	ils	1	82	167	0	0	0	0	437	3147	ils	nsubj	3148	PRON	PRON	Plural	Ambiguous	3
+T1128	240	3149	3154	FAC	le Conservatoire des arts et métiers	15774	15810	le conservatoire des arts et métiers	6	82	167	2	0	0	0	438	3150	conservatoire	obj	3148	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1129	313	3156	3156	GPE	Saint-Denis	15812	15823	saint-denis	1	82	167	9	0	0	0	439	3156	saint-denis	conj	3150	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1130	366	3158	3159	LOC	les Gobelins	15825	15837	les gobelins	2	82	167	11	0	0	0	440	3159	gobelins	conj	3156	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1131	365	3161	3162	FAC	les Invalides	15839	15852	les invalides	2	82	167	14	0	0	0	441	3162	invalides	conj	3156	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M26	278	3164	3167	FAC	toutes les collections publiques	15856	15888	toutes les collections publiques	4	82	167	17	0	0	0	442	3166	collections	conj	3156	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3172	3172	PER	leur	15909	15913	leur	1	82	168	3	0	0	0	443	3172	leur	det	3173	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3175	3175	PER	ils	15925	15928	ils	1	82	168	6	0	0	0	444	3175	ils	nsubj	3176	PRON	PRON	Plural	Ambiguous	3
+T1134	364	3193	3196	FAC	les galeries du Muséum	16014	16036	les galeries du muséum	4	83	169	1	0	1	1	445	3194	galeries	obl:mod	3199	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1135	363	3195	3196	FAC	du Muséum	16027	16036	du muséum	2	83	169	3	1	0	0	446	3196	muséum	nmod	3194	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3198	3198	PER	ils	16038	16041	ils	1	83	169	6	0	0	0	447	3198	ils	nsubj	3199	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3221	3221	PER	les	16190	16193	les	1	83	169	29	0	0	0	448	3221	les	obj	3222	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3227	3227	PER	les	16226	16229	les	1	83	169	35	0	0	0	449	3227	les	obj	3228	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3230	3230	PER	Ils	16238	16241	ils	1	83	170	0	0	0	0	450	3230	ils	nsubj	3231	PRON	PRON	Plural	Ambiguous	3
+T1136	362	3232	3234	FAC	les serres chaudes	16254	16272	les serres chaudes	3	83	170	2	0	0	0	451	3233	serres	obj	3231	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3253	3253	PER	ils	16370	16373	ils	1	83	171	2	0	0	0	452	3253	ils	nsubj	3254	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3269	3269	PER	Ils	16440	16443	ils	1	84	172	0	0	0	0	453	3269	ils	nsubj	3271	PRON	PRON	Plural	Ambiguous	3
+T1137	361	3272	3273	FAC	au Louvre	16458	16467	au louvre	2	84	172	3	0	0	0	454	3273	louvre	obl:arg	3271	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1139	360	3281	3283	FAC	la grande bibliothèque	16503	16525	la grande bibliothèque	3	84	173	1	0	0	0	455	3283	bibliothèque	obl:mod	3287	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3285	3285	PER	ils	16527	16530	ils	1	84	173	5	0	0	0	456	3285	ils	nsubj	3287	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3298	3298	PER	ils	16596	16599	ils	1	85	174	3	0	0	0	457	3298	ils	nsubj	3299	PRON	PRON	Plural	Ambiguous	3
+T1140	359	3304	3307	FAC	du Collège de France	16627	16647	du collège de france	4	85	174	9	0	0	0	458	3305	collège	nmod	3301	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1142	358	3310	3311	PER	le professeur	16652	16665	le professeur	2	85	174	15	0	0	0	459	3311	professeur	nsubj:pass	3313	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	3316	3318	PER	ces deux inconnus	16685	16702	ces deux inconnus	3	85	174	21	0	0	0	460	3318	inconnus	obj	3315	NOUN	NOM	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3319	3319	PER	qui	16703	16706	qui	1	85	174	24	0	0	0	461	3319	qui	nsubj	3320	PRON	PRON	Ambiguous	Ambiguous	4
+barberou	6	3328	3328	PER	Barberou	16747	16755	barberou	1	85	175	2	0	0	0	462	3328	barberou	obl:mod	3331	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	3330	3330	PER	ils	16757	16760	ils	1	85	175	4	0	0	0	463	3330	ils	nsubj	3331	PRON	PRON	Plural	Ambiguous	3
+T1143	357	3333	3338	FAC	les coulisses d'un petit théâtre	16778	16810	les coulisses d' un petit théâtre	6	85	175	7	0	1	1	464	3338	théâtre	nmod	3334	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1144	367	3336	3338	FAC	un petit théâtre	16794	16810	un petit théâtre	3	85	175	10	1	0	0	465	3338	théâtre	nmod	3334	NOUN	NOM	Not_Assigned	Not_Assigned	3
+dumouchel	7	3340	3340	PER	Dumouchel	16812	16821	dumouchel	1	85	176	0	0	0	0	466	3340	dumouchel	nsubj	3342	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	3341	3341	PER	leur	16822	16826	leur	1	85	176	1	0	0	0	467	3341	leur	iobj	3342	PRON	PRON	Plural	Ambiguous	3
+T1145	355	3349	3350	FAC	l'Académie	16866	16876	l' académie	2	85	176	9	0	0	0	468	3350	académie	nmod	3347	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3352	3352	PER	Ils	16878	16881	ils	1	85	177	0	0	0	0	469	3352	ils	nsubj	3354	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3368	3368	PER	leur	16963	16967	leur	1	85	177	16	0	0	0	470	3368	leur	det	3369	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3382	3382	PER	ils	17042	17045	ils	1	85	178	9	0	0	0	471	3382	ils	nsubj	3383	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3399	3399	PER	ils	17137	17140	ils	1	86	179	6	0	0	0	472	3399	ils	nsubj	3400	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3415	3415	PER	ils	17208	17211	ils	1	86	179	22	0	0	0	473	3415	ils	nsubj	3416	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3428	3428	PER	ils	17278	17281	ils	1	86	180	6	0	0	0	474	3428	ils	nsubj	3429	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3437	3437	PER	ils	17326	17329	ils	1	86	180	15	0	0	0	475	3437	ils	nsubj	3440	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3451	3451	PER	eux	17402	17405	eux	1	86	181	7	0	0	0	476	3451	eux	obl:mod	3452	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3453	3453	PER	leur	17422	17426	leur	1	86	181	9	0	0	0	477	3453	leur	iobj	3454	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3465	3465	PER	ils	17483	17486	ils	1	87	182	6	0	0	0	478	3465	ils	nsubj	3466	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3476	3476	PER	les	17537	17540	les	1	87	183	5	0	0	0	479	3476	les	obj	3477	PRON	PRON	Plural	Ambiguous	3
+T1151	354	3479	3480	FAC	les rues	17555	17563	les rues	2	87	183	8	0	0	0	480	3480	rues	obl:mod	3477	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3482	3482	PER	ils	17565	17568	ils	1	87	183	11	0	0	0	481	3482	ils	nsubj	3483	PRON	PRON	Plural	Ambiguous	3
+T1152	353	3491	3494	FAC	Le quai aux Fleurs	17610	17628	le quai aux fleurs	4	87	184	0	0	0	0	482	3492	quai	nsubj	3496	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3495	3495	PER	les	17629	17632	les	1	87	184	4	0	0	0	483	3495	les	obj	3496	PRON	PRON	Plural	Ambiguous	3
+campagne	14	3499	3500	LOC	la campagne	17655	17666	la campagne	2	87	184	8	0	0	0	484	3500	campagne	obl:mod	3497	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1154	65	3502	3503	TIME	Un dimanche	17669	17680	un dimanche	2	88	185	0	0	0	0	485	3503	dimanche	obl:mod	3506	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3504	3504	PER	ils	17681	17684	ils	1	88	185	2	0	0	0	486	3504	ils	nsubj	3506	PRON	PRON	Plural	Ambiguous	3
+M27	277	3509	3511	TIME	dès le matin	17705	17717	dès le matin	3	88	185	7	0	0	0	487	3511	matin	obl:mod	3506	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1155	352	3517	3517	GPE	Meudon	17735	17741	meudon	1	88	185	15	0	0	0	488	3517	meudon	obl:arg	3515	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1156	351	3519	3519	GPE	Bellevue	17743	17751	bellevue	1	88	185	17	0	0	0	489	3519	bellevue	conj	3517	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1157	350	3521	3521	GPE	Suresnes	17753	17761	suresnes	1	88	185	19	0	0	0	490	3521	suresnes	conj	3517	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1158	349	3523	3523	GPE	Auteuil	17763	17770	auteuil	1	88	185	21	0	0	0	491	3523	auteuil	conj	3517	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1154	65	3525	3529	TIME	tout le long du jour	17772	17792	tout le long du jour	5	88	185	23	0	0	0	492	3527	long	obl:mod	3531	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3530	3530	PER	ils	17793	17796	ils	1	88	185	28	0	0	0	493	3530	ils	nsubj	3531	PRON	PRON	Plural	Ambiguous	3
+T1159	348	3539	3542	LOC	au bord des champs	17857	17875	au bord des champs	4	88	185	37	0	0	0	494	3540	bord	obl:arg	3536	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1160	347	3557	3558	FAC	des guinguettes	17943	17958	des guinguettes	2	88	185	55	0	0	0	495	3558	guinguettes	nmod	3556	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3571	3571	PER	Ils	18012	18015	ils	1	88	186	0	0	0	0	496	3571	ils	nsubj	3572	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3584	3584	PER	ils	18092	18095	ils	1	88	187	7	0	0	0	497	3584	ils	nsubj	3585	PRON	PRON	Plural	Ambiguous	3
+T1162	378	3593	3594	FAC	du bureau	18136	18145	du bureau	2	89	188	2	0	0	0	498	3594	bureau	nmod	3592	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	3595	3595	PER	leur	18146	18150	leur	1	89	188	4	0	0	0	499	3595	leur	iobj	3596	PRON	PRON	Plural	Ambiguous	3
+T1164	53	3614	3616	PER	les mêmes compagnons	18252	18272	les mêmes compagnons	3	89	189	15	0	0	0	500	3616	compagnons	conj	3601	NOUN	NOM	Plural	Ambiguous	3
+T1164	53	3618	3618	PER	Les	18275	18278	les	1	89	190	0	0	0	0	501	3618	les	obj	3619	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3622	3622	PER	ils	18297	18300	ils	1	89	190	4	0	0	0	502	3622	ils	nsubj	3624	PRON	PRON	Plural	Ambiguous	3
+T1164	53	3623	3623	PER	leur	18301	18305	leur	1	89	190	5	0	0	0	503	3623	leur	iobj	3624	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3631	3631	PER	leur	18340	18344	leur	1	89	191	1	0	0	0	504	3631	leur	iobj	3632	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3636	3636	PER	Ils	18368	18371	ils	1	89	192	0	0	0	0	505	3636	ils	nsubj	3637	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3652	3652	PER	ils	18451	18454	ils	1	90	193	2	0	0	0	506	3652	ils	nsubj	3654	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3659	3659	PER	leur	18492	18496	leur	1	90	193	9	0	0	0	507	3659	leur	det	3660	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3661	3661	PER	les	18504	18507	les	1	90	193	11	0	0	0	508	3661	les	obj	3662	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3665	3665	PER	ils	18528	18531	ils	1	90	193	15	0	0	0	509	3665	ils	nsubj	3667	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	3671	3671	PER	ils	18559	18562	ils	1	90	193	21	0	0	0	510	3671	ils	nsubj	3673	PRON	PRON	Plural	Ambiguous	3
+Pecuchet	1	3685	3685	PER	Pécuchet	18635	18643	pécuchet	1	90	194	0	0	0	0	511	3685	pécuchet	nsubj	3686	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	3690	3690	PER	Bouvard	18671	18678	bouvard	1	90	194	5	0	0	0	512	3690	bouvard	nmod	3688	PROPN	PROP	Singular	Male	3
+Bouvard	2	3692	3692	PER	Bouvard	18680	18687	bouvard	1	90	194	7	0	0	0	513	3692	bouvard	nsubj	3693	PROPN	PROP	Singular	Male	3
+Pecuchet	1	3700	3700	PER	Pécuchet	18725	18733	pécuchet	1	90	194	15	0	0	0	514	3700	pécuchet	nmod	3698	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	3703	3704	PER	J'	18738	18740	j '	2	91	195	1	0	0	0	515	3703	j	nsubj	3705	PRON	PRON	Singular	Ambiguous	1
+M28	276	3712	3714	FAC	les places publiques	18779	18799	les places publiques	3	91	195	10	0	0	0	516	3713	places	obl:mod	3710	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	3717	3718	PER	l'un	18809	18813	l' un	2	91	195	15	0	0	0	517	3718	un	nsubj	3716	PRON	PRON	Singular	Male	3
+Bouvard	2	3727	3728	PER	l'autre	18854	18861	l' autre	2	92	196	7	0	0	0	518	3728	autre	nsubj	3726	PRON	PRON	Singular	Ambiguous	3
+T1166	388	3746	3747	TIME	Un après-midi	18945	18958	un après-midi	2	94	200	0	0	0	0	519	3747	après-midi	nsubj	3762	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1168	387	3751	3754	TIME	le 20 janvier 1839	18968	18986	le 20 janvier 1839	4	94	200	5	0	0	0	520	3752	20	conj	3747	NUM	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	3757	3757	PER	Bouvard	18990	18997	bouvard	1	94	200	11	0	0	0	521	3757	bouvard	nsubj	3758	PROPN	PROP	Singular	Male	3
+T1169	386	3760	3761	FAC	son comptoir	19006	19018	son comptoir	2	94	200	14	0	1	1	522	3761	comptoir	obl:arg	3758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	3760	3760	PER	son	19006	19009	son	1	94	200	14	1	0	0	523	3760	son	det	3761	DET	PRON	Singular	Ambiguous	3
+T1170	385	3768	3769	PER	le facteur	19050	19060	le facteur	2	94	200	22	0	0	0	524	3769	facteur	obl:agent	3766	NOUN	NOM	Singular	Male	3
+Bouvard	2	3771	3771	PER	Ses	19063	19066	ses	1	95	201	0	0	0	0	525	3771	ses	det	3772	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	3776	3776	PER	sa	19085	19087	sa	1	95	201	5	0	0	0	526	3776	sa	det	3777	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	3784	3784	PER	il	19120	19122	il	1	95	201	13	0	0	0	527	3784	il	nsubj	3785	PRON	PRON	Singular	Male	3
+T1173	31	3791	3792	PER	Les commis	19154	19164	les commis	2	96	202	0	0	0	0	528	3792	commis	nsubj	3794	NOUN	NOM	Plural	Not_Assigned	3
+T1173	31	3796	3796	PER	on	19183	19185	on	1	96	202	5	0	0	0	529	3796	on	nsubj	3798	PRON	PRON	Ambiguous	Ambiguous	3
+Bouvard	2	3797	3797	PER	lui	19186	19189	lui	1	96	202	6	0	0	0	530	3797	lui	iobj	3798	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	3799	3799	PER	sa	19194	19196	sa	1	96	202	8	0	0	0	531	3799	sa	det	3800	DET	PRON	Singular	Ambiguous	3
+T1173	31	3802	3802	PER	On	19206	19208	on	1	96	203	0	0	0	0	532	3802	on	nsubj	3803	PRON	PRON	Ambiguous	Ambiguous	3
+T1175	384	3805	3806	PER	un médecin	19225	19235	un médecin	2	96	203	3	0	0	0	533	3806	médecin	obj	3804	NOUN	NOM	Singular	Male	3
+Bouvard	2	3808	3808	PER	Il	19237	19239	il	1	96	204	0	0	0	0	534	3808	il	nsubj	3809	PRON	PRON	Singular	Male	3
+T1173	31	3817	3817	PER	on	19281	19283	on	1	96	204	9	0	0	0	535	3817	on	nsubj	3819	PRON	PRON	Ambiguous	Ambiguous	3
+Bouvard	2	3818	3818	PER	lui	19284	19287	lui	1	96	204	10	0	0	0	536	3818	lui	iobj	3819	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	3837	3837	PER	me	19345	19347	me	1	97	205	16	0	0	0	537	3837	me	iobj	3838	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	3843	3843	PER	moi	19373	19376	-moi	1	97	206	3	0	0	0	538	3843	moi	dep	3842	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	3849	3849	PER	sa	19402	19404	sa	1	98	207	2	0	0	0	539	3849	sa	det	3850	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	3852	3852	PER	il	19417	19419	il	1	98	207	5	0	0	0	540	3852	il	nsubj	3853	PRON	PRON	Singular	Male	3
+T1176	383	3859	3863	FAC	au ministère de la Marine	19452	19477	au ministère de la marine	5	98	207	12	0	1	1	541	3860	ministère	obl:mod	3853	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T973	48	3862	3863	ORG	la Marine	19468	19477	la marine	2	98	207	15	1	0	0	542	3863	marine	nmod	3860	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	3882	3882	PER	Il	19556	19558	il	1	99	208	0	0	0	0	543	3882	il	nsubj	3884	PRON	PRON	Singular	Male	3
+Pecuchet	1	3885	3885	PER	Pécuchet	19572	19580	pécuchet	1	99	208	3	0	0	0	544	3885	pécuchet	obj	3884	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	3887	3887	PER	Pécuchet	19583	19591	pécuchet	1	100	209	0	0	0	0	545	3887	pécuchet	nsubj	3888	PROPN	PROP	Singular	Not_Assigned	3
+oncle_bouvard	3	3891	3892	PER	Mon oncle	19602	19611	mon oncle	2	101	210	1	0	1	1	546	3892	oncle	nsubj	3894	NOUN	NOM	Singular	Male	3
+Bouvard	2	3891	3891	PER	Mon	19602	19605	mon	1	101	210	1	1	0	0	547	3891	mon	det	3892	DET	PRON	Singular	Ambiguous	1
+Bouvard	2	3896	3897	PER	j'	19623	19625	j '	2	101	210	6	0	0	0	548	3896	j	nsubj	3898	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	3904	3904	PER	Bouvard	19654	19661	bouvard	1	103	212	0	0	0	0	549	3904	bouvard	nsubj	3905	PROPN	PROP	Singular	Male	3
+T1181	9	3912	3913	PER	Me Tardivel	19701	19712	me tardivel	2	103	212	8	0	0	0	550	3912	me	nmod	3910	NOUN	PROP	Singular	Not_Assigned	3
+T1185	382	3914	3914	GPE	Savigny-en-Septaine	19714	19733	savigny-en-septaine	1	104	213	0	0	0	0	551	3914	savigny-en-septaine	flat:name	4017	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1186	381	3916	3918	TIME	14 janvier 1839	19735	19750	14 janvier 1839	3	104	213	2	0	0	0	552	3916	14	nmod	3905	NUM	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	3921	3921	PER	Monsieur	19755	19763	monsieur	1	105	214	1	0	0	0	553	3921	monsieur	nmod	3920	NOUN	NOM	Singular	Male	3
+T1181	9	3924	3924	PER	Je	19769	19771	je	1	106	215	1	0	0	0	554	3924	je	nsubj	3926	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	3925	3925	PER	vous	19772	19776	vous	1	106	215	2	0	0	0	555	3925	vous	iobj	3926	PRON	PRON	Ambiguous	Ambiguous	2
+Bouvard	2	3928	3928	PER	vous	19785	19789	vous	1	106	215	5	0	0	0	556	3928	vous	expl:comp	3929	PRON	PRON	Ambiguous	Ambiguous	2
+M29	55	3931	3932	FAC	mon étude	19800	19809	mon étude	2	106	215	8	0	1	1	557	3932	étude	obl:arg	3929	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1181	9	3931	3931	PER	mon	19800	19803	mon	1	106	215	8	1	0	0	558	3931	mon	det	3932	DET	PRON	Singular	Ambiguous	1
+M29	55	3935	3935	FAC	y	19816	19817	y	1	106	215	12	0	0	0	559	3935	y	iobj	3936	PRON	PRON	Not_Assigned	Not_Assigned	3
+oncle_bouvard	3	3941	3943	PER	votre père naturel	19855	19873	votre père naturel	3	106	215	18	0	1	1	560	3942	père	nmod	3939	NOUN	NOM	Singular	Male	3
+Bouvard	2	3941	3941	PER	votre	19855	19860	votre	1	106	215	18	1	0	0	561	3941	votre	det	3942	DET	PRON	Ambiguous	Ambiguous	2
+oncle_bouvard	3	3945	3951	PER	M. François-Denys-Bartholomée Bouvard	19875	19912	m. françois - denys - bartholomée bouvard	7	106	215	22	0	0	0	562	3945	m.	appos	3942	NOUN	PROP	Singular	Male	3
+oncle_bouvard	3	3953	3958	PER	ex-négociant dans la ville de Nantes	19914	19950	ex-négociant dans la ville de nantes	6	106	215	30	0	1	1	563	3956	ville	nmod	3953	NOUN	PROP	Plural	Not_Assigned	3
+T1187	70	3955	3958	GPE	la ville de Nantes	19932	19950	la ville de nantes	4	106	215	32	1	0	0	564	3956	ville	nmod	3953	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1187	70	3962	3963	GPE	cette commune	19962	19975	cette commune	2	106	215	39	0	0	0	565	3963	commune	obl:mod	3960	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M30	274	3964	3968	TIME	le 10 du présent mois	19976	19997	le 10 du présent mois	5	106	215	41	0	0	0	566	3965	10	obl:mod	3960	NUM	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	3974	3974	PER	votre	20024	20029	votre	1	106	216	4	0	0	0	567	3974	votre	det	3975	DET	PRON	Ambiguous	Ambiguous	2
+Bouvard	2	3984	3984	PER	Monsieur	20081	20089	monsieur	1	107	217	3	0	0	0	568	3984	monsieur	dep	3982	NOUN	NOM	Singular	Male	3
+T1181	9	3989	3989	PER	mes	20106	20109	mes	1	107	217	8	0	0	0	569	3989	mes	det	3990	DET	PRON	Singular	Ambiguous	1
+T1181	9	3993	3993	PER	Tardivel	20122	20130	tardivel	1	107	218	1	0	0	0	570	3993	tardivel	ROOT	3993	PROPN	PROP	Singular	Not_Assigned	3
+T1181	9	3995	3995	PER	notaire	20132	20139	notaire	1	107	218	3	0	0	0	571	3995	notaire	appos	3993	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	3998	3998	PER	Pécuchet	20143	20151	pécuchet	1	107	218	6	0	0	0	572	3998	pécuchet	nsubj:pass	4000	PROPN	PROP	Singular	Not_Assigned	3
+T1191	380	4008	4009	FAC	la cour	20195	20202	la cour	2	107	218	16	0	0	0	573	4009	cour	obl:mod	4003	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	4012	4012	PER	il	20209	20211	il	1	107	219	1	0	0	0	574	4012	il	nsubj	4013	PRON	PRON	Singular	Male	3
+Pecuchet	1	4033	4033	PER	Tu	20303	20305	tu	1	109	221	1	0	0	0	575	4033	tu	nsubj	4034	PRON	PRON	Singular	Ambiguous	2
+Bouvard	2	4042	4042	PER	Bouvard	20341	20348	bouvard	1	109	221	10	0	0	0	576	4042	bouvard	case	4045	PROPN	PROP	Singular	Male	3
+T1192	379	4059	4060	ORG	la poste	20422	20430	la poste	2	110	222	4	0	0	0	577	4060	poste	nmod	4057	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M29	55	4065	4066	FAC	l'étude	20442	20449	l' étude	2	110	222	10	0	0	0	578	4066	étude	nmod	4063	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1193	389	4074	4075	PER	du notaire	20491	20501	du notaire	2	110	222	19	0	0	0	579	4075	notaire	nmod	4073	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	4087	4087	PER	ils	20554	20557	ils	1	110	222	32	0	0	0	580	4087	ils	nsubj	4089	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4104	4104	PER	leurs	20644	20649	leurs	1	110	222	49	0	0	0	581	4104	leurs	det	4105	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4110	4110	PER	leur	20672	20676	leur	1	111	223	2	0	0	0	582	4110	leur	iobj	4111	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4113	4113	PER	Ils	20687	20690	ils	1	111	224	0	0	0	0	583	4113	ils	nsubj	4114	PRON	PRON	Plural	Ambiguous	3
+T1194	377	4117	4120	FAC	l'Arc de Triomphe	20708	20725	l' arc de triomphe	4	111	224	4	0	0	0	584	4118	arc	obl:arg	4114	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1195	376	4124	4128	LOC	le bord de l'eau	20741	20757	le bord de l' eau	5	111	224	11	0	0	0	585	4125	bord	obl:mod	4122	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1196	375	4131	4131	FAC	Notre-Dame	20771	20781	notre-dame	1	111	224	18	0	0	0	586	4131	notre-dame	obj	4130	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	4133	4133	PER	Bouvard	20783	20790	bouvard	1	111	225	0	0	0	0	587	4133	bouvard	nsubj	4136	PROPN	PROP	Singular	Male	3
+Bouvard	2	4138	4138	PER	Il	20809	20811	il	1	111	226	0	0	0	0	588	4138	il	nsubj	4139	PRON	PRON	Singular	Male	3
+Pecuchet	1	4141	4141	PER	Pécuchet	20820	20828	pécuchet	1	111	226	3	0	0	0	589	4141	pécuchet	obl:arg	4139	PROPN	PROP	Singular	Not_Assigned	3
+M31	273	4151	4153	TIME	pendant cinq minutes	20864	20884	pendant cinq minutes	3	111	226	13	0	0	0	590	4153	minutes	obl:mod	4155	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	4158	4158	PER	Ils	20912	20915	ils	1	112	227	0	0	0	0	591	4158	ils	nsubj	4159	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4161	4161	PER	eux	20934	20937	eux	1	112	227	3	0	0	0	592	4161	eux	obl:mod	4159	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4186	4186	PER	Ils	21032	21035	ils	1	114	230	0	0	0	0	593	4186	ils	nsubj	4188	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	4201	4201	PER	Bouvard	21113	21120	bouvard	1	114	232	0	0	0	0	594	4201	bouvard	nsubj	4202	PROPN	PROP	Singular	Male	3
+T1181	9	4203	4204	PER	au notaire	21129	21139	au notaire	2	114	232	2	0	0	0	595	4204	notaire	obl:arg	4202	NOUN	NOM	Singular	Male	3
+T1181	9	4209	4210	PER	Le notaire	21156	21166	le notaire	2	115	233	0	0	0	0	596	4210	notaire	nsubj	4211	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	4226	4226	PER	je	21244	21246	je	1	116	234	4	0	0	0	597	4226	je	nsubj	4227	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	4229	4234	PER	François-Denys-Bartholomée Bouvard	21255	21289	françois - denys - bartholomée bouvard	6	116	234	7	0	0	0	598	4233	bartholomée	obj	4227	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	4236	4239	PER	mon fils naturel reconnu	21291	21315	mon fils naturel reconnu	4	116	234	14	0	1	1	599	4237	fils	obj	4227	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	4236	4236	PER	mon	21291	21294	mon	1	116	234	14	1	0	0	600	4236	mon	det	4237	DET	PRON	Singular	Ambiguous	1
+oncle_bouvard	3	4244	4244	PER	mes	21331	21334	mes	1	116	234	22	0	0	0	601	4244	mes	det	4245	DET	PRON	Singular	Ambiguous	1
+oncle_bouvard	3	4252	4253	PER	Le bonhomme	21367	21378	le bonhomme	2	117	235	0	0	0	0	602	4253	bonhomme	nsubj	4255	NOUN	NOM	Singular	Male	3
+Bouvard	2	4256	4257	PER	ce fils	21388	21395	ce fils	2	117	235	4	0	0	0	603	4257	fils	obj	4255	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	4259	4259	PER	sa	21401	21403	sa	1	117	235	7	0	0	0	604	4259	sa	det	4260	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4263	4263	PER	il	21419	21421	il	1	117	235	11	0	0	0	605	4263	il	nsubj	4267	PRON	PRON	Singular	Male	3
+Bouvard	2	4264	4265	PER	l'	21422	21424	l '	2	117	235	12	0	0	0	606	4264	l	obj	4267	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	4273	4273	PER	le	21461	21463	le	1	117	235	21	0	0	0	607	4273	le	obj	4275	PRON	PRON	Singular	Male	3
+Bouvard	2	4281	4282	PER	le neveu	21498	21506	le neveu	2	117	235	29	0	0	0	608	4282	neveu	nsubj	4287	NOUN	NOM	Singular	Male	3
+oncle_bouvard	3	4283	4284	PER	l'	21507	21509	l '	2	117	235	31	0	0	0	609	4283	l	obj	4287	PRON	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4304	4305	PER	M. Bouvard	21600	21610	m. bouvard	2	117	236	4	0	0	0	610	4304	m.	nsubj	4308	NOUN	PROP	Singular	Male	3
+T1200	100	4315	4318	PER	Ses deux fils légitimes	21650	21673	ses deux fils légitimes	4	117	237	0	0	1	1	611	4317	fils	nsubj	4320	NOUN	NOM	Plural	Male	3
+oncle_bouvard	3	4315	4315	PER	Ses	21650	21653	ses	1	117	237	0	1	0	0	612	4315	ses	det	4317	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4323	4323	PER	ses	21703	21706	ses	1	117	237	8	0	0	0	613	4323	ses	det	4324	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4328	4329	PER	l'	21724	21726	l '	2	117	237	13	0	0	0	614	4328	l	obj	4331	PRON	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4336	4336	PER	il	21755	21757	il	1	117	237	21	0	0	0	615	4336	il	nsubj	4337	PRON	PRON	Singular	Male	3
+oncle_bouvard	3	4342	4342	PER	son	21788	21791	son	1	117	237	27	0	0	0	616	4342	son	det	4344	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4346	4346	PER	Il	21806	21808	il	1	117	238	0	0	0	0	617	4346	il	dep	4352	PRON	PRON	Singular	Male	3
+Bouvard	2	4347	4348	PER	l'	21809	21811	l '	2	117	238	1	0	0	0	618	4347	l	obj	4352	PRON	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4354	4354	PER	lui	21837	21840	lui	1	117	238	8	0	0	0	619	4354	lui	obl:mod	4352	PRON	PRON	Singular	Ambiguous	3
+T1202	89	4360	4361	PER	sa cuisinière	21862	21875	sa cuisinière	2	117	238	14	0	1	1	620	4361	cuisinière	nmod	4358	NOUN	NOM	Singular	Female	3
+oncle_bouvard	3	4360	4360	PER	sa	21862	21864	sa	1	117	238	14	1	0	0	621	4360	sa	det	4361	DET	PRON	Singular	Ambiguous	3
+T1202	89	4363	4363	PER	Elle	21877	21881	elle	1	117	239	0	0	0	0	622	4363	elle	nsubj	4365	PRON	PRON	Singular	Female	3
+oncle_bouvard	3	4364	4364	PER	le	21882	21884	le	1	117	239	1	0	0	0	623	4364	le	obj	4365	PRON	PRON	Singular	Male	3
+T1204	374	4371	4372	PER	la famille	21916	21926	la famille	2	117	239	8	0	0	0	624	4372	famille	nmod	4369	NOUN	NOM	Plural	Ambiguous	3
+oncle_bouvard	3	4377	4377	PER	son	21937	21940	son	1	117	239	14	0	0	0	625	4377	son	det	4378	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4384	4384	PER	il	21968	21970	il	1	117	239	21	0	0	0	626	4384	il	nsubj	4385	PRON	PRON	Singular	Male	3
+oncle_bouvard	3	4387	4387	PER	ses	21986	21989	ses	1	117	239	24	0	0	0	627	4387	ses	det	4388	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4394	4394	PER	ses	22019	22022	ses	1	117	239	31	0	0	0	628	4394	ses	det	4396	DET	PRON	Singular	Ambiguous	3
+oncle_bouvard	3	4400	4400	PER	il	22051	22053	il	1	117	239	37	0	0	0	629	4400	il	nsubj	4401	PRON	PRON	Singular	Male	3
+oncle_bouvard	3	4403	4403	PER	sa	22065	22067	sa	1	117	239	40	0	0	0	630	4403	sa	det	4404	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	4420	4421	PER	le copiste	22138	22148	le copiste	2	117	240	14	0	0	0	631	4421	copiste	obl:mod	4418	NOUN	NOM	Singular	Male	3
+T1206	56	4428	4431	PER	L'aîné des frères	22183	22200	l' aîné des frères	4	117	241	0	0	1	1	632	4429	aîné	nsubj	4437	NOUN	NOM	Singular	Male	3
+T1200	100	4430	4431	PER	des frères	22190	22200	des frères	2	117	241	2	1	0	0	633	4431	frères	nmod	4429	NOUN	NOM	Plural	Male	3
+T1206	56	4433	4434	PER	M. Étienne	22202	22212	m. étienne	2	117	241	5	0	0	0	634	4433	m.	appos	4429	NOUN	PROP	Singular	Male	3
+T1206	56	4439	4439	PER	il	22231	22233	il	1	117	241	11	0	0	0	635	4439	il	nsubj	4440	PRON	PRON	Singular	Male	3
+Bouvard	2	4444	4444	PER	Bouvard	22262	22269	bouvard	1	118	242	0	0	0	0	636	4444	bouvard	nsubj	4445	PROPN	PROP	Singular	Male	3
+Bouvard	2	4452	4452	PER	Il	22303	22305	il	1	118	243	0	0	0	0	637	4452	il	nsubj	4453	PRON	PRON	Singular	Male	3
+Pecuchet	1	4474	4474	PER	Pécuchet	22414	22422	pécuchet	1	120	245	1	0	0	0	638	4474	pécuchet	nsubj	4486	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	4476	4476	PER	dont	22424	22428	dont	1	120	245	3	0	0	0	639	4476	dont	nmod	4478	PRON	PRON	Ambiguous	Ambiguous	4
+BouvardEtPecuchet	0	4489	4489	PER	Ils	22484	22487	ils	1	121	246	0	0	0	0	640	4489	ils	nsubj:pass	4491	PRON	PRON	Plural	Ambiguous	3
+T1181	9	4497	4497	PER	Tardivel	22533	22541	tardivel	1	121	246	8	0	0	0	641	4497	tardivel	nmod	4495	PROPN	PROP	Singular	Not_Assigned	3
+Alexandre	24	4499	4501	PER	L'autre fils	22543	22555	l' autre fils	3	121	247	0	0	0	0	642	4501	fils	nsubj	4506	NOUN	NOM	Singular	Male	3
+Alexandre	24	4503	4504	PER	M. Alexandre	22557	22569	m. alexandre	2	121	247	4	0	0	0	643	4503	m.	appos	4501	NOUN	PROP	Singular	Male	3
+Alexandre	24	4507	4507	PER	son	22581	22584	son	1	121	247	8	0	0	0	644	4507	son	det	4508	DET	PRON	Singular	Ambiguous	3
+Alexandre	24	4523	4523	PER	il	22658	22660	il	1	121	247	24	0	0	0	645	4523	il	nsubj	4525	PRON	PRON	Singular	Male	3
+Bouvard	2	4541	4541	PER	Bouvard	22750	22757	bouvard	1	121	248	0	0	0	0	646	4541	bouvard	nsubj	4543	PROPN	PROP	Singular	Male	3
+Bouvard	2	4552	4552	PER	il	22809	22811	il	1	121	249	4	0	0	0	647	4552	il	nsubj	4554	PRON	PRON	Singular	Male	3
+T1215	58	4556	4556	GPE	Savigny	22828	22835	savigny	1	121	249	8	0	0	0	648	4556	savigny	obl:arg	4554	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1215	58	4559	4559	GPE	où	22839	22841	où	1	121	249	11	0	0	0	649	4559	où	obl:mod	4561	PRON	PRON	Not_Assigned	Not_Assigned	3
+Bouvard	2	4560	4560	PER	il	22842	22844	il	1	121	249	12	0	0	0	650	4560	il	nsubj	4561	PRON	PRON	Singular	Male	3
+Bouvard	2	4570	4570	PER	ses	22897	22900	ses	1	121	249	22	0	0	0	651	4570	ses	det	4571	DET	PRON	Singular	Ambiguous	3
+M32	272	4597	4601	TIME	au bout de six mois	23026	23045	au bout de six mois	5	122	251	2	0	0	0	652	4598	bout	obl:mod	4607	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Alexandre	24	4603	4605	PER	le sieur Alexandre	23047	23065	le sieur alexandre	3	122	251	8	0	0	0	653	4604	sieur	nsubj	4607	NOUN	PROP	Singular	Male	3
+Bouvard	2	4609	4609	PER	Bouvard	23078	23085	bouvard	1	122	251	14	0	0	0	654	4609	bouvard	nsubj	4610	PROPN	PROP	Singular	Male	3
+Bouvard	2	4617	4617	PER	Son	23122	23125	son	1	123	252	0	0	0	0	655	4617	son	det	4619	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	4624	4624	PER	Nous	23153	23157	nous	1	124	253	1	0	0	0	656	4624	nous	nsubj	4626	PRON	PRON	Plural	Ambiguous	1
+campagne	14	4628	4629	LOC	la campagne	23176	23187	la campagne	2	124	253	5	0	0	0	657	4629	campagne	obl:arg	4626	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	4636	4637	PER	son ami	23211	23218	son ami	2	125	254	5	0	1	1	658	4637	ami	obj	4635	NOUN	NOM	Singular	Male	3
+Pecuchet	1	4636	4636	PER	son	23211	23214	son	1	125	254	5	1	0	0	659	4636	son	det	4637	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	4639	4639	PER	son	23221	23224	son	1	125	254	8	0	0	0	660	4639	son	det	4640	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	4642	4642	PER	Pécuchet	23234	23242	pécuchet	1	125	254	11	0	0	0	661	4642	pécuchet	nsubj	4645	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	4653	4655	PER	ces deux hommes	23286	23301	ces deux hommes	3	125	255	4	0	0	0	662	4655	hommes	nmod	4651	NOUN	NOM	Plural	Male	3
+Pecuchet	1	4663	4663	PER	il	23341	23343	il	1	126	256	2	0	0	0	663	4663	il	nsubj	4665	PRON	PRON	Singular	Male	3
+Bouvard	2	4671	4671	PER	Bouvard	23383	23390	bouvard	1	126	256	10	0	0	0	664	4671	bouvard	nmod	4669	PROPN	PROP	Singular	Male	3
+Pecuchet	1	4673	4673	PER	il	23392	23394	il	1	126	256	12	0	0	0	665	4673	il	nsubj	4675	PRON	PRON	Singular	Male	3
+Pecuchet	1	4678	4678	PER	sa	23418	23420	sa	1	126	256	17	0	0	0	666	4678	sa	det	4679	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	4688	4688	PER	Il	23461	23463	il	1	126	258	0	0	0	0	667	4688	il	nsubj	4689	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	4703	4703	PER	ils	23535	23538	ils	1	127	259	6	0	0	0	668	4703	ils	nsubj	4704	PRON	PRON	Plural	Ambiguous	3
+T1216	373	4711	4712	LOC	Le Nord	23580	23587	le nord	2	127	260	0	0	0	0	669	4712	nord	nsubj	4714	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1217	64	4720	4721	LOC	le Midi	23621	23628	le midi	2	127	260	9	0	0	0	670	4721	midi	ROOT	4721	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1217	64	4724	4724	LOC	son	23644	23647	son	1	127	260	13	0	0	0	671	4724	son	det	4725	DET	PRON	Not_Assigned	Not_Assigned	3
+T1219	372	4734	4735	LOC	le Centre	23693	23702	le centre	2	127	260	23	0	0	0	672	4735	centre	nsubj	4740	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1220	371	4745	4746	GPE	La Bretagne	23742	23753	la bretagne	2	127	261	0	0	0	0	673	4746	bretagne	nsubj	4749	PROPN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	4747	4747	PER	leur	23754	23758	leur	1	127	261	2	0	0	0	674	4747	leur	iobj	4749	PRON	PRON	Plural	Ambiguous	3
+T1221	80	4759	4763	LOC	aux régions de l'Est	23816	23836	aux régions de l' est	5	127	262	1	0	0	0	675	4760	régions	obl:mod	4774	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1221	80	4773	4773	LOC	y	23873	23874	y	1	127	262	15	0	0	0	676	4773	y	expl:comp	4774	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1224	370	4794	4795	GPE	le Forez	23956	23964	le forez	2	127	264	8	0	0	0	677	4795	forez	dep	4786	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1225	369	4797	4798	GPE	le Bugey	23966	23974	le bugey	2	127	264	11	0	0	0	678	4798	bugey	conj	4795	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1226	368	4800	4801	GPE	le Roumois	23976	23986	le roumois	2	127	264	14	0	0	0	679	4801	roumois	conj	4795	PROPN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	4816	4816	PER	leur	24048	24052	leur	1	127	266	4	0	0	0	680	4816	leur	det	4817	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4832	4832	PER	ils	24121	24124	ils	1	127	266	20	0	0	0	681	4832	ils	nsubj	4834	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4838	4838	PER	ils	24148	24151	ils	1	128	267	1	0	0	0	682	4838	ils	nsubj	4840	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4872	4872	PER	Ils	24299	24302	ils	1	128	268	0	0	0	0	683	4872	ils	nsubj	4874	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4941	4941	PER	ils	24650	24653	ils	1	128	270	1	0	0	0	684	4941	ils	nsubj	4942	PRON	PRON	Plural	Ambiguous	3
+T1230	356	4943	4946	FAC	un domicile à eux	24668	24685	un domicile à eux	4	128	270	3	0	1	1	685	4944	domicile	obj	4942	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	4946	4946	PER	eux	24682	24685	eux	1	128	270	6	1	0	0	686	4946	eux	nmod	4944	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4949	4949	PER	ils	24691	24694	ils	1	128	271	1	0	0	0	687	4949	ils	nsubj	4950	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4954	4954	PER	leur	24721	24725	leur	1	128	271	6	0	0	0	688	4954	leur	det	4955	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4960	4960	PER	leur	24753	24757	leur	1	128	271	12	0	0	0	689	4960	leur	det	4961	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4967	4967	PER	leurs	24791	24796	leurs	1	128	271	19	0	0	0	690	4967	leurs	det	4968	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	4971	4971	PER	Nous	24809	24813	nous	1	129	272	1	0	0	0	691	4971	nous	nsubj	4972	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	4976	4976	PER	nous	24833	24837	nous	1	129	272	6	0	0	0	692	4976	nous	iobj	4977	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	4979	4979	PER	nous	24847	24851	nous	1	129	272	9	0	0	0	693	4979	nous	nsubj	4980	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	4982	4982	PER	notre	24871	24876	notre	1	129	272	12	0	0	0	694	4982	notre	det	4983	DET	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	4985	4985	PER	Ils	24886	24889	ils	1	130	273	0	0	0	0	695	4985	ils	nsubj	4987	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5034	5034	PER	ils	25129	25132	ils	1	130	273	49	0	0	0	696	5034	ils	nsubj	5037	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5060	5060	PER	leur	25262	25266	leur	1	130	273	75	0	0	0	697	5060	leur	iobj	5062	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5092	5092	PER	ils	25409	25412	ils	1	130	274	28	0	0	0	698	5092	ils	nsubj	5094	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	5113	5113	PER	Bouvard	25522	25529	bouvard	1	130	275	0	0	0	0	699	5113	bouvard	nsubj	5114	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	5121	5121	PER	nous	25562	25566	nous	1	131	276	3	0	0	0	700	5121	nous	nsubj	5123	PRON	PRON	Plural	Ambiguous	1
+Pecuchet	1	5132	5133	PER	j'	25618	25620	j '	2	132	277	3	0	0	0	701	5132	j	nsubj	5134	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	5136	5136	PER	mienne	25627	25633	mienne	1	132	277	7	0	0	0	702	5136	mienne	obj	5134	PRON	PRON	Singular	Ambiguous	1
+Pecuchet	1	5139	5139	PER	Pécuchet	25642	25650	pécuchet	1	132	277	10	0	0	0	703	5139	pécuchet	obl:agent	5138	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	5144	5144	PER	ils	25663	25666	ils	1	133	278	3	0	0	0	704	5144	ils	nsubj	5146	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	5148	5148	PER	Bouvard	25683	25690	bouvard	1	133	279	0	0	0	0	705	5148	bouvard	nsubj	5149	PROPN	PROP	Singular	Male	3
+Bouvard	2	5150	5150	PER	ses	25703	25706	ses	1	133	279	2	0	0	0	706	5150	ses	det	5151	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5153	5153	PER	Pécuchet	25716	25724	pécuchet	1	133	279	5	0	0	0	707	5153	pécuchet	case	5156	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	5154	5154	PER	sa	25725	25727	sa	1	133	279	6	0	0	0	708	5154	sa	det	5156	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	5159	5159	PER	on	25749	25751	on	1	133	279	11	0	0	0	709	5159	on	nsubj	5160	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	5177	5177	PER	Ils	25844	25847	ils	1	134	280	0	0	0	0	710	5177	ils	nsubj	5180	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5187	5187	PER	leur	25888	25892	leur	1	134	280	10	0	0	0	711	5187	leur	det	5188	DET	PRON	Plural	Ambiguous	3
+T1234	323	5192	5193	PER	leurs collègues	25917	25932	leurs collègues	2	134	281	1	0	1	1	712	5193	collègues	nsubj	5195	NOUN	NOM	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5192	5192	PER	leurs	25917	25922	leurs	1	134	281	1	1	0	0	713	5192	leurs	det	5193	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5194	5194	PER	les	25933	25936	les	1	134	281	3	0	0	0	714	5194	les	obj	5195	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	5198	5198	PER	Bouvard	25956	25963	bouvard	1	134	282	0	0	0	0	715	5198	bouvard	nsubj	5217	PROPN	PROP	Singular	Male	3
+Bouvard	2	5200	5200	PER	qui	25965	25968	qui	1	134	282	2	0	0	0	716	5200	qui	nsubj	5201	PRON	PRON	Ambiguous	Ambiguous	4
+Bouvard	2	5204	5204	PER	son	25988	25991	son	1	134	282	6	0	0	0	717	5204	son	det	5205	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5214	5214	PER	sa	26044	26046	sa	1	134	282	16	0	0	0	718	5214	sa	det	5215	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5218	5218	PER	son	26065	26068	son	1	134	282	20	0	0	0	719	5218	son	det	5219	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5229	5229	PER	ses	26122	26125	ses	1	134	282	31	0	0	0	720	5229	ses	det	5231	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5233	5233	PER	Pécuchet	26145	26153	pécuchet	1	134	283	0	0	0	0	721	5233	pécuchet	nsubj	5243	NOUN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	5248	5248	PER	sa	26228	26230	sa	1	134	283	15	0	0	0	722	5248	sa	det	5250	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5264	5264	PER	il	26306	26308	il	1	134	283	31	0	0	0	723	5264	il	nsubj	5265	PRON	PRON	Singular	Male	3
+Pecuchet	1	5269	5269	PER	son	26330	26333	son	1	134	283	36	0	0	0	724	5269	son	det	5270	DET	PRON	Singular	Ambiguous	3
+M33	271	5272	5276	TIME	Après dix-huit mois de recherches	26343	26376	après dix-huit mois de recherches	5	135	284	0	0	0	0	725	5274	mois	obl:mod	5282	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5278	5278	PER	ils	26378	26381	ils	1	135	284	6	0	0	0	726	5278	ils	nsubj	5280	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5284	5284	PER	Ils	26405	26408	ils	1	135	285	0	0	0	0	727	5284	ils	nsubj	5285	PRON	PRON	Plural	Ambiguous	3
+T1236	322	5289	5293	LOC	tous les environs de Paris	26433	26459	tous les environs de paris	5	135	285	5	0	1	1	728	5291	environs	obl:mod	5285	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Paris	15	5293	5293	GPE	Paris	26454	26459	paris	1	135	285	9	1	0	0	729	5293	paris	nmod	5291	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1237	321	5297	5297	GPE	Amiens	26471	26477	amiens	1	135	285	13	0	0	0	730	5297	amiens	conj	5293	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1238	320	5300	5300	GPE	Évreux	26486	26492	évreux	1	135	285	16	0	0	0	731	5300	évreux	dep	5297	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1239	319	5304	5304	GPE	Fontainebleau	26500	26513	fontainebleau	1	135	285	20	0	0	0	732	5304	fontainebleau	conj	5300	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1029	45	5306	5307	GPE	au Havre	26520	26528	au havre	2	135	285	22	0	0	0	733	5307	havre	dep	5304	PROPN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5309	5309	PER	Ils	26530	26533	ils	1	135	286	0	0	0	0	734	5309	ils	nsubj	5310	PRON	PRON	Plural	Ambiguous	3
+T1240	92	5311	5312	LOC	une campagne	26544	26556	une campagne	2	135	286	2	0	0	0	735	5312	campagne	obj	5310	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1240	92	5313	5313	LOC	qui	26557	26560	qui	1	135	286	4	0	0	0	736	5313	qui	nsubj	5317	PRON	PRON	Not_Assigned	Not_Assigned	4
+campagne	14	5316	5317	LOC	la campagne	26570	26581	la campagne	2	135	286	7	0	0	0	737	5317	campagne	acl:relcl	5312	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5331	5331	PER	les	26651	26654	les	1	135	286	22	0	0	0	738	5331	les	obj	5332	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5334	5334	PER	Ils	26668	26671	ils	1	136	287	0	0	0	0	739	5334	ils	nsubj	5335	PRON	PRON	Plural	Ambiguous	3
+T1242	318	5338	5339	FAC	des habitations	26694	26709	des habitations	2	136	287	4	0	0	0	740	5339	habitations	nmod	5337	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5347	5347	PER	ils	26760	26763	ils	1	137	288	1	0	0	0	741	5347	ils	nsubj	5349	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5359	5359	PER	ils	26820	26823	ils	1	137	288	13	0	0	0	742	5359	ils	nsubj	5360	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5366	5366	PER	leur	26854	26858	leur	1	137	288	20	0	0	0	743	5366	leur	iobj	5368	PRON	PRON	Plural	Ambiguous	3
+T1243	317	5382	5383	FAC	une manufacture	26920	26935	une manufacture	2	137	288	36	0	0	0	744	5383	manufacture	dep	5380	NOUN	NOM	Not_Assigned	Not_Assigned	3
+barberou	6	5390	5390	PER	Barberou	26962	26970	barberou	1	138	289	0	0	0	0	745	5390	barberou	nsubj	5392	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	5391	5391	PER	les	26971	26974	les	1	138	289	1	0	0	0	746	5391	les	obj	5392	PRON	PRON	Plural	Ambiguous	3
+barberou	6	5394	5394	PER	Il	26983	26985	il	1	139	290	0	0	0	0	747	5394	il	nsubj	5395	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	5396	5396	PER	leur	26998	27002	leur	1	139	290	2	0	0	0	748	5396	leur	det	5397	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	5404	5404	PER	leur	27030	27034	leur	1	139	290	10	0	0	0	749	5404	leur	iobj	5405	PRON	PRON	Plural	Ambiguous	3
+M34	281	5407	5407	PER	on	27043	27045	on	1	139	290	13	0	0	0	750	5407	on	nsubj	5410	PRON	PRON	Ambiguous	Ambiguous	3
+barberou	6	5408	5408	PER	lui	27046	27049	lui	1	139	290	14	0	0	0	751	5408	lui	iobj	5410	PRON	PRON	Singular	Ambiguous	3
+domaine	95	5412	5413	LOC	un domaine	27064	27074	un domaine	2	139	290	18	0	0	0	752	5413	domaine	obl:arg	5410	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chavignolles	17	5416	5416	GPE	Chavignolles	27078	27090	chavignolles	1	139	290	22	0	0	0	753	5416	chavignolles	nmod	5413	PROPN	PROP	Not_Assigned	Not_Assigned	3
+caen	19	5419	5419	GPE	Caen	27098	27102	caen	1	139	290	25	0	0	0	754	5419	caen	nmod	5416	PROPN	PROP	Not_Assigned	Not_Assigned	3
+falaise	38	5421	5421	GPE	Falaise	27106	27113	falaise	1	139	290	27	0	0	0	755	5421	falaise	conj	5419	PROPN	PROP	Not_Assigned	Not_Assigned	3
+ferme	13	5426	5430	FAC	une ferme de trente-huit hectares	27134	27167	une ferme de trente-huit hectares	5	139	291	3	0	0	0	756	5427	ferme	obl:arg	5424	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jardin	11	5438	5442	FAC	un jardin en plein rapport	27200	27226	un jardin en plein rapport	5	139	291	15	0	0	0	757	5439	jardin	conj	5434	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5444	5444	PER	Ils	27229	27232	ils	1	140	292	0	0	0	0	758	5444	ils	nsubj	5446	PRON	PRON	Plural	Ambiguous	3
+T1285	316	5448	5449	GPE	le Calvados	27256	27267	le calvados	2	140	292	4	0	0	0	759	5449	calvados	obl:arg	5446	PROPN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	5451	5451	PER	ils	27271	27274	ils	1	140	292	7	0	0	0	760	5451	ils	nsubj:pass	5453	PRON	PRON	Plural	Ambiguous	3
+ferme	13	5459	5460	FAC	la ferme	27316	27324	la ferme	2	140	293	4	0	0	0	761	5460	ferme	obl:mod	5478	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison	25	5463	5464	FAC	la maison	27332	27341	la maison	2	140	293	8	0	0	0	762	5464	maison	nmod	5460	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ferme_et_maison	87	5466	5467	FAC	l'une	27343	27348	l' une	2	140	293	11	0	0	0	763	5467	une	nsubj:pass	5471	PRON	PRON	Not_Assigned	Not_Assigned	3
+ferme_et_maison	87	5473	5474	FAC	l'autre	27375	27382	l' autre	2	140	293	18	0	0	0	764	5474	autre	obl:arg	5471	PRON	PRON	Not_Assigned	Not_Assigned	3
+M58	289	5477	5477	PER	on	27386	27388	on	1	140	293	22	0	0	0	765	5477	on	nsubj	5478	PRON	PRON	Ambiguous	Ambiguous	3
+Bouvard	2	5486	5486	PER	Bouvard	27432	27439	bouvard	1	140	294	0	0	0	0	766	5486	bouvard	nsubj	5489	PROPN	PROP	Singular	Male	3
+Pecuchet	1	5495	5495	PER	Pécuchet	27476	27484	pécuchet	1	141	295	0	0	0	0	767	5495	pécuchet	nsubj	5496	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	5497	5497	PER	son	27495	27498	son	1	141	295	2	0	0	0	768	5497	son	det	5498	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5500	5500	PER	le	27511	27513	le	1	141	295	5	0	0	0	769	5500	le	obj	5501	PRON	PRON	Singular	Male	3
+Pecuchet	1	5508	5508	PER	il	27546	27548	il	1	141	295	13	0	0	0	770	5508	il	nsubj	5509	PRON	PRON	Singular	Male	3
+Pecuchet	1	5516	5516	PER	sa	27588	27590	sa	1	141	296	3	0	0	0	771	5516	sa	det	5517	DET	PRON	Singular	Ambiguous	3
+mere_pecuchet	41	5523	5524	PER	sa mère	27627	27634	sa mère	2	141	296	10	0	1	1	772	5524	mère	nmod	5521	NOUN	NOM	Singular	Female	3
+Pecuchet	1	5523	5523	PER	sa	27627	27629	sa	1	141	296	10	1	0	0	773	5523	sa	det	5524	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5527	5527	PER	ses	27641	27644	ses	1	141	296	14	0	0	0	774	5527	ses	det	5528	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5531	5531	PER	il	27663	27665	il	1	141	297	1	0	0	0	775	5531	il	nsubj	5535	PRON	PRON	Singular	Male	3
+M35	269	5549	5553	TIME	vers la fin de 1840	27752	27771	vers la fin de 1840	5	142	298	3	0	0	0	776	5551	fin	obl:mod	5548	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1287	315	5555	5559	TIME	six mois avant sa retraite	27773	27799	six mois avant sa retraite	5	142	298	9	0	1	1	777	5559	retraite	obl:mod	5548	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	5558	5558	PER	sa	27788	27790	sa	1	142	298	12	1	0	0	778	5558	sa	det	5559	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5561	5561	PER	Bouvard	27802	27809	bouvard	1	143	299	0	0	0	0	779	5561	bouvard	nsubj	5565	PROPN	PROP	Singular	Male	3
+Bouvard	2	5570	5570	PER	il	27841	27843	il	1	143	300	3	0	0	0	780	5570	il	nsubj	5572	PRON	PRON	Singular	Male	3
+Bouvard	2	5573	5573	PER	ses	27859	27862	ses	1	143	300	6	0	0	0	781	5573	ses	det	5574	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5594	5594	PER	il	27963	27965	il	1	143	301	1	0	0	0	782	5594	il	nsubj	5595	PRON	PRON	Singular	Male	3
+boutique_descambos	35	5597	5601	FAC	chez les Mm. Descambos	27988	28010	chez les mm . descambos	5	143	301	4	0	1	1	783	5599	mm	obl:arg	5595	NOUN	PROP	Not_Assigned	Not_Assigned	3
+Mm_Descambos	43	5599	5601	PER	Mm. Descambos	27997	28010	mm . descambos	3	143	301	6	1	0	0	784	5601	descambos	ROOT	5601	PROPN	PROP	Singular	Not_Assigned	3
+M20	170	5604	5608	TIME	la veille de son départ	28015	28038	la veille de son départ	5	143	302	3	0	1	1	785	5605	veille	obl:mod	5610	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	5607	5607	PER	son	28028	28031	son	1	143	302	6	1	0	0	786	5607	son	det	5608	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5609	5609	PER	il	28039	28041	il	1	143	302	8	0	0	0	787	5609	il	nsubj	5610	PRON	PRON	Singular	Male	3
+Pecuchet	1	5618	5618	PER	Pécuchet	28079	28087	pécuchet	1	144	303	0	0	0	0	788	5618	pécuchet	nsubj	5624	PROPN	PROP	Singular	Not_Assigned	3
+M64	282	5626	5627	PER	ses collègues	28121	28134	ses collègues	2	144	303	8	0	1	1	789	5627	collègues	obl:mod	5624	NOUN	NOM	Plural	Ambiguous	3
+Pecuchet	1	5626	5626	PER	ses	28121	28124	ses	1	144	303	8	1	0	0	790	5626	ses	det	5627	DET	PRON	Singular	Ambiguous	3
+M37	267	5632	5634	TIME	le dernier jour	28147	28162	le dernier jour	3	144	303	14	0	0	0	791	5634	jour	obl:mod	5630	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	5642	5642	PER	Il	28199	28201	il	1	145	304	0	0	0	0	792	5642	il	nsubj	5643	PRON	PRON	Singular	Male	3
+dumouchel	7	5663	5663	PER	Dumouchel	28306	28315	dumouchel	1	145	304	21	0	0	0	793	5663	dumouchel	obl:arg	5660	PROPN	PROP	Singular	Male	3
+dumouchel	7	5665	5666	PER	Le professeur	28319	28332	le professeur	2	146	305	0	0	0	0	794	5666	professeur	nsubj	5668	NOUN	NOM	Singular	Male	3
+Pecuchet	1	5667	5667	PER	lui	28333	28336	lui	1	146	305	2	0	0	0	795	5667	lui	iobj	5668	PRON	PRON	Singular	Ambiguous	3
+dumouchel	7	5674	5674	PER	il	28373	28375	il	1	146	305	9	0	0	0	796	5674	il	nsubj	5676	PRON	PRON	Singular	Male	3
+Pecuchet	1	5675	5675	PER	le	28376	28378	le	1	146	305	10	0	0	0	797	5675	le	obj	5676	PRON	PRON	Singular	Male	3
+Pecuchet	1	5689	5689	PER	lui	28458	28461	lui	1	146	305	24	0	0	0	798	5689	lui	iobj	5690	PRON	PRON	Singular	Ambiguous	3
+barberou	6	5695	5695	PER	Barberou	28489	28497	barberou	1	147	306	0	0	0	0	799	5695	barberou	nsubj	5697	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	5705	5705	PER	Bouvard	28545	28552	bouvard	1	147	306	10	0	0	0	800	5705	bouvard	nmod	5703	PROPN	PROP	Singular	Male	3
+barberou	6	5707	5707	PER	Il	28554	28556	il	1	147	307	0	0	0	0	801	5707	il	nsubj	5708	PRON	PRON	Singular	Male	3
+Bouvard	2	5718	5718	PER	le	28612	28614	le	1	147	307	11	0	0	0	802	5718	le	obj	5719	PRON	PRON	Singular	Male	3
+Bouvard	2	5728	5729	PER	l'	28655	28657	l '	2	147	307	21	0	0	0	803	5728	l	obj	5730	PRON	PRON	Singular	Ambiguous	3
+Bouvard	2	5732	5732	PER	Bouvard	28669	28676	bouvard	1	148	308	0	0	0	0	804	5732	bouvard	nsubj	5738	PROPN	PROP	Singular	Male	3
+Bouvard	2	5736	5736	PER	lui	28690	28693	lui	1	148	308	4	0	0	0	805	5736	lui	obl:arg	5734	PRON	PRON	Singular	Ambiguous	3
+M3	275	5740	5741	FAC	son balcon	28706	28716	son balcon	2	148	308	8	0	1	1	806	5741	balcon	obl:mod	5738	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	5740	5740	PER	son	28706	28709	son	1	148	308	8	1	0	0	807	5740	son	det	5741	DET	PRON	Singular	Ambiguous	3
+T1293	314	5757	5758	FAC	des quais	28780	28789	des quais	2	148	308	25	0	0	0	808	5758	quais	nmod	5756	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1294	324	5766	5767	VEH	des omnibus	28827	28838	des omnibus	2	148	308	34	0	0	0	809	5767	omnibus	nmod	5765	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	5773	5773	PER	Il	28859	28861	il	1	148	309	0	0	0	0	810	5773	il	nsubj	5775	PRON	PRON	Singular	Male	3
+T1296	312	5781	5783	LOC	cette grande ville	28903	28921	cette grande ville	3	148	309	8	0	0	0	811	5783	ville	obl:mod	5779	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1297	311	5787	5788	FAC	au restaurant	28940	28953	au restaurant	2	148	309	14	0	0	0	812	5788	restaurant	nmod	5786	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1299	310	5792	5793	FAC	au théâtre	28965	28975	au théâtre	2	148	309	19	0	0	0	813	5793	théâtre	nmod	5791	NOUN	NOM	Not_Assigned	Not_Assigned	3
+portiere_pecuchet	181	5798	5799	PER	sa portière	28995	29006	sa portière	2	148	309	25	0	1	1	814	5799	portière	nmod	5796	NOUN	NOM	Singular	Not_Assigned	3
+Bouvard	2	5798	5798	PER	sa	28995	28997	sa	1	148	309	25	1	0	0	815	5798	sa	det	5799	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5802	5802	PER	ses	29015	29018	ses	1	148	309	29	0	0	0	816	5802	ses	det	5803	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	5806	5806	PER	il	29034	29036	il	1	148	309	33	0	0	0	817	5806	il	nsubj	5807	PRON	PRON	Singular	Male	3
+Bouvard	2	5816	5816	PER	il	29086	29088	il	1	148	309	43	0	0	0	818	5816	il	nsubj	5818	PRON	PRON	Singular	Male	3
+Pecuchet	1	5823	5823	PER	Pécuchet	29112	29120	pécuchet	1	149	310	0	0	0	0	819	5823	pécuchet	nsubj	5833	PROPN	PROP	Singular	Not_Assigned	3
+M36	268	5825	5830	TIME	jusqu'à deux heures du matin	29122	29150	jusqu' à deux heures du matin	6	149	310	2	0	0	0	820	5828	heures	obl:mod	5833	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M4	264	5835	5836	FAC	sa chambre	29168	29178	sa chambre	2	149	310	12	0	1	1	821	5836	chambre	obl:mod	5833	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	5835	5835	PER	sa	29168	29170	sa	1	149	310	12	1	0	0	822	5835	sa	det	5836	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	5838	5838	PER	Il	29180	29182	il	1	149	311	0	0	0	0	823	5838	il	nsubj	5840	PRON	PRON	Singular	Male	3
+Pecuchet	1	5855	5855	PER	lui	29265	29268	lui	1	149	311	17	0	0	0	824	5855	lui	obl:arg	5851	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	5857	5857	PER	il	29270	29272	il	1	149	311	19	0	0	0	825	5857	il	nsubj	5858	PRON	PRON	Singular	Male	3
+Pecuchet	1	5859	5859	PER	son	29279	29282	son	1	149	311	21	0	0	0	826	5859	son	det	5860	DET	PRON	Singular	Ambiguous	3
+M38	266	5875	5877	TIME	dès la veille	29353	29366	dès la veille	3	150	312	7	0	0	0	827	5877	veille	obl:mod	5874	NOUN	NOM	Not_Assigned	Not_Assigned	3
+seine	99	5908	5909	LOC	la Seine	29517	29525	la seine	2	150	313	29	0	0	0	828	5909	seine	obl:arg	5906	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1029	45	5912	5913	GPE	au Havre	29533	29541	au havre	2	150	313	33	0	0	0	829	5913	havre	obl:mod	5906	PROPN	PROP	Not_Assigned	Not_Assigned	3
+caen	19	5921	5921	GPE	Caen	29574	29578	caen	1	150	313	42	0	0	0	830	5921	caen	obl:arg	5919	PROPN	PROP	Not_Assigned	Not_Assigned	3
+caen	19	5923	5923	GPE	où	29580	29582	où	1	150	313	44	0	0	0	831	5923	où	nmod	5924	PRON	PRON	Not_Assigned	Not_Assigned	3
+Bouvard	2	5924	5924	PER	Bouvard	29583	29590	bouvard	1	150	313	45	0	0	0	832	5924	bouvard	appos	5921	PROPN	PROP	Singular	Male	3
+Bouvard	2	5925	5925	PER	qui	29591	29594	qui	1	150	313	46	0	0	0	833	5925	qui	nsubj	5927	PRON	PRON	Ambiguous	Ambiguous	4
+chavignolles	17	5932	5932	GPE	Chavignolles	29632	29644	chavignolles	1	150	313	53	0	0	0	834	5932	chavignolles	obl:arg	5930	PROPN	PROP	Not_Assigned	Not_Assigned	3
+pere_pecuchet	84	5938	5939	PER	son père	29667	29675	son père	2	151	314	4	0	1	1	835	5939	père	nmod	5936	NOUN	NOM	Singular	Male	3
+Pecuchet	1	5938	5938	PER	son	29667	29670	son	1	151	314	4	1	0	0	836	5938	son	det	5939	DET	PRON	Singular	Ambiguous	3
+chariot	22	5962	5965	VEH	une voiture de déménagement	29779	29806	une voiture de déménagement	4	151	314	28	0	0	0	837	5963	voiture	obl:arg	5960	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chariot	22	5966	5966	VEH	qui	29807	29810	qui	1	151	314	32	0	0	0	838	5966	qui	nsubj	5968	PRON	PRON	Not_Assigned	Not_Assigned	4
+T1306	309	5970	5970	GPE	Nonancourt	29830	29840	nonancourt	1	151	314	36	0	0	0	839	5970	nonancourt	obl:arg	5968	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1307	308	5972	5972	GPE	Verneuil	29842	29850	verneuil	1	151	314	38	0	0	0	840	5972	verneuil	conj	5970	PROPN	PROP	Not_Assigned	Not_Assigned	3
+falaise	38	5974	5974	GPE	Falaise	29854	29861	falaise	1	151	314	40	0	0	0	841	5974	falaise	conj	5970	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Pecuchet	1	5976	5976	PER	Pécuchet	29863	29871	pécuchet	1	151	315	0	0	0	0	842	5976	pécuchet	nsubj	5977	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	5981	5981	PER	Il	29895	29897	il	1	152	316	0	0	0	0	843	5981	il	nsubj	5983	PRON	PRON	Singular	Male	3
+conducteur	85	5985	5986	PER	du conducteur	29916	29929	du conducteur	2	152	316	4	0	0	0	844	5986	conducteur	obl:arg	5984	NOUN	NOM	Singular	Male	3
+Pecuchet	1	5996	5996	PER	sa	29964	29966	sa	1	152	316	15	0	0	0	845	5996	sa	det	5999	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6008	6008	PER	sa	30026	30028	sa	1	152	316	27	0	0	0	846	6008	sa	det	6009	DET	PRON	Singular	Ambiguous	3
+T1310	307	6013	6016	TIME	le dimanche 20 mars	30052	30071	le dimanche 20 mars	4	152	316	32	0	0	0	847	6014	dimanche	obl:mod	6023	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M7	235	6018	6020	TIME	au petit jour	30073	30086	au petit jour	3	152	316	37	0	0	0	848	6020	jour	obl:mod	6023	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6022	6022	PER	il	30088	30090	il	1	152	316	41	0	0	0	849	6022	il	nsubj	6023	PRON	PRON	Singular	Male	3
+Paris	15	6025	6026	GPE	la capitale	30101	30112	la capitale	2	152	316	44	0	0	0	850	6026	capitale	obl:arg	6023	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6035	6036	PER	l'	30154	30156	l '	2	153	317	7	0	0	0	851	6035	l	obj	6037	PRON	PRON	Singular	Ambiguous	3
+conducteur_et_charretier	12	6054	6058	PER	le conducteur et le charretier	30254	30284	le conducteur et le charretier	5	153	318	12	0	1	2	852	6055	conducteur	nmod	6052	NOUN	NOM	Plural	Not_Assigned	3
+conducteur	85	6054	6055	PER	le conducteur	30254	30267	le conducteur	2	153	318	12	1	0	0	853	6055	conducteur	nmod	6052	NOUN	NOM	Singular	Male	3
+charretier	21	6057	6058	PER	le charretier	30271	30284	le charretier	2	153	318	15	1	0	0	854	6058	charretier	conj	6055	NOUN	NOM	Singular	Male	3
+conducteur_et_charretier	12	6060	6060	PER	Ils	30286	30289	ils	1	153	319	0	0	0	0	855	6060	ils	nsubj	6061	PRON	PRON	Plural	Ambiguous	3
+T1325	72	6063	6064	FAC	exécrables auberges	30306	30325	exécrables auberges	2	153	319	3	0	0	0	856	6064	auberges	obj	6061	NOUN	NOM	Not_Assigned	Not_Assigned	3
+conducteur_et_charretier	12	6070	6070	PER	ils	30339	30342	ils	1	153	319	10	0	0	0	857	6070	ils	nsubj	6071	PRON	PRON	Plural	Ambiguous	3
+Pecuchet	1	6075	6075	PER	Pécuchet	30365	30373	pécuchet	1	153	319	15	0	0	0	858	6075	pécuchet	nsubj	6082	PROPN	PROP	Singular	Not_Assigned	3
+T1325	72	6084	6086	FAC	les mêmes gîtes	30412	30427	les mêmes gîtes	3	153	319	24	0	0	0	859	6086	gîtes	obl:mod	6082	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M40	263	6088	6089	TIME	Le lendemain	30430	30442	le lendemain	2	154	320	0	0	0	0	860	6089	lendemain	obl:mod	6092	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M39	265	6093	6095	TIME	dès l'aube	30457	30467	dès l' aube	3	154	320	5	0	0	0	861	6095	aube	obl:arg	6092	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1328	71	6098	6099	FAC	la route	30473	30481	la route	2	154	320	10	0	0	0	862	6099	route	nsubj	6106	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1328	71	6102	6103	FAC	la même	30492	30499	la même	2	154	320	14	0	0	0	863	6103	même	amod	6099	ADJ	NOM	Not_Assigned	Not_Assigned	3
+T1329	306	6130	6131	LOC	la campagne	30625	30636	la campagne	2	154	321	14	0	0	0	864	6131	campagne	nsubj	6133	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chariot	22	6170	6171	VEH	du chariot	30824	30834	du chariot	2	154	323	2	0	0	0	865	6171	chariot	nmod	6169	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6186	6186	PER	Pécuchet	30895	30903	pécuchet	1	154	324	0	0	0	0	866	6186	pécuchet	nsubj	6187	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	6191	6191	PER	sa	30928	30930	sa	1	154	324	5	0	0	0	867	6191	sa	det	6192	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6198	6198	PER	il	30960	30962	il	1	154	324	12	0	0	0	868	6198	il	nsubj	6199	PRON	PRON	Singular	Male	3
+Pecuchet	1	6200	6200	PER	sa	30971	30973	sa	1	154	324	14	0	0	0	869	6200	sa	det	6201	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6204	6204	PER	lui	30988	30991	lui	1	154	324	18	0	0	0	870	6204	lui	iobj	6205	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	6209	6209	PER	ses	31015	31018	ses	1	154	324	23	0	0	0	871	6209	ses	det	6210	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6220	6220	PER	il	31072	31074	il	1	154	325	4	0	0	0	872	6220	il	nsubj	6221	PRON	PRON	Singular	Male	3
+Pecuchet	1	6224	6224	PER	lui	31103	31106	lui	1	154	325	8	0	0	0	873	6224	lui	obl:mod	6222	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	6226	6226	PER	son	31112	31115	son	1	154	325	10	0	0	0	874	6226	son	det	6227	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6241	6241	PER	il	31195	31197	il	1	154	326	8	0	0	0	875	6241	il	nsubj	6242	PRON	PRON	Singular	Male	3
+Pecuchet	1	6246	6246	PER	il	31220	31222	il	1	154	326	13	0	0	0	876	6246	il	nsubj	6247	PRON	PRON	Singular	Male	3
+Pecuchet	1	6261	6261	PER	il	31293	31295	il	1	154	326	28	0	0	0	877	6261	il	nsubj	6262	PRON	PRON	Singular	Male	3
+conducteur_et_charretier	12	6267	6268	PER	les hommes	31320	31330	les hommes	2	154	326	34	0	0	0	878	6268	hommes	obl:mod	6262	NOUN	NOM	Plural	Ambiguous	3
+Pecuchet	1	6270	6270	PER	il	31333	31335	il	1	154	326	37	0	0	0	879	6270	il	expl:subj	6272	PRON	PRON	Singular	Male	3
+conducteur_et_charretier	12	6275	6275	PER	leur	31352	31356	leur	1	154	326	42	0	0	0	880	6275	leur	iobj	6276	PRON	PRON	Plural	Ambiguous	3
+M41	262	6279	6281	TIME	après les repas	31373	31388	après les repas	3	154	326	46	0	0	0	881	6281	repas	obl:mod	6276	NOUN	NOM	Not_Assigned	Not_Assigned	3
+conducteur_et_charretier	12	6286	6286	PER	ils	31400	31403	ils	1	154	327	3	0	0	0	882	6286	ils	nsubj	6287	PRON	PRON	Plural	Ambiguous	3
+T1331	305	6297	6297	GPE	Gauburge	31456	31464	gauburge	1	154	327	14	0	0	0	883	6297	gauburge	nmod	6295	PROPN	PROP	Not_Assigned	Not_Assigned	3
+chariot	22	6303	6304	VEH	le chariot	31487	31497	le chariot	2	154	327	20	0	0	0	884	6304	chariot	nsubj	6305	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6308	6308	PER	Pécuchet	31512	31520	pécuchet	1	154	328	0	0	0	0	885	6308	pécuchet	nsubj	6309	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	6324	6324	PER	Il	31603	31605	il	1	154	329	0	0	0	0	886	6324	il	nsubj	6325	PRON	PRON	Singular	Male	3
+conducteur_et_charretier	12	6335	6337	PER	ces deux imbéciles	31651	31669	ces deux imbéciles	3	154	329	11	0	0	0	887	6337	imbéciles	obj	6334	NOUN	NOM	Plural	Not_Assigned	3
+T1332	304	6340	6342	TIME	la journée suivante	31675	31694	la journée suivante	3	154	329	16	0	0	0	888	6341	journée	nsubj:pass	6344	NOUN	NOM	Not_Assigned	Not_Assigned	3
+charretier	21	6347	6348	PER	du charretier	31714	31727	du charretier	2	154	329	23	0	0	0	889	6348	charretier	nmod	6346	NOUN	NOM	Singular	Male	3
+charretier	21	6349	6349	PER	qui	31728	31731	qui	1	154	329	25	0	0	0	890	6349	qui	nsubj	6351	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	6354	6354	PER	il	31748	31750	il	1	154	329	30	0	0	0	891	6354	il	nsubj	6356	PRON	PRON	Singular	Male	3
+Bouvard	2	6371	6371	PER	Bouvard	31822	31829	bouvard	1	155	330	0	0	0	0	892	6371	bouvard	nsubj	6374	PROPN	PROP	Singular	Male	3
+Paris	15	6375	6375	GPE	Paris	31845	31850	paris	1	155	330	4	0	0	0	893	6375	paris	obj	6374	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1333	335	6377	6378	TIME	le surlendemain	31855	31870	le surlendemain	2	155	330	6	0	0	0	894	6378	surlendemain	obl:mod	6374	NOUN	NOM	Not_Assigned	Not_Assigned	3
+barberou	6	6386	6386	PER	Barberou	31904	31912	barberou	1	155	330	15	0	0	0	895	6386	barberou	obl:mod	6381	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	6388	6388	PER	Il	31914	31916	il	1	155	331	0	0	0	0	896	6388	il	nsubj	6389	PRON	PRON	Singular	Male	3
+T1334	345	6391	6394	FAC	la cour des Messageries	31929	31952	la cour des messageries	4	155	331	3	0	0	0	897	6392	cour	obl:arg	6389	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1335	344	6404	6407	FAC	la cathédrale de Rouen	31999	32021	la cathédrale de rouen	4	155	331	16	0	1	1	898	6405	cathédrale	obl:arg	6402	NOUN	PROP	Not_Assigned	Not_Assigned	3
+T1336	343	6407	6407	GPE	Rouen	32016	32021	rouen	1	155	331	19	1	0	0	899	6407	rouen	nmod	6405	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	6409	6409	PER	il	32024	32026	il	1	155	331	21	0	0	0	900	6409	il	nsubj	6412	PRON	PRON	Singular	Male	3
+T1337	342	6414	6414	VEH	diligence	32045	32054	diligence	1	155	331	26	0	0	0	901	6414	diligence	obl:arg	6412	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1338	341	6416	6417	TIME	Le soir	32057	32064	le soir	2	156	332	0	0	0	0	902	6417	soir	obl:mod	6425	NOUN	NOM	Not_Assigned	Not_Assigned	3
+caen	19	6423	6423	GPE	Caen	32089	32093	caen	1	156	332	7	0	0	0	903	6423	caen	nmod	6421	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	6432	6432	PER	il	32135	32137	il	1	156	332	16	0	0	0	904	6432	il	nsubj	6433	PRON	PRON	Singular	Male	3
+T1339	340	6434	6437	FAC	au théâtre des Arts	32143	32162	au théâtre des arts	4	156	332	18	0	0	0	905	6435	théâtre	obl:arg	6433	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	6440	6440	PER	il	32167	32169	il	1	156	332	24	0	0	0	906	6440	il	nsubj	6441	PRON	PRON	Singular	Male	3
+T1340	339	6443	6444	PER	ses voisins	32181	32192	ses voisins	2	156	332	27	0	1	1	907	6444	voisins	obl:arg	6441	NOUN	NOM	Plural	Ambiguous	3
+Bouvard	2	6443	6443	PER	ses	32181	32184	ses	1	156	332	27	1	0	0	908	6443	ses	det	6444	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	6448	6448	PER	il	32204	32206	il	1	156	332	32	0	0	0	909	6448	il	nsubj:pass	6450	PRON	PRON	Singular	Male	3
+T1341	338	6457	6460	LOC	un domaine aux alentours	32258	32282	un domaine aux alentours	4	156	332	41	0	0	0	910	6458	domaine	nmod	6455	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	6463	6463	PER	il	32290	32292	il	1	156	333	1	0	0	0	911	6463	il	nsubj	6464	PRON	PRON	Singular	Male	3
+T1342	337	6465	6466	TIME	le vendredi	32302	32313	le vendredi	2	156	333	3	0	0	0	912	6466	vendredi	obl:mod	6464	NOUN	NOM	Not_Assigned	Not_Assigned	3
+caen	19	6468	6468	GPE	Caen	32316	32320	caen	1	156	333	6	0	0	0	913	6468	caen	obl:arg	6464	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Bouvard	2	6470	6470	PER	ses	32322	32325	ses	1	156	333	8	0	0	0	914	6470	ses	det	6471	DET	PRON	Singular	Ambiguous	3
+caen	19	6473	6473	GPE	y	32336	32337	y	1	156	333	11	0	0	0	915	6473	y	iobj	6474	PRON	PRON	Not_Assigned	Not_Assigned	3
+Bouvard	2	6477	6477	PER	Il	32351	32353	il	1	156	334	0	0	0	0	916	6477	il	nsubj	6479	PRON	PRON	Singular	Male	3
+T1343	336	6480	6481	TIME	le dimanche	32364	32375	le dimanche	2	156	334	3	0	0	0	917	6481	dimanche	obl:mod	6479	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1344	346	6486	6487	VEH	une charrette	32395	32408	une charrette	2	156	334	9	0	0	0	918	6487	charrette	obl:arg	6484	NOUN	NOM	Not_Assigned	Not_Assigned	3
+fermier	5	6491	6492	PER	le fermier	32424	32434	le fermier	2	156	334	14	0	0	0	919	6492	fermier	obj	6490	NOUN	NOM	Singular	Male	3
+Bouvard	2	6494	6494	PER	il	32438	32440	il	1	156	334	17	0	0	0	920	6494	il	nsubj	6496	PRON	PRON	Singular	Male	3
+falaise	38	6502	6502	GPE	Falaise	32477	32484	falaise	1	157	335	1	0	0	0	921	6502	falaise	obl:mod	6512	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1364	334	6504	6509	TIME	le neuvième jour de son voyage	32486	32516	le neuvième jour de son voyage	6	157	335	3	0	1	1	922	6506	jour	obl:mod	6512	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6508	6508	PER	son	32506	32509	son	1	157	335	7	1	0	0	923	6508	son	det	6509	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6511	6511	PER	Pécuchet	32518	32526	pécuchet	1	157	335	10	0	0	0	924	6511	pécuchet	nsubj	6512	PROPN	PROP	Singular	Not_Assigned	3
+T16	23	6522	6523	LOC	du soleil	32574	32583	du soleil	2	157	335	21	0	0	0	925	6523	soleil	nmod	6521	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M42	98	6524	6524	PER	on	32584	32586	on	1	157	335	23	0	0	0	926	6524	on	nsubj	6525	PRON	PRON	Ambiguous	Ambiguous	3
+T1365	333	6531	6531	GPE	Bretteville	32611	32622	bretteville	1	157	336	3	0	0	0	927	6531	bretteville	dep	6528	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1366	332	6535	6536	FAC	la grand'route	32637	32651	la grand'route	2	157	336	7	0	0	0	928	6536	grand'route	obj	6534	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6538	6538	PER	il	32653	32655	il	1	157	336	10	0	0	0	929	6538	il	nsubj	6540	PRON	PRON	Singular	Male	3
+T1367	331	6542	6545	FAC	un chemin de traverse	32671	32692	un chemin de traverse	4	157	336	14	0	0	0	930	6543	chemin	obl:arg	6540	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1369	330	6552	6555	FAC	le pignon de Chavignolles	32723	32748	le pignon de chavignolles	4	157	336	24	0	1	1	931	6553	pignon	obj	6548	NOUN	PROP	Not_Assigned	Not_Assigned	3
+chavignolles	17	6555	6555	GPE	Chavignolles	32736	32748	chavignolles	1	157	336	27	1	0	0	932	6555	chavignolles	nmod	6553	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1371	69	6558	6559	FAC	les ornières	32760	32772	les ornières	2	157	337	1	0	0	0	933	6559	ornières	nsubj	6561	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1371	69	6563	6563	FAC	elles	32788	32793	elles	1	157	337	6	0	0	0	934	6563	elles	nsubj	6564	PRON	PRON	Not_Assigned	Not_Assigned	3
+M42	98	6567	6567	PER	ils	32810	32813	ils	1	157	337	10	0	0	0	935	6567	ils	nsubj	6569	PRON	PRON	Plural	Ambiguous	3
+T1372	329	6570	6574	LOC	au milieu des champs labourés	32828	32857	au milieu des champs labourés	5	157	337	13	0	0	0	936	6571	milieu	obl:arg	6569	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1373	328	6576	6577	TIME	La nuit	32859	32866	la nuit	2	157	338	0	0	0	0	937	6577	nuit	nsubj	6578	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6583	6583	PER	Pécuchet	32890	32898	pécuchet	1	157	340	0	0	0	0	938	6583	pécuchet	nsubj	6584	PROPN	PROP	Singular	Not_Assigned	3
+chariot	22	6585	6586	VEH	le chariot	32909	32919	le chariot	2	157	340	2	0	0	0	939	6586	chariot	obj	6584	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6598	6598	PER	lui	32966	32969	lui	1	157	340	15	0	0	0	940	6598	lui	obl:arg	6596	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	6604	6604	PER	il	32993	32995	il	1	157	341	1	0	0	0	941	6604	il	nsubj	6605	PRON	PRON	Singular	Male	3
+T1374	327	6606	6607	FAC	des fermes	33007	33017	des fermes	2	157	341	3	0	0	0	942	6607	fermes	obl:arg	6605	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6613	6613	PER	Il	33041	33043	il	1	157	342	0	0	0	0	943	6613	il	nsubj	6614	PRON	PRON	Singular	Male	3
+Pecuchet	1	6617	6617	PER	ses	33061	33064	ses	1	157	342	4	0	0	0	944	6617	ses	det	6618	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6621	6621	PER	sa	33086	33088	sa	1	157	342	8	0	0	0	945	6621	sa	det	6622	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	6629	6629	PER	Il	33117	33119	il	1	157	344	0	0	0	0	946	6629	il	nsubj	6630	PRON	PRON	Singular	Male	3
+Pecuchet	1	6644	6644	PER	Il	33193	33195	il	1	157	346	0	0	0	0	947	6644	il	nsubj	6645	PRON	PRON	Singular	Male	3
+cabriolet	97	6646	6647	VEH	un cabriolet	33204	33216	un cabriolet	2	157	346	2	0	0	0	948	6647	cabriolet	obj	6645	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6649	6650	PER	s'élança	33218	33226	s' élança	2	157	346	5	0	0	0	949	6650	élança	conj	6645	VERB	NOM	Not_Assigned	Not_Assigned	3
+cabriolet	97	6652	6652	VEH	le	33232	33234	le	1	157	346	8	0	0	0	950	6652	le	obj	6653	PRON	PRON	Not_Assigned	Not_Assigned	3
+Bouvard	2	6655	6655	PER	Bouvard	33246	33253	bouvard	1	157	347	0	0	0	0	951	6655	bouvard	nsubj	6656	PROPN	PROP	Singular	Male	3
+T1378	326	6669	6670	TIME	une heure	33327	33336	une heure	2	158	349	1	0	0	0	952	6670	heure	obl:mod	6673	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	6671	6671	PER	ils	33337	33340	ils	1	158	349	3	0	0	0	953	6671	ils	nsubj	6673	PRON	PRON	Plural	Ambiguous	3
+Faverges_Bou_et_Pec	81	6684	6684	PER	ils	33399	33402	ils	1	158	350	6	0	0	0	954	6684	ils	nsubj	6685	PRON	PRON	Plural	Ambiguous	3
+chavignolles	17	6687	6687	GPE	Chavignolles	33416	33428	chavignolles	1	158	350	9	0	0	0	955	6687	chavignolles	obl:arg	6685	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T1380	93	6701	6702	FAC	la salle	33494	33502	la salle	2	159	351	12	0	0	0	956	6702	salle	obl:mod	6699	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1380	93	6706	6706	FAC	y	33518	33519	y	1	159	352	2	0	0	0	957	6706	y	iobj	6708	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1381	325	6717	6718	FAC	le vestibule	33583	33595	le vestibule	2	159	353	7	0	0	0	958	6718	vestibule	obj	6716	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	6724	6724	PER	Ils	33615	33618	ils	1	159	355	0	0	0	0	959	6724	ils	nsubj	6726	PRON	PRON	Plural	Ambiguous	3
+personnel_de_maison	182	6728	6728	PER	On	33635	33637	on	1	160	356	0	0	0	0	960	6728	on	nsubj	6731	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	6729	6729	PER	leur	33638	33642	leur	1	160	356	1	0	0	0	961	6729	leur	iobj	6731	PRON	PRON	Plural	Ambiguous	3
+cuisiniere	8	6748	6750	PER	La vieille femme	33716	33732	la vieille femme	3	160	357	0	0	0	0	962	6750	femme	nsubj	6755	NOUN	NOM	Singular	Female	3
+cuisiniere	8	6751	6751	PER	qui	33733	33736	qui	1	160	357	3	0	0	0	963	6751	qui	nsubj	6752	PRON	PRON	Ambiguous	Ambiguous	4
+BouvardEtPecuchet	0	6763	6763	PER	leurs	33794	33799	leurs	1	160	357	15	0	0	0	964	6763	leurs	det	6764	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6766	6766	PER	Ils	33807	33810	ils	1	160	358	0	0	0	0	965	6766	ils	nsubj	6767	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6792	6792	PER	les	33912	33915	les	1	160	358	26	0	0	0	966	6792	les	obj	6793	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6806	6806	PER	ils	33986	33989	ils	1	160	360	1	0	0	0	967	6806	ils	nsubj	6807	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6810	6810	PER	eux	34011	34014	eux	1	160	360	5	0	0	0	968	6810	eux	obl:mod	6807	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6827	6827	PER	Leurs	34100	34105	leurs	1	160	361	0	0	0	0	969	6827	leurs	det	6828	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6836	6836	PER	Ils	34148	34151	ils	1	160	362	0	0	0	0	970	6836	ils	nsubj	6837	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6838	6838	PER	leur	34162	34166	leur	1	160	362	2	0	0	0	971	6838	leur	det	6839	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6841	6841	PER	ils	34176	34179	ils	1	160	362	5	0	0	0	972	6841	ils	nsubj	6843	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6848	6848	PER	leur	34211	34215	leur	1	160	362	12	0	0	0	973	6848	leur	det	6849	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6856	6856	PER	ils	34244	34247	ils	1	160	362	20	0	0	0	974	6856	ils	nsubj	6858	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6861	6861	PER	Nous	34267	34271	nous	1	161	363	1	0	0	0	975	6861	nous	nsubj	6863	PRON	PRON	Plural	Ambiguous	1
+BouvardEtPecuchet	0	6870	6870	PER	me	34305	34307	me	1	161	363	10	0	0	0	976	6870	me	iobj	6871	PRON	PRON	Singular	Ambiguous	1
+M5	298	6882	6882	TIME	minuit	34351	34357	minuit	1	162	364	4	0	0	0	977	6882	minuit	advcl	6885	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	6884	6884	PER	Pécuchet	34359	34367	pécuchet	1	162	364	6	0	0	0	978	6884	pécuchet	nsubj	6885	PROPN	PROP	Singular	Not_Assigned	3
+jardin	11	6893	6894	FAC	le jardin	34401	34410	le jardin	2	162	364	15	0	0	0	979	6894	jardin	obl:mod	6889	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	6896	6896	PER	Bouvard	34412	34419	bouvard	1	162	365	0	0	0	0	980	6896	bouvard	nsubj	6900	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	6903	6903	PER	Ils	34439	34442	ils	1	162	366	0	0	0	0	981	6903	ils	nsubj	6904	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6925	6925	PER	Ils	34544	34547	ils	1	162	367	0	0	0	0	982	6925	ils	nsubj	6926	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6947	6947	PER	ils	34648	34651	ils	1	164	370	1	0	0	0	983	6947	ils	nsubj	6948	PRON	PRON	Plural	Ambiguous	3
+Pecuchet	1	6952	6952	PER	Pécuchet	34680	34688	pécuchet	1	164	371	0	0	0	0	984	6952	pécuchet	nsubj	6953	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	6975	6975	PER	leur	34801	34805	leur	1	164	372	16	0	0	0	985	6975	leur	det	6976	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	6984	6984	PER	leurs	34851	34856	leurs	1	164	372	25	0	0	0	986	6984	leurs	det	6985	DET	PRON	Plural	Ambiguous	3
+T1394	147	6995	6996	TIME	La nuit	34913	34920	la nuit	2	164	374	0	0	0	0	987	6996	nuit	nsubj	6999	NOUN	NOM	Not_Assigned	Not_Assigned	3
+deux_chambres	82	7021	7023	FAC	Leurs deux chambres	35041	35060	leurs deux chambres	3	165	376	0	0	1	1	988	7023	chambres	nsubj	7024	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7021	7021	PER	Leurs	35041	35046	leurs	1	165	376	0	1	0	0	989	7021	leurs	det	7023	DET	PRON	Plural	Ambiguous	3
+deux_chambres	82	7026	7026	FAC	elles	35075	35080	elles	1	165	376	5	0	0	0	990	7026	elles	obl:mod	7024	PRON	PRON	Not_Assigned	Not_Assigned	3
+M43	261	7045	7045	PER	on	35169	35171	on	1	165	377	7	0	0	0	991	7045	on	nsubj	7046	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	7054	7054	PER	Ils	35208	35211	ils	1	165	378	0	0	0	0	992	7054	ils	nsubj	7056	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7067	7067	PER	leur	35276	35280	leur	1	166	380	3	0	0	0	993	7067	leur	det	7068	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7070	7070	PER	ils	35286	35289	ils	1	166	380	6	0	0	0	994	7070	ils	nsubj	7071	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	7079	7079	PER	Bouvard	35337	35344	bouvard	1	166	380	15	0	0	0	995	7079	bouvard	obl:mod	7077	PROPN	PROP	Singular	Male	3
+Pecuchet	1	7091	7091	PER	Pécuchet	35387	35395	pécuchet	1	166	380	27	0	0	0	996	7091	pécuchet	ROOT	7091	NOUN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	7110	7112	PER	tous les deux	35471	35484	tous les deux	3	166	380	46	0	0	0	997	7112	deux	nsubj	7113	PRON	PRON	Plural	Ambiguous	3
+T1397	156	7118	7119	LOC	la lune	35513	35520	la lune	2	166	380	54	0	0	0	998	7119	lune	nmod	7116	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1398	128	7130	7131	TIME	le lendemain	35566	35578	le lendemain	2	167	381	3	0	0	0	999	7131	lendemain	nmod	7128	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	7136	7136	PER	Bouvard	35599	35606	bouvard	1	168	382	0	0	0	0	1000	7136	bouvard	nsubj	7137	PROPN	PROP	Singular	Male	3
+Pecuchet	1	7141	7141	PER	Pécuchet	35624	35632	pécuchet	1	168	382	5	0	0	0	1001	7141	pécuchet	nsubj	7142	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	7147	7147	PER	ils	35652	35655	ils	1	168	382	11	0	0	0	1002	7147	ils	nsubj	7148	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7152	7152	PER	leur	35684	35688	leur	1	168	382	16	0	0	0	1003	7152	leur	det	7153	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7156	7156	PER	ils	35705	35708	ils	1	168	383	1	0	0	0	1004	7156	ils	nsubj	7158	PRON	PRON	Plural	Ambiguous	3
+T1399	126	7174	7175	LOC	les champs	35780	35790	les champs	2	169	384	6	0	0	0	1005	7175	champs	obj	7169	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1400	117	7179	7180	FAC	une grange	35801	35811	une grange	2	169	384	11	0	0	0	1006	7180	grange	obl:mod	7169	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1401	118	7183	7187	FAC	le clocher de l'église	35818	35840	le clocher de l' église	5	169	384	15	0	1	1	1007	7184	clocher	obl:mod	7169	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1402	119	7186	7187	FAC	l'église	35832	35840	l' église	2	169	384	18	1	0	0	1008	7187	église	nmod	7184	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1403	120	7197	7199	FAC	Deux allées principales	35880	35903	deux allées principales	3	170	385	0	0	0	0	1009	7198	allées	nsubj	7205	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jardin	11	7206	7207	FAC	le jardin	35934	35943	le jardin	2	170	385	9	0	0	0	1010	7207	jardin	obj	7205	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M44	292	7217	7220	FAC	les plates-bandes	35997	36014	les plates - bandes	4	170	386	5	0	0	0	1011	7218	plates	obl:arg	7215	NOUN	NOM	Not_Assigned	Not_Assigned	3
+campagne	14	7267	7268	LOC	la campagne	36230	36241	la campagne	2	170	387	29	0	0	0	1012	7268	campagne	obl:arg	7265	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1405	121	7277	7278	FAC	un verger	36269	36278	un verger	2	170	388	7	0	0	0	1013	7278	verger	obj	7272	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1406	122	7284	7285	LOC	un bosquet	36300	36310	un bosquet	2	170	388	14	0	0	0	1014	7285	bosquet	appos	7282	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chemin	86	7291	7293	FAC	un petit chemin	36338	36353	un petit chemin	3	170	388	21	0	0	0	1015	7293	chemin	obl:mod	7272	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7295	7295	PER	Ils	36356	36359	ils	1	171	389	0	0	0	0	1016	7295	ils	ROOT	7295	PRON	PRON	Plural	Ambiguous	3
+docteur	37	7301	7311	PER	un homme à chevelure grisonnante et vêtu d'un paletot noir	36394	36452	un homme à chevelure grisonnante et vêtu d' un paletot noir	11	171	389	6	0	0	0	1017	7310	paletot	obl:arg	7307	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chemin	86	7313	7314	FAC	le sentier	36460	36470	le sentier	2	171	389	18	0	0	0	1018	7314	sentier	obj	7312	NOUN	NOM	Not_Assigned	Not_Assigned	3
+docteur	37	7319	7319	PER	sa	36488	36490	sa	1	171	389	24	0	0	0	1019	7319	sa	det	7320	DET	PRON	Singular	Ambiguous	3
+cuisiniere	8	7328	7330	PER	La vieille servante	36534	36553	la vieille servante	3	171	390	0	0	0	0	1020	7330	servante	nsubj	7332	NOUN	NOM	Singular	Female	3
+BouvardEtPecuchet	0	7331	7331	PER	leur	36554	36558	leur	1	171	390	3	0	0	0	1021	7331	leur	iobj	7332	PRON	PRON	Plural	Ambiguous	3
+docteur	37	7336	7337	PER	M. Vaucorbeil	36578	36591	m. vaucorbeil	2	171	390	8	0	0	0	1022	7336	m.	ccomp	7332	NOUN	PROP	Singular	Male	3
+M1	179	7346	7348	PER	Les autres notables	36635	36654	les autres notables	3	172	391	0	0	0	0	1023	7348	notables	nsubj	7352	NOUN	NOM	Plural	Not_Assigned	3
+M_de_faverges	4	7351	7354	PER	le comte de Faverges	36665	36685	le comte de faverges	4	172	391	5	0	0	0	1024	7352	comte	ROOT	7352	NOUN	PROP	Singular	Male	3
+M_de_faverges	4	7360	7360	PER	dont	36708	36712	dont	1	172	391	14	0	0	0	1025	7360	dont	dep	7362	PRON	PRON	Ambiguous	Ambiguous	4
+maire	52	7366	7367	PER	le maire	36739	36747	le maire	2	172	391	20	0	0	0	1026	7367	maire	ROOT	7367	NOUN	NOM	Singular	Male	3
+maire	52	7369	7370	PER	M. Foureau	36749	36759	m. foureau	2	172	391	23	0	0	0	1027	7369	m.	appos	7367	NOUN	PROP	Singular	Male	3
+maire	52	7372	7372	PER	qui	36761	36764	qui	1	172	391	26	0	0	0	1028	7372	qui	nsubj	7373	PRON	PRON	Ambiguous	Ambiguous	4
+T1446	123	7385	7386	PER	M. Marescot	36818	36829	m. marescot	2	172	391	39	0	0	0	1029	7385	m.	ROOT	7385	NOUN	PROP	Singular	Male	3
+T1447	124	7390	7392	PER	l'abbé Jeufroy	36843	36857	l' abbé jeufroy	3	172	391	44	0	0	0	1030	7391	abbé	ROOT	7391	NOUN	PROP	Singular	Male	3
+mme_bordin	10	7395	7397	PER	Mme veuve Bordin	36862	36878	mme veuve bordin	3	172	391	49	0	0	0	1031	7395	mme	conj	7391	NOUN	PROP	Singular	Female	3
+mme_bordin	10	7401	7401	PER	son	36890	36893	son	1	172	391	55	0	0	0	1032	7401	son	det	7402	DET	PRON	Singular	Ambiguous	3
+cuisiniere	8	7406	7406	PER	elle	36910	36914	elle	1	172	392	2	0	0	0	1033	7406	elle	obl:mod	7411	PRON	PRON	Singular	Female	3
+cuisiniere	8	7409	7410	PER	l'	36919	36921	l '	2	172	392	5	0	0	0	1034	7409	l	obj	7411	PRON	PRON	Singular	Ambiguous	3
+T1458	125	7417	7420	PER	feu Germain son mari	36952	36972	feu germain son mari	4	172	392	13	0	1	1	1035	7417	feu	nmod	7415	NOUN	PROP	Singular	Male	3
+cuisiniere	8	7419	7419	PER	son	36964	36967	son	1	172	392	15	1	0	0	1036	7419	son	det	7420	DET	PRON	Singular	Ambiguous	3
+cuisiniere	8	7422	7422	PER	Elle	36974	36978	elle	1	172	393	0	0	0	0	1037	7422	elle	nsubj	7423	PRON	PRON	Singular	Female	3
+BouvardEtPecuchet	0	7434	7435	PER	ces messieurs	37041	37054	ces messieurs	2	172	393	12	0	0	0	1038	7435	messieurs	nmod	7432	NOUN	NOM	Plural	Male	3
+BouvardEtPecuchet	0	7437	7437	PER	Ils	37056	37059	ils	1	172	394	0	0	0	0	1039	7437	ils	nsubj	7440	PRON	PRON	Plural	Ambiguous	3
+cuisiniere	8	7438	7439	PER	l'	37060	37062	l '	2	172	394	1	0	0	0	1040	7438	l	obj	7440	PRON	PRON	Singular	Ambiguous	3
+ferme	13	7445	7446	FAC	leur ferme	37094	37104	leur ferme	2	172	394	8	0	1	1	1041	7446	ferme	obl:arg	7443	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7445	7445	PER	leur	37094	37098	leur	1	172	394	8	1	0	0	1042	7445	leur	det	7446	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7456	7456	PER	ils	37148	37151	ils	1	173	395	1	0	0	0	1043	7456	ils	nsubj	7457	PRON	PRON	Plural	Ambiguous	3
+cour	29	7459	7460	FAC	la cour	37167	37174	la cour	2	173	395	4	0	0	0	1044	7460	cour	obl:arg	7457	NOUN	NOM	Not_Assigned	Not_Assigned	3
+fermier	5	7462	7463	PER	le fermier	37176	37186	le fermier	2	173	395	7	0	0	0	1045	7463	fermier	nsubj	7468	NOUN	NOM	Singular	Male	3
+fermier	5	7465	7466	PER	maître Gouy	37188	37199	maître gouy	2	173	395	10	0	0	0	1046	7465	maître	appos	7463	NOUN	PROP	Singular	Male	3
+fermiere	18	7470	7471	PER	un garçon	37219	37228	un garçon	2	173	395	15	0	0	0	1047	7471	garçon	obl:arg	7468	NOUN	NOM	Singular	Male	3
+fermiere	18	7473	7474	PER	la fermière	37232	37243	la fermière	2	173	395	18	0	0	0	1048	7474	fermière	nsubj	7480	NOUN	NOM	Singular	Female	3
+fermiere	18	7482	7482	PER	ses	37276	37279	ses	1	173	395	27	0	0	0	1049	7482	ses	det	7483	DET	PRON	Singular	Ambiguous	3
+fermiere	18	7487	7487	PER	elle	37300	37304	elle	1	173	395	32	0	0	0	1050	7487	elle	nsubj	7488	PRON	PRON	Singular	Female	3
+fermier	5	7495	7496	PER	L'homme	37340	37347	l' homme	2	173	396	0	0	0	0	1051	7496	homme	nsubj	7497	NOUN	NOM	Singular	Male	3
+fermiere	18	7516	7517	PER	La femme	37427	37435	la femme	2	173	397	0	0	0	0	1052	7517	femme	nsubj	7520	NOUN	NOM	Singular	Female	3
+T1470	127	7547	7548	FAC	la cuisine	37577	37587	la cuisine	2	174	398	1	0	0	0	1053	7548	cuisine	obl:mod	7555	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7607	7609	PER	Les deux Parisiens	37897	37915	les deux parisiens	3	175	401	0	0	0	0	1054	7609	parisiens	nsubj	7610	NOUN	NOM	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7612	7612	PER	leur	37933	37937	leur	1	175	401	5	0	0	0	1055	7612	leur	det	7613	DET	PRON	Plural	Ambiguous	3
+domaine	95	7618	7619	LOC	la propriété	37961	37973	la propriété	2	175	401	11	0	0	0	1056	7619	propriété	obj	7617	NOUN	NOM	Not_Assigned	Not_Assigned	3
+fermier	5	7626	7627	PER	Maître Gouy	38001	38012	maître gouy	2	175	402	0	0	0	0	1057	7626	maître	nsubj	7632	NOUN	PROP	Singular	Male	3
+M65	270	7629	7630	PER	son épouse	38016	38026	son épouse	2	175	402	3	0	1	1	1058	7630	épouse	conj	7626	NOUN	NOM	Singular	Female	3
+fermier	5	7629	7629	PER	son	38016	38019	son	1	175	402	3	1	0	0	1059	7629	son	det	7630	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	7631	7631	PER	les	38027	38030	les	1	175	402	5	0	0	0	1060	7631	les	obj	7632	PRON	PRON	Plural	Ambiguous	3
+T1472	129	7640	7642	FAC	Tous les bâtiments	38082	38100	tous les bâtiments	3	176	403	0	0	0	0	1061	7642	bâtiments	nsubj	7652	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1473	130	7645	7646	FAC	la charretterie	38109	38124	la charretterie	2	176	403	5	0	0	0	1062	7646	charretterie	obl:mod	7652	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1474	139	7649	7650	FAC	la bouillerie	38133	38146	la bouillerie	2	176	403	9	0	0	0	1063	7650	bouillerie	nmod	7646	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1475	131	7661	7662	FAC	une succursale	38206	38220	une succursale	2	176	404	4	0	0	0	1064	7662	succursale	obj	7660	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1476	146	7679	7680	LOC	la mare	38316	38323	la mare	2	176	404	22	0	0	0	1065	7680	mare	obj	7678	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1477	145	7687	7689	FAC	les trois cours	38371	38386	les trois cours	3	176	404	30	0	0	0	1066	7689	cours	obl:mod	7682	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1478	66	7692	7692	PER	on	38397	38399	on	1	177	405	1	0	0	0	1067	7692	on	nsubj	7693	PRON	PRON	Ambiguous	Ambiguous	3
+T1480	47	7694	7695	FAC	les cultures	38407	38419	les cultures	2	177	405	3	0	0	0	1068	7695	cultures	obj	7693	NOUN	NOM	Not_Assigned	Not_Assigned	3
+fermier	5	7697	7698	PER	maître Gouy	38422	38433	maître gouy	2	177	405	6	0	0	0	1069	7697	maître	nsubj	7700	NOUN	PROP	Singular	Male	3
+T1480	47	7699	7699	FAC	les	38434	38437	les	1	177	405	8	0	0	0	1070	7699	les	obj	7700	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1480	47	7702	7702	FAC	Elles	38448	38453	elles	1	177	406	0	0	0	0	1071	7702	elles	nsubj	7703	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1483	144	7708	7709	VEH	les charrois	38481	38493	les charrois	2	177	406	6	0	0	0	1072	7709	charrois	nsubj	7711	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1484	143	7723	7724	LOC	les prairies	38583	38595	les prairies	2	177	406	21	0	0	0	1073	7724	prairies	obj	7722	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	7730	7730	PER	sa	38619	38621	sa	1	177	406	28	0	0	0	1074	7730	sa	det	7731	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	7736	7736	PER	Bouvard	38651	38658	bouvard	1	177	406	34	0	0	0	1075	7736	bouvard	nsubj	7737	PROPN	PROP	Singular	Male	3
+T1478	66	7742	7742	PER	Ils	38686	38689	ils	1	178	407	0	0	0	0	1076	7742	ils	nsubj	7745	PRON	PRON	Plural	Ambiguous	3
+T1485	142	7747	7748	FAC	la cavée	38709	38717	la cavée	2	178	407	5	0	0	0	1077	7748	cavée	obl:mod	7745	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1486	141	7751	7754	FAC	une avenue de hêtres	38724	38744	une avenue de hêtres	4	178	407	9	0	0	0	1078	7752	avenue	obl:mod	7745	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison	25	7756	7757	FAC	La maison	38746	38755	la maison	2	178	408	0	0	0	0	1079	7757	maison	nsubj	7758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cour	29	7765	7768	FAC	sa cour d'honneur	38781	38798	sa cour d' honneur	4	178	408	9	0	1	1	1080	7766	cour	obj	7758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison	25	7765	7765	FAC	sa	38781	38783	sa	1	178	408	9	1	0	0	1081	7765	sa	det	7766	DET	PRON	Not_Assigned	Not_Assigned	3
+maison	25	7770	7770	FAC	sa	38802	38804	sa	1	178	408	14	0	0	0	1082	7770	sa	det	7771	DET	PRON	Not_Assigned	Not_Assigned	3
+maison	25	7773	7773	FAC	Elle	38814	38818	elle	1	179	409	0	0	0	0	1083	7773	elle	nsubj:pass	7775	PRON	PRON	Not_Assigned	Not_Assigned	3
+M46	302	7786	7787	FAC	Le hangar	38879	38888	le hangar	2	179	410	0	0	0	0	1084	7787	hangar	nsubj	7797	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1492	140	7789	7790	FAC	le cellier	38892	38902	le cellier	2	179	410	3	0	0	0	1085	7790	cellier	conj	7787	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M47	301	7792	7793	FAC	le fournil	38904	38914	le fournil	2	179	410	6	0	0	0	1086	7793	fournil	conj	7787	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M48	300	7795	7796	FAC	le bûcher	38918	38927	le bûcher	2	179	410	9	0	0	0	1087	7796	bûcher	conj	7787	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cuisine	28	7805	7806	FAC	La cuisine	38972	38982	la cuisine	2	179	411	0	0	0	0	1088	7806	cuisine	nsubj	7807	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1499	148	7809	7811	FAC	une petite salle	39001	39017	une petite salle	3	179	411	4	0	0	0	1089	7811	salle	obl:arg	7807	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1500	138	7816	7817	FAC	le vestibule	39042	39054	le vestibule	2	179	412	3	0	0	0	1090	7817	vestibule	obj	7814	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1501	137	7819	7823	FAC	une deuxième salle plus grande	39056	39086	une deuxième salle plus grande	5	179	412	6	0	0	0	1091	7821	salle	appos	7817	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1502	136	7825	7826	FAC	le salon	39088	39096	le salon	2	179	412	12	0	0	0	1092	7826	salon	appos	7821	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chambres	42	7828	7830	FAC	Les quatre chambres	39098	39117	les quatre chambres	3	179	413	0	0	0	0	1093	7830	chambres	nsubj	7834	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1507	74	7836	7837	FAC	le corridor	39145	39156	le corridor	2	179	413	8	0	0	0	1094	7837	corridor	obl:arg	7834	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1507	74	7838	7838	FAC	qui	39157	39160	qui	1	179	413	10	0	0	0	1095	7838	qui	nsubj	7839	PRON	PRON	Not_Assigned	Not_Assigned	4
+cour	29	7840	7841	FAC	la cour	39171	39178	la cour	2	179	413	12	0	0	0	1096	7841	cour	obj	7839	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	7843	7843	PER	Pécuchet	39180	39188	pécuchet	1	179	414	0	0	0	0	1097	7843	pécuchet	nsubj	7845	PROPN	PROP	Singular	Not_Assigned	3
+chambres	42	7844	7844	FAC	en	39189	39191	en	1	179	414	1	0	0	0	1098	7844	en	iobj	7845	PRON	PRON	Not_Assigned	Not_Assigned	3
+Pecuchet	1	7848	7848	PER	ses	39206	39209	ses	1	179	414	5	0	0	0	1099	7848	ses	det	7849	DET	PRON	Singular	Ambiguous	3
+T1508	135	7856	7857	FAC	la bibliothèque	39251	39266	la bibliothèque	2	179	414	13	0	0	0	1100	7857	bibliothèque	obl:arg	7854	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7861	7861	PER	ils	39278	39281	ils	1	179	414	18	0	0	0	1101	7861	ils	nsubj	7862	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7866	7866	PER	ils	39306	39309	ils	1	179	414	23	0	0	0	1102	7866	ils	nsubj	7867	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7874	7874	PER	eurent	39347	39353	eurent	1	179	414	31	0	0	0	1103	7874	eurent	conj	7867	VERB	NOM	Not_Assigned	Not_Assigned	3
+jardin	11	7890	7891	FAC	le jardin	39417	39426	le jardin	2	179	415	6	0	0	0	1104	7891	jardin	ROOT	7891	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	7893	7893	PER	Bouvard	39429	39436	bouvard	1	180	416	0	0	0	0	1105	7893	bouvard	nsubj	7902	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	7949	7949	PER	les	39693	39696	les	1	182	419	3	0	0	0	1106	7949	les	obj	7950	PRON	PRON	Plural	Ambiguous	3
+T1509	134	7961	7964	TIME	plus de trois semaines	39748	39770	plus de trois semaines	4	182	419	15	0	0	0	1107	7963	trois	nummod	7964	NUM	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7965	7965	PER	ils	39771	39774	ils	1	182	419	19	0	0	0	1108	7965	ils	nsubj	7967	PRON	PRON	Plural	Ambiguous	3
+T1510	133	7970	7973	PER	les bourgeois de Chavignolles	39801	39830	les bourgeois de chavignolles	4	183	420	1	0	1	1	1109	7971	bourgeois	nsubj	7974	NOUN	PROP	Plural	Ambiguous	3
+chavignolles	17	7973	7973	GPE	Chavignolles	39818	39830	chavignolles	1	183	420	4	1	0	0	1110	7973	chavignolles	nmod	7971	PROPN	PROP	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	7975	7975	PER	les	39842	39845	les	1	183	420	6	0	0	0	1111	7975	les	obj	7976	PRON	PRON	Plural	Ambiguous	3
+M45	90	7978	7978	PER	on	39858	39860	on	1	183	420	9	0	0	0	1112	7978	on	nsubj	7979	PRON	PRON	Ambiguous	Ambiguous	3
+BouvardEtPecuchet	0	7980	7980	PER	les	39868	39871	les	1	183	420	11	0	0	0	1113	7980	les	obj	7981	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	7986	7986	PER	Ils	39901	39904	ils	1	183	421	0	0	0	0	1114	7986	ils	nsubj	7988	PRON	PRON	Plural	Ambiguous	3
+M45	90	7995	7996	PER	La population	39953	39966	la population	2	183	422	0	0	0	0	1115	7996	population	nsubj:pass	7998	NOUN	NOM	Plural	Ambiguous	3
+T16	23	8003	8004	LOC	du soleil	40001	40010	du soleil	2	184	423	3	0	0	0	1116	8004	soleil	obl:arg	8002	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	8006	8006	PER	Bouvard	40012	40019	bouvard	1	184	423	6	0	0	0	1117	8006	bouvard	nsubj	8007	PROPN	PROP	Singular	Male	3
+Pecuchet	1	8017	8017	PER	Pécuchet	40068	40076	pécuchet	1	184	423	17	0	0	0	1118	8017	pécuchet	dep	8012	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	8018	8018	PER	sa	40077	40079	sa	1	184	423	18	0	0	0	1119	8018	sa	det	8019	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	8022	8022	PER	il	40095	40097	il	1	184	423	22	0	0	0	1120	8022	il	nsubj	8023	PRON	PRON	Singular	Male	3
+Pecuchet	1	8039	8039	PER	son	40187	40190	son	1	184	423	39	0	0	0	1121	8039	son	det	8040	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	8042	8042	PER	sa	40202	40204	sa	1	184	423	42	0	0	0	1122	8042	sa	det	8043	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	8054	8054	PER	ils	40246	40249	ils	1	184	424	9	0	0	0	1123	8054	ils	nsubj	8055	PRON	PRON	Plural	Ambiguous	3
+T1215	58	8083	8086	GPE	du point de vue	40404	40419	du point de vue	4	184	424	38	0	0	0	1124	8084	point	obl:arg	8082	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8089	8089	PER	ils	40424	40427	ils	1	185	425	1	0	0	0	1125	8089	ils	nsubj	8090	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8094	8094	PER	ils	40454	40457	ils	1	185	425	6	0	0	0	1126	8094	ils	nsubj	8096	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8119	8119	PER	Ils	40570	40573	ils	1	185	426	0	0	0	0	1127	8119	ils	nsubj	8121	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8124	8124	PER	leur	40596	40600	leur	1	185	426	5	0	0	0	1128	8124	leur	det	8125	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8158	8158	PER	ils	40753	40756	ils	1	186	427	6	0	0	0	1129	8158	ils	nsubj	8159	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	8171	8171	PER	Bouvard	40819	40826	bouvard	1	187	428	0	0	0	0	1130	8171	bouvard	nsubj	8172	PROPN	PROP	Singular	Male	3
+Pecuchet	1	8198	8198	PER	Pécuchet	40959	40967	pécuchet	1	188	429	0	0	0	0	1131	8198	pécuchet	mark	8200	PROPN	PROP	Singular	Not_Assigned	3
+cuisine	28	8202	8203	FAC	la cuisine	40987	40997	la cuisine	2	188	429	4	0	0	0	1132	8203	cuisine	obl:mod	8200	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1512	50	8204	8206	FAC	un large trou	40998	41011	un large trou	3	188	429	6	0	0	0	1133	8206	trou	obj	8200	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1512	50	8209	8209	FAC	le	41016	41018	le	1	188	429	11	0	0	0	1134	8209	le	obj	8210	PRON	PRON	Not_Assigned	Not_Assigned	3
+Pecuchet	1	8216	8216	PER	il	41054	41056	il	1	188	429	18	0	0	0	1135	8216	il	nsubj	8217	PRON	PRON	Singular	Male	3
+Pecuchet	1	8244	8244	PER	il	41224	41226	il	1	188	429	46	0	0	0	1136	8244	il	nsubj	8245	PRON	PRON	Singular	Male	3
+T1512	50	8249	8250	FAC	la fosse	41245	41253	la fosse	2	188	429	51	0	0	0	1137	8250	fosse	nmod	8247	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	8281	8281	PER	lui	41411	41414	lui	1	188	430	10	0	0	0	1138	8281	lui	iobj	8282	PRON	PRON	Singular	Ambiguous	3
+T1515	132	8284	8285	PER	Les cultivateurs	41425	41441	les cultivateurs	2	188	431	0	0	0	0	1139	8285	cultivateurs	nsubj	8288	NOUN	NOM	Plural	Not_Assigned	3
+T1516	101	8291	8292	PER	les aubergistes	41463	41478	les aubergistes	2	188	431	7	0	0	0	1140	8292	aubergistes	nsubj	8294	NOUN	NOM	Plural	Not_Assigned	3
+Bouvard	2	8307	8307	PER	Bouvard	41555	41562	bouvard	1	188	432	11	0	0	0	1141	8307	bouvard	nmod	8305	PROPN	PROP	Singular	Male	3
+Pecuchet	1	8314	8314	PER	il	41590	41592	il	1	188	432	18	0	0	0	1142	8314	il	nsubj	8315	PRON	PRON	Singular	Male	3
+Pecuchet	1	8321	8321	PER	lui-même	41617	41625	lui-même	1	188	432	25	0	0	0	1143	8321	lui-même	dep	8320	PRON	PRON	Singular	Male	3
+mme_bordin	10	8335	8336	PER	Mme Bordin	41683	41693	mme bordin	2	189	433	8	0	0	0	1144	8335	mme	nsubj	8343	NOUN	PROP	Singular	Female	3
+Pecuchet	1	8341	8342	PER	l'	41704	41706	l '	2	189	433	14	0	0	0	1145	8341	l	obj	8343	PRON	PRON	Singular	Ambiguous	3
+mme_bordin	10	8350	8350	PER	elle	41742	41746	elle	1	189	434	1	0	0	0	1146	8350	elle	nsubj	8354	PRON	PRON	Singular	Female	3
+Pecuchet	1	8351	8352	PER	l'	41747	41749	l '	2	189	434	2	0	0	0	1147	8351	l	obj	8354	PRON	PRON	Singular	Ambiguous	3
+mme_bordin	10	8356	8356	PER	elle	41767	41771	elle	1	189	434	7	0	0	0	1148	8356	elle	nsubj	8358	PRON	PRON	Singular	Female	3
+Bouvard	2	8360	8361	PER	son ami	41785	41792	son ami	2	189	434	11	0	1	1	1149	8361	ami	obl:arg	8358	NOUN	NOM	Singular	Male	3
+Pecuchet	1	8360	8360	PER	son	41785	41788	son	1	189	434	11	1	0	0	1150	8360	son	det	8361	DET	PRON	Singular	Ambiguous	3
+mme_bordin	10	8367	8368	PER	cette personne	41812	41826	cette personne	2	189	435	4	0	0	0	1151	8368	personne	nmod	8364	NOUN	NOM	Singular	Ambiguous	3
+mme_bordin	10	8376	8376	PER	ses	41860	41863	ses	1	189	435	13	0	0	0	1152	8376	ses	det	8378	DET	PRON	Singular	Ambiguous	3
+mme_bordin	10	8380	8380	PER	son	41881	41884	son	1	189	435	17	0	0	0	1153	8380	son	det	8381	DET	PRON	Singular	Ambiguous	3
+mme_bordin	10	8383	8383	PER	elle	41893	41897	elle	1	189	435	20	0	0	0	1154	8383	elle	nsubj	8384	PRON	PRON	Singular	Female	3
+Pecuchet	1	8393	8393	PER	Pécuchet	41944	41952	pécuchet	1	189	435	30	0	0	0	1155	8393	pécuchet	obj	8392	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	8395	8395	PER	Il	41954	41956	il	1	189	436	0	0	0	0	1156	8395	il	nsubj	8396	PRON	PRON	Singular	Male	3
+Bouvard	2	8406	8406	PER	Bouvard	42017	42024	bouvard	1	189	437	3	0	0	0	1157	8406	bouvard	nsubj	8405	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	8421	8421	PER	Ils	42091	42094	ils	1	190	439	0	0	0	0	1158	8421	ils	nsubj	8423	PRON	PRON	Plural	Ambiguous	3
+cuisine	28	8425	8426	FAC	la cuisine	42115	42125	la cuisine	2	190	439	4	0	0	0	1159	8426	cuisine	obl:arg	8423	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chambres	42	8436	8437	FAC	les chambres	42176	42188	les chambres	2	190	439	15	0	0	0	1160	8437	chambres	obj	8435	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M49	299	8450	8452	TIME	Dès la mi-carême	42246	42262	dès la mi-carême	3	191	440	0	0	0	0	1161	8452	mi-carême	obl:mod	8455	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8454	8454	PER	ils	42264	42267	ils	1	191	440	4	0	0	0	1162	8454	ils	nsubj	8455	PRON	PRON	Plural	Ambiguous	3
+T1518	102	8456	8457	TIME	le printemps	42279	42291	le printemps	2	191	440	6	0	0	0	1163	8457	printemps	obj	8455	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1519	103	8461	8462	TIME	chaque matin	42307	42319	chaque matin	2	191	440	11	0	0	0	1164	8462	matin	obj	8460	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8476	8476	PER	ils	42369	42372	ils	1	191	440	26	0	0	0	1165	8476	ils	nsubj	8477	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8478	8478	PER	leur	42385	42389	leur	1	191	440	28	0	0	0	1166	8478	leur	det	8479	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8490	8490	PER	Ils	42435	42438	ils	1	192	441	0	0	0	0	1167	8490	ils	nsubj	8491	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8508	8508	PER	ils	42537	42540	ils	1	193	444	1	0	0	0	1168	8508	ils	nsubj	8510	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8514	8514	PER	ils	42569	42572	ils	1	193	444	7	0	0	0	1169	8514	ils	nsubj	8515	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8524	8524	PER	les	42625	42628	les	1	193	444	17	0	0	0	1170	8524	les	obj	8525	PRON	PRON	Plural	Ambiguous	3
+ferme	13	8528	8529	FAC	leur ferme	42646	42656	leur ferme	2	193	444	21	0	1	1	1171	8529	ferme	obj	8527	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8528	8528	PER	leur	42646	42650	leur	1	193	444	21	1	0	0	1172	8528	leur	det	8529	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8539	8539	PER	ils	42689	42692	ils	1	193	445	8	0	0	0	1173	8539	ils	nsubj	8542	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8562	8562	PER	ils	42794	42797	ils	1	194	446	14	0	0	0	1174	8562	ils	nsubj	8563	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	8568	8568	PER	ils	42824	42827	ils	1	194	446	20	0	0	0	1175	8568	ils	nsubj	8569	PRON	PRON	Plural	Ambiguous	3
+M_de_faverges	4	8571	8573	PER	M. de Faverges	42842	42856	m. de faverges	3	194	446	23	0	0	0	1176	8573	faverges	nmod	8571	PROPN	PROP	Singular	Male	3
+domaine_faverges	94	8578	8579	FAC	son exploitation	42878	42894	son exploitation	2	194	446	30	0	1	1	1177	8579	exploitation	obj	8577	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M_de_faverges	4	8578	8578	PER	son	42878	42881	son	1	194	446	30	1	0	0	1178	8578	son	det	8579	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	8581	8582	PER	Le comte	42896	42904	le comte	2	194	447	0	0	0	0	1179	8582	comte	nsubj	8584	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	8583	8583	PER	leur	42905	42909	leur	1	194	447	2	0	0	0	1180	8583	leur	iobj	8584	PRON	PRON	Plural	Ambiguous	3
+M50	297	8591	8595	TIME	Après une heure de marche	42947	42972	après une heure de marche	5	195	448	0	0	0	0	1181	8593	heure	obl:mod	8598	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8597	8597	PER	ils	42974	42977	ils	1	195	448	6	0	0	0	1182	8597	ils	nsubj	8598	PRON	PRON	Plural	Ambiguous	3
+T1524	78	8603	8604	LOC	un coteau	43006	43015	un coteau	2	195	448	12	0	0	0	1183	8604	coteau	nmod	8601	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1524	78	8605	8605	LOC	qui	43016	43019	qui	1	195	448	14	0	0	0	1184	8605	qui	nsubj	8606	PRON	PRON	Not_Assigned	Not_Assigned	4
+T1525	107	8607	8611	LOC	la vallée de l'Orne	43027	43046	la vallée de l' orne	5	195	448	16	0	1	1	1185	8608	vallée	obj	8606	NOUN	PROP	Not_Assigned	Not_Assigned	3
+orne	174	8610	8611	LOC	l'Orne	43040	43046	l' orne	2	195	448	19	1	0	0	1186	8611	orne	nmod	8608	PROPN	PROP	Not_Assigned	Not_Assigned	3
+riviere	34	8613	8614	LOC	La rivière	43048	43058	la rivière	2	195	449	0	0	0	0	1187	8614	rivière	nsubj	8615	NOUN	NOM	Not_Assigned	Not_Assigned	3
+riviere	34	8629	8629	LOC	y	43123	43124	y	1	195	450	6	0	0	0	1188	8629	y	iobj	8630	PRON	PRON	Not_Assigned	Not_Assigned	3
+campagne	14	8648	8649	LOC	la campagne	43230	43241	la campagne	2	195	450	25	0	0	0	1189	8649	campagne	obj	8647	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1531	115	8660	8662	LOC	l'autre colline	43279	43294	l' autre colline	3	195	451	4	0	0	0	1190	8662	colline	obl:mod	8668	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1532	110	8673	8674	FAC	les maisons	43343	43354	les maisons	2	195	451	17	0	0	0	1191	8674	maisons	obj	8672	NOUN	NOM	Not_Assigned	Not_Assigned	3
+domaine_faverges	94	8699	8700	FAC	du domaine	43474	43484	du domaine	2	196	453	2	0	0	0	1192	8700	domaine	nmod	8698	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ferme_faverges	39	8711	8712	FAC	la ferme	43538	43546	la ferme	2	196	454	5	0	0	0	1193	8712	ferme	obj	8710	NOUN	NOM	Not_Assigned	Not_Assigned	3
+chateau_faverges	88	8714	8718	FAC	Le château à façade blanche	43548	43575	le château à façade blanche	5	196	455	0	0	0	0	1194	8715	château	nsubj	8720	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1538	111	8726	8727	LOC	un bois	43608	43615	un bois	2	196	455	12	0	0	0	1195	8727	bois	obl:mod	8720	NOUN	NOM	Not_Assigned	Not_Assigned	3
+riviere	34	8737	8738	LOC	la rivière	43659	43669	la rivière	2	196	455	23	0	0	0	1196	8738	rivière	obl:arg	8734	NOUN	NOM	Not_Assigned	Not_Assigned	3
+riviere	34	8740	8740	LOC	où	43671	43673	où	1	196	455	26	0	0	0	1197	8740	où	iobj	8744	PRON	PRON	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	8748	8750	PER	Les deux amis	43720	43733	les deux amis	3	197	456	0	0	0	0	1198	8750	amis	nsubj	8751	NOUN	NOM	Plural	Ambiguous	3
+femmes_luzerne	27	8756	8756	PER	on	43764	43766	on	1	197	456	8	0	0	0	1199	8756	on	nsubj	8757	PRON	PRON	Ambiguous	Ambiguous	3
+femmes_luzerne	27	8759	8775	PER	Des femmes portant des chapeaux de paille, des marmottes d'indienne ou des visières de papier	43775	43868	des femmes portant des chapeaux de paille , des marmottes d' indienne ou des visières de papier	17	197	457	0	0	0	0	1200	8763	chapeaux	obj	8761	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1543	113	8806	8808	VEH	une longue charrette	44012	44032	une longue charrette	3	197	457	47	0	0	0	1201	8808	charrette	obl:mod	8801	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M_de_faverges	4	8815	8817	PER	M. le comte	44060	44071	m. le comte	3	197	458	0	0	0	0	1202	8817	comte	nmod	8815	NOUN	NOM	Singular	Male	3
+regisseur_favernes	20	8822	8823	PER	son régisseur	44090	44103	son régisseur	2	197	458	7	0	1	1	1203	8823	régisseur	obl:agent	8820	NOUN	NOM	Singular	Male	3
+M_de_faverges	4	8822	8822	PER	son	44090	44093	son	1	197	458	7	1	0	0	1204	8822	son	det	8823	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	8825	8825	PER	Il	44106	44108	il	1	198	459	0	0	0	0	1205	8825	il	nsubj	8826	PRON	PRON	Singular	Male	3
+M_de_faverges	4	8857	8857	PER	sa	44241	44243	sa	1	198	460	3	0	0	0	1206	8857	sa	det	8858	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	8862	8862	PER	il	44263	44265	il	1	198	460	8	0	0	0	1207	8862	il	nsubj	8863	PRON	PRON	Singular	Male	3
+M_de_faverges	4	8874	8874	PER	il	44330	44332	il	1	199	461	5	0	0	0	1208	8874	il	nsubj	8875	PRON	PRON	Singular	Male	3
+M_de_faverges	4	8876	8876	PER	son	44340	44343	son	1	199	461	7	0	0	0	1209	8876	son	det	8877	DET	PRON	Singular	Ambiguous	3
+M51	296	8882	8882	PER	on	44381	44383	on	1	199	461	13	0	0	0	1210	8882	on	nsubj	8883	PRON	PRON	Ambiguous	Ambiguous	3
+petite_fille	16	8923	8925	PER	Une petite fille	44623	44639	une petite fille	3	200	463	0	0	0	0	1211	8925	fille	nsubj	8947	NOUN	NOM	Singular	Female	3
+petite_fille	16	8935	8935	PER	dont	44676	44680	dont	1	200	463	12	0	0	0	1212	8935	dont	nmod	8937	PRON	PRON	Ambiguous	Ambiguous	4
+petite_fille	16	8944	8944	PER	sa	44724	44726	sa	1	200	463	21	0	0	0	1213	8944	sa	det	8945	DET	PRON	Singular	Ambiguous	3
+femmes_luzerne	27	8950	8951	PER	aux femmes	44749	44759	aux femmes	2	200	463	27	0	0	0	1214	8951	femmes	obl:arg	8949	NOUN	NOM	Plural	Female	3
+petite_fille	16	8961	8961	PER	elle	44794	44798	elle	1	200	463	38	0	0	0	1215	8961	elle	nsubj	8962	PRON	PRON	Singular	Female	3
+petite_fille	16	8964	8964	PER	sa	44815	44817	sa	1	200	463	41	0	0	0	1216	8964	sa	det	8965	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	8967	8968	PER	Le comte	44826	44834	le comte	2	200	464	0	0	0	0	1217	8968	comte	nsubj	8969	NOUN	NOM	Singular	Male	3
+petite_fille	16	8973	8974	PER	cette enfant	44855	44867	cette enfant	2	200	464	6	0	0	0	1218	8974	enfant	nsubj	8972	NOUN	NOM	Singular	Female	3
+M66	238	8976	8976	PER	on	44870	44872	on	1	200	464	9	0	0	0	1219	8976	on	nsubj	8979	PRON	PRON	Ambiguous	Ambiguous	3
+femmes_luzerne	27	8982	8983	PER	Les faneuses	44891	44903	les faneuses	2	200	465	0	0	0	0	1220	8983	faneuses	nsubj	8987	NOUN	NOM	Plural	Female	3
+petite_fille	16	8984	8985	PER	l'	44904	44906	l '	2	200	465	2	0	0	0	1221	8984	l	obj	8987	PRON	PRON	Singular	Ambiguous	3
+femmes_luzerne	27	8989	8989	PER	les	44931	44934	les	1	200	465	7	0	0	0	1222	8989	les	obj	8990	PRON	PRON	Plural	Ambiguous	3
+M_de_faverges	4	8995	8995	PER	Il	44962	44964	il	1	200	466	0	0	0	0	1223	8995	il	nsubj	8996	PRON	PRON	Singular	Male	3
+Bouvard	2	9016	9016	PER	Bouvard	45071	45078	bouvard	1	201	467	0	0	0	0	1224	9016	bouvard	nsubj	9017	PROPN	PROP	Singular	Male	3
+M_de_faverges	4	9021	9021	PER	sa	45094	45096	sa	1	201	467	5	0	0	0	1225	9021	sa	det	9022	DET	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	9039	9041	PER	les futurs agronomes	45175	45195	les futurs agronomes	3	201	468	15	0	0	0	1226	9041	agronomes	nsubj	9042	NOUN	NOM	Plural	Not_Assigned	3
+M_de_faverges	4	9053	9053	PER	ses	45247	45250	ses	1	201	469	4	0	0	0	1227	9053	ses	det	9054	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	9056	9056	PER	il	45261	45263	il	1	201	469	7	0	0	0	1228	9056	il	nsubj	9058	PRON	PRON	Singular	Male	3
+M_de_faverges	4	9091	9091	PER	me	45444	45446	me	1	202	470	4	0	0	0	1229	9091	me	iobj	9092	PRON	PRON	Singular	Ambiguous	1
+BouvardEtPecuchet	0	9095	9097	PER	Bouvard et Pécuchet	45470	45489	bouvard et pécuchet	3	203	471	0	0	1	2	1230	9097	pécuchet	conj	9095	PROPN	PROP	Plural	Not_Assigned	3
+Bouvard	2	9095	9095	PER	Bouvard	45470	45477	bouvard	1	203	471	0	1	0	0	1231	9095	bouvard	nsubj	9098	PROPN	PROP	Singular	Male	3
+Pecuchet	1	9097	9097	PER	Pécuchet	45481	45489	pécuchet	1	203	471	2	1	0	0	1232	9097	pécuchet	conj	9095	PROPN	PROP	Singular	Not_Assigned	3
+Faverges_Bou_et_Pec	81	9106	9106	PER	Ils	45535	45538	ils	1	205	473	0	0	0	0	1233	9106	ils	nsubj	9107	PRON	PRON	Plural	Ambiguous	3
+M52	295	9121	9121	PER	on	45612	45614	on	1	205	473	15	0	0	0	1234	9121	on	nsubj	9122	PRON	PRON	Ambiguous	Ambiguous	3
+M_de_faverges	4	9165	9166	PER	le comte	45841	45849	le comte	2	206	475	4	0	0	0	1235	9166	comte	nsubj	9164	NOUN	NOM	Singular	Male	3
+M_de_faverges	4	9168	9168	PER	je	45851	45853	je	1	206	475	7	0	0	0	1236	9168	je	nsubj	9169	PRON	PRON	Singular	Ambiguous	1
+M_de_faverges	4	9170	9170	PER	mes	45859	45862	mes	1	206	475	9	0	0	0	1237	9170	mes	det	9171	DET	PRON	Singular	Ambiguous	1
+M_de_faverges	4	9179	9179	PER	ma	45897	45899	ma	1	206	476	6	0	0	0	1238	9179	ma	det	9180	DET	PRON	Singular	Ambiguous	1
+M_de_faverges	4	9184	9184	PER	il	45926	45928	il	1	207	477	1	0	0	0	1239	9184	il	nsubj	9185	PRON	PRON	Singular	Male	3
+T1560	114	9192	9193	PER	un domestique	45971	45984	un domestique	2	207	478	1	0	0	0	1240	9193	domestique	nsubj	9194	NOUN	NOM	Singular	Male	3
+M_de_faverges	4	9195	9195	PER	le	45990	45992	le	1	207	478	4	0	0	0	1241	9195	le	obj	9196	PRON	PRON	Singular	Male	3
+M67	237	9198	9198	PER	On	46003	46005	on	1	207	479	0	0	0	0	1242	9198	on	nsubj	9199	PRON	PRON	Ambiguous	Ambiguous	3
+M_de_faverges	4	9202	9202	PER	lui	46022	46025	lui	1	207	479	4	0	0	0	1243	9202	lui	obl:arg	9199	PRON	PRON	Singular	Ambiguous	3
+chateau_faverges	88	9203	9204	FAC	au château	46026	46036	au château	2	207	479	5	0	0	0	1244	9204	château	obl:mod	9199	NOUN	NOM	Not_Assigned	Not_Assigned	3
+regisseur_favernes	20	9206	9207	PER	Son régisseur	46039	46052	son régisseur	2	208	480	0	0	1	1	1245	9207	régisseur	nsubj	9209	NOUN	NOM	Singular	Male	3
+M_de_faverges	4	9206	9206	PER	Son	46039	46042	son	1	208	480	0	1	0	0	1246	9206	son	det	9207	DET	PRON	Singular	Ambiguous	3
+M_de_faverges	4	9208	9208	PER	le	46053	46055	le	1	208	480	2	0	0	0	1247	9208	le	obj	9209	PRON	PRON	Singular	Male	3
+regisseur_favernes	20	9211	9218	PER	homme à figure chafouine et de façons obséquieuses	46066	46116	homme à figure chafouine et de façons obséquieuses	8	208	480	5	0	0	0	1248	9213	figure	nmod	9211	NOUN	NOM	Not_Assigned	Not_Assigned	3
+regisseur_favernes	20	9220	9220	PER	Il	46119	46121	il	1	209	481	0	0	0	0	1249	9220	il	nsubj	9221	PRON	PRON	Singular	Male	3
+BouvardEtPecuchet	0	9223	9224	PER	ces messieurs	46134	46147	ces messieurs	2	209	481	3	0	0	0	1250	9224	messieurs	obj	9221	NOUN	NOM	Plural	Male	3
+T1565	30	9232	9233	PER	quatorze moissonneurs	46174	46195	quatorze moissonneurs	2	209	481	12	0	0	0	1251	9233	moissonneurs	nmod	9236	NOUN	NOM	Plural	Not_Assigned	3
+T1565	30	9259	9259	PER	Chacun	46321	46327	chacun	1	209	483	0	0	0	0	1252	9259	chacun	nsubj	9260	PRON	PRON	Ambiguous	Ambiguous	3
+T1565	30	9274	9274	PER	ils	46398	46401	ils	1	209	483	15	0	0	0	1253	9274	ils	nsubj	9275	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9280	9282	PER	Les deux Parisiens	46428	46446	les deux parisiens	3	209	484	0	0	0	0	1254	9282	parisiens	nsubj	9283	NOUN	NOM	Plural	Ambiguous	3
+T1565	30	9284	9284	PER	leurs	46458	46463	leurs	1	209	484	4	0	0	0	1255	9284	leurs	det	9285	DET	PRON	Plural	Ambiguous	3
+regisseur_Bou_et_Pec	96	9302	9302	PER	Ils	46556	46559	ils	1	210	485	0	0	0	0	1256	9302	ils	nsubj	9303	PRON	PRON	Plural	Ambiguous	3
+T1566	112	9310	9311	TIME	Le crépuscule	46606	46619	le crépuscule	2	210	486	0	0	0	0	1257	9311	crépuscule	nsubj	9312	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	9323	9323	PER	ils	46681	46684	ils	1	211	487	1	0	0	0	1258	9323	ils	nsubj	9324	PRON	PRON	Plural	Ambiguous	3
+berger	46	9343	9344	PER	Le berger	46789	46798	le berger	2	211	489	0	0	0	0	1259	9344	berger	nsubj	9353	NOUN	NOM	Singular	Male	3
+berger	46	9360	9360	PER	son	46861	46864	son	1	211	489	17	0	0	0	1260	9360	son	det	9361	DET	PRON	Singular	Ambiguous	3
+berger	46	9364	9364	PER	lui	46879	46882	lui	1	211	489	21	0	0	0	1261	9364	lui	obl:arg	9362	PRON	PRON	Singular	Ambiguous	3
+regisseur_favernes	20	9366	9367	PER	Le régisseur	46885	46897	le régisseur	2	212	490	0	0	0	0	1262	9367	régisseur	nsubj	9368	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	9369	9371	PER	Bouvard et Pécuchet	46903	46922	bouvard et pécuchet	3	212	490	3	0	1	2	1263	9371	pécuchet	conj	9369	PROPN	PROP	Plural	Not_Assigned	3
+Bouvard	2	9369	9369	PER	Bouvard	46903	46910	bouvard	1	212	490	3	1	0	0	1264	9369	bouvard	obj	9368	PROPN	PROP	Singular	Male	3
+Pecuchet	1	9371	9371	PER	Pécuchet	46914	46922	pécuchet	1	212	490	5	1	0	0	1265	9371	pécuchet	conj	9369	PROPN	PROP	Singular	Not_Assigned	3
+regisseur_Bou_et_Pec	96	9378	9378	PER	ils	46950	46953	ils	1	212	490	12	0	0	0	1266	9378	ils	nsubj	9379	PRON	PRON	Plural	Ambiguous	3
+T1570	109	9391	9396	FAC	Tous les bâtiments de la ferme	47026	47056	tous les bâtiments de la ferme	6	213	491	0	0	1	1	1267	9393	bâtiments	nsubj:pass	9398	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ferme_faverges	39	9395	9396	FAC	la ferme	47048	47056	la ferme	2	213	491	4	1	0	0	1268	9396	ferme	nmod	9393	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cour_faverges	40	9405	9406	FAC	la cour	47107	47114	la cour	2	213	491	14	0	0	0	1269	9406	cour	nmod	9403	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cour_faverges	40	9411	9411	FAC	y	47129	47130	y	1	213	492	3	0	0	0	1270	9411	y	iobj	9412	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1575	62	9424	9425	LOC	un ruisseau	47189	47200	un ruisseau	2	213	492	16	0	0	0	1271	9425	ruisseau	obj	9423	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1575	62	9426	9427	LOC	qu'	47201	47204	qu '	2	213	492	18	0	0	0	1272	9426	qu	obj	9431	PRON	PRON	Not_Assigned	Not_Assigned	4
+M53	294	9428	9428	PER	on	47205	47207	on	1	213	492	20	0	0	0	1273	9428	on	nsubj	9431	PRON	PRON	Ambiguous	Ambiguous	3
+regisseur_favernes	20	9456	9457	PER	Le régisseur	47338	47350	le régisseur	2	214	494	0	0	0	0	1274	9457	régisseur	nsubj	9669	NOUN	NOM	Singular	Male	3
+T1577	104	9461	9462	FAC	les bergeries	47369	47382	les bergeries	2	214	494	5	0	0	0	1275	9462	bergeries	obl:mod	9459	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1578	105	9490	9491	FAC	La grange	47508	47517	la grange	2	215	495	0	0	0	0	1276	9491	grange	nsubj:pass	9493	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	9511	9512	PER	les messieurs	47628	47641	les messieurs	2	216	496	2	0	0	0	1277	9512	messieurs	obj	9510	NOUN	NOM	Plural	Male	3
+T1580	106	9514	9515	PER	une servante	47643	47655	une servante	2	216	496	5	0	0	0	1278	9515	servante	nsubj	9516	NOUN	NOM	Singular	Female	3
+BouvardEtPecuchet	0	9529	9529	PER	leur	47722	47726	leur	1	216	497	4	0	0	0	1279	9529	leur	iobj	9530	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9534	9534	PER	ils	47749	47752	ils	1	216	497	9	0	0	0	1280	9534	ils	nsubj	9535	PRON	PRON	Plural	Ambiguous	3
+T1581	108	9537	9538	FAC	le pigeonnier	47768	47781	le pigeonnier	2	216	497	12	0	0	0	1281	9538	pigeonnier	obl:arg	9535	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	9543	9543	PER	les	47808	47811	les	1	216	498	3	0	0	0	1282	9543	les	obj	9544	PRON	PRON	Plural	Ambiguous	3
+M68	236	9624	9624	PER	on	48229	48231	on	1	216	502	29	0	0	0	1283	9624	on	nsubj	9625	PRON	PRON	Ambiguous	Ambiguous	3
+ferme_faverges	39	9635	9636	FAC	la ferme	48276	48284	la ferme	2	216	503	4	0	0	0	1284	9636	ferme	nmod	9633	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bouverie	36	9640	9641	FAC	la bouverie	48294	48305	la bouverie	2	216	503	9	0	0	0	1285	9641	bouverie	ROOT	9641	NOUN	NOM	Not_Assigned	Not_Assigned	3
+bouverie	36	9651	9651	FAC	sa	48367	48369	sa	1	216	504	8	0	0	0	1286	9651	sa	det	9652	DET	PRON	Not_Assigned	Not_Assigned	3
+bouverie	36	9653	9653	FAC	la	48379	48381	la	1	216	504	10	0	0	0	1287	9653	la	obj	9654	PRON	PRON	Not_Assigned	Not_Assigned	3
+bouverie	36	9672	9672	FAC	y	48471	48472	y	1	216	505	1	0	0	0	1288	9672	y	iobj	9673	PRON	PRON	Not_Assigned	Not_Assigned	3
+cour_faverges	40	9760	9761	FAC	la cour	48954	48961	la cour	2	217	510	5	0	0	0	1289	9761	cour	obl:arg	9758	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1587	61	9780	9783	PER	Les gens de travail	49065	49084	les gens de travail	4	217	512	0	0	0	0	1290	9781	gens	nsubj	9784	NOUN	NOM	Plural	Ambiguous	3
+T1587	61	9787	9787	PER	leurs	49107	49112	leurs	1	217	512	7	0	0	0	1291	9787	leurs	det	9788	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9801	9803	PER	Les deux visiteurs	49174	49192	les deux visiteurs	3	218	513	0	0	0	0	1292	9803	visiteurs	nsubj	9806	NOUN	NOM	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9811	9811	PER	ils	49220	49223	ils	1	219	514	3	0	0	0	1293	9811	ils	nsubj	9813	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9814	9814	PER	les	49235	49238	les	1	219	514	6	0	0	0	1294	9814	les	obj	9815	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9817	9817	PER	leur	49252	49256	leur	1	219	514	9	0	0	0	1295	9817	leur	det	9818	DET	PRON	Plural	Ambiguous	3
+M54	293	9822	9824	TIME	Dès le soir	49277	49288	dès le soir	3	219	515	0	0	0	0	1296	9824	soir	obl:mod	9827	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	9826	9826	PER	ils	49290	49293	ils	1	219	515	4	0	0	0	1297	9826	ils	nsubj	9827	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9829	9829	PER	leur	49306	49310	leur	1	219	515	7	0	0	0	1298	9829	leur	det	9830	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	9863	9863	PER	ils	49495	49498	ils	1	220	516	8	0	0	0	1299	9863	ils	nsubj	9864	PRON	PRON	Plural	Ambiguous	3
+carriole	91	9865	9866	VEH	une carriole	49510	49522	une carriole	2	220	516	10	0	0	0	1300	9866	carriole	obj	9864	NOUN	NOM	Not_Assigned	Not_Assigned	3
+carriole	91	9867	9867	VEH	que	49523	49526	que	1	220	516	12	0	0	0	1301	9867	que	obj	9869	PRON	PRON	Not_Assigned	Not_Assigned	4
+Bouvard	2	9868	9868	PER	Bouvard	49527	49534	bouvard	1	220	516	13	0	0	0	1302	9868	bouvard	nsubj	9869	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	9898	9898	PER	ils	49674	49677	ils	1	221	517	27	0	0	0	1303	9898	ils	nsubj	9899	PRON	PRON	Plural	Ambiguous	3
+T1592	199	9905	9906	PER	les laboureurs	49723	49737	les laboureurs	2	221	517	34	0	0	0	1304	9906	laboureurs	obj	9904	NOUN	NOM	Plural	Not_Assigned	3
+BouvardEtPecuchet	0	9920	9920	PER	ils	49809	49812	ils	1	222	518	1	0	0	0	1305	9920	ils	nsubj	9921	PRON	PRON	Plural	Ambiguous	3
+fermier	5	9922	9923	PER	maître Gouy	49825	49836	maître gouy	2	222	518	3	0	0	0	1306	9922	maître	obj	9921	NOUN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	9925	9925	PER	leurs	49840	49845	leurs	1	222	518	6	0	0	0	1307	9925	leurs	det	9926	DET	PRON	Plural	Ambiguous	3
+fermier	5	9930	9930	PER	son	49881	49884	son	1	222	518	11	0	0	0	1308	9930	son	det	9931	DET	PRON	Singular	Ambiguous	3
+fermier	5	9936	9937	PER	le fermier	49911	49921	le fermier	2	222	519	1	0	0	0	1309	9937	fermier	nsubj	9938	NOUN	NOM	Singular	Male	3
+fermier	5	9940	9940	PER	sa	49931	49933	sa	1	222	519	5	0	0	0	1310	9940	sa	det	9941	DET	PRON	Singular	Ambiguous	3
+fermier	5	9943	9943	PER	Il	49943	49945	il	1	222	520	0	0	0	0	1311	9943	il	nsubj	9944	PRON	PRON	Singular	Male	3
+fermier	5	9960	9960	PER	il	50024	50026	il	1	222	521	4	0	0	0	1312	9960	il	nsubj	9963	PRON	PRON	Singular	Male	3
+fermiere	18	9973	9974	PER	sa femme	50089	50097	sa femme	2	222	522	7	0	1	1	1313	9974	femme	nsubj	9975	NOUN	NOM	Singular	Female	3
+fermier	5	9973	9973	PER	sa	50089	50091	sa	1	222	522	7	1	0	0	1314	9973	sa	det	9974	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	9981	9981	PER	Bouvard	50124	50131	bouvard	1	222	523	2	0	0	0	1315	9981	bouvard	nsubj	9982	PROPN	PROP	Singular	Male	3
+Bouvard	2	9983	9983	PER	son	50140	50143	son	1	222	523	4	0	0	0	1316	9983	son	det	9984	DET	PRON	Singular	Ambiguous	3
+fermier	5	9994	9995	PER	maître Gouy	50194	50205	maître gouy	2	223	524	2	0	0	0	1317	9994	maître	nsubj	9996	NOUN	PROP	Singular	Male	3
+fermier	5	10010	10010	PER	il	50282	50284	il	1	223	524	18	0	0	0	1318	10010	il	nsubj	10013	PRON	PRON	Singular	Male	3
+Bouvard	2	10025	10025	PER	Bouvard	50352	50359	bouvard	1	224	525	0	0	0	0	1319	10025	bouvard	nsubj	10027	PROPN	PROP	Singular	Male	3
+T1593	198	10052	10055	PER	Son notaire de Paris	50466	50486	son notaire de paris	4	224	526	0	0	1	2	1320	10053	notaire	nsubj	10057	NOUN	PROP	Singular	Male	3
+Bouvard	2	10052	10052	PER	Son	50466	50469	son	1	224	526	0	1	0	0	1321	10052	son	det	10053	DET	PRON	Singular	Ambiguous	3
+Paris	15	10055	10055	GPE	Paris	50481	50486	paris	1	224	526	3	1	0	0	1322	10055	paris	nmod	10053	PROPN	PROP	Not_Assigned	Not_Assigned	3
+ferme	13	10059	10060	FAC	Leur exploitation	50500	50517	leur exploitation	2	225	527	0	0	1	1	1323	10060	exploitation	nsubj	10061	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10059	10059	PER	Leur	50500	50504	leur	1	225	527	0	1	0	0	1324	10059	leur	det	10060	DET	PRON	Plural	Ambiguous	3
+M56	291	10062	10065	FAC	quinze hectares en cours	50529	50553	quinze hectares en cours	4	225	527	3	0	0	0	1325	10063	hectares	obj	10061	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M55	303	10067	10067	FAC	prairies	50557	50565	prairies	1	225	527	8	0	0	0	1326	10067	prairies	conj	10065	NOUN	NOM	Not_Assigned	Not_Assigned	3
+la_butte	51	10079	10083	PER	un monticule couvert de cailloux	50628	50660	un monticule couvert de cailloux	5	225	527	20	0	0	0	1327	10080	monticule	obl:arg	10077	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10091	10091	PER	Ils	50690	50693	ils	1	226	528	0	0	0	0	1328	10091	ils	nsubj	10093	PRON	PRON	Plural	Ambiguous	3
+T1594	197	10116	10117	PER	deux charretiers	50830	50846	deux charretiers	2	226	528	25	0	0	0	1329	10117	charretiers	conj	10100	NOUN	NOM	Plural	Not_Assigned	3
+T1595	196	10119	10120	PER	deux femmes	50848	50859	deux femmes	2	226	528	28	0	0	0	1330	10120	femmes	conj	10117	NOUN	NOM	Plural	Female	3
+T1596	195	10122	10123	PER	un berger	50861	50870	un berger	2	226	528	31	0	0	0	1331	10123	berger	conj	10117	NOUN	NOM	Singular	Male	3
+BouvardEtPecuchet	0	10141	10141	PER	ils	50936	50939	ils	1	227	529	9	0	0	0	1332	10141	ils	nsubj	10142	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10143	10143	PER	leurs	50950	50955	leurs	1	227	529	11	0	0	0	1333	10143	leurs	det	10144	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10147	10147	PER	les	50971	50974	les	1	227	529	15	0	0	0	1334	10147	les	obj	10148	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10150	10150	PER	eux	50985	50988	eux	1	227	529	18	0	0	0	1335	10150	eux	obl:mod	10148	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10163	10163	PER	leur	51043	51047	leur	1	227	529	31	0	0	0	1336	10163	leur	iobj	10164	PRON	PRON	Plural	Ambiguous	3
+T1597	194	10175	10178	TIME	Au mois de novembre	51111	51130	au mois de novembre	4	228	530	0	0	0	0	1337	10176	mois	obl:mod	10180	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10179	10179	PER	ils	51131	51134	ils	1	228	530	4	0	0	0	1338	10179	ils	nsubj	10180	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	10186	10186	PER	Bouvard	51164	51171	bouvard	1	228	531	2	0	0	0	1339	10186	bouvard	nsubj	10199	PROPN	PROP	Singular	Male	3
+Bouvard	2	10187	10187	PER	qui	51172	51175	qui	1	228	531	3	0	0	0	1340	10187	qui	nsubj	10188	PRON	PRON	Ambiguous	Ambiguous	4
+Pecuchet	1	10192	10192	PER	Pécuchet	51199	51207	pécuchet	1	228	531	8	0	0	0	1341	10192	pécuchet	nsubj	10193	PROPN	PROP	Singular	Not_Assigned	3
+BouvardEtPecuchet	0	10206	10206	PER	Ils	51264	51267	ils	1	229	532	0	0	0	0	1342	10206	ils	nsubj	10207	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10244	10244	PER	ils	51460	51463	ils	1	230	533	13	0	0	0	1343	10244	ils	nsubj	10245	PRON	PRON	Plural	Ambiguous	3
+M57	290	10250	10252	FAC	leurs prairies artificielles	51498	51526	leurs prairies artificielles	3	230	533	19	0	1	1	1344	10251	prairies	nmod	10247	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10250	10250	PER	leurs	51498	51503	leurs	1	230	533	19	1	0	0	1345	10250	leurs	det	10251	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10257	10257	PER	ils	51539	51542	ils	1	230	533	26	0	0	0	1346	10257	ils	nsubj	10259	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10264	10264	PER	ils	51568	51571	ils	1	230	533	33	0	0	0	1347	10264	ils	nsubj	10266	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10270	10270	PER	ils	51601	51604	ils	1	230	533	39	0	0	0	1348	10270	ils	nsubj	10271	PRON	PRON	Plural	Ambiguous	3
+T1599	193	10284	10286	TIME	L'année suivante	51678	51694	l' année suivante	3	231	534	0	0	0	0	1349	10285	année	obl:mod	10288	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10287	10287	PER	ils	51695	51698	ils	1	231	534	3	0	0	0	1350	10287	ils	nsubj	10288	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10304	10304	PER	ils	51785	51788	ils	1	232	537	2	0	0	0	1351	10304	ils	nsubj	10306	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10310	10310	PER	ils	51817	51820	ils	1	232	537	8	0	0	0	1352	10310	ils	nsubj	10311	PRON	PRON	Plural	Ambiguous	3
+la_butte	51	10314	10315	LOC	la Butte	51845	51853	la butte	2	232	537	12	0	0	0	1353	10315	butte	obj	10313	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M59	288	10323	10328	TIME	Tout le long de l'année	51890	51913	tout le long de l' année	6	232	539	0	0	0	0	1354	10325	long	obl:mod	10345	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M60	286	10330	10334	TIME	du matin jusqu'au soir	51915	51937	du matin jusqu' au soir	5	232	539	7	0	0	0	1355	10331	matin	obl:mod	10345	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T16	23	10341	10342	LOC	le soleil	51957	51966	le soleil	2	232	539	18	0	0	0	1356	10342	soleil	obl:mod	10345	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1603	192	10350	10352	PER	le même homme	52001	52014	le même homme	3	232	539	27	0	0	0	1357	10352	homme	obl:mod	10345	NOUN	NOM	Singular	Male	3
+Bouvard	2	10368	10368	PER	Bouvard	52095	52102	bouvard	1	232	540	1	0	0	0	1358	10368	bouvard	nsubj	10369	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	10389	10389	PER	ils	52201	52204	ils	1	233	541	6	0	0	0	1359	10389	ils	nsubj	10390	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10391	10393	PER	eux-mêmes	52216	52225	eux - mêmes	3	233	541	8	0	0	0	1360	10391	eux	nsubj	10390	PRON	PRON	Not_Assigned	Not_Assigned	3
+T1604	200	10411	10414	PER	La fille de basse-cour	52324	52346	la fille de basse-cour	4	234	543	0	0	0	0	1361	10412	fille	nsubj	10415	NOUN	NOM	Singular	Female	3
+BouvardEtPecuchet	0	10418	10418	PER	Ils	52364	52367	ils	1	234	544	0	0	0	0	1362	10418	ils	nsubj	10419	PRON	PRON	Plural	Ambiguous	3
+T1605	190	10420	10422	PER	des gens mariés	52376	52391	des gens mariés	3	234	544	2	0	0	0	1363	10421	gens	obj	10419	NOUN	NOM	Plural	Ambiguous	3
+T1606	189	10424	10425	PER	les enfants	52394	52405	les enfants	2	234	544	6	0	0	0	1364	10425	enfants	nsubj	10426	NOUN	NOM	Plural	Ambiguous	3
+T1607	188	10428	10429	PER	les cousins	52419	52430	les cousins	2	234	544	10	0	0	0	1365	10429	cousins	obj	10426	NOUN	NOM	Plural	Ambiguous	3
+T1608	187	10431	10432	PER	les cousines	52432	52444	les cousines	2	234	544	13	0	0	0	1366	10432	cousines	conj	10429	NOUN	NOM	Plural	Female	3
+T1609	186	10434	10435	PER	les oncles	52446	52456	les oncles	2	234	544	16	0	0	0	1367	10435	oncles	conj	10429	NOUN	NOM	Plural	Male	3
+T1610	185	10437	10438	PER	les belles-sœurs	52458	52474	les belles-sœurs	2	234	544	19	0	0	0	1368	10438	belles-sœurs	conj	10429	NOUN	NOM	Plural	Not_Assigned	3
+BouvardEtPecuchet	0	10444	10444	PER	leurs	52496	52501	leurs	1	234	544	26	0	0	0	1369	10444	leurs	det	10445	DET	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10448	10448	PER	ils	52513	52516	ils	1	234	544	30	0	0	0	1370	10448	ils	nsubj	10449	PRON	PRON	Plural	Ambiguous	3
+ferme	13	10453	10454	FAC	la ferme	52544	52552	la ferme	2	234	544	35	0	0	0	1371	10454	ferme	obl:arg	10451	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1611	184	10461	10462	TIME	le soir	52575	52582	le soir	2	235	545	1	0	0	0	1372	10462	soir	obl:mod	10465	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10463	10463	PER	ils	52583	52586	ils	1	235	545	3	0	0	0	1373	10463	ils	nsubj	10465	PRON	PRON	Plural	Ambiguous	3
+chambre_commune	149	10470	10471	FAC	la chambre	52622	52632	la chambre	2	235	546	3	0	0	0	1374	10471	chambre	nmod	10468	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10472	10472	PER	les	52633	52636	les	1	235	546	5	0	0	0	1375	10472	les	obj	10473	PRON	PRON	Plural	Ambiguous	3
+cuisiniere	8	10476	10476	PER	Germaine	52654	52662	germaine	1	235	546	9	0	0	0	1376	10476	germaine	nsubj	10483	PROPN	PROP	Singular	Female	3
+cuisiniere	8	10478	10478	PER	qui	52664	52667	qui	1	235	546	11	0	0	0	1377	10478	qui	nsubj	10479	PRON	PRON	Ambiguous	Ambiguous	4
+BouvardEtPecuchet	0	10489	10489	PER	les	52720	52723	les	1	235	547	1	0	0	0	1378	10489	les	obj	10490	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	10504	10504	PER	leur	52799	52803	leur	1	235	548	8	0	0	0	1379	10504	leur	det	10505	DET	PRON	Plural	Ambiguous	3
+Pecuchet	1	10509	10509	PER	Pécuchet	52820	52828	pécuchet	1	235	549	0	0	0	0	1380	10509	pécuchet	nsubj	10511	PROPN	PROP	Singular	Not_Assigned	3
+voleur	26	10512	10512	PER	un	52840	52842	un	1	235	549	3	0	0	0	1381	10512	un	obj	10511	PRON	PRON	Singular	Male	3
+voleur	26	10519	10519	PER	le	52859	52861	le	1	235	549	10	0	0	0	1382	10519	le	obj	10520	PRON	PRON	Singular	Male	3
+voleur	26	10527	10527	PER	Misérable	52899	52908	misérable	1	236	550	1	0	0	0	1383	10527	misérable	ROOT	10527	ADJ	NOM	Singular	Ambiguous	3
+voleur	26	10529	10529	PER	tu	52911	52913	tu	1	236	550	3	0	0	0	1384	10529	tu	nsubj	10532	PRON	PRON	Singular	Ambiguous	2
+voleur	26	10536	10537	PER	t'	52941	52943	t '	2	236	550	10	0	0	0	1385	10536	t	obj	10539	PRON	PRON	Singular	Ambiguous	2
+Pecuchet	1	10542	10542	PER	Sa	52959	52961	sa	1	237	551	0	0	0	0	1386	10542	sa	det	10543	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	10552	10552	PER	il	53010	53012	il	1	237	552	3	0	0	0	1387	10552	il	nsubj	10553	PRON	PRON	Singular	Male	3
+jardin	11	10559	10560	FAC	du jardin	53044	53053	du jardin	2	237	552	10	0	0	0	1388	10560	jardin	nmod	10558	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	10563	10563	PER	son	53060	53063	son	1	237	553	1	0	0	0	1389	10563	son	det	10564	DET	PRON	Singular	Ambiguous	3
+jardin	11	10571	10571	FAC	le	53097	53099	le	1	237	553	9	0	0	0	1390	10571	le	obj	10572	PRON	PRON	Not_Assigned	Not_Assigned	3
+Bouvard	2	10577	10577	PER	Bouvard	53119	53126	bouvard	1	237	554	0	0	0	0	1391	10577	bouvard	nsubj	10579	PROPN	PROP	Singular	Male	3
+ferme	13	10581	10582	FAC	la ferme	53143	53151	la ferme	2	237	554	4	0	0	0	1392	10582	ferme	obl:arg	10579	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	10584	10584	PER	Ils	53153	53156	ils	1	237	555	0	0	0	0	1393	10584	ils	nsubj	10586	PRON	PRON	Plural	Ambiguous	3
+Pecuchet	1	10604	10604	PER	Pécuchet	53256	53264	pécuchet	1	238	557	0	0	0	0	1394	10604	pécuchet	nsubj	10607	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	10612	10612	PER	Il	53299	53301	il	1	238	558	0	0	0	0	1395	10612	il	nsubj	10613	PRON	PRON	Singular	Male	3
+Pecuchet	1	10614	10614	PER	lui-même	53310	53318	lui-même	1	238	558	2	0	0	0	1396	10614	lui-même	dep	10613	PRON	PRON	Singular	Male	3
+Pecuchet	1	10631	10631	PER	Il	53406	53408	il	1	239	559	0	0	0	0	1397	10631	il	nsubj	10632	PRON	PRON	Singular	Male	3
+Pecuchet	1	10648	10648	PER	il	53493	53495	il	1	239	560	2	0	0	0	1398	10648	il	nsubj	10650	PRON	PRON	Singular	Male	3
+Pecuchet	1	10654	10654	PER	Il	53524	53526	il	1	239	561	0	0	0	0	1399	10654	il	nsubj	10655	PRON	PRON	Singular	Male	3
+Pecuchet	1	10680	10680	PER	il	53655	53657	il	1	239	562	3	0	0	0	1400	10680	il	nsubj	10681	PRON	PRON	Singular	Male	3
+Pecuchet	1	10687	10687	PER	il	53691	53693	il	1	239	562	10	0	0	0	1401	10687	il	nsubj	10688	PRON	PRON	Singular	Male	3
+Pecuchet	1	10705	10705	PER	il	53780	53782	il	1	240	564	5	0	0	0	1402	10705	il	nsubj	10706	PRON	PRON	Singular	Male	3
+Pecuchet	1	10707	10707	PER	son	53791	53794	son	1	240	564	7	0	0	0	1403	10707	son	det	10708	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	10718	10718	PER	il	53845	53847	il	1	240	564	18	0	0	0	1404	10718	il	nsubj	10721	PRON	PRON	Singular	Male	3
+Pecuchet	1	10738	10738	PER	lui	53939	53942	lui	1	240	565	15	0	0	0	1405	10738	lui	iobj	10739	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	10754	10754	PER	il	54018	54020	il	1	240	566	7	0	0	0	1406	10754	il	nsubj	10755	PRON	PRON	Singular	Male	3
+Pecuchet	1	10792	10792	PER	Pécuchet	54198	54206	pécuchet	1	241	568	0	0	0	0	1407	10792	pécuchet	nsubj	10794	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	10795	10795	PER	ses	54219	54222	ses	1	241	568	3	0	0	0	1408	10795	ses	det	10796	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	10799	10799	PER	il	54239	54241	il	1	241	568	7	0	0	0	1409	10799	il	nsubj	10800	PRON	PRON	Singular	Male	3
+Pecuchet	1	10819	10819	PER	ses	54343	54346	ses	1	241	568	27	0	0	0	1410	10819	ses	det	10821	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	10827	10827	PER	il	54377	54379	il	1	241	569	4	0	0	0	1411	10827	il	nsubj	10829	PRON	PRON	Singular	Male	3
+Pecuchet	1	10844	10844	PER	Il	54465	54467	il	1	242	570	0	0	0	0	1412	10844	il	nsubj	10846	PRON	PRON	Singular	Male	3
+T1620	209	10849	10850	FAC	du perron	54486	54495	du perron	2	242	570	5	0	0	0	1413	10850	perron	nmod	10848	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	10863	10863	PER	il	54564	54566	il	1	242	570	19	0	0	0	1414	10863	il	nsubj	10864	PRON	PRON	Singular	Male	3
+T1621	217	10882	10887	FAC	toutes les allées de sable neuf	54656	54687	toutes les allées de sable neuf	6	242	570	38	0	0	0	1415	10884	allées	conj	10875	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jardin	11	10889	10890	FAC	le jardin	54689	54698	le jardin	2	242	570	45	0	0	0	1416	10890	jardin	nsubj	10891	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	11010	11010	PER	il	55322	55324	il	1	244	575	18	0	0	0	1417	11010	il	nsubj	11012	PRON	PRON	Singular	Male	3
+Pecuchet	1	11030	11030	PER	le	55422	55424	le	1	244	577	2	0	0	0	1418	11030	le	obj	11031	PRON	PRON	Singular	Male	3
+Pecuchet	1	11037	11037	PER	lui	55451	55454	lui	1	244	578	4	0	0	0	1419	11037	lui	iobj	11038	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	11059	11059	PER	Pécuchet	55570	55578	pécuchet	1	244	580	3	0	0	0	1420	11059	pécuchet	nsubj	11061	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	11068	11068	PER	il	55622	55624	il	1	245	581	1	0	0	0	1421	11068	il	nsubj	11069	PRON	PRON	Singular	Male	3
+Pecuchet	1	11072	11072	PER	lui	55638	55641	lui	1	245	581	5	0	0	0	1422	11072	lui	iobj	11073	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	11086	11086	PER	Il	55696	55698	il	1	246	582	0	0	0	0	1423	11086	il	nsubj	11087	PRON	PRON	Singular	Male	3
+Pecuchet	1	11101	11101	PER	il	55781	55783	il	1	246	582	15	0	0	0	1424	11101	il	nsubj	11102	PRON	PRON	Singular	Male	3
+Pecuchet	1	11104	11104	PER	sa	55797	55799	sa	1	246	582	18	0	0	0	1425	11104	sa	det	11105	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	11108	11108	PER	il	55813	55815	il	1	246	583	1	0	0	0	1426	11108	il	nsubj	11109	PRON	PRON	Singular	Male	3
+Pecuchet	1	11136	11136	PER	Il	55938	55940	il	1	246	584	0	0	0	0	1427	11136	il	nsubj	11137	PRON	PRON	Singular	Male	3
+Pecuchet	1	11180	11180	PER	il	56150	56152	il	1	246	584	44	0	0	0	1428	11180	il	nsubj	11181	PRON	PRON	Singular	Male	3
+Pecuchet	1	11197	11197	PER	Il	56244	56246	il	1	246	585	0	0	0	0	1429	11197	il	nsubj	11199	PRON	PRON	Singular	Male	3
+Pecuchet	1	11206	11206	PER	son	56288	56291	son	1	246	585	9	0	0	0	1430	11206	son	det	11207	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	11219	11219	PER	il	56354	56356	il	1	246	585	22	0	0	0	1431	11219	il	nsubj	11220	PRON	PRON	Singular	Male	3
+M61	285	11225	11226	TIME	La nuit	56394	56401	la nuit	2	247	586	0	0	0	0	1432	11226	nuit	obl:mod	11231	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	11228	11228	PER	il	56403	56405	il	1	247	586	3	0	0	0	1433	11228	il	nsubj	11231	PRON	PRON	Singular	Male	3
+Pecuchet	1	11237	11237	PER	il	56445	56447	il	1	247	587	3	0	0	0	1434	11237	il	nsubj	11239	PRON	PRON	Singular	Male	3
+Pecuchet	1	11245	11245	PER	ses	56478	56481	ses	1	247	587	11	0	0	0	1435	11245	ses	det	11246	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	11253	11253	PER	il	56514	56516	il	1	247	587	19	0	0	0	1436	11253	il	nsubj	11254	PRON	PRON	Singular	Male	3
+jardin	11	11255	11257	FAC	tout le jardin	56528	56542	tout le jardin	3	247	587	21	0	0	0	1437	11257	jardin	obj	11254	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	11267	11267	PER	son	56593	56596	son	1	247	587	33	0	0	0	1438	11267	son	det	11268	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	11277	11277	PER	Bouvard	56640	56647	bouvard	1	248	589	3	0	0	0	1439	11277	bouvard	nsubj	11278	PROPN	PROP	Singular	Male	3
+Pecuchet	1	11294	11294	PER	Pécuchet	56719	56727	pécuchet	1	248	590	12	0	0	0	1440	11294	pécuchet	nsubj	11295	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	11306	11306	PER	il	56790	56792	il	1	248	590	24	0	0	0	1441	11306	il	nsubj	11307	PRON	PRON	Singular	Male	3
+Pecuchet	1	11322	11322	PER	il	56862	56864	il	1	249	591	4	0	0	0	1442	11322	il	nsubj	11324	PRON	PRON	Singular	Male	3
+Pecuchet	1	11377	11377	PER	Pécuchet	57162	57170	pécuchet	1	250	592	1	0	0	0	1443	11377	pécuchet	nsubj	11379	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	11384	11384	PER	Il	57198	57200	il	1	250	593	0	0	0	0	1444	11384	il	nsubj	11385	PRON	PRON	Singular	Male	3
+dumouchel	7	11387	11387	PER	Dumouchel	57211	57220	dumouchel	1	250	593	3	0	0	0	1445	11387	dumouchel	obl:arg	11385	PROPN	PROP	Singular	Male	3
+Pecuchet	1	11413	11413	PER	il	57343	57345	il	1	251	594	1	0	0	0	1446	11413	il	nsubj	11414	PRON	PRON	Singular	Male	3
+T16	23	11423	11424	LOC	au soleil	57392	57401	au soleil	2	251	594	11	0	0	0	1447	11424	soleil	nmod	11422	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cuisine	28	11468	11469	FAC	la cuisine	57620	57630	la cuisine	2	251	594	56	0	0	0	1448	11469	cuisine	nmod	11466	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M62	284	11471	11474	TIME	Aux approches du froid	57633	57655	aux approches du froid	4	252	595	0	0	0	0	1449	11472	approches	obl:mod	11477	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Pecuchet	1	11476	11476	PER	il	57657	57659	il	1	252	595	5	0	0	0	1450	11476	il	nsubj	11477	PRON	PRON	Singular	Male	3
+T1623	216	11549	11553	FAC	les jardins de la capitale	58058	58084	les jardins de la capitale	5	254	597	10	0	1	1	1451	11550	jardins	obl:mod	11547	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Paris	15	11552	11553	GPE	la capitale	58073	58084	la capitale	2	254	597	13	1	0	0	1452	11553	capitale	nmod	11550	NOUN	NOM	Not_Assigned	Not_Assigned	3
+BouvardEtPecuchet	0	11555	11555	PER	ils	58086	58089	ils	1	254	597	16	0	0	0	1453	11555	ils	nsubj	11556	PRON	PRON	Plural	Ambiguous	3
+chavignolles	17	11559	11559	GPE	Chavignolles	58109	58121	chavignolles	1	254	597	20	0	0	0	1454	11559	chavignolles	obl:arg	11557	PROPN	PROP	Not_Assigned	Not_Assigned	3
+Pecuchet	1	11562	11562	PER	Pécuchet	58127	58135	pécuchet	1	254	597	23	0	0	0	1455	11562	pécuchet	nsubj	11564	PROPN	PROP	Singular	Not_Assigned	3
+Pecuchet	1	11587	11587	PER	ses	58248	58251	ses	1	254	598	1	0	0	0	1456	11587	ses	det	11588	DET	PRON	Singular	Ambiguous	3
+Pecuchet	1	11591	11591	PER	Il	58274	58276	il	1	254	599	0	0	0	0	1457	11591	il	nsubj:pass	11596	PRON	PRON	Singular	Male	3
+Bouvard	2	11598	11598	PER	Bouvard	58309	58316	bouvard	1	255	600	0	0	0	0	1458	11598	bouvard	nsubj	11603	PROPN	PROP	Singular	Male	3
+Pecuchet	1	11601	11601	PER	lui	58324	58327	lui	1	255	600	3	0	0	0	1459	11601	lui	obl:mod	11603	PRON	PRON	Singular	Ambiguous	3
+BouvardEtPecuchet	0	11607	11607	PER	Ils	58356	58359	ils	1	255	601	0	0	0	0	1460	11607	ils	nsubj	11609	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	11671	11671	PER	Bouvard	58692	58699	bouvard	1	258	604	4	0	0	0	1461	11671	bouvard	obl:mod	11675	PROPN	PROP	Singular	Male	3
+BouvardEtPecuchet	0	11745	11745	PER	ils	59101	59104	ils	1	259	608	8	0	0	0	1462	11745	ils	nsubj	11746	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	11757	11757	PER	Ils	59166	59169	ils	1	259	609	0	0	0	0	1463	11757	ils	nsubj	11758	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	11802	11802	PER	ils	59412	59415	ils	1	259	609	45	0	0	0	1464	11802	ils	nsubj	11804	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	11810	11810	PER	les	59455	59458	les	1	260	610	2	0	0	0	1465	11810	les	obj	11811	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	11820	11820	PER	ils	59504	59507	ils	1	260	610	12	0	0	0	1466	11820	ils	nsubj	11821	PRON	PRON	Plural	Ambiguous	3
+BouvardEtPecuchet	0	11874	11874	PER	Ils	59767	59770	ils	1	260	613	0	0	0	0	1467	11874	ils	nsubj	11876	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	11894	11894	PER	Bouvard	59883	59890	bouvard	1	261	615	4	0	0	0	1468	11894	bouvard	nsubj	11895	PROPN	PROP	Singular	Male	3
+Bouvard	2	11897	11897	PER	il	59903	59905	il	1	261	615	7	0	0	0	1469	11897	il	nsubj	11900	PRON	PRON	Singular	Male	3
+Bouvard	2	11902	11902	PER	Son	59922	59925	son	1	261	616	0	0	0	0	1470	11902	son	det	11903	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	11914	11914	PER	il	59986	59988	il	1	261	616	12	0	0	0	1471	11914	il	nsubj	11915	PRON	PRON	Singular	Male	3
+Bouvard	2	11918	11918	PER	lui	60005	60008	lui	1	261	616	16	0	0	0	1472	11918	lui	iobj	11919	PRON	PRON	Singular	Ambiguous	3
+Pecuchet	1	11930	11930	PER	Pécuchet	60076	60084	pécuchet	1	262	617	2	0	0	0	1473	11930	pécuchet	obl:agent	11928	PROPN	PROP	Singular	Not_Assigned	3
+Bouvard	2	11932	11932	PER	il	60086	60088	il	1	262	617	4	0	0	0	1474	11932	il	nsubj	11933	PRON	PRON	Singular	Male	3
+Bouvard	2	11962	11962	PER	il	60220	60222	il	1	262	618	22	0	0	0	1475	11962	il	nsubj	11963	PRON	PRON	Singular	Male	3
+Bouvard	2	11966	11966	PER	Il	60242	60244	il	1	262	619	0	0	0	0	1476	11966	il	nsubj	11967	PRON	PRON	Singular	Male	3
+Bouvard	2	11989	11989	PER	fit	60345	60348	fit	1	262	619	23	0	0	0	1477	11989	fit	dep	11990	AUX	NOM	Not_Assigned	Ambiguous	3
+Bouvard	2	12005	12005	PER	ses	60414	60417	ses	1	262	619	39	0	0	0	1478	12005	ses	det	12006	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	12017	12017	PER	il	60468	60470	il	1	262	619	51	0	0	0	1479	12017	il	nsubj	12018	PRON	PRON	Singular	Male	3
+cour	29	12027	12028	FAC	sa cour	60520	60527	sa cour	2	262	620	3	0	1	1	1480	12028	cour	obl:mod	12025	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	12027	12027	PER	sa	60520	60522	sa	1	262	620	3	1	0	0	1481	12027	sa	det	12028	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	12035	12035	PER	il	60557	60559	il	1	262	620	11	0	0	0	1482	12035	il	nsubj	12036	PRON	PRON	Singular	Male	3
+M8	234	12037	12038	LOC	ses terres	60567	60577	ses terres	2	262	620	13	0	1	1	1483	12038	terres	obj	12036	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	12037	12037	PER	ses	60567	60570	ses	1	262	620	13	1	0	0	1484	12037	ses	det	12038	DET	PRON	Singular	Ambiguous	3
+T1642	215	12044	12045	LOC	la campagne	60616	60627	la campagne	2	262	621	4	0	0	0	1485	12045	campagne	obj	12043	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	12047	12047	PER	Bouvard	60629	60636	bouvard	1	262	622	0	0	0	0	1486	12047	bouvard	nsubj	12048	PROPN	PROP	Singular	Male	3
+M63	283	12069	12074	PER	ceux qui avaient l'air dégoûté	60752	60782	ceux qui avaient l' air dégoûté	6	262	624	1	0	0	0	1487	12071	avaient	acl:relcl	12069	VERB	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	12076	12076	PER	il	60784	60786	il	1	262	624	8	0	0	0	1488	12076	il	nsubj	12077	PRON	PRON	Singular	Male	3
+Bouvard	2	12094	12094	PER	il	60840	60842	il	1	264	626	1	0	0	0	1489	12094	il	nsubj	12095	PRON	PRON	Singular	Male	3
+T1644	75	12106	12107	LOC	les pays	60901	60909	les pays	2	264	627	1	0	0	0	1490	12107	pays	ROOT	12107	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1644	75	12108	12108	LOC	où	60910	60912	où	1	264	627	3	0	0	0	1491	12108	où	iobj	12111	PRON	PRON	Not_Assigned	Not_Assigned	3
+la_butte	51	12151	12152	LOC	la Butte	61103	61111	la butte	2	265	629	7	0	0	0	1492	12152	butte	nsubj	12157	NOUN	NOM	Not_Assigned	Not_Assigned	3
+Bouvard	2	12162	12162	PER	Il	61158	61160	il	1	266	630	0	0	0	0	1493	12162	il	nsubj	12163	PRON	PRON	Singular	Male	3
+Bouvard	2	12167	12167	PER	son	61184	61187	son	1	266	630	5	0	0	0	1494	12167	son	det	12168	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	12170	12170	PER	Il	61198	61200	il	1	266	631	0	0	0	0	1495	12170	il	nsubj	12171	PRON	PRON	Singular	Male	3
+charretier	21	12193	12194	PER	le charretier	61328	61341	le charretier	2	266	631	23	0	0	0	1496	12194	charretier	nsubj	12196	NOUN	NOM	Singular	Male	3
+charretier	21	12210	12210	PER	moi	61403	61406	-moi	1	268	633	5	0	0	0	1497	12210	moi	dep	12209	PRON	PRON	Singular	Ambiguous	1
+Bouvard	2	12212	12212	PER	Il	61409	61411	il	1	269	634	0	0	0	0	1498	12212	il	nsubj	12213	PRON	PRON	Singular	Male	3
+paysans	57	12221	12222	PER	les paysans	61449	61460	les paysans	2	269	634	9	0	0	0	1499	12222	paysans	nsubj	12223	NOUN	NOM	Plural	Ambiguous	3
+Bouvard	2	12226	12226	PER	il	61481	61483	il	1	270	635	1	0	0	0	1500	12226	il	nsubj	12228	PRON	PRON	Singular	Male	3
+paysans	57	12229	12229	PER	les	61491	61494	les	1	270	635	4	0	0	0	1501	12229	les	obj	12230	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	12239	12239	PER	il	61547	61549	il	1	270	636	2	0	0	0	1502	12239	il	nsubj	12240	PRON	PRON	Singular	Male	3
+paysans	57	12242	12242	PER	eux	61566	61569	eux	1	270	636	5	0	0	0	1503	12242	eux	obl:mod	12240	PRON	PRON	Plural	Ambiguous	3
+Bouvard	2	12253	12253	PER	ses	61610	61613	ses	1	270	636	16	0	0	0	1504	12253	ses	det	12254	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	12269	12269	PER	sa	61689	61691	sa	1	270	636	32	0	0	0	1505	12269	sa	det	12270	DET	PRON	Singular	Ambiguous	3
+Bouvard	2	12276	12276	PER	Il	61733	61735	il	1	270	637	0	0	0	0	1506	12276	il	nsubj	12278	PRON	PRON	Singular	Male	3
+Bouvard	2	12296	12296	PER	il	61818	61820	il	1	270	637	20	0	0	0	1507	12296	il	nsubj	12297	PRON	PRON	Singular	Male	3

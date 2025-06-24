@@ -1,0 +1,1599 @@
+COREF_name	COREF	start_token	end_token	cat	sacr_text	byte_onset	byte_offset	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person
+krafft	60	25	26	PER	Les Krafft	117	127	les krafft	2	0	2	1	0	0	0	0	26	krafft	nsubj	28	PROPN	PROP	Plural	Not_Assigned	3
+anvers	52	30	30	GPE	Anvers	150	156	anvers	1	0	2	6	0	0	0	1	30	anvers	obl:arg	28	PROPN	PROP	Not_Assigned	Not_Assigned	3
+jean_michel	3	32	34	PER	Le vieux Jean-Michel	158	178	le vieux jean-michel	3	0	3	0	0	0	0	2	34	jean-michel	nsubj	36	PROPN	PROP	Singular	Male	3
+anvers	52	37	38	GPE	le pays	192	199	le pays	2	0	3	5	0	0	0	3	38	pays	obj	36	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	54	54	PER	il	264	266	il	1	0	3	22	0	0	0	4	54	il	nsubj	56	PRON	PRON	Singular	Male	3
+jean_michel	3	61	61	PER	il	291	293	il	1	0	3	29	0	0	0	5	61	il	nsubj	64	PRON	PRON	Singular	Male	3
+jean_michel	3	77	77	PER	Il	375	377	il	1	0	4	0	0	0	0	6	77	il	nsubj	79	PRON	PRON	Singular	Male	3
+M16	92	84	86	TIME	un demi-siècle avant	408	428	un demi-siècle avant	3	0	4	7	0	0	0	7	85	demi-siècle	obl:mod	86	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ville	13	89	92	GPE	la petite ville princière	435	460	la petite ville princière	4	0	4	12	0	0	0	8	91	ville	obl:arg	79	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ville	13	94	94	LOC	dont	462	466	dont	1	0	4	17	0	0	0	9	94	dont	nmod	96	PRON	PRON	Not_Assigned	Not_Assigned	4
+T151	139	102	113	FAC	les jardins ombreux, étagés sur la pente d'une molle colline	506	566	les jardins ombreux , étagés sur la pente d' une molle colline	12	0	4	25	0	1	1	10	103	jardins	conj	96	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T153	137	111	113	LOC	une molle colline	549	566	une molle colline	3	0	4	34	1	0	0	11	113	colline	nmod	109	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	122	124	PER	du Vater Rhein	602	616	du vater rhein	3	0	4	45	0	0	0	12	123	vater	nmod	119	PROPN	PROP	Singular	Not_Assigned	3
+jean_michel	3	129	129	PER	il	638	640	il	1	0	5	3	0	0	0	13	129	il	dep	134	PRON	PRON	Singular	Male	3
+ville	13	136	137	LOC	un pays	681	688	un pays	2	0	5	10	0	0	0	14	137	pays	obl:mod	134	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ville	13	138	138	LOC	où	689	691	où	1	0	5	12	0	0	0	15	138	où	iobj	140	PRON	PRON	Not_Assigned	Not_Assigned	3
+T154	123	139	139	PER	tous	692	696	tous	1	0	5	13	0	0	0	16	139	tous	nsubj	140	PRON	PRON	Plural	Ambiguous	3
+jean_michel	3	143	143	PER	Il	713	715	il	1	0	6	0	0	0	0	17	143	il	nsubj	146	PRON	PRON	Singular	Male	3
+ville	13	144	144	LOC	y	716	717	y	1	0	6	1	0	0	0	18	144	y	iobj	146	PRON	PRON	Not_Assigned	Not_Assigned	3
+clara_sartorius	11	156	157	PER	Clara Sartorius	772	787	clara sartorius	2	0	6	13	0	0	0	19	156	clara	obj	149	PROPN	PROP	Singular	Female	3
+pere_clara	19	161	166	PER	du maître de chapelle du prince	798	829	du maître de chapelle du prince	6	0	6	18	0	2	2	20	162	maître	nmod	160	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T170	125	164	166	FAC	chapelle du prince	811	829	chapelle du prince	3	0	6	21	1	1	1	21	166	prince	nmod	162	NOUN	NOM	Not_Assigned	Not_Assigned	3
+prince	38	165	166	PER	du prince	820	829	du prince	2	0	6	22	2	0	0	22	166	prince	nmod	162	NOUN	NOM	Singular	Male	3
+pere_clara	19	168	168	PER	qui	831	834	qui	1	0	6	25	0	0	0	23	168	qui	nsubj	170	PRON	PRON	Ambiguous	Ambiguous	4
+jean_michel	3	169	169	PER	lui	835	838	lui	1	0	6	26	0	0	0	24	169	lui	iobj	170	PRON	PRON	Singular	Ambiguous	3
+pere_clara	19	171	171	PER	sa	848	850	sa	1	0	6	28	0	0	0	25	171	sa	det	172	DET	PRON	Singular	Ambiguous	3
+clara_sartorius	11	174	174	PER	Clara	859	864	clara	1	0	7	0	0	0	0	26	174	clara	nsubj	177	PROPN	PROP	Singular	Female	3
+clara_sartorius	11	179	179	PER	qui	893	896	qui	1	0	7	5	0	0	0	27	179	qui	nsubj	180	PRON	PRON	Ambiguous	Ambiguous	4
+clara_sartorius	11	190	190	PER	Elle	945	949	elle	1	0	8	0	0	0	0	28	190	elle	nsubj	191	PRON	PRON	Singular	Female	3
+jean_michel	3	193	194	PER	son mari	959	967	son mari	2	0	8	3	0	1	1	29	194	mari	obl:mod	191	NOUN	NOM	Singular	Male	3
+clara_sartorius	11	193	193	PER	son	959	962	son	1	0	8	3	1	0	0	30	193	son	det	194	DET	PRON	Singular	Ambiguous	3
+clara_sartorius	11	202	202	PER	elle	1002	1006	elle	1	0	8	12	0	0	0	31	202	elle	nsubj	203	PRON	PRON	Singular	Female	3
+pere_clara	19	205	206	PER	son père	1018	1026	son père	2	0	8	15	0	1	1	32	206	père	obl:mod	203	NOUN	NOM	Singular	Male	3
+clara_sartorius	11	205	205	PER	son	1018	1021	son	1	0	8	15	1	0	0	33	205	son	det	206	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	208	208	PER	Jean-Michel	1028	1039	jean-michel	1	0	9	0	0	0	0	34	208	jean-michel	nsubj	210	PROPN	PROP	Singular	Male	3
+clara_sartorius	11	213	214	PER	sa femme	1061	1069	sa femme	2	0	9	5	0	1	1	35	214	femme	obj	210	NOUN	NOM	Singular	Female	3
+pere_clara	19	213	213	PER	sa	1061	1063	sa	1	0	9	5	1	0	0	36	213	sa	det	214	DET	PRON	Singular	Ambiguous	3
+clara_et_michel	55	216	216	PER	Ils	1071	1074	ils	1	0	10	0	0	0	0	37	216	ils	nsubj	218	PRON	PRON	Plural	Ambiguous	3
+M18	91	223	225	TIME	pendant quinze ans	1107	1125	pendant quinze ans	3	0	10	7	0	0	0	38	225	ans	obl:mod	218	NOUN	NOM	Not_Assigned	Not_Assigned	3
+clara_et_michel	55	228	228	PER	ils	1131	1134	ils	1	0	10	12	0	0	0	39	228	ils	nsubj	230	PRON	PRON	Plural	Ambiguous	3
+enfants_clara_et_michel	148	231	232	PER	quatre enfants	1146	1160	quatre enfants	2	0	10	15	0	0	0	40	232	enfants	obj	230	NOUN	NOM	Plural	Ambiguous	3
+clara_sartorius	11	235	235	PER	Clara	1167	1172	clara	1	0	11	1	0	0	0	41	235	clara	nsubj	237	PROPN	PROP	Singular	Female	3
+jean_michel	3	240	240	PER	Jean-Michel	1190	1201	jean-michel	1	0	11	6	0	0	0	42	240	jean-michel	nsubj	246	PROPN	PROP	Singular	Male	3
+clara_sartorius	11	243	243	PER	l	1209	1210	l'	1	0	11	9	0	0	0	43	243	l'	obj	246	PRON	PRON	Singular	Ambiguous	3
+M19	89	250	253	TIME	cinq mois plus tard	1248	1267	cinq mois plus tard	4	0	11	16	0	0	0	44	251	mois	obl:mod	252	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ottilie	15	254	255	PER	Ottilie Schutz	1268	1282	ottilie schutz	2	0	11	20	0	0	0	45	254	ottilie	obj	249	PROPN	PROP	Singular	Female	3
+ottilie	15	271	271	PER	Ottilie	1345	1352	ottilie	1	0	12	0	0	0	0	46	271	ottilie	nsubj	272	PROPN	PROP	Singular	Female	3
+clara_sartorius	11	278	278	PER	Clara	1388	1393	clara	1	0	12	7	0	0	0	47	278	clara	nmod	274	PROPN	PROP	Singular	Female	3
+jean_michel	3	281	281	PER	Jean-Michel	1398	1409	jean-michel	1	0	12	10	0	0	0	48	281	jean-michel	nsubj	284	PROPN	PROP	Singular	Male	3
+ottilie	15	282	282	PER	l	1410	1411	l'	1	0	12	11	0	0	0	49	282	l'	obj	284	PRON	PRON	Singular	Ambiguous	3
+M2	88	288	292	TIME	Après huit ans de mariage	1438	1463	après huit ans de mariage	5	0	13	0	0	0	0	50	290	ans	obl:mod	295	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ottilie	15	294	294	PER	elle	1465	1469	elle	1	0	13	6	0	0	0	51	294	elle	nsubj	295	PRON	PRON	Singular	Female	3
+ottilie	15	297	297	PER	son	1479	1482	son	1	0	13	9	0	0	0	52	297	son	det	298	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	307	307	PER	lui	1519	1522	lui	1	0	13	19	0	0	0	53	307	lui	iobj	308	PRON	PRON	Singular	Ambiguous	3
+enfants_michel_et_ottilie	146	309	310	PER	sept enfants	1529	1541	sept enfants	2	0	13	21	0	0	0	54	310	enfants	obj	308	NOUN	NOM	Plural	Ambiguous	3
+enfants_michel	32	315	316	PER	onze enfants	1553	1565	onze enfants	2	0	14	3	0	0	0	55	316	enfants	ROOT	316	NOUN	NOM	Plural	Ambiguous	3
+enfants_michel	32	318	318	PER	dont	1567	1571	dont	1	0	14	6	0	0	0	56	318	dont	nmod	322	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	319	320	PER	un seul	1572	1579	un seul	2	0	14	7	0	0	0	57	319	un	nsubj	322	PRON	PRON	Singular	Male	3
+jean_michel	3	326	326	PER	il	1603	1605	il	1	0	15	2	0	0	0	58	326	il	nsubj	328	PRON	PRON	Singular	Male	3
+enfants_michel	32	327	327	PER	les	1606	1609	les	1	0	15	3	0	0	0	59	327	les	obj	328	PRON	PRON	Plural	Ambiguous	3
+jean_michel	3	339	339	PER	sa	1665	1667	sa	1	0	15	15	0	0	0	60	339	sa	det	342	DET	PRON	Singular	Ambiguous	3
+ottilie	15	354	354	PER	Ottilie	1732	1739	ottilie	1	0	16	10	0	0	0	61	354	ottilie	nmod	352	PROPN	PROP	Singular	Female	3
+M20	87	356	360	TIME	il y avait trois ans	1741	1761	il y avait trois ans	5	0	16	12	0	0	0	62	360	ans	obl:mod	352	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	389	391	PER	le vieux Jean-Michel	1888	1908	le vieux jean-michel	3	0	17	7	0	0	0	63	391	jean-michel	nsubj	393	PROPN	PROP	Singular	Male	3
+jean_michel	3	394	394	PER	son	1922	1925	son	1	0	17	12	0	0	0	64	394	son	det	395	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	405	405	PER	lui	1979	1982	lui	1	0	17	23	0	0	0	65	405	lui	iobj	407	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	411	413	PER	un homme affectueux	2005	2024	un homme affectueux	3	0	18	2	0	0	0	66	412	homme	ROOT	412	NOUN	NOM	Singular	Male	3
+jean_michel	3	419	419	PER	lui	2046	2049	lui	1	0	18	10	0	0	0	67	419	lui	nmod	417	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	426	426	PER	Il	2077	2079	il	1	0	19	0	0	0	0	68	426	il	nsubj	427	PRON	PRON	Singular	Male	3
+jean_michel	3	454	454	PER	il	2220	2222	il	1	0	20	3	0	0	0	69	454	il	nsubj	455	PRON	PRON	Singular	Male	3
+jean_michel	3	457	457	PER	il	2228	2230	il	1	0	20	6	0	0	0	70	457	il	nsubj	460	PRON	PRON	Singular	Male	3
+jean_michel	3	486	486	PER	sa	2348	2350	sa	1	0	21	1	0	0	0	71	486	sa	det	487	DET	PRON	Singular	Ambiguous	3
+orchestre	25	489	493	ORG	l'orchestre de la Cour	2362	2384	l' orchestre de la cour	5	0	21	4	0	1	1	72	490	orchestre	nsubj	494	NOUN	NOM	Not_Assigned	Not_Assigned	3
+cour	56	492	493	ORG	la Cour	2377	2384	la cour	2	0	21	7	1	0	0	73	493	cour	nmod	490	NOUN	NOM	Not_Assigned	Not_Assigned	3
+villages_region	47	499	501	LOC	les pays rhénans	2418	2434	les pays rhénans	3	0	21	14	0	0	0	74	500	pays	obl:mod	494	NOUN	NOM	Not_Assigned	Not_Assigned	3
+villages_region	47	503	503	LOC	où	2436	2438	où	1	0	21	18	0	0	0	75	503	où	iobj	506	PRON	PRON	Not_Assigned	Not_Assigned	3
+jean_michel	3	504	504	PER	Jean-Michel	2439	2450	jean-michel	1	0	21	19	0	0	0	76	504	jean-michel	nsubj	506	PROPN	PROP	Singular	Male	3
+jean_michel	3	509	509	PER	sa	2479	2481	sa	1	0	21	24	0	0	0	77	509	sa	det	510	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	514	514	PER	ses	2508	2511	ses	1	0	21	29	0	0	0	78	514	ses	det	515	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	519	519	PER	Il	2529	2531	il	1	0	22	0	0	0	0	79	519	il	nsubj	521	PRON	PRON	Singular	Male	3
+jean_michel	3	526	526	PER	ses	2568	2571	ses	1	0	22	7	0	0	0	80	526	ses	det	527	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	530	532	PER	cet homme violent	2586	2603	cet homme violent	3	0	22	11	0	0	0	81	531	homme	nsubj	536	NOUN	NOM	Singular	Male	3
+jean_michel	3	543	543	PER	il	2659	2661	il	1	0	22	24	0	0	0	82	543	il	nsubj	544	PRON	PRON	Singular	Male	3
+jean_michel	3	553	553	PER	son	2709	2712	son	1	0	23	1	0	0	0	83	553	son	det	554	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	555	555	PER	l	2718	2719	l'	1	0	23	3	0	0	0	84	555	l'	obj	556	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	558	558	PER	il	2732	2734	il	1	0	23	6	0	0	0	85	558	il	nsubj	559	PRON	PRON	Singular	Male	3
+jean_michel	3	563	563	PER	il	2753	2755	il	1	0	23	11	0	0	0	86	563	il	nsubj:pass	565	PRON	PRON	Singular	Male	3
+orchestre	25	577	578	ORG	l'orchestre	2840	2851	l' orchestre	2	0	23	25	0	0	0	87	578	orchestre	nmod	575	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M21	40	581	583	TIME	en plein concert	2858	2874	en plein concert	3	0	23	29	0	0	0	88	583	concert	conj	569	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M21	40	585	585	TIME	où	2876	2878	où	1	0	23	33	0	0	0	89	585	où	iobj	589	PRON	PRON	Not_Assigned	Not_Assigned	3
+jean_michel	3	587	587	PER	lui	2882	2885	lui	1	0	23	35	0	0	0	90	587	lui	iobj	589	PRON	PRON	Singular	Ambiguous	3
+prince	38	592	593	PER	le prince	2907	2916	le prince	2	0	23	40	0	0	0	91	593	prince	obl:mod	589	NOUN	NOM	Singular	Male	3
+jean_michel	3	597	597	PER	son	2927	2930	son	1	0	23	45	0	0	0	92	597	son	det	598	DET	PRON	Singular	Ambiguous	3
+T423	124	610	613	PER	un de ses musiciens	2997	3016	un de ses musiciens	4	0	23	58	0	2	2	93	613	musiciens	nmod	610	NOUN	NOM	Singular	Not_Assigned	3
+T424	126	612	613	PER	ses musiciens	3003	3016	ses musiciens	2	0	23	60	1	1	1	94	613	musiciens	nmod	610	NOUN	NOM	Plural	Ambiguous	3
+jean_michel	3	612	612	PER	ses	3003	3006	ses	1	0	23	60	2	0	0	95	612	ses	det	613	DET	PRON	Singular	Ambiguous	3
+prince	38	622	623	PER	Le prince	3056	3065	le prince	2	0	24	0	0	0	0	96	623	prince	nsubj	626	NOUN	NOM	Singular	Male	3
+T425	127	629	633	PER	les artistes mis en cause	3086	3111	les artistes mis en cause	5	0	24	7	0	0	0	97	630	artistes	nsubj	635	NOUN	NOM	Plural	Not_Assigned	3
+jean_michel	3	634	634	PER	lui	3112	3115	lui	1	0	24	12	0	0	0	98	634	lui	iobj	635	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	641	641	PER	Jean-Michel	3144	3155	jean-michel	1	0	25	3	0	0	0	99	641	jean-michel	nsubj	649	PROPN	PROP	Singular	Male	3
+jean_michel	3	645	645	PER	son	3168	3171	son	1	0	25	7	0	0	0	100	645	son	det	646	DET	PRON	Singular	Ambiguous	3
+T426	128	651	654	TIME	l'instant d'après	3196	3213	l' instant d' après	4	0	25	13	0	0	0	101	652	instant	obl:mod	649	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M22	86	665	668	TIME	à la première occasion	3266	3288	à la première occasion	4	0	25	27	0	0	0	102	668	occasion	obl:mod	671	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	670	670	PER	il	3290	3292	il	1	0	25	32	0	0	0	103	670	il	nsubj	671	PRON	PRON	Singular	Male	3
+jean_michel	3	689	689	PER	sa	3389	3391	sa	1	0	25	51	0	0	0	104	689	sa	det	690	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	693	693	PER	Il	3412	3414	il	1	0	26	0	0	0	0	105	693	il	nsubj	695	PRON	PRON	Singular	Male	3
+jean_michel	3	696	696	PER	lui-même	3425	3433	lui-même	1	0	26	3	0	0	0	106	696	lui-même	dep	695	PRON	PRON	Singular	Male	3
+T428	42	700	701	TIME	un jour	3440	3447	un jour	2	0	26	7	0	0	0	107	701	jour	obl:mod	710	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T428	42	702	702	TIME	qu	3448	3450	qu'	1	0	26	9	0	0	0	108	702	qu'	mark	710	SCONJ	PRON	Not_Assigned	Not_Assigned	4
+jean_michel	3	705	705	PER	ses	3458	3461	ses	1	0	26	12	0	0	0	109	705	ses	det	706	DET	PRON	Singular	Ambiguous	3
+orchestre	25	715	716	ORG	l'orchestre	3512	3523	l' orchestre	2	0	26	22	0	0	0	110	716	orchestre	nmod	713	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	718	718	PER	il	3525	3527	il	1	0	26	25	0	0	0	111	718	il	nsubj	719	PRON	PRON	Singular	Male	3
+jean_michel	3	720	720	PER	sa	3535	3537	sa	1	0	26	27	0	0	0	112	720	sa	det	721	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	723	723	PER	Il	3549	3551	il	1	0	27	0	0	0	0	113	723	il	nsubj	724	PRON	PRON	Singular	Male	3
+jean_michel	3	727	727	PER	ses	3570	3573	ses	1	0	27	4	0	0	0	114	727	ses	det	728	DET	PRON	Singular	Ambiguous	3
+decisionnaires_orchestre	53	730	730	PER	on	3584	3586	on	1	0	27	7	0	0	0	115	730	on	nsubj	731	PRON	PRON	Ambiguous	Ambiguous	3
+decisionnaires_orchestre	53	739	739	PER	on	3630	3632	on	1	0	27	16	0	0	0	116	739	on	nsubj	741	PRON	PRON	Ambiguous	Ambiguous	3
+jean_michel	3	740	740	PER	le	3633	3635	le	1	0	27	17	0	0	0	117	740	le	obj	741	PRON	PRON	Singular	Male	3
+jean_michel	3	753	753	PER	il	3687	3689	il	1	0	27	30	0	0	0	118	753	il	nsubj	756	PRON	PRON	Singular	Male	3
+jean_michel	3	760	760	PER	son	3723	3726	son	1	0	27	37	0	0	0	119	760	son	det	761	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	763	763	PER	il	3734	3736	il	1	0	27	40	0	0	0	120	763	il	nsubj	764	PRON	PRON	Singular	Male	3
+jean_michel	3	778	778	PER	il	3804	3806	il	1	0	28	4	0	0	0	121	778	il	nsubj	780	PRON	PRON	Singular	Male	3
+T471	129	783	784	TIME	ses journées	3833	3845	ses journées	2	0	28	9	0	1	1	122	784	journées	obj	782	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	783	783	PER	ses	3833	3836	ses	1	0	28	9	1	0	0	123	783	ses	det	784	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	786	786	PER	Il	3847	3849	il	1	0	29	0	0	0	0	124	786	il	nsubj	787	PRON	PRON	Singular	Male	3
+jean_michel	3	793	793	PER	il	3887	3889	il	1	0	29	7	0	0	0	125	793	il	nsubj	795	PRON	PRON	Singular	Male	3
+jean_michel	3	798	798	PER	il	3915	3917	il	1	0	29	12	0	0	0	126	798	il	nsubj	799	PRON	PRON	Singular	Male	3
+ville	13	806	807	LOC	la ville	3960	3968	la ville	2	0	29	20	0	0	0	127	807	ville	obl:mod	804	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T473	114	809	810	TIME	du matin	3970	3978	du matin	2	0	29	23	0	0	0	128	810	matin	obl:mod	801	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T474	115	811	812	TIME	au soir	3979	3986	au soir	2	0	29	25	0	0	0	129	812	soir	nmod	810	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	827	827	PER	Il	4048	4050	il	1	0	30	0	0	0	0	130	827	il	nsubj	829	PRON	PRON	Singular	Male	3
+jean_michel	3	839	839	PER	il	4111	4113	il	1	0	30	12	0	0	0	131	839	il	nsubj	841	PRON	PRON	Singular	Male	3
+jean_michel	3	849	849	PER	il	4160	4162	il	1	0	30	22	0	0	0	132	849	il	nsubj	850	PRON	PRON	Singular	Male	3
+jean_michel	3	859	859	PER	Il	4224	4226	il	1	0	31	0	0	0	0	133	859	il	nsubj	860	PRON	PRON	Singular	Male	3
+jean_michel	3	863	863	PER	il	4244	4246	il	1	0	31	4	0	0	0	134	863	il	nsubj	865	PRON	PRON	Singular	Male	3
+jean_michel	3	869	869	PER	Il	4271	4273	il	1	0	32	0	0	0	0	135	869	il	nsubj	871	PRON	PRON	Singular	Male	3
+jean_michel	3	878	878	PER	il	4317	4319	il	1	0	32	9	0	0	0	136	878	il	nsubj	879	PRON	PRON	Singular	Male	3
+famille	33	888	889	PER	la famille	4363	4373	la famille	2	0	32	19	0	0	0	137	889	famille	nmod	886	NOUN	NOM	Plural	Ambiguous	3
+jean_michel	3	892	892	PER	lui	4380	4383	lui	1	0	33	1	0	0	0	138	892	lui	iobj	894	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	899	899	PER	il	4415	4417	il	1	0	33	8	0	0	0	139	899	il	nsubj	901	PRON	PRON	Singular	Male	3
+jean_michel	3	909	909	PER	Il	4467	4469	il	1	0	34	0	0	0	0	140	909	il	nsubj	910	PRON	PRON	Singular	Male	3
+jean_michel	3	923	923	PER	il	4532	4534	il	1	0	34	14	0	0	0	141	923	il	nsubj	924	PRON	PRON	Singular	Male	3
+jean_michel	3	932	932	PER	il	4578	4580	il	1	0	34	23	0	0	0	142	932	il	nsubj	935	PRON	PRON	Singular	Male	3
+jean_michel	3	938	938	PER	il	4601	4603	il	1	0	34	29	0	0	0	143	938	il	nsubj	940	PRON	PRON	Singular	Male	3
+jean_michel	3	951	951	PER	il	4661	4663	il	1	0	34	42	0	0	0	144	951	il	nsubj	952	PRON	PRON	Singular	Male	3
+jean_michel	3	957	957	PER	il	4698	4700	il	1	0	34	48	0	0	0	145	957	il	nsubj	958	PRON	PRON	Singular	Male	3
+jean_michel	3	978	978	PER	lui	4799	4802	lui	1	0	35	1	0	0	0	146	978	lui	iobj	982	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	985	985	PER	lui	4834	4837	lui	1	0	36	1	0	0	0	147	985	lui	iobj	986	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	991	991	PER	il	4866	4868	il	1	0	36	7	0	0	0	148	991	il	nsubj	992	PRON	PRON	Singular	Male	3
+jean_michel	3	995	995	PER	Il	4890	4892	il	1	0	37	0	0	0	0	149	995	il	nsubj	996	PRON	PRON	Singular	Male	3
+jean_michel	3	998	998	PER	sa	4903	4905	sa	1	0	37	3	0	0	0	150	998	sa	det	999	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1006	1006	PER	il	4943	4945	-il	1	0	37	11	0	0	0	151	1006	il	nsubj	1005	PRON	PRON	Singular	Male	3
+jean_michel	3	1019	1019	PER	il	5001	5003	-il	1	0	38	5	0	0	0	152	1019	il	case	1021	PRON	PRON	Singular	Male	3
+jean_michel	3	1026	1026	PER	il	5025	5027	il	1	0	38	12	0	0	0	153	1026	il	nsubj	1028	PRON	PRON	Singular	Male	3
+jean_michel	3	1037	1037	PER	ses	5074	5077	ses	1	0	38	23	0	0	0	154	1037	ses	det	1038	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1048	1048	PER	lui	5139	5142	lui	1	0	38	34	0	0	0	155	1048	lui	iobj	1050	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	1107	1107	PER	Jean-Michel	5454	5465	jean-michel	1	0	40	2	0	0	0	156	1107	jean-michel	nsubj	1108	PROPN	PROP	Singular	Male	3
+jean_michel	3	1113	1113	PER	Il	5495	5497	il	1	0	41	0	0	0	0	157	1113	il	nsubj	1115	PRON	PRON	Singular	Male	3
+jean_michel	3	1129	1129	PER	il	5571	5573	il	1	0	41	16	0	0	0	158	1129	il	nsubj	1131	PRON	PRON	Singular	Male	3
+jean_michel	3	1134	1134	PER	il	5596	5598	il	1	0	41	21	0	0	0	159	1134	il	nsubj	1137	PRON	PRON	Singular	Male	3
+jean_michel	3	1156	1156	PER	sa	5689	5691	sa	1	0	42	2	0	0	0	160	1156	sa	det	1157	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1160	1160	PER	il	5708	5710	il	1	0	42	6	0	0	0	161	1160	il	nsubj	1163	PRON	PRON	Singular	Male	3
+jean_michel	3	1168	1168	PER	il	5740	5742	il	1	0	42	14	0	0	0	162	1168	il	nsubj	1172	PRON	PRON	Singular	Male	3
+jean_michel	3	1175	1175	PER	lui-même	5765	5773	lui-même	1	0	42	21	0	0	0	163	1175	lui-même	obl:arg	1172	PRON	PRON	Singular	Male	3
+jean_michel	3	1177	1177	PER	il	5775	5777	il	1	0	42	23	0	0	0	164	1177	il	nsubj	1178	PRON	PRON	Singular	Male	3
+jean_michel	3	1186	1186	PER	il	5811	5813	il	1	0	42	32	0	0	0	165	1186	il	nsubj	1188	PRON	PRON	Singular	Male	3
+jean_michel	3	1190	1190	PER	lui	5831	5834	lui	1	0	42	36	0	0	0	166	1190	lui	obl:mod	1188	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	1194	1194	PER	lui	5844	5847	lui	1	0	42	40	0	0	0	167	1194	lui	iobj	1195	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	1202	1204	PER	Pauvre vieux homme	5876	5894	pauvre vieux homme	3	0	43	0	0	0	0	168	1204	homme	ROOT	1204	NOUN	NOM	Singular	Male	3
+jean_michel	3	1209	1209	PER	il	5906	5908	il	1	0	44	3	0	0	0	169	1209	il	nsubj	1211	PRON	PRON	Singular	Male	3
+jean_michel	3	1214	1214	PER	lui-même	5929	5937	lui-même	1	0	44	8	0	0	0	170	1214	lui-même	dep	1211	PRON	PRON	Singular	Male	3
+jean_michel	3	1223	1223	PER	lui	5965	5968	lui	1	0	45	4	0	0	0	171	1223	lui	obl:mod	1221	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	1347	1347	PER	Jean-Michel	6540	6551	jean-michel	1	0	52	0	0	0	0	172	1347	jean-michel	nsubj	1349	PROPN	PROP	Singular	Male	3
+jean_michel	3	1350	1350	PER	ses	6566	6569	ses	1	0	52	3	0	0	0	173	1350	ses	det	1351	DET	PRON	Singular	Ambiguous	3
+melchior	1	1353	1354	PER	son fils	6584	6592	son fils	2	0	52	6	0	1	1	174	1354	fils	obl:arg	1349	NOUN	NOM	Singular	Male	3
+jean_michel	3	1353	1353	PER	son	6584	6587	son	1	0	52	6	1	0	0	175	1353	son	det	1354	DET	PRON	Singular	Ambiguous	3
+melchior	1	1357	1357	PER	Melchior	6598	6606	melchior	1	0	52	10	0	0	0	176	1357	melchior	nsubj	1358	PROPN	PROP	Singular	Male	3
+melchior	1	1365	1365	PER	Il	6639	6641	il	1	0	53	0	0	0	0	177	1365	il	nsubj	1366	PRON	PRON	Singular	Male	3
+M1	64	1368	1370	TIME	dès l'enfance	6649	6662	dès l' enfance	3	0	53	3	0	0	0	178	1370	enfance	obl:mod	1366	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1379	1379	PER	Il	6696	6698	il	1	0	54	0	0	0	0	179	1379	il	nsubj	1380	PRON	PRON	Singular	Male	3
+melchior	1	1390	1390	PER	il	6758	6760	il	1	0	54	11	0	0	0	180	1390	il	nsubj	1391	PRON	PRON	Singular	Male	3
+melchior	1	1401	1401	PER	lui	6813	6816	lui	1	0	54	22	0	0	0	181	1401	lui	obl:arg	1399	PRON	PRON	Singular	Ambiguous	3
+M3	74	1402	1403	TIME	pendant longtemps	6817	6834	pendant longtemps	2	0	54	23	0	0	0	182	1402	pendant	case	1405	ADP	PRON	Not_Assigned	Not_Assigned	3
+cour	56	1413	1414	ORG	la cour	6878	6885	la cour	2	0	54	34	0	0	0	183	1414	cour	nmod	1411	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1416	1416	PER	Il	6887	6889	il	1	0	55	0	0	0	0	184	1416	il	nsubj	1417	PRON	PRON	Singular	Male	3
+melchior	1	1428	1428	PER	Il	6955	6957	il	1	0	56	0	0	0	0	185	1428	il	expl:subj	1430	PRON	PRON	Singular	Male	3
+allemagne	145	1449	1449	GPE	Allemagne	7039	7048	allemagne	1	0	56	21	0	0	0	186	1449	allemagne	obl:arg	1447	PROPN	PROP	Not_Assigned	Not_Assigned	3
+T490	122	1472	1475	LOC	des bords du Rhin	7163	7180	des bords du rhin	4	0	56	44	0	1	1	187	1473	bords	nmod	1471	NOUN	PROP	Not_Assigned	Not_Assigned	3
+rhin	22	1474	1475	LOC	du Rhin	7173	7180	du rhin	2	0	56	46	1	0	0	188	1475	rhin	nmod	1473	PROPN	PROP	Not_Assigned	Not_Assigned	3
+jean_michel	3	1477	1479	PER	Le vieux Jean-Michel	7182	7202	le vieux jean-michel	3	0	57	0	0	0	0	189	1479	jean-michel	nsubj	1480	PROPN	PROP	Singular	Male	3
+melchior	1	1484	1485	PER	son fils	7227	7235	son fils	2	0	57	7	0	1	1	190	1485	fils	nmod	1482	NOUN	NOM	Singular	Male	3
+jean_michel	3	1484	1484	PER	son	7227	7230	son	1	0	57	7	1	0	0	191	1484	son	det	1485	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1487	1487	PER	il	7238	7240	il	1	0	57	10	0	0	0	192	1487	il	nsubj	1490	PRON	PRON	Singular	Male	3
+melchior	1	1496	1497	PER	du virtuose	7283	7294	du virtuose	2	0	57	19	0	0	0	193	1497	virtuose	nmod	1493	NOUN	NOM	Singular	Not_Assigned	3
+jean_michel	3	1499	1499	PER	lui	7296	7299	lui	1	0	57	22	0	0	0	194	1499	lui	dep	1493	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	1500	1500	PER	qui	7300	7303	qui	1	0	57	23	0	0	0	195	1500	qui	nsubj	1504	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	1516	1516	PER	Melchior	7381	7389	melchior	1	0	58	5	0	0	0	196	1516	melchior	ROOT	1516	PROPN	PROP	Singular	Male	3
+melchior	1	1526	1526	PER	il	7431	7433	il	1	0	58	15	0	0	0	197	1526	il	nsubj	1527	PRON	PRON	Singular	Male	3
+melchior	1	1533	1533	PER	il	7461	7463	il	1	0	59	4	0	0	0	198	1533	il	nsubj	1535	PRON	PRON	Singular	Male	3
+melchior	1	1539	1539	PER	il	7485	7487	il	1	0	59	10	0	0	0	199	1539	il	nsubj	1543	PRON	PRON	Singular	Male	3
+melchior	1	1547	1547	PER	Il	7515	7517	il	1	0	60	0	0	0	0	200	1547	il	nsubj	1548	PRON	PRON	Singular	Male	3
+melchior	1	1594	1594	PER	lui	7737	7740	lui	1	0	61	8	0	0	0	201	1594	lui	obl:mod	1620	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1597	1597	PER	son	7749	7752	son	1	0	61	11	0	0	0	202	1597	son	det	1598	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1608	1608	PER	Jean-Michel	7803	7814	jean-michel	1	0	61	22	0	0	0	203	1608	jean-michel	obl:mod	1620	PROPN	PROP	Singular	Male	3
+melchior	1	1611	1611	PER	son	7823	7826	son	1	0	61	25	0	0	0	204	1611	son	det	1612	DET	PRON	Singular	Ambiguous	3
+M23	85	1637	1637	PER	gens	7964	7968	gens	1	0	61	51	0	0	0	205	1637	gens	obl:arg	1635	NOUN	NOM	Plural	Ambiguous	3
+krafft	60	1639	1641	PER	tous les Krafft	7973	7988	tous les krafft	3	0	61	53	0	0	0	206	1641	krafft	nsubj	1645	NOUN	NOM	Plural	Not_Assigned	3
+melchior	1	1649	1649	PER	lui	8021	8024	lui	1	0	62	2	0	0	0	207	1649	lui	iobj	1650	PRON	PRON	Singular	Ambiguous	3
+M10	65	1667	1667	PER	on	8116	8118	on	1	0	62	20	0	0	0	208	1667	on	nsubj	1669	PRON	PRON	Ambiguous	Ambiguous	3
+melchior	1	1668	1668	PER	lui	8119	8122	lui	1	0	62	21	0	0	0	209	1668	lui	iobj	1669	PRON	PRON	Singular	Ambiguous	3
+M11	62	1692	1692	PER	on	8220	8222	on	1	0	63	1	0	0	0	210	1692	on	nsubj	1694	PRON	PRON	Ambiguous	Ambiguous	3
+melchior	1	1729	1729	PER	Melchior	8403	8411	melchior	1	0	64	15	0	0	0	211	1729	melchior	nmod	1727	PROPN	PROP	Singular	Male	3
+melchior	1	1741	1741	PER	son	8450	8453	son	1	0	64	27	0	0	0	212	1741	son	det	1742	DET	PRON	Singular	Ambiguous	3
+melchior	1	1749	1749	PER	lui	8485	8488	lui	1	0	64	35	0	0	0	213	1749	lui	iobj	1750	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1754	1754	PER	lui	8510	8513	lui	1	0	64	40	0	0	0	214	1754	lui	iobj	1755	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1758	1758	PER	lui	8529	8532	lui	1	0	64	44	0	0	0	215	1758	lui	iobj	1759	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1765	1765	PER	il	8560	8562	il	1	0	64	51	0	0	0	216	1765	il	nsubj	1766	PRON	PRON	Singular	Male	3
+melchior	1	1769	1769	PER	son	8576	8579	son	1	0	65	1	0	0	0	217	1769	son	det	1771	DET	PRON	Singular	Ambiguous	3
+melchior	1	1783	1783	PER	siens	8646	8651	siens	1	0	65	15	0	0	0	218	1783	siens	conj	1773	PROPN	PRON	Not_Assigned	Ambiguous	3
+melchior	1	1786	1786	PER	il	8654	8656	il	1	0	65	18	0	0	0	219	1786	il	nsubj	1788	PRON	PRON	Singular	Male	3
+melchior	1	1794	1794	PER	Il	8686	8688	il	1	0	66	0	0	0	0	220	1794	il	nsubj	1795	PRON	PRON	Singular	Male	3
+melchior	1	1796	1796	PER	son	8698	8701	son	1	0	66	2	0	0	0	221	1796	son	det	1797	DET	PRON	Singular	Ambiguous	3
+melchior	1	1803	1803	PER	sa	8719	8721	sa	1	0	66	9	0	0	0	222	1803	sa	det	1804	DET	PRON	Singular	Ambiguous	3
+melchior	1	1810	1810	PER	il	8753	8755	il	1	0	66	16	0	0	0	223	1810	il	nsubj	1812	PRON	PRON	Singular	Male	3
+T509	31	1814	1816	PER	D'autres virtuoses	8767	8785	d' autres virtuoses	3	0	67	0	0	0	0	224	1816	virtuoses	nsubj	1817	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T509	31	1819	1819	PER	qui	8798	8801	qui	1	0	67	5	0	0	0	225	1819	qui	nsubj	1821	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	1820	1820	PER	lui	8802	8805	lui	1	0	67	6	0	0	0	226	1820	lui	iobj	1821	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1828	1828	PER	lui	8849	8852	lui	1	0	67	14	0	0	0	227	1828	lui	iobj	1830	PRON	PRON	Singular	Ambiguous	3
+melchior	1	1838	1838	PER	son	8891	8894	son	1	0	67	24	0	0	0	228	1838	son	det	1839	DET	PRON	Singular	Ambiguous	3
+melchior	1	1841	1841	PER	ses	8904	8907	ses	1	0	67	27	0	0	0	229	1841	ses	det	1842	DET	PRON	Singular	Ambiguous	3
+melchior	1	1845	1845	PER	le	8929	8931	le	1	0	67	31	0	0	0	230	1845	le	obj	1846	PRON	PRON	Singular	Male	3
+melchior	1	1848	1848	PER	Il	8944	8946	il	1	0	68	0	0	0	0	231	1848	il	nsubj	1850	PRON	PRON	Singular	Male	3
+T509	31	1855	1856	PER	ses rivaux	8982	8992	ses rivaux	2	0	68	7	0	1	1	232	1856	rivaux	obl:arg	1853	NOUN	NOM	Plural	Not_Assigned	3
+melchior	1	1855	1855	PER	ses	8982	8985	ses	1	0	68	7	1	0	0	233	1855	ses	det	1856	DET	PRON	Singular	Ambiguous	3
+T511	119	1858	1861	PER	ses compagnons de cabaret	8998	9023	ses compagnons de cabaret	4	0	68	10	0	1	2	234	1859	compagnons	obl:mod	1853	NOUN	NOM	Plural	Ambiguous	3
+melchior	1	1858	1858	PER	ses	8998	9001	ses	1	0	68	10	1	0	0	235	1858	ses	det	1859	DET	PRON	Singular	Ambiguous	3
+cabaret	150	1861	1861	FAC	cabaret	9016	9023	cabaret	1	0	68	13	1	0	0	236	1861	cabaret	nmod	1859	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1863	1863	PER	Il	9025	9027	il	1	0	69	0	0	0	0	237	1863	il	nsubj	1864	PRON	PRON	Singular	Male	3
+melchior	1	1867	1867	PER	son	9043	9046	son	1	0	69	4	0	0	0	238	1867	son	det	1869	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	1873	1874	PER	son père	9075	9083	son père	2	0	69	10	0	1	1	239	1874	père	obl:arg	1871	NOUN	NOM	Singular	Male	3
+melchior	1	1873	1873	PER	son	9075	9078	son	1	0	69	10	1	0	0	240	1873	son	det	1874	DET	PRON	Singular	Ambiguous	3
+T514	120	1881	1882	PER	un autre	9114	9122	un autre	2	0	69	18	0	0	0	241	1882	autre	nsubj:pass	1884	PRON	PRON	Singular	Male	3
+melchior	1	1886	1886	PER	Il	9134	9136	il	1	0	70	0	0	0	0	242	1886	il	nsubj	1888	PRON	PRON	Singular	Male	3
+jean_michel	3	1905	1907	PER	le vieux Krafft	9231	9246	le vieux krafft	3	0	71	6	0	0	0	243	1907	krafft	nsubj	1904	PROPN	PROP	Singular	Male	3
+melchior	1	1909	1909	PER	il	9248	9250	il	1	0	71	10	0	0	0	244	1909	il	nsubj	1910	PRON	PRON	Singular	Male	3
+melchior	1	1911	1911	PER	sa	9257	9259	sa	1	0	71	12	0	0	0	245	1911	sa	det	1912	DET	PRON	Singular	Ambiguous	3
+orchestre	25	1916	1917	ORG	l'orchestre	9278	9289	l' orchestre	2	0	71	17	0	0	0	246	1917	orchestre	obl:arg	1910	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1920	1920	PER	il	9297	9299	il	1	0	71	21	0	0	0	247	1920	il	nsubj	1921	PRON	PRON	Singular	Male	3
+melchior	1	1927	1927	PER	ses	9332	9335	ses	1	0	71	28	0	0	0	248	1927	ses	det	1928	DET	PRON	Singular	Ambiguous	3
+ville	13	1930	1930	LOC	ville	9346	9351	ville	1	0	71	31	0	0	0	249	1930	ville	obl:mod	1921	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1941	1941	PER	son	9392	9395	son	1	0	72	9	0	0	0	250	1941	son	det	1942	DET	PRON	Singular	Ambiguous	3
+melchior	1	1946	1946	PER	il	9410	9412	il	1	0	72	14	0	0	0	251	1946	il	nsubj	1950	PRON	PRON	Singular	Male	3
+melchior	1	1952	1952	PER	sa	9435	9437	sa	1	0	72	20	0	0	0	252	1952	sa	det	1953	DET	PRON	Singular	Ambiguous	3
+M4	67	1955	1957	TIME	Depuis quelques années	9446	9468	depuis quelques années	3	0	73	0	0	0	0	253	1957	années	obl:mod	1965	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M6	95	1987	1990	TIME	de jour en jour	9622	9637	de jour en jour	4	0	74	13	0	0	0	254	1988	jour	obl:mod	1986	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	1992	1992	PER	Melchior	9639	9647	melchior	1	0	75	0	0	0	0	255	1992	melchior	nsubj	1993	PROPN	PROP	Singular	Male	3
+melchior	1	1999	1999	PER	il	9678	9680	il	1	0	75	7	0	0	0	256	1999	il	nsubj	2002	PRON	PRON	Singular	Male	3
+melchior	1	2009	2009	PER	sa	9721	9723	sa	1	0	75	17	0	0	0	257	2009	sa	det	2010	DET	PRON	Singular	Ambiguous	3
+melchior	1	2012	2012	PER	son	9736	9739	son	1	0	75	20	0	0	0	258	2012	son	det	2013	DET	PRON	Singular	Ambiguous	3
+melchior	1	2015	2015	PER	Il	9749	9751	il	1	0	76	0	0	0	0	259	2015	il	nsubj	2021	PRON	PRON	Singular	Male	3
+melchior	1	2108	2108	PER	il	10153	10155	il	1	0	77	7	0	0	0	260	2108	il	nsubj	2111	PRON	PRON	Singular	Male	3
+melchior	1	2113	2113	PER	il	10175	10177	il	1	0	77	12	0	0	0	261	2113	il	nsubj	2115	PRON	PRON	Singular	Male	3
+melchior	1	2124	2124	PER	Il	10225	10227	il	1	0	78	0	0	0	0	262	2124	il	expl:subj	2127	PRON	PRON	Singular	Male	3
+famille	33	2186	2187	PER	la famille	10503	10513	la famille	2	0	81	8	0	0	0	263	2187	famille	nmod	2184	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	2194	2196	PER	le petit Christophe	10546	10565	le petit christophe	3	0	81	16	0	0	0	264	2196	christophe	nsubj	2197	PROPN	PROP	Singular	Male	3
+christophe	0	2206	2206	FAC	lui	10616	10619	lui	1	0	81	28	0	0	0	265	2206	lui	dep	2204	PRON	PRON	Not_Assigned	Not_Assigned	3
+christophe	0	2208	2208	PER	Il	10621	10623	il	1	0	82	0	0	0	0	266	2208	il	nsubj	2213	PRON	PRON	Singular	Male	3
+melchior	1	2215	2215	PER	Melchior	10650	10658	melchior	1	0	83	0	0	0	0	267	2215	melchior	nsubj	2216	PROPN	PROP	Singular	Male	3
+louisa	2	2220	2221	PER	sa femme	10679	10687	sa femme	2	0	83	5	0	1	1	268	2221	femme	obl:arg	2216	NOUN	NOM	Singular	Female	3
+melchior	1	2220	2220	PER	sa	10679	10681	sa	1	0	83	5	1	0	0	269	2220	sa	det	2221	DET	PRON	Singular	Ambiguous	3
+T685	121	2222	2223	TIME	chaque année	10688	10700	chaque année	2	0	83	7	0	0	0	270	2223	année	obl:mod	2216	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T686	117	2236	2236	PER	Deux	10754	10758	deux	1	0	84	0	0	0	0	271	2236	deux	nsubj	2238	PRON	PRON	Plural	Ambiguous	3
+deux_enfants_cadets	7	2243	2244	PER	Deux autres	10785	10796	deux autres	2	0	85	0	0	0	0	272	2244	autres	nsubj	2245	PRON	PRON	Plural	Ambiguous	3
+melchior	1	2251	2251	PER	Melchior	10826	10834	melchior	1	0	86	0	0	0	0	273	2251	melchior	nsubj	2255	PROPN	PROP	Singular	Male	3
+deux_enfants_cadets	7	2254	2254	PER	en	10840	10842	en	1	0	86	3	0	0	0	274	2254	en	iobj	2255	PRON	PRON	Ambiguous	Ambiguous	3
+louisa	2	2258	2258	PER	Louisa	10860	10866	louisa	1	0	87	0	0	0	0	275	2258	louisa	nsubj	2265	PROPN	PROP	Singular	Female	3
+deux_enfants_cadets	7	2264	2264	PER	les	10886	10889	les	1	0	87	6	0	0	0	276	2264	les	obj	2265	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2267	2267	PER	Christophe	10901	10911	christophe	1	0	87	9	0	0	0	277	2267	christophe	obl:arg	2265	PROPN	PROP	Singular	Male	3
+christophe	0	2269	2269	PER	qui	10913	10916	qui	1	0	87	11	0	0	0	278	2269	qui	nsubj	2270	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	2279	2279	PER	Christophe	10959	10969	christophe	1	0	88	4	0	0	0	279	2279	christophe	obl:arg	2277	PROPN	PROP	Singular	Male	3
+christophe	0	2282	2282	PER	il	10976	10978	il	1	0	88	7	0	0	0	280	2282	il	nsubj	2283	PRON	PRON	Singular	Male	3
+christophe	0	2289	2289	PER	ses	11012	11015	ses	1	0	88	14	0	0	0	281	2289	ses	det	2291	DET	PRON	Singular	Ambiguous	3
+T707	118	2293	2294	LOC	les champs	11039	11049	les champs	2	0	88	18	0	0	0	282	2294	champs	obl:mod	2284	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	2297	2297	PER	il	11056	11058	il	1	0	89	1	0	0	0	283	2297	il	nsubj	2299	PRON	PRON	Singular	Male	3
+M5	130	2301	2301	PER	on	11073	11075	on	1	0	89	5	0	0	0	284	2301	on	nsubj	2303	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	2302	2302	PER	le	11076	11078	le	1	0	89	6	0	0	0	285	2302	le	obj	2303	PRON	PRON	Singular	Male	3
+christophe	0	2308	2308	PER	il	11100	11102	il	1	0	89	12	0	0	0	286	2308	il	nsubj	2310	PRON	PRON	Singular	Male	3
+christophe	0	2312	2312	PER	sa	11119	11121	sa	1	0	89	16	0	0	0	287	2312	sa	det	2313	DET	PRON	Singular	Ambiguous	3
+christophe	0	2316	2316	PER	Il	11139	11141	il	1	0	90	0	0	0	0	288	2316	il	nsubj	2317	PRON	PRON	Singular	Male	3
+christophe	0	2319	2319	PER	son	11153	11156	son	1	0	90	3	0	0	0	289	2319	son	det	2320	DET	PRON	Singular	Ambiguous	3
+deux_enfants_cadets	7	2321	2322	PER	les petits	11163	11173	les petits	2	0	90	5	0	0	0	290	2322	petits	obj	2317	NOUN	NOM	Plural	Ambiguous	3
+deux_enfants_cadets	7	2325	2325	PER	leur	11178	11182	leur	1	0	90	9	0	0	0	291	2325	leur	iobj	2326	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2327	2327	PER	ses	11192	11195	ses	1	0	90	11	0	0	0	292	2327	ses	det	2328	DET	PRON	Singular	Ambiguous	3
+christophe	0	2331	2331	PER	il	11206	11208	il	1	0	90	15	0	0	0	293	2331	il	nsubj	2333	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2335	2335	PER	leur	11224	11228	leur	1	0	90	19	0	0	0	294	2335	leur	iobj	2336	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2339	2339	PER	il	11243	11245	il	1	0	90	23	0	0	0	295	2339	il	nsubj	2341	PRON	PRON	Singular	Male	3
+louisa	2	2342	2343	PER	sa mère	11260	11267	sa mère	2	0	90	26	0	1	1	296	2343	mère	obj	2341	NOUN	NOM	Singular	Female	3
+christophe	0	2342	2342	PER	sa	11260	11262	sa	1	0	90	26	1	0	0	297	2342	sa	det	2343	DET	PRON	Singular	Ambiguous	3
+T541	17	2346	2347	PER	le bébé	11280	11287	le bébé	2	0	90	30	0	0	0	298	2347	bébé	obl:arg	2344	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	2351	2351	PER	il	11297	11299	il	1	0	91	2	0	0	0	299	2351	il	nsubj	2353	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2352	2352	PER	les	11300	11303	les	1	0	91	3	0	0	0	300	2352	les	obj	2353	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2355	2355	PER	ses	11317	11320	ses	1	0	91	6	0	0	0	301	2355	ses	det	2356	DET	PRON	Singular	Ambiguous	3
+T541	17	2358	2359	PER	l'un	11327	11331	l' un	2	0	91	9	0	0	0	302	2359	un	obl:mod	2353	PRON	PRON	Singular	Male	3
+T541	17	2361	2362	PER	l'autre	11338	11345	l' autre	2	0	91	12	0	0	0	303	2362	autre	nmod	2359	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2365	2365	PER	il	11353	11355	il	1	0	91	16	0	0	0	304	2365	il	nsubj	2367	PRON	PRON	Singular	Male	3
+christophe	0	2370	2370	PER	il	11373	11375	il	1	0	91	21	0	0	0	305	2370	il	nsubj	2371	PRON	PRON	Singular	Male	3
+christophe	0	2383	2383	PER	sa	11440	11442	sa	1	0	91	34	0	0	0	306	2383	sa	det	2384	DET	PRON	Singular	Ambiguous	3
+T541	17	2385	2387	PER	le petit être	11449	11462	le petit être	3	0	91	36	0	0	0	307	2387	être	obj	2380	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	2389	2389	PER	sa	11470	11472	sa	1	0	91	40	0	0	0	308	2389	sa	det	2390	DET	PRON	Singular	Ambiguous	3
+T541	17	2394	2394	PER	il	11491	11493	il	1	0	91	45	0	0	0	309	2394	il	nsubj	2396	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2399	2400	PER	Les petits	11509	11519	les petits	2	0	92	0	0	0	0	310	2400	petits	nsubj	2401	ADJ	NOM	Plural	Ambiguous	3
+deux_enfants_cadets	7	2406	2406	PER	ils	11552	11555	ils	1	0	92	7	0	0	0	311	2406	ils	nsubj	2411	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2415	2415	PER	Christophe	11591	11601	christophe	1	0	92	16	0	0	0	312	2415	christophe	nsubj	2417	PROPN	PROP	Singular	Male	3
+deux_enfants_cadets	7	2427	2427	PER	Ils	11650	11653	ils	1	0	93	0	0	0	0	313	2427	ils	nsubj	2429	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2428	2428	PER	lui	11654	11657	lui	1	0	93	1	0	0	0	314	2428	lui	iobj	2429	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2435	2435	PER	il	11684	11686	il	1	0	93	8	0	0	0	315	2435	il	nsubj:pass	2439	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2441	2441	PER	eux	11719	11722	eux	1	0	93	14	0	0	0	316	2441	eux	obl:arg	2439	PRON	PRON	Plural	Ambiguous	3
+deux_enfants_cadets	7	2443	2443	PER	Ils	11724	11727	ils	1	0	94	0	0	0	0	317	2443	ils	nsubj	2445	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2452	2452	PER	Christophe	11778	11788	christophe	1	0	95	0	0	0	0	318	2452	christophe	nsubj	2454	PROPN	PROP	Singular	Male	3
+deux_enfants_cadets	7	2458	2458	PER	Ils	11810	11813	ils	1	0	96	0	0	0	0	319	2458	ils	nsubj	2459	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2461	2461	PER	lui	11827	11830	lui	1	0	96	3	0	0	0	320	2461	lui	obl:arg	2459	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2463	2463	PER	Il	11832	11834	il	1	0	97	0	0	0	0	321	2463	il	nsubj	2464	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2468	2468	PER	les	11858	11861	les	1	0	97	5	0	0	0	322	2468	les	obj	2469	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2472	2472	PER	il	11876	11878	il	1	0	97	9	0	0	0	323	2472	il	nsubj	2473	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	2476	2476	PER	Ils	11891	11894	ils	1	0	97	13	0	0	0	324	2476	ils	nsubj	2478	PRON	PRON	Plural	Ambiguous	3
+deux_enfants_cadets	7	2480	2480	PER	ils	11908	11911	ils	1	0	97	17	0	0	0	325	2480	ils	nsubj	2482	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2487	2487	PER	il	11933	11935	il	1	0	97	24	0	0	0	326	2487	il	nsubj	2489	PRON	PRON	Singular	Male	3
+ernst	10	2499	2499	PER	Ernst	11993	11998	ernst	1	0	98	0	0	0	0	327	2499	ernst	nsubj	2500	PROPN	PROP	Singular	Male	3
+ernst	10	2504	2504	PER	il	12019	12021	il	1	0	98	5	0	0	0	328	2504	il	nsubj	2505	PRON	PRON	Singular	Male	3
+ernst	10	2507	2507	PER	il	12034	12036	il	1	0	98	8	0	0	0	329	2507	il	nsubj	2509	PRON	PRON	Singular	Male	3
+ernst	10	2513	2513	PER	c	12060	12061	c'	1	0	98	14	0	0	0	330	2513	c'	nsubj	2516	PRON	PRON	Ambiguous	Ambiguous	3
+ernst	10	2515	2517	PER	un enfant nerveux	12068	12085	un enfant nerveux	3	0	98	16	0	0	0	331	2516	enfant	advcl	2505	NOUN	NOM	Singular	Male	3
+louisa	2	2520	2520	PER	Louisa	12090	12096	louisa	1	0	98	21	0	0	0	332	2520	louisa	nsubj	2522	PROPN	PROP	Singular	Female	3
+christophe	0	2524	2524	PER	Christophe	12116	12126	christophe	1	0	98	25	0	0	0	333	2524	christophe	obl:arg	2522	PROPN	PROP	Singular	Male	3
+ernst	10	2529	2529	PER	ses	12148	12151	ses	1	0	98	30	0	0	0	334	2529	ses	det	2530	DET	PRON	Singular	Ambiguous	3
+rodolphe	20	2534	2534	PER	Rodolphe	12170	12178	rodolphe	1	0	99	2	0	0	0	335	2534	rodolphe	obl:mod	2540	PROPN	PROP	Singular	Male	3
+rodolphe	20	2536	2536	PER	il	12180	12182	il	1	0	99	4	0	0	0	336	2536	il	nsubj	2540	PRON	PRON	Singular	Male	3
+rodolphe	20	2544	2544	PER	il	12213	12215	il	1	0	99	12	0	0	0	337	2544	il	nsubj	2545	PRON	PRON	Singular	Male	3
+christophe	0	2550	2550	PER	Christophe	12245	12255	christophe	1	0	99	18	0	0	0	338	2550	christophe	nsubj	2551	PROPN	PROP	Singular	Male	3
+ernst	10	2552	2552	PER	Ernst	12262	12267	ernst	1	0	99	20	0	0	0	339	2552	ernst	obj	2551	PROPN	PROP	Singular	Male	3
+christophe	0	2560	2560	PER	son	12302	12305	son	1	0	99	28	0	0	0	340	2560	son	det	2561	DET	PRON	Singular	Ambiguous	3
+rodolphe	20	2567	2567	PER	il	12342	12344	il	1	0	99	35	0	0	0	341	2567	il	nsubj	2568	PRON	PRON	Singular	Male	3
+rodolphe	20	2577	2577	PER	sa	12393	12395	sa	1	0	99	45	0	0	0	342	2577	sa	det	2578	DET	PRON	Singular	Ambiguous	3
+louisa	2	2596	2596	PER	Louisa	12481	12487	louisa	1	0	100	4	0	0	0	343	2596	louisa	nsubj	2597	PROPN	PROP	Singular	Female	3
+christophe	0	2603	2603	PER	Christophe	12522	12532	christophe	1	0	100	11	0	0	0	344	2603	christophe	obj	2602	PROPN	PROP	Singular	Male	3
+louisa	2	2605	2605	PER	elle	12534	12538	elle	1	0	100	13	0	0	0	345	2605	elle	nsubj	2607	PRON	PRON	Singular	Female	3
+christophe	0	2606	2606	PER	lui	12539	12542	lui	1	0	100	14	0	0	0	346	2606	lui	iobj	2607	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2610	2610	PER	le	12556	12558	le	1	0	100	18	0	0	0	347	2610	le	obj	2611	PRON	PRON	Singular	Male	3
+christophe	0	2625	2627	PER	Mon pauvre garçon	12616	12633	mon pauvre garçon	3	0	100	33	0	1	1	348	2627	garçon	obl:mod	2634	NOUN	NOM	Singular	Male	3
+louisa	2	2625	2625	PER	Mon	12616	12619	mon	1	0	100	33	1	0	0	349	2625	mon	det	2627	DET	PRON	Singular	Ambiguous	1
+christophe	0	2629	2629	PER	tu	12635	12637	tu	1	0	100	37	0	0	0	350	2629	tu	nsubj	2634	PRON	PRON	Singular	Ambiguous	2
+christophe	0	2636	2636	PER	Christophe	12660	12670	christophe	1	0	101	0	0	0	0	351	2636	christophe	nsubj:pass	2638	PROPN	PROP	Singular	Male	3
+christophe	0	2641	2641	PER	il	12690	12692	il	1	0	101	5	0	0	0	352	2641	il	nsubj	2642	PRON	PRON	Singular	Male	3
+louisa	2	2647	2647	PER	Louisa	12713	12719	louisa	1	0	102	0	0	0	0	353	2647	louisa	nsubj	2662	PROPN	PROP	Singular	Female	3
+louisa	2	2649	2649	PER	qui	12721	12724	qui	1	0	102	2	0	0	0	354	2649	qui	nsubj	2651	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	2681	2681	PER	Melchior	12903	12911	melchior	1	0	103	0	0	0	0	355	2681	melchior	nsubj	2682	PROPN	PROP	Singular	Male	3
+melchior	1	2691	2691	PER	son	12958	12961	son	1	0	103	10	0	0	0	356	2691	son	det	2692	DET	PRON	Singular	Ambiguous	3
+melchior	1	2697	2697	PER	il	12982	12984	il	1	0	103	16	0	0	0	357	2697	il	nsubj:pass	2701	PRON	PRON	Singular	Male	3
+louisa	2	2703	2703	PER	elle	13006	13010	elle	1	0	103	22	0	0	0	358	2703	elle	nsubj	2705	PRON	PRON	Singular	Female	3
+melchior	1	2709	2709	PER	il	13027	13029	il	1	0	103	28	0	0	0	359	2709	il	nsubj	2711	PRON	PRON	Singular	Male	3
+christophe	0	2713	2715	PER	Le petit Christophe	13038	13057	le petit christophe	3	0	104	0	0	0	0	360	2715	christophe	nsubj	2717	PROPN	PROP	Singular	Male	3
+christophe	0	2727	2727	PER	il	13113	13115	il	1	0	104	14	0	0	0	361	2727	il	nsubj	2729	PRON	PRON	Singular	Male	3
+christophe	0	2734	2734	PER	sa	13150	13152	sa	1	0	104	21	0	0	0	362	2734	sa	det	2735	DET	PRON	Singular	Ambiguous	3
+melchior_et_louisa	8	2739	2740	PER	ses parents	13174	13185	ses parents	2	0	104	26	0	1	1	363	2740	parents	nmod	2737	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	2739	2739	PER	ses	13174	13177	ses	1	0	104	26	1	0	0	364	2739	ses	det	2740	DET	PRON	Singular	Ambiguous	3
+melchior_et_louisa	8	2750	2750	PER	on	13224	13226	on	1	0	104	37	0	0	0	365	2750	on	nsubj	2752	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	2751	2751	PER	le	13227	13229	le	1	0	104	38	0	0	0	366	2751	le	obj	2752	PRON	PRON	Singular	Male	3
+christophe	0	2760	2760	PER	il	13270	13272	il	1	0	104	47	0	0	0	367	2760	il	nsubj	2762	PRON	PRON	Singular	Male	3
+christophe	0	2774	2774	PER	il	13334	13336	il	1	0	104	61	0	0	0	368	2774	il	nsubj	2775	PRON	PRON	Singular	Male	3
+christophe	0	2777	2777	PER	Il	13346	13348	il	1	0	105	0	0	0	0	369	2777	il	nsubj	2779	PRON	PRON	Singular	Male	3
+christophe	0	2794	2794	PER	il	13425	13427	il	1	0	105	17	0	0	0	370	2794	il	nsubj	2798	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	2800	2801	PER	ses parents	13451	13462	ses parents	2	0	105	23	0	1	1	371	2801	parents	nsubj	2806	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	2800	2800	PER	ses	13451	13454	ses	1	0	105	23	1	0	0	372	2800	ses	det	2801	DET	PRON	Singular	Ambiguous	3
+melchior_et_louisa	8	2808	2810	PER	eux-mêmes	13500	13509	eux - mêmes	3	0	105	31	0	0	0	373	2808	eux	nmod	2806	PRON	PRON	Not_Assigned	Not_Assigned	3
+T745	26	2812	2813	TIME	Le jour	13511	13518	le jour	2	0	106	0	0	0	0	374	2813	jour	obl:mod	2855	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T745	26	2814	2814	TIME	où	13519	13521	où	1	0	106	2	0	0	0	375	2814	où	iobj	2816	PRON	PRON	Not_Assigned	Not_Assigned	3
+christophe	0	2815	2815	PER	il	13522	13524	il	1	0	106	3	0	0	0	376	2815	il	nsubj	2816	PRON	PRON	Singular	Male	3
+T747	44	2828	2829	PER	des gens	13587	13595	des gens	2	0	106	16	0	0	0	377	2829	gens	obj	2824	NOUN	NOM	Plural	Ambiguous	3
+T747	44	2830	2830	PER	qui	13596	13599	qui	1	0	106	18	0	0	0	378	2830	qui	nsubj	2831	PRON	PRON	Ambiguous	Ambiguous	4
+T750	45	2833	2834	PER	des gens	13614	13622	des gens	2	0	106	21	0	0	0	379	2834	gens	conj	2829	NOUN	NOM	Plural	Ambiguous	3
+T750	45	2835	2835	PER	qui	13623	13626	qui	1	0	106	23	0	0	0	380	2835	qui	nsubj:pass	2837	PRON	PRON	Ambiguous	Ambiguous	4
+christophe_et_parents	152	2841	2844	PER	les siens et lui	13650	13666	les siens et lui	4	0	106	29	0	2	3	381	2842	siens	nsubj	2849	PRON	PRON	Plural	Ambiguous	3
+melchior_et_louisa	8	2841	2842	PER	les siens	13650	13659	les siens	2	0	106	29	1	1	1	382	2842	siens	nsubj	2849	PRON	PRON	Plural	Ambiguous	3
+christophe	0	2842	2842	PER	siens	13654	13659	siens	1	0	106	30	2	0	0	383	2842	siens	nsubj	2849	PRON	PRON	Not_Assigned	Ambiguous	3
+christophe	0	2844	2844	PER	lui	13663	13666	lui	1	0	106	32	1	0	0	384	2844	lui	conj	2842	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2852	2852	PER	son	13700	13703	son	1	0	106	40	0	0	0	385	2852	son	det	2853	DET	PRON	Singular	Ambiguous	3
+christophe	0	2863	2863	PER	sa	13748	13750	sa	1	0	106	51	0	0	0	386	2863	sa	det	2864	DET	PRON	Singular	Ambiguous	3
+T745	26	2866	2868	TIME	Ce jour-là	13756	13766	ce jour -là	3	0	107	0	0	0	0	387	2867	jour	obl:mod	2874	NOUN	NOM	Not_Assigned	Not_Assigned	3
+louisa	2	2870	2871	PER	sa mère	13768	13775	sa mère	2	0	107	4	0	1	1	388	2871	mère	nsubj	2874	NOUN	NOM	Singular	Female	3
+christophe	0	2870	2870	PER	sa	13768	13770	sa	1	0	107	4	1	0	0	389	2870	sa	det	2871	DET	PRON	Singular	Ambiguous	3
+christophe	0	2872	2872	PER	lui	13776	13779	lui	1	0	107	6	0	0	0	390	2872	lui	iobj	2874	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2875	2875	PER	ses	13790	13793	ses	1	0	107	9	0	0	0	391	2875	ses	det	2876	DET	PRON	Singular	Ambiguous	3
+louisa	2	2891	2891	PER	Louisa	13873	13879	louisa	1	0	107	25	0	0	0	392	2891	louisa	nmod	2889	PROPN	PROP	Singular	Female	3
+christophe	0	2897	2897	PER	Il	13902	13904	il	1	0	108	0	0	0	0	393	2897	il	nsubj	2898	PRON	PRON	Singular	Male	3
+louisa	2	2899	2899	PER	la	13910	13912	la	1	0	108	2	0	0	0	394	2899	la	obj	2900	PRON	PRON	Singular	Female	3
+louisa	2	2903	2903	PER	elle	13930	13934	elle	1	0	108	6	0	0	0	395	2903	elle	nsubj	2907	PRON	PRON	Singular	Female	3
+christophe	0	2905	2905	PER	lui	13938	13941	lui	1	0	108	8	0	0	0	396	2905	lui	iobj	2907	PRON	PRON	Singular	Ambiguous	3
+maison_travail	58	2910	2911	FAC	la maison	13958	13967	la maison	2	0	108	13	0	0	0	397	2911	maison	obl:mod	2900	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison_travail	58	2912	2912	FAC	où	13968	13970	où	1	0	108	15	0	0	0	398	2912	où	iobj	2914	PRON	PRON	Not_Assigned	Not_Assigned	3
+louisa	2	2913	2913	PER	elle	13971	13975	elle	1	0	108	16	0	0	0	399	2913	elle	nsubj	2914	PRON	PRON	Singular	Female	3
+christophe	0	2916	2916	PER	Il	13989	13991	il	1	0	109	0	0	0	0	400	2916	il	nsubj:pass	2918	PRON	PRON	Singular	Male	3
+valet	35	2927	2928	PER	Un valet	14032	14040	un valet	2	0	110	0	0	0	0	401	2928	valet	nsubj	2929	NOUN	NOM	Singular	Male	3
+T760	116	2931	2932	FAC	le porche	14054	14063	le porche	2	0	110	4	0	0	0	402	2932	porche	obl:mod	2929	NOUN	NOM	Not_Assigned	Not_Assigned	3
+valet	35	2934	2934	PER	il	14066	14068	il	1	0	110	7	0	0	0	403	2934	il	nsubj	2935	PRON	PRON	Singular	Male	3
+christophe	0	2936	2937	PER	l'enfant	14076	14084	l' enfant	2	0	110	9	0	0	0	404	2937	enfant	obj	2935	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	2939	2939	PER	lui	14088	14091	lui	1	0	110	12	0	0	0	405	2939	lui	iobj	2940	PRON	PRON	Singular	Ambiguous	3
+christophe	0	2947	2947	PER	il	14126	14128	il	1	0	110	20	0	0	0	406	2947	il	nsubj	2948	PRON	PRON	Singular	Male	3
+christophe	0	2951	2951	PER	Christophe	14143	14153	christophe	1	0	111	0	0	0	0	407	2951	christophe	nsubj	2952	PROPN	PROP	Singular	Male	3
+christophe	0	2956	2956	PER	il	14180	14182	il	1	0	111	5	0	0	0	408	2956	il	nsubj	2957	PRON	PRON	Singular	Male	3
+louisa	2	2960	2961	PER	madame Krafft	14197	14210	madame krafft	2	0	111	9	0	0	0	409	2960	madame	obj	2958	NOUN	PROP	Singular	Female	3
+M7	96	2967	2967	PER	on	14225	14227	on	1	0	111	16	0	0	0	410	2967	on	nsubj	2971	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	2969	2969	PER	lui	14231	14234	lui	1	0	111	18	0	0	0	411	2969	lui	iobj	2971	PRON	PRON	Singular	Ambiguous	3
+louisa	2	2976	2977	PER	Madame Krafft	14263	14276	madame krafft	2	0	112	1	0	0	0	412	2976	madame	ROOT	2976	NOUN	PROP	Singular	Female	3
+christophe	0	2983	2983	PER	tu	14293	14295	tu	1	0	113	4	0	0	0	413	2983	tu	nsubj	2985	PRON	PRON	Singular	Ambiguous	2
+louisa	2	2984	2984	PER	lui	14296	14299	lui	1	0	113	5	0	0	0	414	2984	lui	iobj	2985	PRON	PRON	Singular	Ambiguous	3
+louisa	2	2988	2989	PER	madame Krafft	14308	14321	madame krafft	2	0	113	9	0	0	0	415	2988	madame	obl:mod	2985	NOUN	PROP	Singular	Female	3
+valet	35	2993	2994	PER	le domestique	14335	14348	le domestique	2	0	114	2	0	0	0	416	2994	domestique	nsubj	2992	NOUN	NOM	Singular	Male	3
+louisa	2	3006	3006	PER	C	14398	14399	c'	1	0	115	1	0	0	0	417	3006	c'	nsubj	3009	PRON	PRON	Ambiguous	Ambiguous	3
+louisa	2	3008	3009	PER	ta mère	14404	14411	ta mère	2	0	115	3	0	1	1	418	3009	mère	ROOT	3009	NOUN	NOM	Singular	Female	3
+christophe	0	3008	3008	PER	ta	14404	14406	ta	1	0	115	3	1	0	0	419	3008	ta	det	3009	DET	PRON	Singular	Ambiguous	2
+christophe	0	3014	3014	PER	Tu	14424	14426	tu	1	0	117	0	0	0	0	420	3014	tu	nsubj	3015	PRON	PRON	Singular	Ambiguous	2
+louisa	2	3016	3016	PER	Louisa	14437	14443	louisa	1	0	117	2	0	0	0	421	3016	louisa	obj	3015	PROPN	PROP	Singular	Female	3
+cuisine_travail	34	3018	3019	FAC	la cuisine	14446	14456	la cuisine	2	0	117	4	0	0	0	422	3019	cuisine	obl:mod	3015	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T770	112	3023	3024	FAC	du corridor	14466	14477	du corridor	2	0	117	9	0	0	0	423	3024	corridor	nmod	3022	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	3026	3026	PER	Il	14479	14481	il	1	0	118	0	0	0	0	424	3026	il	nsubj	3027	PRON	PRON	Singular	Male	3
+christophe	0	3035	3035	PER	il	14512	14514	il	1	0	118	9	0	0	0	425	3035	il	nsubj	3036	PRON	PRON	Singular	Male	3
+louisa	2	3041	3042	PER	sa mère	14546	14553	sa mère	2	0	118	15	0	1	1	426	3042	mère	obj	3040	NOUN	NOM	Singular	Female	3
+christophe	0	3041	3041	PER	sa	14546	14548	sa	1	0	118	15	1	0	0	427	3041	sa	det	3042	DET	PRON	Singular	Ambiguous	3
+louisa	2	3045	3045	PER	Louisa	14570	14576	louisa	1	0	118	19	0	0	0	428	3045	louisa	appos	3040	PROPN	PROP	Singular	Female	3
+christophe	0	3047	3047	PER	Il	14578	14580	il	1	0	119	0	0	0	0	429	3047	il	nsubj:pass	3049	PRON	PRON	Singular	Male	3
+christophe	0	3051	3051	PER	il	14597	14599	il	1	0	119	4	0	0	0	430	3051	il	nsubj	3053	PRON	PRON	Singular	Male	3
+rhin	22	3058	3060	LOC	son cher fleuve	14628	14643	son cher fleuve	3	0	119	11	0	1	1	431	3060	fleuve	obl:arg	3056	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	3058	3058	PER	son	14628	14631	son	1	0	119	11	1	0	0	432	3058	son	det	3060	DET	PRON	Singular	Ambiguous	3
+M9	49	3066	3066	LOC	buissons	14658	14666	buissons	1	0	119	19	0	0	0	433	3066	buissons	nmod	3064	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M9	49	3068	3068	LOC	où	14668	14670	où	1	0	119	21	0	0	0	434	3068	où	iobj	3071	PRON	PRON	Not_Assigned	Not_Assigned	3
+christophe	0	3069	3069	PER	il	14671	14673	il	1	0	119	22	0	0	0	435	3069	il	nsubj	3071	PRON	PRON	Singular	Male	3
+cuisine_travail	34	3076	3077	FAC	la cuisine	14705	14715	la cuisine	2	0	120	1	0	0	0	436	3077	cuisine	obl:mod	3080	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	3079	3079	PER	il	14717	14719	il	1	0	120	4	0	0	0	437	3079	il	nsubj	3080	PRON	PRON	Singular	Male	3
+autres_domestiques	21	3084	3085	PER	autres domestiques	14738	14756	autres domestiques	2	0	120	9	0	0	0	438	3085	domestiques	nmod	3082	NOUN	NOM	Plural	Ambiguous	3
+autres_domestiques	21	3087	3087	PER	qui	14758	14761	qui	1	0	120	12	0	0	0	439	3087	qui	nsubj	3089	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	3088	3088	PER	l	14762	14763	l'	1	0	120	13	0	0	0	440	3088	l'	obj	3089	PRON	PRON	Singular	Ambiguous	3
+louisa	2	3102	3103	PER	sa mère	14839	14846	sa mère	2	0	121	7	0	1	1	441	3103	mère	nsubj	3105	NOUN	NOM	Singular	Female	3
+christophe	0	3102	3102	PER	sa	14839	14841	sa	1	0	121	7	1	0	0	442	3102	sa	det	3103	DET	PRON	Singular	Ambiguous	3
+christophe	0	3104	3104	PER	lui	14847	14850	lui	1	0	121	9	0	0	0	443	3104	lui	iobj	3105	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3115	3115	PER	Il	14892	14894	il	1	0	122	0	0	0	0	444	3115	il	nsubj	3116	PRON	PRON	Singular	Male	3
+louisa	2	3118	3118	PER	elle	14904	14908	elle	1	0	122	3	0	0	0	445	3118	elle	obl:arg	3116	PRON	PRON	Singular	Female	3
+louisa	2	3123	3123	PER	ses	14925	14928	ses	1	0	122	8	0	0	0	446	3123	ses	det	3124	DET	PRON	Singular	Ambiguous	3
+louisa	2	3126	3126	PER	Elle	14937	14941	elle	1	0	123	0	0	0	0	447	3126	elle	nsubj	3127	PRON	PRON	Singular	Female	3
+louisa	2	3138	3138	PER	Elle	14996	15000	elle	1	0	124	0	0	0	0	448	3138	elle	nsubj	3139	PRON	PRON	Singular	Female	3
+christophe	0	3143	3143	PER	son	15024	15027	son	1	0	124	5	0	0	0	449	3143	son	det	3144	DET	PRON	Singular	Ambiguous	3
+christophe	0	3149	3149	PER	il	15051	15053	il	1	0	124	11	0	0	0	450	3149	il	nsubj	3150	PRON	PRON	Singular	Male	3
+domestiques	18	3156	3156	PER	on	15079	15081	on	1	0	124	18	0	0	0	451	3156	on	nsubj	3157	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	3158	3158	PER	sa	15086	15088	sa	1	0	124	20	0	0	0	452	3158	sa	det	3159	DET	PRON	Singular	Ambiguous	3
+christophe	0	3163	3163	PER	il	15103	15105	il	1	0	124	25	0	0	0	453	3163	il	nsubj	3164	PRON	PRON	Singular	Male	3
+domestiques	18	3169	3171	PER	chacune des personnes	15129	15150	chacune des personnes	3	0	124	31	0	1	1	454	3171	personnes	nmod	3169	NOUN	NOM	Plural	Ambiguous	3
+autres_domestiques	21	3170	3171	PER	des personnes	15137	15150	des personnes	2	0	124	32	1	0	0	455	3171	personnes	nmod	3169	NOUN	NOM	Plural	Ambiguous	3
+autres_domestiques	21	3172	3172	PER	qui	15151	15154	qui	1	0	124	34	0	0	0	456	3172	qui	nsubj	3173	PRON	PRON	Ambiguous	Ambiguous	4
+autres_domestiques	21	3177	3177	PER	leur	15170	15174	leur	1	0	124	39	0	0	0	457	3177	leur	iobj	3178	PRON	PRON	Plural	Ambiguous	3
+christophe	0	3181	3181	PER	Il	15191	15193	il	1	0	125	0	0	0	0	458	3181	il	nsubj	3184	PRON	PRON	Singular	Male	3
+christophe	0	3187	3187	PER	il	15214	15216	il	1	0	125	6	0	0	0	459	3187	il	nsubj	3189	PRON	PRON	Singular	Male	3
+christophe	0	3199	3199	PER	son	15266	15269	son	1	0	125	18	0	0	0	460	3199	son	det	3200	DET	PRON	Singular	Ambiguous	3
+christophe	0	3206	3206	PER	il	15291	15293	il	1	0	126	4	0	0	0	461	3206	il	nsubj	3208	PRON	PRON	Singular	Male	3
+christophe	0	3211	3211	PER	il	15309	15311	il	1	0	126	9	0	0	0	462	3211	il	nsubj	3212	PRON	PRON	Singular	Male	3
+christophe	0	3215	3215	PER	sa	15327	15329	sa	1	0	126	13	0	0	0	463	3215	sa	det	3216	DET	PRON	Singular	Ambiguous	3
+domestiques	18	3233	3233	PER	on	15420	15422	on	1	0	126	31	0	0	0	464	3233	on	nsubj	3235	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	3234	3234	PER	le	15423	15425	le	1	0	126	32	0	0	0	465	3234	le	obj	3235	PRON	PRON	Singular	Male	3
+christophe	0	3237	3237	PER	Il	15437	15439	il	1	0	127	0	0	0	0	466	3237	il	nsubj	3238	PRON	PRON	Singular	Male	3
+domestiques	18	3239	3240	PER	les gens	15448	15456	les gens	2	0	127	2	0	0	0	467	3240	gens	obj	3238	NOUN	NOM	Plural	Ambiguous	3
+louisa	2	3246	3247	PER	Sa mère	15472	15479	sa mère	2	0	128	0	0	1	1	468	3247	mère	nsubj	3248	NOUN	NOM	Singular	Female	3
+christophe	0	3246	3246	PER	Sa	15472	15474	sa	1	0	128	0	1	0	0	469	3246	sa	det	3247	DET	PRON	Singular	Ambiguous	3
+christophe	0	3256	3256	PER	il	15518	15520	il	1	0	128	10	0	0	0	470	3256	il	nsubj	3259	PRON	PRON	Singular	Male	3
+louisa	2	3258	3258	PER	lui	15524	15527	lui	1	0	128	12	0	0	0	471	3258	lui	iobj	3259	PRON	PRON	Singular	Ambiguous	3
+louisa	2	3262	3262	PER	elle	15546	15550	elle	1	0	128	16	0	0	0	472	3262	elle	nsubj	3263	PRON	PRON	Singular	Female	3
+louisa	2	3274	3274	PER	son	15602	15605	son	1	0	128	28	0	0	0	473	3274	son	det	3275	DET	PRON	Singular	Ambiguous	3
+T781	113	3286	3288	PER	la cuisinière ordinaire	15654	15677	la cuisinière ordinaire	3	0	128	40	0	0	0	474	3287	cuisinière	nsubj	3289	NOUN	NOM	Singular	Female	3
+christophe	0	3296	3297	PER	l'enfant	15712	15720	l' enfant	2	0	129	3	0	0	0	475	3297	enfant	nmod	3294	NOUN	NOM	Singular	Ambiguous	3
+domestiques	18	3306	3306	PER	on	15762	15764	on	1	0	129	13	0	0	0	476	3306	on	nsubj	3307	PRON	PRON	Ambiguous	Ambiguous	3
+louisa	2	3308	3309	PER	sa mère	15776	15783	sa mère	2	0	129	15	0	1	1	477	3309	mère	obj	3307	NOUN	NOM	Singular	Female	3
+christophe	0	3308	3308	PER	sa	15776	15778	sa	1	0	129	15	1	0	0	478	3308	sa	det	3309	DET	PRON	Singular	Ambiguous	3
+louisa	2	3314	3314	PER	elle	15798	15802	elle	1	0	129	21	0	0	0	479	3314	elle	nsubj	3315	PRON	PRON	Singular	Female	3
+cuisine_travail	34	3317	3319	FAC	cette belle pièce	15815	15832	cette belle pièce	3	0	129	24	0	0	0	480	3319	pièce	obl:mod	3315	NOUN	NOM	Not_Assigned	Not_Assigned	3
+dame	5	3345	3346	PER	Une dame	15959	15967	une dame	2	0	132	0	0	0	0	481	3346	dame	nsubj	3347	NOUN	NOM	Singular	Female	3
+dame	5	3356	3356	PER	Elle	16013	16017	elle	1	0	133	0	0	0	0	482	3356	elle	nsubj	3357	PRON	PRON	Singular	Female	3
+dame	5	3363	3363	PER	elle	16054	16058	elle	1	0	133	7	0	0	0	483	3363	elle	dep	3361	PRON	PRON	Singular	Female	3
+dame	5	3365	3365	PER	Elle	16060	16064	elle	1	0	134	0	0	0	0	484	3365	elle	nsubj	3369	PRON	PRON	Singular	Female	3
+dame	5	3373	3373	PER	elle	16098	16102	elle	1	0	134	8	0	0	0	485	3373	elle	nsubj	3374	PRON	PRON	Singular	Female	3
+dame	5	3384	3384	PER	elle	16154	16158	elle	1	0	134	19	0	0	0	486	3384	elle	nsubj	3385	PRON	PRON	Singular	Female	3
+dame	5	3386	3386	PER	sa	16166	16168	sa	1	0	134	21	0	0	0	487	3386	sa	det	3387	DET	PRON	Singular	Ambiguous	3
+dame	5	3399	3399	PER	l	16216	16217	l'	1	0	135	2	0	0	0	488	3399	l'	obj	3400	PRON	PRON	Singular	Ambiguous	3
+dame	5	3420	3420	PER	elle	16306	16310	elle	1	0	136	1	0	0	0	489	3420	elle	nsubj	3421	PRON	PRON	Singular	Female	3
+christophe	0	3443	3443	PER	Christophe	16409	16419	christophe	1	0	136	24	0	0	0	490	3443	christophe	nsubj	3444	PROPN	PROP	Singular	Male	3
+dame	5	3455	3455	PER	elle	16474	16478	elle	1	0	137	6	0	0	0	491	3455	elle	nsubj	3456	PRON	PRON	Singular	Female	3
+louisa	2	3458	3458	PER	Louisa	16489	16495	louisa	1	0	137	9	0	0	0	492	3458	louisa	obl:arg	3456	PROPN	PROP	Singular	Female	3
+louisa	2	3462	3462	PER	Louisa	16507	16513	louisa	1	0	138	2	0	0	0	493	3462	louisa	nsubj	3464	PROPN	PROP	Singular	Female	3
+dame	5	3463	3463	PER	lui	16514	16517	lui	1	0	138	3	0	0	0	494	3463	lui	iobj	3464	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3467	3467	PER	Christophe	16541	16551	christophe	1	0	139	0	0	0	0	495	3467	christophe	nsubj:pass	3470	PROPN	PROP	Singular	Male	3
+christophe	0	3472	3472	PER	Il	16566	16568	il	1	0	140	0	0	0	0	496	3472	il	nsubj	3474	PRON	PRON	Singular	Male	3
+christophe	0	3476	3476	PER	son	16587	16590	son	1	0	140	4	0	0	0	497	3476	son	det	3477	DET	PRON	Singular	Ambiguous	3
+dame	5	3492	3493	PER	La dame	16651	16658	la dame	2	0	141	0	0	0	0	498	3493	dame	nsubj	3494	NOUN	NOM	Singular	Female	3
+christophe	0	3497	3499	PER	ce petit garçon	16677	16692	ce petit garçon	3	0	141	5	0	0	0	499	3499	garçon	nsubj	3495	NOUN	NOM	Singular	Male	3
+louisa	2	3501	3501	PER	Louisa	16695	16701	louisa	1	0	141	9	0	0	0	500	3501	louisa	nsubj	3502	PROPN	PROP	Singular	Female	3
+christophe	0	3506	3506	PER	le	16721	16723	le	1	0	141	14	0	0	0	501	3506	le	obj	3507	PRON	PRON	Singular	Male	3
+louisa	2	3509	3509	PER	elle	16736	16740	elle	1	0	141	17	0	0	0	502	3509	elle	nsubj	3511	PRON	PRON	Singular	Female	3
+christophe	0	3510	3510	PER	lui	16741	16744	lui	1	0	141	18	0	0	0	503	3510	lui	iobj	3511	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3515	3515	PER	l	16767	16768	l'	1	0	141	23	0	0	0	504	3515	l'	obj	3516	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3527	3527	PER	il	16815	16817	il	1	0	141	35	0	0	0	505	3527	il	nsubj	3528	PRON	PRON	Singular	Male	3
+christophe	0	3537	3537	PER	Christophe	16855	16865	christophe	1	0	141	45	0	0	0	506	3537	christophe	nsubj	3538	PROPN	PROP	Singular	Male	3
+dame	5	3551	3552	PER	La dame	16937	16944	la dame	2	0	142	0	0	0	0	507	3552	dame	nsubj	3553	NOUN	NOM	Singular	Female	3
+christophe	0	3558	3559	PER	l'enfant	16972	16980	l' enfant	2	0	142	7	0	0	0	508	3559	enfant	nmod	3555	NOUN	NOM	Singular	Ambiguous	3
+dame	5	3562	3562	PER	son	16986	16989	son	1	0	142	11	0	0	0	509	3562	son	det	3564	DET	PRON	Singular	Ambiguous	3
+christophe	0	3570	3570	PER	lui	17026	17029	lui	1	0	142	19	0	0	0	510	3570	lui	iobj	3571	PRON	PRON	Singular	Ambiguous	3
+dame	5	3575	3575	PER	elle	17054	17058	elle	1	0	143	1	0	0	0	511	3575	elle	nsubj	3576	PRON	PRON	Singular	Female	3
+dame	5	3578	3578	PER	son	17075	17078	son	1	0	143	4	0	0	0	512	3578	son	det	3579	DET	PRON	Singular	Ambiguous	3
+christophe	0	3583	3583	PER	lui	17098	17101	lui	1	0	143	9	0	0	0	513	3583	lui	iobj	3584	PRON	PRON	Singular	Ambiguous	3
+dame	5	3584	3584	PER	posa	17102	17106	posa	1	0	143	10	0	0	0	514	3584	posa	conj	3576	VERB	NOM	Not_Assigned	Not_Assigned	3
+dame	5	3586	3586	PER	sa	17111	17113	sa	1	0	143	12	0	0	0	515	3586	sa	det	3587	DET	PRON	Singular	Ambiguous	3
+dame	5	3590	3590	PER	sa	17128	17130	sa	1	0	143	16	0	0	0	516	3590	sa	det	3591	DET	PRON	Singular	Ambiguous	3
+christophe	0	3596	3596	PER	il	17163	17165	il	1	0	143	22	0	0	0	517	3596	il	nsubj	3598	PRON	PRON	Singular	Male	3
+dame	5	3601	3601	PER	Elle	17184	17188	elle	1	0	144	0	0	0	0	518	3601	elle	nsubj	3602	PRON	PRON	Singular	Female	3
+louisa	2	3610	3610	PER	Louisa	17239	17245	louisa	1	0	144	9	0	0	0	519	3610	louisa	nsubj	3612	PROPN	PROP	Singular	Female	3
+louisa	2	3620	3620	PER	Elle	17293	17297	elle	1	0	145	0	0	0	0	520	3620	elle	nsubj	3621	PRON	PRON	Singular	Female	3
+christophe	0	3630	3630	PER	Christophe	17340	17350	christophe	1	0	145	10	0	0	0	521	3630	christophe	nsubj	3631	PROPN	PROP	Singular	Male	3
+christophe	0	3637	3637	PER	il	17378	17380	il	1	0	145	17	0	0	0	522	3637	il	nsubj:pass	3639	PRON	PRON	Singular	Male	3
+christophe	0	3641	3641	PER	Il	17394	17396	il	1	0	146	0	0	0	0	523	3641	il	nsubj	3643	PRON	PRON	Singular	Male	3
+louisa	2	3646	3647	PER	sa mère	17424	17431	sa mère	2	0	146	5	0	1	1	524	3647	mère	nsubj	3648	NOUN	NOM	Singular	Female	3
+christophe	0	3646	3646	PER	sa	17424	17426	sa	1	0	146	5	1	0	0	525	3646	sa	det	3647	DET	PRON	Singular	Ambiguous	3
+dame	5	3650	3651	PER	La dame	17444	17451	la dame	2	0	147	0	0	0	0	526	3651	dame	nsubj	3653	NOUN	NOM	Singular	Female	3
+christophe	0	3652	3652	PER	le	17452	17454	le	1	0	147	2	0	0	0	527	3652	le	obj	3653	PRON	PRON	Singular	Male	3
+dame	5	3661	3661	PER	elle	17483	17487	elle	1	0	147	11	0	0	0	528	3661	elle	nsubj	3662	PRON	PRON	Singular	Female	3
+christophe	0	3663	3663	PER	le	17496	17498	le	1	0	147	13	0	0	0	529	3663	le	obj	3664	PRON	PRON	Singular	Male	3
+enfants_dame	6	3666	3667	PER	ses enfants	17513	17524	ses enfants	2	0	147	16	0	1	1	530	3667	enfants	obl:arg	3664	NOUN	NOM	Plural	Ambiguous	3
+dame	5	3666	3666	PER	ses	17513	17516	ses	1	0	147	16	1	0	0	531	3666	ses	det	3667	DET	PRON	Singular	Ambiguous	3
+christophe	0	3669	3669	PER	Christophe	17526	17536	christophe	1	0	148	0	0	0	0	532	3669	christophe	nsubj	3670	PROPN	PROP	Singular	Male	3
+louisa	2	3675	3676	PER	sa mère	17566	17573	sa mère	2	0	148	6	0	1	1	533	3676	mère	obl:arg	3670	NOUN	NOM	Singular	Female	3
+christophe	0	3675	3675	PER	sa	17566	17568	sa	1	0	148	6	1	0	0	534	3675	sa	det	3676	DET	PRON	Singular	Ambiguous	3
+louisa	2	3679	3679	PER	elle	17581	17585	elle	1	0	148	10	0	0	0	535	3679	elle	nsubj	3680	PRON	PRON	Singular	Female	3
+dame	5	3682	3683	PER	la maîtresse	17597	17609	la maîtresse	2	0	148	13	0	0	0	536	3683	maîtresse	obl:arg	3680	NOUN	NOM	Singular	Female	3
+christophe	0	3690	3690	PER	il	17634	17636	il	1	0	148	21	0	0	0	537	3690	il	nsubj	3691	PRON	PRON	Singular	Male	3
+christophe	0	3702	3702	PER	il	17676	17678	il	1	0	148	33	0	0	0	538	3702	il	nsubj	3703	PRON	PRON	Singular	Male	3
+dame	5	3704	3705	PER	son guide	17686	17695	son guide	2	0	148	35	0	1	1	539	3705	guide	obj	3703	NOUN	NOM	Singular	Male	3
+christophe	0	3704	3704	PER	son	17686	17689	son	1	0	148	35	1	0	0	540	3704	son	det	3705	DET	PRON	Singular	Ambiguous	3
+chistophe_et_dame	151	3717	3717	PER	Ils	17740	17743	ils	1	0	149	0	0	0	0	541	3717	ils	nsubj	3718	PRON	PRON	Plural	Ambiguous	3
+jardin	50	3720	3721	FAC	un jardin	17760	17769	un jardin	2	0	149	3	0	0	0	542	3721	jardin	obl:arg	3718	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jardin	50	3723	3723	FAC	où	17771	17773	où	1	0	149	6	0	0	0	543	3723	où	iobj	3746	PRON	PRON	Not_Assigned	Not_Assigned	3
+enfants_dame	6	3724	3725	PER	deux enfants	17774	17786	deux enfants	2	0	149	7	0	0	0	544	3725	enfants	nsubj	3746	NOUN	NOM	Plural	Ambiguous	3
+enfants_dame	6	3731	3735	PER	un garçon et une fille	17805	17827	un garçon et une fille	5	0	149	14	0	1	2	545	3732	garçon	conj	3725	NOUN	NOM	Plural	Not_Assigned	3
+petit_bourgeois	9	3731	3732	PER	un garçon	17805	17814	un garçon	2	0	149	14	1	0	0	546	3732	garçon	conj	3725	NOUN	NOM	Singular	Male	3
+petite_bourgeoise	4	3734	3735	PER	une fille	17818	17827	une fille	2	0	149	17	1	0	0	547	3735	fille	conj	3732	NOUN	NOM	Singular	Female	3
+christophe	0	3744	3744	PER	Christophe	17856	17866	christophe	1	0	149	27	0	0	0	548	3744	christophe	nmod	3742	PROPN	PROP	Singular	Male	3
+enfants_dame	6	3749	3752	PER	l'un l'autre	17889	17901	l' un l' autre	4	0	149	32	0	1	2	549	3750	un	dep	3748	PRON	PRON	Singular	Male	3
+petit_bourgeois	9	3749	3750	PER	l'un	17889	17893	l' un	2	0	149	32	1	0	0	550	3750	un	dep	3748	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	3751	3752	PER	l'autre	17894	17901	l' autre	2	0	149	34	1	0	0	551	3752	autre	conj	3750	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3757	3757	PER	Christophe	17916	17926	christophe	1	0	150	3	0	0	0	552	3757	christophe	nmod	3755	PROPN	PROP	Singular	Male	3
+enfants_dame	6	3761	3761	PER	Ils	17942	17945	ils	1	0	151	0	0	0	0	553	3761	ils	nsubj	3763	PRON	PRON	Plural	Ambiguous	3
+christophe	0	3766	3768	PER	le nouveau venu	17977	17992	le nouveau venu	3	0	151	5	0	0	0	554	3768	venu	obj	3765	NOUN	NOM	Singular	Male	3
+christophe	0	3770	3770	PER	Christophe	17994	18004	christophe	1	0	152	0	0	0	0	555	3770	christophe	nsubj	3777	PROPN	PROP	Singular	Male	3
+dame	5	3774	3775	PER	la dame	18020	18027	la dame	2	0	152	4	0	0	0	556	3775	dame	obl:agent	3772	NOUN	NOM	Singular	Female	3
+T916	110	3780	3781	FAC	une allée	18049	18058	une allée	2	0	152	10	0	0	0	557	3781	allée	obl:arg	3778	NOUN	NOM	Not_Assigned	Not_Assigned	3
+enfants_dame	6	3789	3791	PER	Les deux autres	18086	18101	les deux autres	3	0	153	0	0	0	0	558	3791	autres	nsubj	3799	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	3798	3798	PER	le	18129	18131	le	1	0	153	9	0	0	0	559	3798	le	obj	3799	PRON	PRON	Singular	Male	3
+enfants_dame	6	3816	3816	PER	ils	18211	18214	ils	1	0	154	2	0	0	0	560	3816	ils	nsubj	3818	PRON	PRON	Plural	Ambiguous	3
+enfants_dame	6	3820	3820	PER	Ils	18230	18233	ils	1	0	155	0	0	0	0	561	3820	ils	nsubj	3822	PRON	PRON	Plural	Ambiguous	3
+christophe	0	3821	3821	PER	lui	18234	18237	lui	1	0	155	1	0	0	0	562	3821	lui	iobj	3822	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3824	3824	PER	il	18254	18256	il	1	0	155	4	0	0	0	563	3824	il	nsubj	3825	PRON	PRON	Singular	Male	3
+christophe	0	3829	3829	PER	il	18269	18271	il	1	0	155	9	0	0	0	564	3829	il	nsubj	3830	PRON	PRON	Singular	Male	3
+melchior	1	3836	3837	PER	son père	18298	18306	son père	2	0	155	16	0	1	1	565	3837	père	nsubj	3835	NOUN	NOM	Singular	Male	3
+christophe	0	3836	3836	PER	son	18298	18301	son	1	0	155	16	1	0	0	566	3836	son	det	3837	DET	PRON	Singular	Ambiguous	3
+christophe	0	3839	3839	PER	Christophe	18308	18318	christophe	1	0	156	0	0	0	0	567	3839	christophe	nsubj	3841	PROPN	PROP	Singular	Male	3
+christophe	0	3846	3846	PER	il	18348	18350	il	1	0	156	7	0	0	0	568	3846	il	nsubj:pass	3848	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	3855	3857	PER	la petite fille	18396	18411	la petite fille	3	0	156	16	0	0	0	569	3857	fille	obl:mod	3848	NOUN	NOM	Singular	Female	3
+petite_bourgeoise	4	3859	3859	PER	qui	18413	18416	qui	1	0	156	20	0	0	0	570	3859	qui	nsubj	3860	PRON	PRON	Ambiguous	Ambiguous	4
+trois_enfants	160	3874	3874	PER	Ils	18480	18483	ils	1	0	157	0	0	0	0	571	3874	ils	nsubj	3876	PRON	PRON	Plural	Ambiguous	3
+christophe	0	3881	3881	PER	Christophe	18509	18519	christophe	1	0	158	1	0	0	0	572	3881	christophe	nsubj	3882	PROPN	PROP	Singular	Male	3
+petit_bourgeois	9	3889	3891	PER	le petit bourgeois	18553	18571	le petit bourgeois	3	0	158	9	0	0	0	573	3891	bourgeois	nsubj	3892	NOUN	NOM	Singular	Male	3
+christophe	0	3896	3896	PER	lui	18594	18597	lui	1	0	158	16	0	0	0	574	3896	lui	obl:mod	3892	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3900	3900	PER	son	18611	18614	son	1	0	158	20	0	0	0	575	3900	son	det	3901	DET	PRON	Singular	Ambiguous	3
+petit_bourgeois	9	3903	3903	PER	il	18622	18624	il	1	0	158	23	0	0	0	576	3903	il	nsubj	3904	PRON	PRON	Singular	Male	3
+petit_bourgeois	9	3912	3912	PER	moi	18648	18651	moi	1	0	158	32	0	0	0	577	3912	moi	ROOT	3912	PRON	PRON	Singular	Ambiguous	1
+christophe	0	3914	3914	PER	Christophe	18654	18664	christophe	1	0	159	0	0	0	0	578	3914	christophe	nsubj	3916	PROPN	PROP	Singular	Male	3
+christophe	0	3924	3924	PER	son	18716	18719	son	1	0	160	5	0	0	0	579	3924	son	det	3925	DET	PRON	Singular	Ambiguous	3
+petit_bourgeois	9	3928	3929	PER	un autre	18732	18740	un autre	2	0	160	9	0	0	0	580	3929	autre	obl:arg	3926	ADJ	NOM	Singular	Male	3
+christophe	0	3931	3931	PER	il	18742	18744	il	1	0	160	12	0	0	0	581	3931	il	nsubj	3932	PRON	PRON	Singular	Male	3
+petit_bourgeois	9	3942	3942	PER	Je	18787	18789	je	1	0	161	1	0	0	0	582	3942	je	nsubj	3944	PRON	PRON	Singular	Ambiguous	1
+petit_bourgeois	9	3949	3950	PER	le petit	18824	18832	le petit	2	0	161	8	0	0	0	583	3950	petit	nsubj	3948	ADJ	NOM	Singular	Male	3
+petit_bourgeois	9	3954	3954	PER	mon	18841	18844	mon	1	0	161	13	0	0	0	584	3954	mon	det	3956	DET	PRON	Singular	Ambiguous	1
+petit_bourgeois	9	3967	3967	PER	il	18889	18891	il	1	0	162	1	0	0	0	585	3967	il	nsubj	3969	PRON	PRON	Singular	Male	3
+petit_bourgeois	9	3976	3976	PER	son	18925	18928	son	1	0	163	3	0	0	0	586	3976	son	det	3977	DET	PRON	Singular	Ambiguous	3
+petit_bourgeois	9	3979	3979	PER	il	18941	18943	il	1	0	163	6	0	0	0	587	3979	il	nsubj	3980	PRON	PRON	Singular	Male	3
+christophe	0	3984	3984	PER	Christophe	18965	18975	christophe	1	0	163	11	0	0	0	588	3984	christophe	nmod	3982	PROPN	PROP	Singular	Male	3
+christophe	0	3987	3987	PER	lui	18980	18983	lui	1	0	163	14	0	0	0	589	3987	lui	iobj	3988	PRON	PRON	Singular	Ambiguous	3
+christophe	0	3996	3996	PER	ses	19029	19032	ses	1	0	163	23	0	0	0	590	3996	ses	det	3997	DET	PRON	Singular	Ambiguous	3
+christophe	0	4000	4000	PER	Christophe	19052	19062	christophe	1	0	164	0	0	0	0	591	4000	christophe	nsubj	4001	PROPN	PROP	Singular	Male	3
+petite_bourgeoise	4	4004	4005	PER	La fillette	19080	19091	la fillette	2	0	165	0	0	0	0	592	4005	fillette	nsubj	4006	NOUN	NOM	Singular	Female	3
+petit_bourgeois	9	4012	4013	PER	son frère	19117	19126	son frère	2	0	165	8	0	1	1	593	4013	frère	obl:arg	4010	NOUN	NOM	Singular	Male	3
+petite_bourgeoise	4	4012	4012	PER	son	19117	19120	son	1	0	165	8	1	0	0	594	4012	son	det	4013	DET	PRON	Singular	Ambiguous	3
+christophe	0	4015	4015	PER	Christophe	19129	19139	christophe	1	0	165	11	0	0	0	595	4015	christophe	nsubj	4017	PROPN	PROP	Singular	Male	3
+christophe	0	4027	4027	PER	Christophe	19183	19193	christophe	1	0	166	0	0	0	0	596	4027	christophe	nsubj	4029	PROPN	PROP	Singular	Male	3
+christophe	0	4033	4033	PER	Il	19217	19219	il	1	0	167	0	0	0	0	597	4033	il	nsubj	4034	PRON	PRON	Singular	Male	3
+christophe	0	4048	4048	PER	il	19317	19319	il	1	0	167	15	0	0	0	598	4048	il	nsubj	4051	PRON	PRON	Singular	Male	3
+christophe	0	4050	4054	PER	le fils de Melchior Krafft	19326	19352	le fils de melchior krafft	5	0	167	17	0	1	1	599	4051	fils	ccomp	4046	NOUN	PROP	Singular	Male	3
+melchior	1	4053	4054	PER	Melchior Krafft	19337	19352	melchior krafft	2	0	167	20	1	0	0	600	4053	melchior	nmod	4051	PROPN	PROP	Singular	Male	3
+louisa	2	4058	4059	PER	sa mère	19361	19368	sa mère	2	0	167	25	0	1	1	601	4059	mère	nsubj	4061	NOUN	NOM	Singular	Female	3
+christophe	0	4058	4058	PER	sa	19361	19363	sa	1	0	167	25	1	0	0	602	4058	sa	det	4059	DET	PRON	Singular	Ambiguous	3
+louisa	2	4061	4061	PER	Louisa	19375	19381	louisa	1	0	167	28	0	0	0	603	4061	louisa	conj	4051	PROPN	PROP	Singular	Female	3
+louisa	2	4063	4064	PER	la cuisinière	19383	19396	la cuisinière	2	0	167	30	0	0	0	604	4064	cuisinière	appos	4061	NOUN	NOM	Singular	Female	3
+christophe	0	4067	4067	PER	lui	19401	19404	lui	1	0	168	1	0	0	0	605	4067	lui	iobj	4068	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4083	4083	PER	il	19478	19480	il	1	0	168	17	0	0	0	606	4083	il	nsubj	4084	PRON	PRON	Singular	Male	3
+enfants_dame	6	4089	4092	PER	les deux autres petits	19505	19527	les deux autres petits	4	0	169	1	0	0	0	607	4092	petits	nsubj	4102	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4104	4104	PER	l	19583	19584	l'	1	0	169	16	0	0	0	608	4104	l'	obj	4106	PRON	PRON	Singular	Ambiguous	3
+enfants_dame	6	4109	4109	PER	Ils	19610	19613	ils	1	0	170	0	0	0	0	609	4109	ils	nsubj	4110	PRON	PRON	Plural	Ambiguous	3
+enfants_dame	6	4118	4118	PER	Ils	19657	19660	ils	1	0	171	0	0	0	0	610	4118	ils	nsubj	4120	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4119	4119	PER	lui	19661	19664	lui	1	0	171	1	0	0	0	611	4119	lui	iobj	4120	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4123	4123	PER	il	19683	19685	il	1	0	171	5	0	0	0	612	4123	il	nsubj	4124	PRON	PRON	Singular	Male	3
+christophe	0	4129	4129	PER	il	19706	19708	il	1	0	171	11	0	0	0	613	4129	il	nsubj	4132	PRON	PRON	Singular	Male	3
+christophe	0	4136	4136	PER	Christophe	19743	19753	christophe	1	0	172	0	0	0	0	614	4136	christophe	nsubj	4137	PROPN	PROP	Singular	Male	3
+christophe	0	4139	4139	PER	son	19767	19770	son	1	0	172	3	0	0	0	615	4139	son	det	4140	DET	PRON	Singular	Ambiguous	3
+christophe	0	4142	4142	PER	Il	19780	19782	il	1	0	173	0	0	0	0	616	4142	il	nsubj	4143	PRON	PRON	Singular	Male	3
+christophe	0	4148	4148	PER	lui	19811	19814	lui	1	0	173	6	0	0	0	617	4148	lui	iobj	4149	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4155	4155	PER	son	19847	19850	son	1	0	174	2	0	0	0	618	4155	son	det	4156	DET	PRON	Singular	Ambiguous	3
+enfants_dame	6	4158	4161	PER	les deux petits riches	19860	19882	les deux petits riches	4	0	174	5	0	0	0	619	4161	riches	nsubj	4183	NOUN	NOM	Plural	Ambiguous	3
+enfants_dame	6	4163	4163	PER	qui	19884	19887	qui	1	0	174	10	0	0	0	620	4163	qui	nsubj	4165	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	4168	4170	FAC	le petit pauvre	19918	19933	le petit pauvre	3	0	174	15	0	0	0	621	4170	pauvre	obl:arg	4165	ADJ	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	4188	4188	PER	le	20029	20031	le	1	0	174	35	0	0	0	622	4188	le	obj	4189	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	4191	4192	PER	La fillette	20044	20055	la fillette	2	0	175	0	0	0	0	623	4192	fillette	nsubj	4195	NOUN	NOM	Singular	Female	3
+petite_bourgeoise	4	4197	4197	PER	Elle	20089	20093	elle	1	0	176	0	0	0	0	624	4197	elle	nsubj	4198	PRON	PRON	Singular	Female	3
+christophe	0	4200	4200	PER	Christophe	20107	20117	christophe	1	0	176	3	0	0	0	625	4200	christophe	nsubj	4201	PROPN	PROP	Singular	Male	3
+christophe	0	4209	4209	PER	ses	20151	20154	ses	1	0	176	12	0	0	0	626	4209	ses	det	4210	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	4214	4214	PER	elle	20178	20182	elle	1	0	176	17	0	0	0	627	4214	elle	nsubj	4215	PRON	PRON	Singular	Female	3
+christophe	0	4220	4220	PER	lui	20206	20209	lui	1	0	176	23	0	0	0	628	4220	lui	dep	4222	PRON	PRON	Singular	Ambiguous	3
+enfants_dame	6	4228	4228	PER	On	20248	20250	on	1	0	177	0	0	0	0	629	4228	on	nsubj	4229	PRON	PRON	Ambiguous	Ambiguous	3
+enfants_dame	6	4238	4238	PER	on	20293	20295	on	1	0	177	10	0	0	0	630	4238	on	nsubj	4239	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	4240	4240	PER	Christophe	20300	20310	christophe	1	0	177	12	0	0	0	631	4240	christophe	obj	4239	PROPN	PROP	Singular	Male	3
+christophe	0	4247	4249	PER	Le malheureux garçon	20338	20358	le malheureux garçon	3	0	178	0	0	0	0	632	4249	garçon	nsubj	4251	NOUN	NOM	Singular	Male	3
+christophe	0	4255	4255	PER	l	20377	20378	l'	1	0	178	8	0	0	0	633	4255	l'	obj	4256	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4260	4260	PER	il	20401	20403	il	1	0	178	13	0	0	0	634	4260	il	nsubj	4261	PRON	PRON	Singular	Male	3
+christophe	0	4262	4262	PER	ses	20414	20417	ses	1	0	178	15	0	0	0	635	4262	ses	det	4263	DET	PRON	Singular	Ambiguous	3
+christophe	0	4276	4276	PER	lui	20471	20474	lui	1	0	179	2	0	0	0	636	4276	lui	obl:arg	4274	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4294	4294	PER	il	20550	20552	il	1	0	181	5	0	0	0	637	4294	il	nsubj	4295	PRON	PRON	Singular	Male	3
+enfants_dame	6	4313	4314	PER	ses bourreaux	20635	20648	ses bourreaux	2	0	182	4	0	1	1	638	4314	bourreaux	obj	4311	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4313	4313	PER	ses	20635	20638	ses	1	0	182	4	1	0	0	639	4313	ses	det	4314	DET	PRON	Singular	Ambiguous	3
+enfants_dame	6	4316	4316	PER	qui	20650	20653	qui	1	0	182	7	0	0	0	640	4316	qui	nsubj	4317	PRON	PRON	Ambiguous	Ambiguous	4
+enfants_dame	6	4328	4328	PER	ils	20710	20713	ils	1	0	182	19	0	0	0	641	4328	ils	nsubj	4330	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4344	4344	PER	Christophe	20791	20801	christophe	1	0	183	0	0	0	0	642	4344	christophe	nsubj	4345	PROPN	PROP	Singular	Male	3
+christophe	0	4350	4350	PER	il	20826	20828	il	1	0	183	6	0	0	0	643	4350	il	nsubj	4351	PRON	PRON	Singular	Male	3
+christophe	0	4353	4353	PER	il	20840	20842	il	1	0	183	9	0	0	0	644	4353	il	nsubj	4355	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	4359	4361	PER	la petite fille	20867	20882	la petite fille	3	0	184	1	0	0	0	645	4361	fille	nsubj	4363	NOUN	NOM	Singular	Female	3
+christophe	0	4362	4362	PER	l	20883	20884	l'	1	0	184	4	0	0	0	646	4362	l'	obj	4363	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4368	4368	PER	il	20908	20910	il	1	0	184	10	0	0	0	647	4368	il	nsubj	4369	PRON	PRON	Singular	Male	3
+christophe	0	4372	4372	PER	Christophe	20923	20933	christophe	1	0	185	0	0	0	0	648	4372	christophe	nsubj	4374	PROPN	PROP	Singular	Male	3
+christophe	0	4384	4384	PER	il	20979	20981	il	1	0	185	12	0	0	0	649	4384	il	nsubj	4385	PRON	PRON	Singular	Male	3
+christophe	0	4390	4390	PER	Ses	20999	21002	ses	1	0	186	0	0	0	0	650	4390	ses	det	4391	DET	PRON	Singular	Ambiguous	3
+christophe	0	4402	4402	PER	lui	21058	21061	lui	1	0	186	12	0	0	0	651	4402	lui	obl:mod	4400	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4404	4404	PER	Il	21063	21065	il	1	0	187	0	0	0	0	652	4404	il	nsubj	4406	PRON	PRON	Singular	Male	3
+christophe	0	4423	4423	PER	son	21143	21146	son	1	0	187	19	0	0	0	653	4423	son	det	4424	DET	PRON	Singular	Ambiguous	3
+christophe	0	4432	4432	PER	Il	21188	21190	il	1	0	188	0	0	0	0	654	4432	il	nsubj	4434	PRON	PRON	Singular	Male	3
+christophe	0	4438	4438	PER	il	21215	21217	il	1	0	188	6	0	0	0	655	4438	il	nsubj	4439	PRON	PRON	Singular	Male	3
+enfants_dame	6	4440	4442	PER	les deux enfants	21228	21244	les deux enfants	3	0	188	8	0	0	0	656	4442	enfants	obj	4439	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4448	4448	PER	lui	21270	21273	lui	1	0	188	16	0	0	0	657	4448	lui	obl:arg	4446	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4450	4450	PER	il	21276	21278	il	1	0	188	18	0	0	0	658	4450	il	nsubj	4451	PRON	PRON	Singular	Male	3
+christophe	0	4457	4457	PER	Il	21309	21311	il	1	0	189	0	0	0	0	659	4457	il	nsubj	4458	PRON	PRON	Singular	Male	3
+enfants_dame	6	4460	4460	PER	ils	21323	21326	ils	1	0	189	3	0	0	0	660	4460	ils	nsubj	4462	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4461	4461	PER	le	21327	21329	le	1	0	189	4	0	0	0	661	4461	le	obj	4462	PRON	PRON	Singular	Male	3
+enfants_dame	6	4465	4465	PER	ils	21346	21349	ils	1	0	189	8	0	0	0	662	4465	ils	nsubj	4467	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4466	4466	PER	le	21350	21352	le	1	0	189	9	0	0	0	663	4466	le	obj	4467	PRON	PRON	Singular	Male	3
+christophe	0	4473	4473	PER	Il	21388	21390	il	1	0	190	0	0	0	0	664	4473	il	nsubj	4475	PRON	PRON	Singular	Male	3
+christophe	0	4533	4533	PER	Christophe	21647	21657	christophe	1	0	192	1	0	0	0	665	4533	christophe	nsubj	4534	PROPN	PROP	Singular	Male	3
+petit_bourgeois	9	4539	4541	PER	le petit bourgeois	21681	21699	le petit bourgeois	3	0	192	7	0	0	0	666	4541	bourgeois	nsubj	4543	NOUN	NOM	Singular	Male	3
+christophe	0	4542	4542	PER	le	21700	21702	le	1	0	192	10	0	0	0	667	4542	le	obj	4543	PRON	PRON	Singular	Male	3
+christophe	0	4545	4545	PER	le	21713	21715	le	1	0	192	13	0	0	0	668	4545	le	obj	4547	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	4549	4550	PER	la fillette	21731	21742	la fillette	2	0	192	17	0	0	0	669	4550	fillette	nsubj	4552	NOUN	NOM	Singular	Female	3
+christophe	0	4551	4551	PER	lui	21743	21746	lui	1	0	192	19	0	0	0	670	4551	lui	iobj	4552	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4558	4558	PER	Il	21772	21774	il	1	0	193	0	0	0	0	671	4558	il	nsubj	4559	PRON	PRON	Singular	Male	3
+enfants_dame	6	4563	4563	PER	ils	21795	21798	ils	1	0	193	5	0	0	0	672	4563	ils	nsubj	4565	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4567	4567	PER	lui	21815	21818	lui	1	0	193	9	0	0	0	673	4567	lui	obl:arg	4565	PRON	PRON	Singular	Ambiguous	3
+enfants_dame	6	4568	4569	PER	tous deux	21819	21828	tous deux	2	0	193	10	0	0	0	674	4569	deux	obl:arg	4565	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4574	4574	PER	son	21845	21848	son	1	0	193	16	0	0	0	675	4574	son	det	4575	DET	PRON	Singular	Ambiguous	3
+christophe	0	4577	4577	PER	lui	21854	21857	lui	1	0	193	19	0	0	0	676	4577	lui	iobj	4578	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4587	4587	PER	le	21906	21908	le	1	0	194	3	0	0	0	677	4587	le	obj	4588	PRON	PRON	Singular	Male	3
+christophe	0	4596	4596	PER	Ses	21943	21946	ses	1	0	195	0	0	0	0	678	4596	ses	det	4597	DET	PRON	Singular	Ambiguous	3
+christophe	0	4599	4599	PER	le	21957	21959	le	1	0	195	3	0	0	0	679	4599	le	obj	4600	PRON	PRON	Singular	Male	3
+christophe	0	4602	4602	PER	son	21971	21974	son	1	0	195	6	0	0	0	680	4602	son	det	4604	DET	PRON	Singular	Ambiguous	3
+christophe	0	4610	4610	PER	lui	22016	22019	lui	1	0	195	14	0	0	0	681	4610	lui	nmod	4608	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4638	4638	PER	Il	22137	22139	il	1	0	197	0	0	0	0	682	4638	il	nsubj	4640	PRON	PRON	Singular	Male	3
+christophe	0	4644	4644	PER	ses	22156	22159	ses	1	0	197	6	0	0	0	683	4644	ses	det	4645	DET	PRON	Singular	Ambiguous	3
+christophe	0	4647	4647	PER	ses	22170	22173	ses	1	0	197	9	0	0	0	684	4647	ses	det	4648	DET	PRON	Singular	Ambiguous	3
+enfants_dame	6	4658	4659	PER	ses persécuteurs	22218	22234	ses persécuteurs	2	0	197	20	0	1	1	685	4659	persécuteurs	obj	4657	NOUN	NOM	Plural	Not_Assigned	3
+christophe	0	4658	4658	PER	ses	22218	22221	ses	1	0	197	20	1	0	0	686	4658	ses	det	4659	DET	PRON	Singular	Ambiguous	3
+enfants_dame	6	4664	4664	PER	ils	22247	22250	ils	1	0	197	26	0	0	0	687	4664	ils	nsubj	4665	PRON	PRON	Plural	Ambiguous	3
+christophe	0	4670	4670	PER	il	22275	22277	il	1	0	197	32	0	0	0	688	4670	il	nsubj	4671	PRON	PRON	Singular	Male	3
+enfants_dame	6	4676	4676	PER	eux	22304	22307	eux	1	0	197	38	0	0	0	689	4676	eux	obl:arg	4671	PRON	PRON	Plural	Ambiguous	3
+petite_bourgeoise	4	4679	4681	PER	la petite fille	22315	22330	la petite fille	3	0	197	41	0	0	0	690	4681	fille	obj	4678	NOUN	NOM	Singular	Female	3
+petit_bourgeois	9	4690	4691	PER	le garçon	22359	22368	le garçon	2	0	197	52	0	0	0	691	4691	garçon	obj	4684	NOUN	NOM	Singular	Male	3
+enfants_dame	6	4705	4706	PER	Les enfants	22424	22435	les enfants	2	0	199	0	0	0	0	692	4706	enfants	nsubj	4708	NOUN	NOM	Plural	Ambiguous	3
+T921	106	4710	4711	FAC	la maison	22451	22460	la maison	2	0	199	5	0	0	0	693	4711	maison	obl:mod	4708	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M8	131	4718	4718	PER	On	22483	22485	on	1	0	200	0	0	0	0	694	4718	on	nsubj	4719	PRON	PRON	Ambiguous	Ambiguous	3
+dame	5	4730	4731	PER	La dame	22545	22552	la dame	2	0	201	0	0	0	0	695	4731	dame	nsubj	4732	NOUN	NOM	Singular	Female	3
+dame	5	4740	4740	PER	sa	22591	22593	sa	1	0	201	10	0	0	0	696	4740	sa	det	4741	DET	PRON	Singular	Ambiguous	3
+dame	5	4744	4744	PER	lui	22610	22613	lui	1	0	201	14	0	0	0	697	4744	lui	iobj	4745	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4747	4747	PER	Christophe	22625	22635	christophe	1	0	202	0	0	0	0	698	4747	christophe	nsubj	4749	PROPN	PROP	Singular	Male	3
+dame	5	4748	4748	PER	la	22636	22638	la	1	0	202	1	0	0	0	699	4748	la	obj	4749	PRON	PRON	Singular	Female	3
+christophe	0	4753	4753	PER	il	22656	22658	il	1	0	202	6	0	0	0	700	4753	il	nsubj	4755	PRON	PRON	Singular	Male	3
+christophe	0	4760	4760	PER	il	22685	22687	il	1	0	202	13	0	0	0	701	4760	il	nsubj:pass	4762	PRON	PRON	Singular	Male	3
+christophe	0	4766	4766	PER	il	22712	22714	il	1	0	202	19	0	0	0	702	4766	il	nsubj	4768	PRON	PRON	Singular	Male	3
+christophe	0	4780	4780	PER	il	22770	22772	il	1	0	202	33	0	0	0	703	4780	il	nsubj	4782	PRON	PRON	Singular	Male	3
+christophe	0	4785	4785	PER	Il	22793	22795	il	1	0	203	0	0	0	0	704	4785	il	nsubj	4786	PRON	PRON	Singular	Male	3
+christophe	0	4788	4788	PER	Il	22807	22809	il	1	0	204	0	0	0	0	705	4788	il	nsubj:pass	4790	PRON	PRON	Singular	Male	3
+christophe	0	4795	4795	PER	Il	22836	22838	il	1	0	206	0	0	0	0	706	4795	il	nsubj:pass	4797	PRON	PRON	Singular	Male	3
+dame	5	4801	4802	PER	La dame	22866	22873	la dame	2	0	207	0	0	0	0	707	4802	dame	nsubj	4803	NOUN	NOM	Singular	Female	3
+christophe	0	4805	4805	PER	lui	22885	22888	lui	1	0	207	4	0	0	0	708	4805	lui	obl:arg	4803	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4807	4807	PER	Il	22890	22892	il	1	0	208	0	0	0	0	709	4807	il	nsubj	4809	PRON	PRON	Singular	Male	3
+christophe	0	4812	4812	PER	Il	22912	22914	il	1	0	209	0	0	0	0	710	4812	il	nsubj	4813	PRON	PRON	Singular	Male	3
+dame	5	4815	4815	PER	elle	22927	22931	elle	1	0	209	3	0	0	0	711	4815	elle	nsubj	4817	PRON	PRON	Singular	Female	3
+christophe	0	4816	4816	PER	lui	22932	22935	lui	1	0	209	4	0	0	0	712	4816	lui	iobj	4817	PRON	PRON	Singular	Ambiguous	3
+christophe	0	4830	4830	PER	il	22996	22998	il	1	0	209	18	0	0	0	713	4830	il	nsubj	4832	PRON	PRON	Singular	Male	3
+enfants_dame	6	4835	4838	PER	Ses deux petits ennemis	23020	23043	ses deux petits ennemis	4	0	210	0	0	1	1	714	4838	ennemis	nsubj	4840	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4835	4835	PER	Ses	23020	23023	ses	1	0	210	0	1	0	0	715	4835	ses	det	4838	DET	PRON	Singular	Ambiguous	3
+christophe	0	4844	4844	PER	sa	23076	23078	sa	1	0	210	9	0	0	0	716	4844	sa	det	4845	DET	PRON	Singular	Ambiguous	3
+certains_domestiques	36	4854	4855	PER	Des domestiques	23113	23128	des domestiques	2	0	211	0	0	0	0	717	4855	domestiques	nsubj	4856	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4869	4869	PER	l	23189	23190	l'	1	0	212	3	0	0	0	718	4869	l'	obj	4870	PRON	PRON	Singular	Ambiguous	3
+louisa	2	4872	4872	PER	Louisa	23201	23207	louisa	1	0	212	6	0	0	0	719	4872	louisa	nsubj	4879	PROPN	PROP	Singular	Female	3
+M24	84	4875	4875	PER	on	23212	23214	on	1	0	212	9	0	0	0	720	4875	on	nsubj	4877	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	4886	4886	PER	le	23253	23255	le	1	0	212	20	0	0	0	721	4886	le	obj	4887	PRON	PRON	Singular	Male	3
+louisa	2	4889	4889	PER	elle	23266	23270	elle	1	0	212	23	0	0	0	722	4889	elle	nsubj	4890	PRON	PRON	Singular	Female	3
+christophe	0	4892	4892	PER	le	23284	23286	le	1	0	212	26	0	0	0	723	4892	le	obj	4893	PRON	PRON	Singular	Male	3
+louisa	2	4895	4895	PER	elle	23296	23300	elle	1	0	212	29	0	0	0	724	4895	elle	dep	4890	PRON	PRON	Singular	Female	3
+christophe	0	4906	4906	PER	il	23343	23345	il	1	0	212	40	0	0	0	725	4906	il	nsubj	4907	PRON	PRON	Singular	Male	3
+christophe	0	4910	4910	PER	Il	23363	23365	il	1	0	213	0	0	0	0	726	4910	il	nsubj	4913	PRON	PRON	Singular	Male	3
+louisa	2	4917	4917	PER	Elle	23388	23392	elle	1	0	214	0	0	0	0	727	4917	elle	nsubj	4919	PRON	PRON	Singular	Female	3
+christophe	0	4918	4918	PER	le	23393	23395	le	1	0	214	1	0	0	0	728	4918	le	obj	4919	PRON	PRON	Singular	Male	3
+christophe	0	4923	4923	PER	le	23416	23418	le	1	0	214	6	0	0	0	729	4923	le	obj	4924	PRON	PRON	Singular	Male	3
+dame_et_enfants	149	4929	4933	PER	la dame et les enfants	23443	23465	la dame et les enfants	5	0	214	12	0	1	2	730	4930	dame	obl:arg	4924	NOUN	NOM	Plural	Not_Assigned	3
+dame	5	4929	4930	PER	la dame	23443	23450	la dame	2	0	214	12	1	0	0	731	4930	dame	obl:arg	4924	NOUN	NOM	Singular	Female	3
+enfants_dame	6	4932	4933	PER	les enfants	23454	23465	les enfants	2	0	214	15	1	0	0	732	4933	enfants	conj	4930	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	4937	4937	PER	il	23475	23477	il	1	0	214	20	0	0	0	733	4937	il	nsubj	4939	PRON	PRON	Singular	Male	3
+christophe	0	4944	4944	PER	il	23500	23502	il	1	0	215	1	0	0	0	734	4944	il	nsubj	4945	PRON	PRON	Singular	Male	3
+louisa	2	4954	4955	PER	sa mère	23541	23548	sa mère	2	0	215	11	0	1	1	735	4955	mère	nmod	4952	NOUN	NOM	Singular	Female	3
+christophe	0	4954	4954	PER	sa	23541	23543	sa	1	0	215	11	1	0	0	736	4954	sa	det	4955	DET	PRON	Singular	Ambiguous	3
+christophe	0	4957	4957	PER	Il	23550	23552	il	1	0	216	0	0	0	0	737	4957	il	nsubj	4959	PRON	PRON	Singular	Male	3
+certains_domestiques	36	4963	4964	PER	des domestiques	23578	23593	des domestiques	2	0	216	6	0	0	0	738	4964	domestiques	nmod	4962	NOUN	NOM	Plural	Ambiguous	3
+certains_domestiques	36	4965	4965	PER	qui	23594	23597	qui	1	0	216	8	0	0	0	739	4965	qui	nsubj	4966	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	4968	4968	PER	Il	23607	23609	il	1	0	217	0	0	0	0	740	4968	il	nsubj	4971	PRON	PRON	Singular	Male	3
+christophe	0	4986	4986	PER	il	23684	23686	il	1	0	217	18	0	0	0	741	4986	il	nsubj	4988	PRON	PRON	Singular	Male	3
+christophe	0	4990	4990	PER	Il	23701	23703	il	1	0	218	0	0	0	0	742	4990	il	nsubj	4991	PRON	PRON	Singular	Male	3
+christophe	0	4998	4998	PER	il	23733	23735	il	1	0	218	8	0	0	0	743	4998	il	nsubj	4999	PRON	PRON	Singular	Male	3
+christophe	0	5005	5005	PER	il	23760	23762	il	1	0	218	15	0	0	0	744	5005	il	nsubj	5007	PRON	PRON	Singular	Male	3
+rue	46	5011	5012	FAC	la rue	23791	23797	la rue	2	0	218	21	0	0	0	745	5012	rue	obl:mod	5009	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	5014	5014	PER	Il	23799	23801	il	1	0	219	0	0	0	0	746	5014	il	nsubj	5016	PRON	PRON	Singular	Male	3
+christophe	0	5024	5024	PER	ses	23848	23851	ses	1	0	219	10	0	0	0	747	5024	ses	det	5025	DET	PRON	Singular	Ambiguous	3
+christophe	0	5027	5027	PER	il	23861	23863	il	1	0	219	13	0	0	0	748	5027	il	nsubj	5028	PRON	PRON	Singular	Male	3
+christophe	0	5039	5039	PER	il	23907	23909	il	1	0	219	25	0	0	0	749	5039	il	nsubj	5040	PRON	PRON	Singular	Male	3
+christophe	0	5044	5044	PER	il	23927	23929	il	1	0	220	2	0	0	0	750	5044	il	nsubj	5045	PRON	PRON	Singular	Male	3
+christophe	0	5047	5047	PER	il	23939	23941	il	1	0	220	5	0	0	0	751	5047	il	nsubj	5048	PRON	PRON	Singular	Male	3
+escalier	37	5051	5054	FAC	le vieil escalier noir	23959	23981	le vieil escalier noir	4	0	220	9	0	0	0	752	5053	escalier	obj	5050	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	5058	5058	PER	sa	23991	23993	sa	1	0	220	16	0	0	0	753	5058	sa	det	5059	DET	PRON	Singular	Ambiguous	3
+rhin	22	5069	5070	LOC	du fleuve	24053	24062	du fleuve	2	0	220	27	0	0	0	754	5070	fleuve	dep	5068	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	5072	5072	PER	il	24065	24067	il	1	0	220	30	0	0	0	755	5072	il	nsubj	5075	PRON	PRON	Singular	Male	3
+christophe	0	5088	5088	PER	Il	24125	24127	il	1	0	221	0	0	0	0	756	5088	il	nsubj	5090	PRON	PRON	Singular	Male	3
+christophe	0	5095	5095	PER	il	24160	24162	il	1	0	221	7	0	0	0	757	5095	il	nsubj	5096	PRON	PRON	Singular	Male	3
+christophe	0	5102	5102	PER	il	24193	24195	il	1	0	221	14	0	0	0	758	5102	il	nsubj	5103	PRON	PRON	Singular	Male	3
+christophe	0	5116	5116	PER	il	24253	24255	il	1	0	221	28	0	0	0	759	5116	il	nsubj	5117	PRON	PRON	Singular	Male	3
+christophe	0	5122	5122	PER	il	24280	24282	il	1	0	221	34	0	0	0	760	5122	il	nsubj	5123	PRON	PRON	Singular	Male	3
+christophe	0	5139	5139	PER	il	24356	24358	il	1	0	221	51	0	0	0	761	5139	il	nsubj	5140	PRON	PRON	Singular	Male	3
+T931	111	5142	5143	PER	les autres	24375	24385	les autres	2	0	221	54	0	0	0	762	5143	autres	obj	5140	PRON	PRON	Plural	Ambiguous	3
+christophe	0	5149	5149	PER	lui	24405	24408	lui	1	0	221	61	0	0	0	763	5149	lui	nmod	5147	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5153	5153	PER	il	24416	24418	il	1	0	222	2	0	0	0	764	5153	il	nsubj	5154	PRON	PRON	Singular	Male	3
+melchior	1	5156	5157	PER	son père	24429	24437	son père	2	0	222	5	0	1	1	765	5157	père	nsubj	5158	NOUN	NOM	Singular	Male	3
+christophe	0	5156	5156	PER	son	24429	24432	son	1	0	222	5	1	0	0	766	5156	son	det	5157	DET	PRON	Singular	Ambiguous	3
+louisa	2	5162	5163	PER	sa mère	24458	24465	sa mère	2	0	222	11	0	1	1	767	5163	mère	nsubj	5164	NOUN	NOM	Singular	Female	3
+christophe	0	5162	5162	PER	sa	24458	24460	sa	1	0	222	11	1	0	0	768	5162	sa	det	5163	DET	PRON	Singular	Ambiguous	3
+christophe	0	5168	5168	PER	ses	24490	24493	ses	1	0	222	17	0	0	0	769	5168	ses	det	5169	DET	PRON	Singular	Ambiguous	3
+christophe	0	5178	5178	PER	Il	24535	24537	il	1	0	223	0	0	0	0	770	5178	il	nsubj	5179	PRON	PRON	Singular	Male	3
+christophe	0	5197	5197	PER	il	24617	24619	il	1	0	224	4	0	0	0	771	5197	il	nsubj	5198	PRON	PRON	Singular	Male	3
+christophe	0	5200	5200	PER	il	24632	24634	il	1	0	224	7	0	0	0	772	5200	il	nsubj	5202	PRON	PRON	Singular	Male	3
+melchior	1	5204	5205	PER	son père	24647	24655	son père	2	0	224	11	0	1	1	773	5205	père	obl:arg	5202	NOUN	NOM	Singular	Male	3
+christophe	0	5204	5204	PER	son	24647	24650	son	1	0	224	11	1	0	0	774	5204	son	det	5205	DET	PRON	Singular	Ambiguous	3
+melchior	1	5206	5206	PER	qui	24656	24659	qui	1	0	224	13	0	0	0	775	5206	qui	nsubj	5207	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	5213	5213	PER	tu	24681	24683	tu	1	0	225	4	0	0	0	776	5213	tu	dep	5211	PRON	PRON	Singular	Ambiguous	2
+christophe	0	5216	5216	PER	gamin	24688	24693	gamin	1	0	225	7	0	0	0	777	5216	gamin	dep	5211	NOUN	NOM	Singular	Male	3
+christophe	0	5221	5221	PER	tu	24703	24705	tu	1	0	225	12	0	0	0	778	5221	tu	dep	5219	PRON	PRON	Singular	Ambiguous	2
+melchior	1	5224	5224	PER	Melchior	24716	24724	melchior	1	0	225	15	0	0	0	779	5224	melchior	nsubj	5223	PROPN	PROP	Singular	Male	3
+christophe	0	5226	5226	PER	Il	24726	24728	il	1	0	226	0	0	0	0	780	5226	il	nsubj	5228	PRON	PRON	Singular	Male	3
+christophe	0	5232	5232	PER	Tu	24749	24751	tu	1	0	227	1	0	0	0	781	5232	tu	nsubj	5234	PRON	PRON	Singular	Ambiguous	2
+christophe	0	5242	5242	PER	tu	24791	24793	tu	1	0	228	4	0	0	0	782	5242	tu	nsubj	5244	PRON	PRON	Singular	Ambiguous	2
+christophe	0	5246	5246	PER	Christophe	24804	24814	christophe	1	0	229	0	0	0	0	783	5246	christophe	nsubj	5248	PROPN	PROP	Singular	Male	3
+christophe	0	5256	5256	PER	tu	24855	24857	tu	1	0	230	5	0	0	0	784	5256	tu	nsubj	5258	PRON	PRON	Singular	Ambiguous	2
+melchior	1	5261	5261	PER	Melchior	24875	24883	melchior	1	0	230	10	0	0	0	785	5261	melchior	nsubj	5260	PROPN	PROP	Singular	Male	3
+christophe	0	5265	5265	PER	tu	24890	24892	tu	1	0	231	2	0	0	0	786	5265	tu	dep	5263	PRON	PRON	Singular	Ambiguous	2
+christophe	0	5268	5269	PER	L'enfant	24904	24912	l' enfant	2	0	232	0	0	0	0	787	5269	enfant	nsubj	5271	NOUN	NOM	Singular	Ambiguous	3
+melchior	1	5276	5276	PER	Melchior	24934	24942	melchior	1	0	232	8	0	0	0	788	5276	melchior	conj	5271	PROPN	PROP	Singular	Male	3
+christophe_et_melchior	23	5285	5289	PER	l'un et l'autre	24973	24988	l' un et l' autre	5	0	232	17	0	1	2	789	5286	un	obj	5278	PRON	PRON	Plural	Not_Assigned	3
+christophe	0	5285	5286	PER	l'un	24973	24977	l' un	2	0	232	17	1	0	0	790	5286	un	obj	5278	PRON	PRON	Singular	Male	3
+melchior	1	5288	5289	PER	l'autre	24981	24988	l' autre	2	0	232	20	1	0	0	791	5289	autre	conj	5286	PRON	PRON	Singular	Ambiguous	3
+M25	83	5295	5295	PER	on	25004	25006	on	1	0	232	27	0	0	0	792	5295	on	nsubj	5296	PRON	PRON	Ambiguous	Ambiguous	3
+louisa	2	5301	5301	PER	Louisa	25036	25042	louisa	1	0	232	33	0	0	0	793	5301	louisa	nmod	5298	PROPN	PROP	Singular	Female	3
+louisa	2	5303	5303	PER	qui	25044	25047	qui	1	0	232	35	0	0	0	794	5303	qui	nsubj	5304	PRON	PRON	Ambiguous	Ambiguous	4
+escalier	37	5305	5306	FAC	l'escalier	25056	25066	l' escalier	2	0	232	37	0	0	0	795	5306	escalier	obj	5304	NOUN	NOM	Not_Assigned	Not_Assigned	3
+louisa	2	5308	5308	PER	Elle	25068	25072	elle	1	0	233	0	0	0	0	796	5308	elle	nsubj	5309	PRON	PRON	Singular	Female	3
+louisa	2	5315	5315	PER	Elle	25107	25111	elle	1	0	234	0	0	0	0	797	5315	elle	nsubj	5316	PRON	PRON	Singular	Female	3
+melchior	1	5328	5328	PER	Melchior	25186	25194	melchior	1	0	234	13	0	0	0	798	5328	melchior	nsubj	5329	PROPN	PROP	Singular	Male	3
+melchior	1	5333	5333	PER	il	25213	25215	il	1	0	234	18	0	0	0	799	5333	il	nsubj	5335	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5350	5350	PER	Ils	25288	25291	ils	1	0	235	0	0	0	0	800	5350	ils	nsubj	5351	PRON	PRON	Plural	Ambiguous	3
+melchior_et_louisa	8	5352	5354	PER	tous les deux	25301	25314	tous les deux	3	0	235	2	0	0	0	801	5354	deux	obl:arg	5351	PRON	PRON	Plural	Ambiguous	3
+christophe	0	5356	5357	FAC	L'enfant	25316	25324	l' enfant	2	0	236	0	0	0	0	802	5357	enfant	nsubj	5358	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior_et_louisa	8	5360	5360	PER	Ils	25334	25337	ils	1	0	237	0	0	0	0	803	5360	ils	nsubj	5361	PRON	PRON	Plural	Ambiguous	3
+melchior_et_louisa	8	5365	5368	PER	l'un l'autre	25363	25375	l' un l' autre	4	0	237	5	0	1	2	804	5366	un	obj	5364	PRON	PRON	Singular	Male	3
+T938	109	5365	5366	PER	l'un	25363	25367	l' un	2	0	237	5	1	0	0	805	5366	un	obj	5364	PRON	PRON	Singular	Male	3
+T939	108	5367	5368	PER	l'autre	25368	25375	l' autre	2	0	237	7	1	0	0	806	5368	autre	conj	5366	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5377	5378	PER	son fils	25413	25421	son fils	2	0	238	3	0	1	1	807	5378	fils	obj	5376	NOUN	NOM	Singular	Male	3
+melchior	1	5377	5377	PER	son	25413	25416	son	1	0	238	3	1	0	0	808	5377	son	det	5378	DET	PRON	Singular	Ambiguous	3
+melchior	1	5380	5380	PER	Melchior	25423	25431	melchior	1	0	238	6	0	0	0	809	5380	melchior	nsubj	5381	PROPN	PROP	Singular	Male	3
+christophe	0	5383	5384	PER	le petit	25443	25451	le petit	2	0	238	9	0	0	0	810	5384	petit	nsubj	5385	NOUN	NOM	Singular	Male	3
+T941	29	5399	5400	PER	des gens	25519	25527	des gens	2	0	238	25	0	0	0	811	5400	gens	obl:arg	5397	NOUN	NOM	Plural	Ambiguous	3
+T941	29	5402	5402	PER	qui	25529	25532	qui	1	0	238	28	0	0	0	812	5402	qui	nsubj	5404	PRON	PRON	Ambiguous	Ambiguous	4
+T941	29	5410	5410	PER	ils	25566	25569	ils	1	0	238	36	0	0	0	813	5410	ils	nsubj	5411	PRON	PRON	Plural	Ambiguous	3
+christophe	0	5420	5421	PER	l'enfant	25607	25615	l' enfant	2	0	239	4	0	0	0	814	5421	enfant	obj	5419	NOUN	NOM	Singular	Ambiguous	3
+louisa	2	5423	5423	PER	Louisa	25617	25623	louisa	1	0	239	7	0	0	0	815	5423	louisa	nsubj	5424	PROPN	PROP	Singular	Female	3
+melchior	1	5426	5427	PER	son mari	25633	25641	son mari	2	0	239	10	0	1	1	816	5427	mari	obl:arg	5424	NOUN	NOM	Singular	Male	3
+louisa	2	5426	5426	PER	son	25633	25636	son	1	0	239	10	1	0	0	817	5426	son	det	5427	DET	PRON	Singular	Ambiguous	3
+melchior	1	5429	5429	PER	il	25645	25647	il	1	0	239	13	0	0	0	818	5429	il	nsubj	5432	PRON	PRON	Singular	Male	3
+louisa	2	5435	5435	PER	elle	25668	25672	elle	1	0	239	19	0	0	0	819	5435	elle	nsubj	5438	PRON	PRON	Singular	Female	3
+melchior	1	5437	5437	PER	lui	25676	25679	lui	1	0	239	21	0	0	0	820	5437	lui	iobj	5438	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5442	5443	PER	le petit	25706	25714	le petit	2	0	239	26	0	0	0	821	5443	petit	obj	5441	NOUN	NOM	Singular	Male	3
+melchior	1	5447	5447	PER	il	25722	25724	il	1	0	239	31	0	0	0	822	5447	il	nsubj	5450	PRON	PRON	Singular	Male	3
+christophe	0	5448	5448	PER	l	25725	25726	l'	1	0	239	32	0	0	0	823	5448	l'	obj	5450	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5455	5455	PER	Christophe	25751	25761	christophe	1	0	240	3	0	0	0	824	5455	christophe	nsubj	5456	PROPN	PROP	Singular	Male	3
+christophe	0	5463	5463	PER	il	25792	25794	il	1	0	240	11	0	0	0	825	5463	il	nsubj	5466	PRON	PRON	Singular	Male	3
+christophe	0	5470	5470	PER	il	25817	25819	il	1	0	240	18	0	0	0	826	5470	il	nsubj	5472	PRON	PRON	Singular	Male	3
+louisa	2	5476	5477	PER	sa mère	25839	25846	sa mère	2	0	240	24	0	1	1	827	5477	mère	obl:arg	5472	NOUN	NOM	Singular	Female	3
+christophe	0	5476	5476	PER	sa	25839	25841	sa	1	0	240	24	1	0	0	828	5476	sa	det	5477	DET	PRON	Singular	Ambiguous	3
+christophe	0	5480	5480	PER	lui	25853	25856	lui	1	0	240	28	0	0	0	829	5480	lui	iobj	5481	PRON	PRON	Singular	Ambiguous	3
+louisa	2	5489	5489	PER	elle	25906	25910	elle	1	0	240	37	0	0	0	830	5489	elle	nsubj	5490	PRON	PRON	Singular	Female	3
+christophe	0	5492	5492	PER	le	25924	25926	le	1	0	240	40	0	0	0	831	5492	le	obj	5493	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5499	5499	PER	on	25946	25948	on	1	0	241	4	0	0	0	832	5499	on	nsubj	5501	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	5500	5500	PER	le	25949	25951	le	1	0	241	5	0	0	0	833	5500	le	obj	5501	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5508	5508	PER	on	25985	25987	on	1	0	241	13	0	0	0	834	5508	on	nsubj	5510	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	5509	5509	PER	l	25988	25989	l'	1	0	241	14	0	0	0	835	5509	l'	obj	5510	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5514	5514	PER	Il	26011	26013	il	1	0	242	0	0	0	0	836	5514	il	nsubj	5516	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5515	5515	PER	les	26014	26017	les	1	0	242	1	0	0	0	837	5515	les	obj	5516	PRON	PRON	Plural	Ambiguous	3
+T944	107	5518	5519	PER	l'un	26034	26038	l' un	2	0	242	4	0	0	0	838	5519	un	obj	5517	PRON	PRON	Singular	Male	3
+T945	105	5521	5522	PER	l'autre	26046	26053	l' autre	2	0	242	7	0	0	0	839	5522	autre	obl:arg	5519	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5525	5525	PER	il	26059	26061	il	1	0	242	11	0	0	0	840	5525	il	nsubj	5527	PRON	PRON	Singular	Male	3
+christophe	0	5530	5530	PER	il	26083	26085	il	1	0	242	16	0	0	0	841	5530	il	nsubj	5531	PRON	PRON	Singular	Male	3
+christophe	0	5536	5536	PER	lui	26108	26111	lui	1	0	243	1	0	0	0	842	5536	lui	iobj	5537	PRON	PRON	Singular	Ambiguous	3
+louisa	2	5541	5542	PER	sa mère	26133	26140	sa mère	2	0	243	6	0	1	1	843	5542	mère	ccomp	5537	NOUN	NOM	Singular	Female	3
+christophe	0	5541	5541	PER	sa	26133	26135	sa	1	0	243	6	1	0	0	844	5541	sa	det	5542	DET	PRON	Singular	Ambiguous	3
+christophe	0	5545	5545	PER	il	26147	26149	il	1	0	243	10	0	0	0	845	5545	il	nsubj	5549	PRON	PRON	Singular	Male	3
+louisa	2	5551	5551	PER	elle	26173	26177	elle	1	0	243	16	0	0	0	846	5551	elle	obl:arg	5549	PRON	PRON	Singular	Female	3
+christophe	0	5557	5557	PER	ses	26208	26211	ses	1	0	244	1	0	0	0	847	5557	ses	det	5558	DET	PRON	Singular	Ambiguous	3
+christophe	0	5562	5562	PER	l	26235	26236	l'	1	0	244	6	0	0	0	848	5562	l'	obj	5563	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5571	5571	PER	il	26272	26274	il	1	0	244	15	0	0	0	849	5571	il	nsubj	5573	PRON	PRON	Singular	Male	3
+enfants_dame	6	5577	5578	PER	des enfants	26303	26314	des enfants	2	0	244	21	0	0	0	850	5578	enfants	nmod	5576	NOUN	NOM	Plural	Ambiguous	3
+dame	5	5583	5584	PER	la dame	26331	26338	la dame	2	0	244	27	0	0	0	851	5584	dame	nmod	5581	NOUN	NOM	Singular	Female	3
+melchior_et_louisa	8	5589	5590	PER	ses parents	26355	26366	ses parents	2	0	244	33	0	1	1	852	5590	parents	nmod	5587	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	5589	5589	PER	ses	26355	26358	ses	1	0	244	33	1	0	0	853	5589	ses	det	5590	DET	PRON	Singular	Ambiguous	3
+christophe	0	5596	5596	PER	il	26379	26381	il	1	0	244	40	0	0	0	854	5596	il	nsubj	5597	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5615	5616	PER	ses parents	26466	26477	ses parents	2	0	244	59	0	1	1	855	5616	parents	nmod	5613	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	5615	5615	PER	ses	26466	26469	ses	1	0	244	59	1	0	0	856	5615	ses	det	5616	DET	PRON	Singular	Ambiguous	3
+melchior_et_louisa	8	5618	5618	PER	dont	26479	26483	dont	1	0	244	62	0	0	0	857	5618	dont	dep	5622	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	5619	5619	PER	il	26484	26486	il	1	0	244	63	0	0	0	858	5619	il	nsubj	5622	PRON	PRON	Singular	Male	3
+T947	104	5625	5631	PER	ces autres gens, méchants et méprisables	26509	26549	ces autres gens , méchants et méprisables	7	0	244	69	0	0	0	859	5627	gens	nmod	5613	NOUN	NOM	Plural	Not_Assigned	3
+christophe	0	5637	5637	PER	il	26571	26573	il	1	0	245	4	0	0	0	860	5637	il	nsubj	5638	PRON	PRON	Singular	Male	3
+christophe	0	5648	5648	PER	lui	26627	26630	lui	1	0	245	15	0	0	0	861	5648	lui	iobj	5649	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5654	5654	PER	lui	26659	26662	lui	1	0	246	2	0	0	0	862	5654	lui	iobj	5656	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5658	5658	PER	son	26679	26682	son	1	0	246	6	0	0	0	863	5658	son	det	5659	DET	PRON	Singular	Ambiguous	3
+melchior_et_louisa	8	5661	5662	PER	les siens	26699	26708	les siens	2	0	246	9	0	1	1	864	5662	siens	nmod	5659	NOUN	PRON	Plural	Ambiguous	3
+christophe	0	5662	5662	PER	siens	26703	26708	siens	1	0	246	10	1	0	0	865	5662	siens	nmod	5659	NOUN	PRON	Not_Assigned	Ambiguous	3
+melchior_et_louisa	8	5668	5668	PER	ils	26734	26737	ils	1	0	246	16	0	0	0	866	5668	ils	nsubj	5670	PRON	PRON	Plural	Ambiguous	3
+christophe	0	5669	5669	PER	lui	26738	26741	lui	1	0	246	17	0	0	0	867	5669	lui	iobj	5670	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5672	5672	PER	sa	26755	26757	sa	1	0	246	20	0	0	0	868	5672	sa	det	5673	DET	PRON	Singular	Ambiguous	3
+christophe	0	5682	5682	PER	il	26799	26801	il	1	0	246	30	0	0	0	869	5682	il	nsubj	5683	PRON	PRON	Singular	Male	3
+T948	103	5686	5687	PER	les autres	26816	26826	les autres	2	0	246	34	0	0	0	870	5687	autres	obj	5685	PRON	PRON	Plural	Ambiguous	3
+christophe	0	5709	5709	PER	Il	26914	26916	il	1	0	248	0	0	0	0	871	5709	il	nsubj:pass	5711	PRON	PRON	Singular	Male	3
+christophe	0	5728	5728	PER	Il	27004	27006	il	1	0	249	0	0	0	0	872	5728	il	nsubj	5729	PRON	PRON	Singular	Male	3
+christophe	0	5731	5731	PER	Il	27017	27019	il	1	0	250	0	0	0	0	873	5731	il	nsubj	5732	PRON	PRON	Singular	Male	3
+christophe	0	5735	5735	PER	Il	27033	27035	il	1	0	251	0	0	0	0	874	5735	il	nsubj	5737	PRON	PRON	Singular	Male	3
+christophe	0	5740	5740	PER	son	27054	27057	son	1	0	251	5	0	0	0	875	5740	son	det	5741	DET	PRON	Singular	Ambiguous	3
+christophe	0	5748	5748	PER	Il	27093	27095	il	1	0	252	0	0	0	0	876	5748	il	nsubj	5749	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5782	5783	PER	Ses parents	27233	27244	ses parents	2	0	253	0	0	1	1	877	5783	parents	nsubj	5788	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	5782	5782	PER	Ses	27233	27236	ses	1	0	253	0	1	0	0	878	5782	ses	det	5783	DET	PRON	Singular	Ambiguous	3
+christophe	0	5787	5787	PER	le	27256	27258	le	1	0	253	5	0	0	0	879	5787	le	obj	5788	PRON	PRON	Singular	Male	3
+melchior_et_louisa	8	5790	5790	PER	leurs	27272	27277	leurs	1	0	253	8	0	0	0	880	5790	leurs	det	5791	DET	PRON	Plural	Ambiguous	3
+melchior_et_louisa	8	5797	5798	PER	des deux	27298	27306	des deux	2	0	254	4	0	0	0	881	5798	deux	nmod	5796	PRON	PRON	Plural	Ambiguous	3
+louisa	2	5807	5808	PER	Sa mère	27343	27350	sa mère	2	0	255	0	0	1	1	882	5808	mère	nsubj	5810	NOUN	NOM	Singular	Female	3
+christophe	0	5807	5807	PER	Sa	27343	27345	sa	1	0	255	0	1	0	0	883	5807	sa	det	5808	DET	PRON	Singular	Ambiguous	3
+christophe	0	5809	5809	PER	le	27351	27353	le	1	0	255	2	0	0	0	884	5809	le	obj	5810	PRON	PRON	Singular	Male	3
+christophe	0	5812	5812	PER	le	27366	27368	le	1	0	255	5	0	0	0	885	5812	le	obj	5813	PRON	PRON	Singular	Male	3
+christophe	0	5815	5815	PER	son	27380	27383	son	1	0	255	8	0	0	0	886	5815	son	det	5816	DET	PRON	Singular	Ambiguous	3
+christophe	0	5821	5821	PER	son	27399	27402	son	1	0	255	14	0	0	0	887	5821	son	det	5822	DET	PRON	Singular	Ambiguous	3
+christophe	0	5827	5827	PER	lui	27429	27432	lui	1	0	255	20	0	0	0	888	5827	lui	obl:arg	5825	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5833	5833	PER	il	27448	27450	il	1	0	255	26	0	0	0	889	5833	il	nsubj	5836	PRON	PRON	Singular	Male	3
+christophe	0	5839	5839	PER	il	27472	27474	il	1	0	256	1	0	0	0	890	5839	il	nsubj	5841	PRON	PRON	Singular	Male	3
+christophe	0	5844	5844	PER	il	27495	27497	il	1	0	256	6	0	0	0	891	5844	il	nsubj	5846	PRON	PRON	Singular	Male	3
+christophe	0	5850	5850	PER	il	27521	27523	il	1	0	256	12	0	0	0	892	5850	il	nsubj	5851	PRON	PRON	Singular	Male	3
+louisa	2	5859	5859	PER	l	27560	27561	l'	1	0	256	21	0	0	0	893	5859	l'	obj	5860	PRON	PRON	Singular	Ambiguous	3
+louisa	2	5862	5863	PER	Sa mère	27573	27580	sa mère	2	0	257	0	0	1	1	894	5863	mère	nsubj	5865	NOUN	NOM	Singular	Female	3
+christophe	0	5862	5862	PER	Sa	27573	27575	sa	1	0	257	0	1	0	0	895	5862	sa	det	5863	DET	PRON	Singular	Ambiguous	3
+christophe	0	5864	5864	PER	lui	27581	27584	lui	1	0	257	2	0	0	0	896	5864	lui	iobj	5865	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5870	5870	PER	Il	27613	27615	il	1	0	258	0	0	0	0	897	5870	il	nsubj	5873	PRON	PRON	Singular	Male	3
+louisa	2	5880	5880	PER	elle	27652	27656	elle	1	0	258	10	0	0	0	898	5880	elle	nsubj	5881	PRON	PRON	Singular	Female	3
+christophe	0	5885	5885	PER	le	27677	27679	le	1	0	258	15	0	0	0	899	5885	le	obj	5887	PRON	PRON	Singular	Male	3
+louisa	2	5893	5893	PER	elle	27705	27709	elle	1	0	258	23	0	0	0	900	5893	elle	nsubj	5895	PRON	PRON	Singular	Female	3
+christophe	0	5900	5900	PER	lui	27749	27752	lui	1	0	258	30	0	0	0	901	5900	lui	obl:arg	5897	PRON	PRON	Singular	Ambiguous	3
+christophe	0	5904	5904	PER	il	27763	27765	il	1	0	259	2	0	0	0	902	5904	il	nsubj	5906	PRON	PRON	Singular	Male	3
+christophe	0	5926	5926	PER	il	27874	27876	il	1	0	259	24	0	0	0	903	5926	il	nsubj	5928	PRON	PRON	Singular	Male	3
+christophe	0	5933	5933	PER	Il	27903	27905	il	1	0	260	0	0	0	0	904	5933	il	nsubj	5935	PRON	PRON	Singular	Male	3
+christophe	0	5938	5938	PER	ses	27923	27926	ses	1	0	260	5	0	0	0	905	5938	ses	det	5939	DET	PRON	Singular	Ambiguous	3
+christophe	0	5945	5945	PER	il	27961	27963	il	1	0	260	12	0	0	0	906	5945	il	nsubj	5946	PRON	PRON	Singular	Male	3
+christophe	0	5957	5957	PER	sa	28027	28029	sa	1	0	261	8	0	0	0	907	5957	sa	det	5958	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5963	5965	PER	la petite fille	28060	28075	la petite fille	3	0	262	3	0	0	0	908	5965	fille	ROOT	5965	NOUN	NOM	Singular	Female	3
+christophe	0	5967	5967	PER	il	28079	28081	il	1	0	262	7	0	0	0	909	5967	il	nsubj	5968	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	5971	5971	PER	ses	28097	28100	ses	1	0	262	11	0	0	0	910	5971	ses	det	5972	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5975	5975	PER	son	28117	28120	son	1	0	262	15	0	0	0	911	5975	son	det	5977	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5984	5984	PER	ses	28161	28164	ses	1	0	262	24	0	0	0	912	5984	ses	det	5985	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5987	5987	PER	ses	28177	28180	ses	1	0	262	27	0	0	0	913	5987	ses	det	5988	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5990	5990	PER	ses	28190	28193	ses	1	0	262	30	0	0	0	914	5990	ses	det	5991	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	5994	5994	PER	sa	28209	28211	sa	1	0	262	34	0	0	0	915	5994	sa	det	5995	DET	PRON	Singular	Ambiguous	3
+christophe	0	6000	6000	PER	Il	28241	28243	il	1	0	263	0	0	0	0	916	6000	il	nsubj	6001	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6006	6006	PER	sa	28279	28281	sa	1	0	263	6	0	0	0	917	6006	sa	det	6007	DET	PRON	Singular	Ambiguous	3
+christophe	0	6009	6009	PER	Il	28288	28290	il	1	0	264	0	0	0	0	918	6009	il	nsubj	6011	PRON	PRON	Singular	Male	3
+christophe	0	6013	6013	PER	il	28312	28314	il	1	0	264	4	0	0	0	919	6013	il	nsubj	6016	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6018	6018	PER	elle	28338	28342	elle	1	0	264	9	0	0	0	920	6018	elle	obl:mod	6016	PRON	PRON	Singular	Female	3
+christophe	0	6021	6021	PER	il	28348	28350	il	1	0	264	12	0	0	0	921	6021	il	nsubj	6023	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6025	6025	PER	elle	28369	28373	elle	1	0	264	16	0	0	0	922	6025	elle	obl:arg	6023	PRON	PRON	Singular	Female	3
+christophe	0	6030	6030	PER	il	28395	28397	il	1	0	264	21	0	0	0	923	6030	il	nsubj	6033	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6032	6032	PER	lui	28401	28404	lui	1	0	264	23	0	0	0	924	6032	lui	iobj	6033	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6036	6036	PER	l	28423	28424	l'	1	0	264	27	0	0	0	925	6036	l'	obj	6038	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6040	6040	PER	il	28440	28442	il	1	0	264	31	0	0	0	926	6040	il	nsubj:pass	6042	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6046	6046	PER	l	28468	28469	l'	1	0	264	37	0	0	0	927	6046	l'	obj	6047	PRON	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	6049	6049	PER	son	28481	28484	son	1	0	264	40	0	0	0	928	6049	son	det	6050	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	6053	6053	PER	la	28494	28496	la	1	0	264	44	0	0	0	929	6053	la	obj	6055	PRON	PRON	Singular	Female	3
+christophe	0	6057	6057	PER	Il	28512	28514	il	1	0	265	0	0	0	0	930	6057	il	nsubj	6059	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6076	6076	PER	elle	28592	28596	elle	1	0	266	7	0	0	0	931	6076	elle	nsubj	6078	PRON	PRON	Singular	Female	3
+christophe	0	6081	6081	PER	lui	28618	28621	lui	1	0	266	12	0	0	0	932	6081	lui	obl:arg	6078	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6089	6089	PER	il	28647	28649	il	1	0	267	6	0	0	0	933	6089	il	nsubj	6090	PRON	PRON	Singular	Male	3
+christophe	0	6096	6096	PER	il	28680	28682	il	1	0	267	13	0	0	0	934	6096	il	nsubj	6098	PRON	PRON	Singular	Male	3
+christophe	0	6100	6100	PER	Il	28698	28700	il	1	0	268	0	0	0	0	935	6100	il	nsubj	6101	PRON	PRON	Singular	Male	3
+christophe	0	6104	6104	PER	il	28717	28719	il	1	0	268	4	0	0	0	936	6104	il	nsubj	6106	PRON	PRON	Singular	Male	3
+christophe	0	6113	6113	PER	il	28764	28766	il	1	0	268	13	0	0	0	937	6113	il	nsubj	6114	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6119	6119	PER	elle	28791	28795	elle	1	0	268	19	0	0	0	938	6119	elle	nsubj	6121	PRON	PRON	Singular	Female	3
+christophe	0	6123	6123	PER	lui	28815	28818	lui	1	0	268	23	0	0	0	939	6123	lui	obl:arg	6121	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6126	6126	PER	il	28826	28828	il	1	0	269	1	0	0	0	940	6126	il	nsubj	6127	PRON	PRON	Singular	Male	3
+christophe	0	6138	6138	PER	il	28887	28889	il	1	0	269	13	0	0	0	941	6138	il	nsubj	6139	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6148	6148	PER	Elle	28940	28944	elle	1	0	270	0	0	0	0	942	6148	elle	nsubj	6150	PRON	PRON	Singular	Female	3
+christophe	0	6155	6155	PER	il	28971	28973	il	1	0	270	7	0	0	0	943	6155	il	nsubj	6157	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6156	6156	PER	la	28974	28976	la	1	0	270	8	0	0	0	944	6156	la	obj	6157	PRON	PRON	Singular	Female	3
+christophe	0	6160	6160	PER	il	28995	28997	il	1	0	271	1	0	0	0	945	6160	il	nsubj	6161	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6163	6163	PER	sa	29013	29015	sa	1	0	271	4	0	0	0	946	6163	sa	det	6164	DET	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	6166	6166	PER	elle	29024	29028	elle	1	0	271	7	0	0	0	947	6166	elle	nsubj	6168	PRON	PRON	Singular	Female	3
+christophe	0	6167	6167	PER	le	29029	29031	le	1	0	271	8	0	0	0	948	6167	le	obj	6168	PRON	PRON	Singular	Male	3
+christophe	0	6177	6177	PER	il	29083	29085	il	1	0	271	18	0	0	0	949	6177	il	nsubj	6179	PRON	PRON	Singular	Male	3
+christophe	0	6183	6183	PER	il	29111	29113	il	1	0	271	24	0	0	0	950	6183	il	nsubj	6184	PRON	PRON	Singular	Male	3
+christophe	0	6193	6193	PER	il	29152	29154	il	1	0	271	34	0	0	0	951	6193	il	nsubj	6194	PRON	PRON	Singular	Male	3
+christophe	0	6197	6197	PER	Il	29173	29175	il	1	0	272	0	0	0	0	952	6197	il	nsubj	6198	PRON	PRON	Singular	Male	3
+region	159	6200	6201	LOC	le pays	29190	29197	le pays	2	0	272	3	0	0	0	953	6201	pays	obj	6198	NOUN	NOM	Not_Assigned	Not_Assigned	3
+petite_bourgeoise	4	6211	6211	PER	sa	29238	29240	sa	1	0	272	14	0	0	0	954	6211	sa	det	6212	DET	PRON	Singular	Ambiguous	3
+christophe	0	6214	6214	PER	Il	29248	29250	il	1	0	273	0	0	0	0	955	6214	il	nsubj	6215	PRON	PRON	Singular	Male	3
+christophe	0	6223	6223	PER	il	29285	29287	il	1	0	274	3	0	0	0	956	6223	il	nsubj	6224	PRON	PRON	Singular	Male	3
+christophe	0	6226	6226	PER	son	29306	29309	son	1	0	274	6	0	0	0	957	6226	son	det	6227	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	6235	6235	PER	grand-père	29367	29377	grand-père	1	0	274	15	0	0	0	958	6235	grand-père	nmod	6232	NOUN	NOM	Singular	Male	3
+petite_bourgeoise	4	6238	6238	PER	Elle	29381	29385	elle	1	0	275	1	0	0	0	959	6238	elle	nsubj	6244	PRON	PRON	Singular	Female	3
+dame	5	6249	6250	PER	Sa mère	29432	29439	sa mère	2	0	276	0	0	1	1	960	6250	mère	nsubj	6256	NOUN	NOM	Singular	Female	3
+petite_bourgeoise	4	6249	6249	PER	Sa	29432	29434	sa	1	0	276	0	1	0	0	961	6249	sa	det	6250	DET	PRON	Singular	Ambiguous	3
+christophe	0	6257	6257	PER	le	29469	29471	le	1	0	276	8	0	0	0	962	6257	le	obj	6258	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6261	6263	PER	Ma pauvre fille	29485	29500	ma pauvre fille	3	0	276	12	0	1	1	963	6263	fille	nsubj	6265	NOUN	NOM	Singular	Female	3
+dame	5	6261	6261	PER	Ma	29485	29487	ma	1	0	276	12	1	0	0	964	6261	ma	det	6263	DET	PRON	Singular	Ambiguous	1
+dame	5	6267	6267	PER	Je	29511	29513	je	1	0	277	0	0	0	0	965	6267	je	nsubj	6270	PRON	PRON	Singular	Ambiguous	1
+christophe	0	6268	6268	PER	vous	29514	29518	vous	1	0	277	1	0	0	0	966	6268	vous	iobj	6270	PRON	PRON	Ambiguous	Ambiguous	2
+christophe	0	6275	6275	PER	Il	29538	29540	il	1	0	277	8	0	0	0	967	6275	il	nsubj	6276	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6278	6278	PER	Elle	29549	29553	elle	1	0	278	0	0	0	0	968	6278	elle	nsubj:pass	6280	PRON	PRON	Singular	Female	3
+petite_bourgeoise	4	6282	6282	PER	Elle	29569	29573	elle	1	0	279	0	0	0	0	969	6282	elle	nsubj	6283	PRON	PRON	Singular	Female	3
+petite_bourgeoise	4	6290	6290	PER	Elle	29607	29611	elle	1	0	280	0	0	0	0	970	6290	elle	nsubj	6292	PRON	PRON	Singular	Female	3
+christophe	0	6291	6291	PER	lui	29612	29615	lui	1	0	280	1	0	0	0	971	6291	lui	iobj	6292	PRON	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	6296	6296	PER	Elle	29634	29638	elle	1	0	281	0	0	0	0	972	6296	elle	nsubj	6298	PRON	PRON	Singular	Female	3
+petite_bourgeoise	4	6302	6302	PER	elle	29664	29668	elle	1	0	281	6	0	0	0	973	6302	elle	nsubj	6304	PRON	PRON	Singular	Female	3
+christophe	0	6303	6303	PER	lui	29669	29672	lui	1	0	281	7	0	0	0	974	6303	lui	iobj	6304	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6314	6314	PER	il	29725	29727	il	1	0	282	1	0	0	0	975	6314	il	nsubj	6316	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6315	6315	PER	la	29728	29730	la	1	0	282	2	0	0	0	976	6315	la	obj	6316	PRON	PRON	Singular	Female	3
+christophe	0	6325	6325	PER	Il	29783	29785	il	1	0	283	0	0	0	0	977	6325	il	nsubj	6327	PRON	PRON	Singular	Male	3
+petite_bourgeoise	4	6326	6326	PER	lui	29786	29789	lui	1	0	283	1	0	0	0	978	6326	lui	iobj	6327	PRON	PRON	Singular	Ambiguous	3
+petite_bourgeoise	4	6336	6336	PER	elle	29830	29834	elle	1	0	283	11	0	0	0	979	6336	elle	nsubj	6338	PRON	PRON	Singular	Female	3
+christophe	0	6337	6337	PER	l	29835	29836	l'	1	0	283	12	0	0	0	980	6337	l'	obj	6338	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6348	6348	PER	il	29879	29881	il	1	0	284	8	0	0	0	981	6348	il	nsubj	6350	PRON	PRON	Singular	Male	3
+christophe	0	6370	6370	PER	le	29994	29996	le	1	0	284	30	0	0	0	982	6370	le	obj	6371	PRON	PRON	Singular	Male	3
+christophe	0	6374	6374	PER	il	30010	30012	il	1	0	284	34	0	0	0	983	6374	il	nsubj	6376	PRON	PRON	Singular	Male	3
+christophe	0	6381	6381	PER	il	30044	30046	il	1	0	285	2	0	0	0	984	6381	il	nsubj	6382	PRON	PRON	Singular	Male	3
+T950	43	6386	6387	TIME	le jour	30065	30072	le jour	2	0	285	7	0	0	0	985	6387	jour	nsubj	6389	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T950	43	6392	6393	TIME	ce jour	30089	30096	ce jour	2	0	285	13	0	0	0	986	6393	jour	nsubj	6395	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T952	102	6400	6402	TIME	du matin précédent	30133	30151	du matin précédent	3	0	285	21	0	0	0	987	6401	matin	nmod	6399	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	6412	6412	PER	Christophe	30196	30206	christophe	1	0	286	0	0	0	0	988	6412	christophe	nsubj	6413	PROPN	PROP	Singular	Male	3
+M26	81	6438	6438	PER	On	30328	30330	on	1	0	289	0	0	0	0	989	6438	on	nsubj	6439	PRON	PRON	Ambiguous	Ambiguous	3
+T953	101	6443	6445	TIME	ces jours-là	30353	30365	ces jours -là	3	0	289	5	0	0	0	990	6444	jours	obl:mod	6439	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	6454	6454	PER	Christophe	30400	30410	christophe	1	0	290	7	0	0	0	991	6454	christophe	dep	6452	PROPN	PROP	Singular	Male	3
+melchior	1	6456	6457	PER	Le père	30412	30419	le père	2	0	291	0	0	0	0	992	6457	père	nsubj	6459	NOUN	NOM	Singular	Male	3
+melchior	1	6462	6462	PER	il	30437	30439	il	1	0	291	6	0	0	0	993	6462	il	nsubj	6464	PRON	PRON	Singular	Male	3
+melchior	1	6469	6469	PER	il	30466	30468	il	1	0	291	13	0	0	0	994	6469	il	nsubj	6470	PRON	PRON	Singular	Male	3
+melchior	1	6474	6474	PER	lui	30495	30498	lui	1	0	291	18	0	0	0	995	6474	lui	obl:arg	6470	PRON	PRON	Singular	Ambiguous	3
+melchior	1	6476	6476	PER	Il	30500	30502	il	1	0	292	0	0	0	0	996	6476	il	nsubj	6477	PRON	PRON	Singular	Male	3
+melchior	1	6486	6486	PER	il	30549	30551	il	1	0	292	10	0	0	0	997	6486	il	nsubj	6487	PRON	PRON	Singular	Male	3
+melchior	1	6490	6490	PER	il	30564	30566	il	1	0	292	14	0	0	0	998	6490	il	nsubj	6492	PRON	PRON	Singular	Male	3
+louisa	2	6497	6498	PER	sa femme	30598	30606	sa femme	2	0	292	21	0	1	1	999	6498	femme	nmod	6495	NOUN	NOM	Singular	Female	3
+melchior	1	6497	6497	PER	sa	30598	30600	sa	1	0	292	21	1	0	0	1000	6497	sa	det	6498	DET	PRON	Singular	Ambiguous	3
+louisa	2	6500	6500	PER	qui	30608	30611	qui	1	0	292	24	0	0	0	1001	6500	qui	nsubj	6501	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	6508	6508	PER	le	30638	30640	le	1	0	292	32	0	0	0	1002	6508	le	obj	6509	PRON	PRON	Singular	Male	3
+melchior	1	6513	6513	PER	il	30664	30666	il	1	0	292	37	0	0	0	1003	6513	il	nsubj	6515	PRON	PRON	Singular	Male	3
+louisa	2	6530	6530	PER	Louisa	30735	30741	louisa	1	0	294	0	0	0	0	1004	6530	louisa	nsubj	6531	PROPN	PROP	Singular	Female	3
+deux_enfants_cadets	7	6532	6533	PER	les petits	30750	30760	les petits	2	0	294	2	0	0	0	1005	6533	petits	obj	6531	ADJ	NOM	Plural	Ambiguous	3
+T957	100	6540	6540	PER	chacun	30786	30792	chacun	1	0	294	10	0	0	0	1006	6540	chacun	nmod	6536	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	6547	6547	PER	Christophe	30820	30830	christophe	1	0	295	5	0	0	0	1007	6547	christophe	nmod	6545	PROPN	PROP	Singular	Male	3
+louisa	2	6561	6562	PER	sa mère	30885	30892	sa mère	2	0	295	19	0	1	1	1008	6562	mère	nsubj:pass	6566	NOUN	NOM	Singular	Female	3
+christophe	0	6561	6561	PER	sa	30885	30887	sa	1	0	295	19	1	0	0	1009	6561	sa	det	6562	DET	PRON	Singular	Ambiguous	3
+christophe	0	6568	6568	PER	Il	30913	30915	il	1	0	296	0	0	0	0	1010	6568	il	nsubj	6570	PRON	PRON	Singular	Male	3
+christophe	0	6574	6574	PER	il	30936	30938	il	1	0	296	6	0	0	0	1011	6574	il	nsubj	6577	PRON	PRON	Singular	Male	3
+christophe	0	6584	6584	PER	lui	30985	30988	lui	1	0	296	16	0	0	0	1012	6584	lui	obl:arg	6582	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6587	6587	PER	il	30996	30998	il	1	0	297	1	0	0	0	1013	6587	il	nsubj	6588	PRON	PRON	Singular	Male	3
+christophe	0	6589	6589	PER	son	31011	31014	son	1	0	297	3	0	0	0	1014	6589	son	det	6590	DET	PRON	Singular	Ambiguous	3
+louisa	2	6603	6603	PER	maman	31060	31065	maman	1	0	297	17	0	0	0	1015	6603	maman	appos	6601	NOUN	NOM	Singular	Female	3
+louisa	2	6605	6605	PER	Elle	31067	31071	elle	1	0	298	0	0	0	0	1016	6605	elle	nsubj	6607	PRON	PRON	Singular	Female	3
+christophe	0	6621	6621	PER	je	31126	31128	je	1	0	300	3	0	0	0	1017	6621	je	nsubj	6624	PRON	PRON	Singular	Ambiguous	1
+louisa	2	6622	6622	PER	t	31129	31130	t'	1	0	300	4	0	0	0	1018	6622	t'	iobj	6624	PRON	PRON	Singular	Ambiguous	2
+christophe	0	6633	6633	PER	tu	31164	31166	tu	1	0	301	4	0	0	0	1019	6633	tu	nsubj	6635	PRON	PRON	Singular	Ambiguous	2
+christophe	0	6642	6642	PER	je	31190	31192	je	1	0	302	3	0	0	0	1020	6642	je	nsubj	6644	PRON	PRON	Singular	Ambiguous	1
+louisa	2	6649	6649	PER	elle	31219	31223	elle	1	0	303	1	0	0	0	1021	6649	elle	nsubj	6652	PRON	PRON	Singular	Female	3
+christophe_et_louisa	12	6658	6658	PER	ils	31254	31257	ils	1	0	303	10	0	0	0	1022	6658	ils	nsubj	6660	PRON	PRON	Plural	Ambiguous	3
+christophe_et_louisa	12	6664	6664	PER	ils	31281	31284	ils	1	0	303	16	0	0	0	1023	6664	ils	nsubj	6666	PRON	PRON	Plural	Ambiguous	3
+christophe_et_louisa	12	6672	6672	PER	ils	31326	31329	ils	1	0	303	24	0	0	0	1024	6672	ils	nsubj	6673	PRON	PRON	Plural	Ambiguous	3
+louisa	2	6682	6683	PER	Sa mère	31381	31388	sa mère	2	0	304	0	0	1	1	1025	6683	mère	nsubj	6685	NOUN	NOM	Singular	Female	3
+christophe	0	6682	6682	PER	Sa	31381	31383	sa	1	0	304	0	1	0	0	1026	6682	sa	det	6683	DET	PRON	Singular	Ambiguous	3
+christophe	0	6684	6684	PER	le	31389	31391	le	1	0	304	2	0	0	0	1027	6684	le	obj	6685	PRON	PRON	Singular	Male	3
+christophe	0	6688	6688	PER	il	31411	31413	il	1	0	305	1	0	0	0	1028	6688	il	nsubj	6690	PRON	PRON	Singular	Male	3
+louisa	2	6703	6703	PER	maman	31461	31466	maman	1	0	306	3	0	0	0	1029	6703	maman	ROOT	6703	NOUN	NOM	Singular	Female	3
+christophe	0	6707	6707	PER	tu	31475	31477	tu	1	0	307	2	0	0	0	1030	6707	tu	nsubj	6709	PRON	PRON	Singular	Ambiguous	2
+christophe	0	6714	6714	PER	Je	31499	31501	je	1	0	308	1	0	0	0	1031	6714	je	nsubj	6718	PRON	PRON	Singular	Ambiguous	1
+christophe	0	6721	6721	PER	j	31527	31528	j'	1	0	308	8	0	0	0	1032	6721	j'	nsubj	6724	PRON	PRON	Singular	Ambiguous	1
+melchior	1	6729	6730	PER	son père	31561	31569	son père	2	0	309	3	0	1	1	1033	6730	père	nsubj	6732	NOUN	NOM	Singular	Male	3
+christophe	0	6729	6729	PER	son	31561	31564	son	1	0	309	3	1	0	0	1034	6729	son	det	6730	DET	PRON	Singular	Ambiguous	3
+christophe	0	6731	6731	PER	lui	31570	31573	lui	1	0	309	5	0	0	0	1035	6731	lui	iobj	6732	PRON	PRON	Singular	Ambiguous	3
+melchior	1	6740	6740	PER	il	31613	31615	il	1	0	309	14	0	0	0	1036	6740	il	nsubj	6742	PRON	PRON	Singular	Male	3
+christophe	0	6750	6750	PER	Christophe	31660	31670	christophe	1	0	310	1	0	0	0	1037	6750	christophe	nsubj	6752	PROPN	PROP	Singular	Male	3
+christophe	0	6756	6756	PER	il	31698	31700	il	1	0	310	7	0	0	0	1038	6756	il	nsubj	6758	PRON	PRON	Singular	Male	3
+christophe	0	6760	6760	PER	son	31718	31721	son	1	0	310	11	0	0	0	1039	6760	son	det	6761	DET	PRON	Singular	Ambiguous	3
+ernst	10	6763	6763	PER	Ernst	31736	31741	ernst	1	0	310	14	0	0	0	1040	6763	ernst	obl:mod	6758	PROPN	PROP	Singular	Male	3
+ernst	10	6765	6767	PER	le petit frère	31743	31757	le petit frère	3	0	310	16	0	0	0	1041	6767	frère	appos	6763	NOUN	NOM	Singular	Male	3
+ernst	10	6772	6772	PER	qui	31776	31779	qui	1	0	310	23	0	0	0	1042	6772	qui	nsubj	6774	PRON	PRON	Ambiguous	Ambiguous	4
+ernst	10	6787	6787	PER	qui	31845	31848	qui	1	0	310	38	0	0	0	1043	6787	qui	nsubj	6788	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	6790	6790	PER	lui	31863	31866	lui	1	0	310	41	0	0	0	1044	6790	lui	iobj	6791	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6794	6794	PER	Tu	31880	31882	tu	1	0	310	45	0	0	0	1045	6794	tu	nsubj	6797	PRON	PRON	Singular	Ambiguous	2
+ernst	10	6800	6800	PER	moi	31911	31914	donne-la-moi	1	0	310	51	0	0	0	1046	6800	donne-la-moi	ROOT	6800	VERB	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	6804	6804	PER	Christophe	31921	31931	christophe	1	0	310	55	0	0	0	1047	6804	christophe	dep	6800	PROPN	PROP	Singular	Male	3
+christophe	0	6809	6809	PER	Christophe	31944	31954	christophe	1	0	311	3	0	0	0	1048	6809	christophe	nsubj	6810	PROPN	PROP	Singular	Male	3
+melchior	1	6811	6812	PER	son père	31965	31973	son père	2	0	311	5	0	1	1	1049	6812	père	obj	6810	NOUN	NOM	Singular	Male	3
+christophe	0	6811	6811	PER	son	31965	31968	son	1	0	311	5	1	0	0	1050	6811	son	det	6812	DET	PRON	Singular	Ambiguous	3
+christophe	0	6815	6815	PER	il	31981	31983	il	1	0	311	9	0	0	0	1051	6815	il	nsubj	6818	PRON	PRON	Singular	Male	3
+melchior	1	6816	6816	PER	lui	31984	31987	lui	1	0	311	10	0	0	0	1052	6816	lui	iobj	6818	PRON	PRON	Singular	Ambiguous	3
+famille_sauf_pere	28	6824	6824	PER	eux	32018	32021	eux	1	0	311	18	0	0	0	1053	6824	eux	obl:arg	6822	PRON	PRON	Plural	Ambiguous	3
+melchior	1	6833	6833	PER	il	32051	32053	il	1	0	311	27	0	0	0	1054	6833	il	nsubj	6835	PRON	PRON	Singular	Male	3
+famille_sauf_pere	28	6834	6834	PER	leur	32054	32058	leur	1	0	311	28	0	0	0	1055	6834	leur	iobj	6835	PRON	PRON	Plural	Ambiguous	3
+famille_sauf_pere	28	6836	6836	PER	leur	32068	32072	leur	1	0	311	30	0	0	0	1056	6836	leur	det	6837	DET	PRON	Plural	Ambiguous	3
+christophe	0	6839	6839	PER	Il	32080	32082	il	1	0	312	0	0	0	0	1057	6839	il	nsubj	6840	PRON	PRON	Singular	Male	3
+christophe	0	6844	6844	PER	il	32100	32102	il	1	0	312	5	0	0	0	1058	6844	il	nsubj	6846	PRON	PRON	Singular	Male	3
+melchior	1	6845	6845	PER	le	32103	32105	le	1	0	312	6	0	0	0	1059	6845	le	obj	6846	PRON	PRON	Singular	Male	3
+christophe	0	6849	6849	PER	il	32121	32123	il	1	0	312	10	0	0	0	1060	6849	il	nsubj	6851	PRON	PRON	Singular	Male	3
+melchior	1	6853	6853	PER	lui	32140	32143	lui	1	0	312	14	0	0	0	1061	6853	lui	iobj	6854	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6857	6857	PER	il	32156	32158	il	1	0	312	18	0	0	0	1062	6857	il	nsubj	6858	PRON	PRON	Singular	Male	3
+christophe	0	6861	6861	PER	son	32173	32176	son	1	0	312	22	0	0	0	1063	6861	son	det	6862	DET	PRON	Singular	Ambiguous	3
+christophe	0	6865	6865	PER	il	32189	32191	il	1	0	312	26	0	0	0	1064	6865	il	nsubj	6868	PRON	PRON	Singular	Male	3
+christophe	0	6875	6875	PER	il	32225	32227	il	1	0	312	36	0	0	0	1065	6875	il	nsubj	6877	PRON	PRON	Singular	Male	3
+christophe	0	6879	6879	PER	sa	32245	32247	sa	1	0	312	40	0	0	0	1066	6879	sa	det	6880	DET	PRON	Singular	Ambiguous	3
+melchior	1	6885	6886	PER	son père	32265	32273	son père	2	0	313	3	0	1	1	1067	6886	père	nsubj	6888	NOUN	NOM	Singular	Male	3
+christophe	0	6885	6885	PER	son	32265	32268	son	1	0	313	3	1	0	0	1068	6885	son	det	6886	DET	PRON	Singular	Ambiguous	3
+christophe	0	6887	6887	PER	lui	32274	32277	lui	1	0	313	5	0	0	0	1069	6887	lui	iobj	6888	PRON	PRON	Singular	Ambiguous	3
+melchior	1	6890	6891	PER	son père	32287	32295	son père	2	0	313	8	0	1	1	1070	6891	père	nsubj	6894	NOUN	NOM	Singular	Male	3
+christophe	0	6890	6890	PER	son	32287	32290	son	1	0	313	8	1	0	0	1071	6890	son	det	6891	DET	PRON	Singular	Ambiguous	3
+christophe	0	6896	6896	PER	Lui	32311	32314	lui	1	0	314	0	0	0	0	1072	6896	lui	nsubj	6899	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6903	6903	PER	il	32336	32338	il	1	0	314	7	0	0	0	1073	6903	il	nsubj	6906	PRON	PRON	Singular	Male	3
+christophe	0	6910	6910	PER	il	32368	32370	il	1	0	314	14	0	0	0	1074	6910	il	nsubj	6912	PRON	PRON	Singular	Male	3
+christophe	0	6922	6922	PER	il	32414	32416	il	1	0	315	3	0	0	0	1075	6922	il	nsubj	6923	PRON	PRON	Singular	Male	3
+christophe	0	6926	6926	PER	il	32431	32433	il	1	0	315	7	0	0	0	1076	6926	il	nsubj	6927	PRON	PRON	Singular	Male	3
+christophe	0	6934	6934	PER	il	32461	32463	il	1	0	316	2	0	0	0	1077	6934	il	nsubj	6935	PRON	PRON	Singular	Male	3
+christophe	0	6942	6942	PER	Il	32492	32494	il	1	0	317	1	0	0	0	1078	6942	il	nsubj	6943	PRON	PRON	Singular	Male	3
+christophe	0	6954	6954	PER	Son	32551	32554	son	1	0	318	0	0	0	0	1079	6954	son	det	6956	DET	PRON	Singular	Ambiguous	3
+christophe	0	6963	6963	PER	il	32600	32602	il	1	0	318	9	0	0	0	1080	6963	il	nsubj	6965	PRON	PRON	Singular	Male	3
+christophe	0	6969	6969	PER	lui	32625	32628	lui	1	0	318	15	0	0	0	1081	6969	lui	iobj	6970	PRON	PRON	Singular	Ambiguous	3
+christophe	0	6973	6973	PER	il	32643	32645	il	1	0	318	19	0	0	0	1082	6973	il	nsubj	6974	PRON	PRON	Singular	Male	3
+christophe	0	6997	6997	PER	il	32757	32759	il	1	0	319	1	0	0	0	1083	6997	il	nsubj	7000	PRON	PRON	Singular	Male	3
+christophe	0	7003	7003	PER	il	32782	32784	il	1	0	319	7	0	0	0	1084	7003	il	nsubj	7005	PRON	PRON	Singular	Male	3
+louisa	2	7008	7009	PER	sa mère	32808	32815	sa mère	2	0	319	12	0	1	1	1085	7009	mère	obl:agent	7006	NOUN	NOM	Singular	Female	3
+christophe	0	7008	7008	PER	sa	32808	32810	sa	1	0	319	12	1	0	0	1086	7008	sa	det	7009	DET	PRON	Singular	Ambiguous	3
+christophe	0	7012	7012	PER	il	32820	32822	il	1	0	319	16	0	0	0	1087	7012	il	nsubj	7013	PRON	PRON	Singular	Male	3
+louisa	2	7018	7018	PER	Louisa	32851	32857	louisa	1	0	320	0	0	0	0	1088	7018	louisa	nsubj	7024	PROPN	PROP	Singular	Female	3
+christophe	0	7027	7029	PER	son petit garçon	32899	32915	son petit garçon	3	0	320	9	0	1	1	1089	7029	garçon	nsubj	7031	NOUN	NOM	Singular	Male	3
+louisa	2	7027	7027	PER	son	32899	32902	son	1	0	320	9	1	0	0	1090	7027	son	det	7029	DET	PRON	Singular	Ambiguous	3
+famille_sauf_christophe	157	7037	7038	PER	les autres	32947	32957	les autres	2	0	320	19	0	0	0	1091	7038	autres	nsubj	7039	PRON	PRON	Plural	Ambiguous	3
+louisa	2	7042	7042	PER	elle	32978	32982	elle	1	0	320	24	0	0	0	1092	7042	elle	nsubj	7043	PRON	PRON	Singular	Female	3
+louisa	2	7048	7048	PER	elle	33014	33018	elle	1	0	320	30	0	0	0	1093	7048	elle	nsubj	7050	PRON	PRON	Singular	Female	3
+louisa	2	7053	7053	PER	Elle	33040	33044	elle	1	0	321	0	0	0	0	1094	7053	elle	nsubj	7055	PRON	PRON	Singular	Female	3
+christophe	0	7062	7062	PER	Christophe	33081	33091	christophe	1	0	321	9	0	0	0	1095	7062	christophe	obl:arg	7060	PROPN	PROP	Singular	Male	3
+louisa	2	7078	7078	PER	elle	33146	33150	-elle	1	0	321	25	0	0	0	1096	7078	elle	nsubj	7079	PRON	PRON	Singular	Female	3
+louisa	2	7082	7084	PER	Elle-même	33162	33171	elle - même	3	0	322	0	0	0	0	1097	7082	elle	nsubj:pass	7086	PRON	PRON	Singular	Female	3
+louisa	2	7092	7092	PER	elle	33213	33217	elle	1	0	322	10	0	0	0	1098	7092	elle	nsubj	7094	PRON	PRON	Singular	Female	3
+louisa	2	7110	7110	PER	Elle	33295	33299	elle	1	0	324	0	0	0	0	1099	7110	elle	nsubj	7113	PRON	PRON	Singular	Female	3
+louisa	2	7121	7121	PER	sa	33337	33339	sa	1	0	324	11	0	0	0	1100	7121	sa	det	7123	DET	PRON	Singular	Ambiguous	3
+louisa	2	7125	7125	PER	son	33355	33358	son	1	0	324	15	0	0	0	1101	7125	son	det	7126	DET	PRON	Singular	Ambiguous	3
+christophe	0	7131	7132	PER	l'enfant	33379	33387	l' enfant	2	0	324	21	0	0	0	1102	7132	enfant	nsubj	7133	NOUN	NOM	Singular	Ambiguous	3
+louisa	2	7137	7137	PER	Elle	33412	33416	elle	1	0	325	0	0	0	0	1103	7137	elle	nsubj	7140	PRON	PRON	Singular	Female	3
+christophe	0	7139	7139	PER	lui	33420	33423	lui	1	0	325	2	0	0	0	1104	7139	lui	iobj	7140	PRON	PRON	Singular	Ambiguous	3
+M13	63	7151	7152	PER	les autres	33468	33478	les autres	2	0	325	14	0	0	0	1105	7152	autres	nsubj	7154	NOUN	NOM	Plural	Ambiguous	3
+deux_enfants_cadets	7	7156	7157	PER	les enfants	33495	33506	les enfants	2	0	325	19	0	0	0	1106	7157	enfants	dep	7154	NOUN	NOM	Plural	Ambiguous	3
+rue	46	7159	7160	FAC	la rue	33512	33518	la rue	2	0	325	22	0	0	0	1107	7160	rue	dep	7157	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	7162	7162	PER	Melchior	33520	33528	melchior	1	0	325	25	0	0	0	1108	7162	melchior	dep	7154	PROPN	PROP	Singular	Male	3
+melchior	1	7164	7164	PER	ses	33531	33534	ses	1	0	325	27	0	0	0	1109	7164	ses	det	7165	DET	PRON	Singular	Ambiguous	3
+louisa	2	7167	7167	PER	elle	33545	33549	elle	1	0	325	30	0	0	0	1110	7167	elle	nsubj	7168	PRON	PRON	Singular	Female	3
+christophe	0	7169	7170	PER	son aîné	33557	33565	son aîné	2	0	325	32	0	1	1	1111	7170	aîné	obj	7168	NOUN	NOM	Singular	Male	3
+louisa	2	7169	7169	PER	son	33557	33560	son	1	0	325	32	1	0	0	1112	7169	son	det	7170	DET	PRON	Singular	Ambiguous	3
+louisa	2	7175	7175	PER	lui	33582	33585	lui	1	0	325	38	0	0	0	1113	7175	lui	iobj	7176	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7181	7181	PER	Christophe	33616	33626	christophe	1	0	326	0	0	0	0	1114	7181	christophe	nsubj	7183	PROPN	PROP	Singular	Male	3
+louisa	2	7182	7182	PER	lui	33627	33630	lui	1	0	326	1	0	0	0	1115	7182	lui	iobj	7183	PRON	PRON	Singular	Ambiguous	3
+louisa	2	7184	7184	PER	sa	33638	33640	sa	1	0	326	3	0	0	0	1116	7184	sa	det	7185	DET	PRON	Singular	Ambiguous	3
+louisa	2	7189	7189	PER	elle	33659	33663	elle	1	0	326	8	0	0	0	1117	7189	elle	nsubj	7191	PRON	PRON	Singular	Female	3
+louisa	2	7195	7195	PER	elle	33690	33694	elle	1	0	327	2	0	0	0	1118	7195	elle	nsubj	7196	PRON	PRON	Singular	Female	3
+christophe	0	7200	7200	PER	l	33711	33712	l'	1	0	327	7	0	0	0	1119	7200	l'	obj	7201	PRON	PRON	Singular	Ambiguous	3
+louisa	2	7204	7204	PER	elle	33738	33742	elle	1	0	327	11	0	0	0	1120	7204	elle	obl:arg	7201	PRON	PRON	Singular	Female	3
+louisa	2	7206	7206	PER	elle	33745	33749	elle	1	0	327	13	0	0	0	1121	7206	elle	nsubj	7208	PRON	PRON	Singular	Female	3
+christophe	0	7207	7207	PER	le	33750	33752	le	1	0	327	14	0	0	0	1122	7207	le	obj	7208	PRON	PRON	Singular	Male	3
+louisa	2	7210	7210	PER	ses	33765	33768	ses	1	0	327	17	0	0	0	1123	7210	ses	det	7211	DET	PRON	Singular	Ambiguous	3
+christophe	0	7214	7214	PER	il	33784	33786	il	1	0	327	21	0	0	0	1124	7214	il	nsubj	7218	PRON	PRON	Singular	Male	3
+louisa	2	7220	7220	PER	elle	33809	33813	elle	1	0	327	27	0	0	0	1125	7220	elle	nsubj	7222	PRON	PRON	Singular	Female	3
+christophe	0	7221	7221	PER	le	33814	33816	le	1	0	327	28	0	0	0	1126	7221	le	obj	7222	PRON	PRON	Singular	Male	3
+christophe	0	7224	7224	PER	Il	33826	33828	il	1	0	328	0	0	0	0	1127	7224	il	nsubj	7226	PRON	PRON	Singular	Male	3
+louisa	2	7225	7225	PER	lui	33829	33832	lui	1	0	328	1	0	0	0	1128	7225	lui	iobj	7226	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7229	7229	PER	ses	33855	33858	ses	1	0	328	5	0	0	0	1129	7229	ses	det	7230	DET	PRON	Singular	Ambiguous	3
+christophe_et_louisa	12	7236	7236	PER	ils	33882	33885	ils	1	0	328	12	0	0	0	1130	7236	ils	nsubj	7237	PRON	PRON	Plural	Ambiguous	3
+christophe_et_louisa	12	7238	7239	PER	tous deux	33897	33906	tous deux	2	0	328	14	0	0	0	1131	7239	deux	obj	7237	PRON	PRON	Plural	Ambiguous	3
+christophe	0	7249	7252	PER	Mon pauvre petit garçon	33948	33971	mon pauvre petit garçon	4	0	329	1	0	1	1	1132	7252	garçon	ROOT	7252	NOUN	NOM	Singular	Male	3
+louisa	2	7249	7249	PER	Mon	33948	33951	mon	1	0	329	1	1	0	0	1133	7249	mon	det	7252	DET	PRON	Singular	Ambiguous	1
+louisa	2	7256	7256	PER	Maman	33978	33983	maman	1	0	330	2	0	0	0	1134	7256	maman	ROOT	7256	NOUN	NOM	Singular	Female	3
+louisa	2	7258	7259	PER	chère maman	33985	33996	chère maman	2	0	330	4	0	0	0	1135	7259	maman	appos	7256	NOUN	NOM	Singular	Female	3
+christophe_et_louisa	12	7262	7262	PER	Ils	34001	34004	ils	1	0	331	1	0	0	0	1136	7262	ils	nsubj	7264	PRON	PRON	Plural	Ambiguous	3
+christophe_et_louisa	12	7270	7270	PER	ils	34037	34040	ils	1	0	331	9	0	0	0	1137	7270	ils	nsubj	7272	PRON	PRON	Plural	Ambiguous	3
+christophe	0	7274	7274	PER	Christophe	34058	34068	christophe	1	0	332	0	0	0	0	1138	7274	christophe	nsubj	7277	PROPN	PROP	Singular	Male	3
+M27	80	7276	7277	TIME	assez longtemps	34073	34088	assez longtemps	2	0	332	2	0	0	0	1139	7277	longtemps	ROOT	7277	ADV	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	7283	7284	PER	son père	34115	34123	son père	2	0	332	9	0	1	1	1140	7284	père	nsubj	7285	NOUN	NOM	Singular	Male	3
+christophe	0	7283	7283	PER	son	34115	34118	son	1	0	332	9	1	0	0	1141	7283	son	det	7284	DET	PRON	Singular	Ambiguous	3
+melchior	1	7290	7290	PER	Melchior	34150	34158	melchior	1	0	333	3	0	0	0	1142	7290	melchior	nmod	7288	PROPN	PROP	Singular	Male	3
+melchior	1	7321	7321	PER	Il	34318	34320	il	1	0	336	0	0	0	0	1143	7321	il	nsubj	7322	PRON	PRON	Singular	Male	3
+M12	90	7331	7333	TIME	pendant des heures	34362	34380	pendant des heures	3	0	336	10	0	0	0	1144	7333	heures	obl:mod	7326	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	7344	7344	PER	il	34419	34421	il	1	0	336	23	0	0	0	1145	7344	il	nsubj	7345	PRON	PRON	Singular	Male	3
+louisa	2	7351	7351	PER	Louisa	34456	34462	louisa	1	0	336	30	0	0	0	1146	7351	louisa	obl:mod	7349	PROPN	PROP	Singular	Female	3
+deux_enfants_cadets	7	7354	7355	PER	les enfants	34471	34482	les enfants	2	0	336	33	0	0	0	1147	7355	enfants	conj	7351	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	7357	7357	PER	Christophe	34484	34494	christophe	1	0	337	0	0	0	0	1148	7357	christophe	nsubj	7358	PROPN	PROP	Singular	Male	3
+louisa	2	7361	7362	PER	sa mère	34511	34518	sa mère	2	0	337	4	0	1	1	1149	7362	mère	nsubj	7363	NOUN	NOM	Singular	Female	3
+christophe	0	7361	7361	PER	sa	34511	34513	sa	1	0	337	4	1	0	0	1150	7361	sa	det	7362	DET	PRON	Singular	Ambiguous	3
+louisa	2	7368	7368	PER	elle	34540	34544	elle	1	0	337	11	0	0	0	1151	7368	elle	nsubj	7370	PRON	PRON	Singular	Female	3
+louisa	2	7380	7380	PER	son	34591	34594	son	1	0	337	23	0	0	0	1152	7380	son	det	7381	DET	PRON	Singular	Ambiguous	3
+louisa	2	7383	7383	PER	elle	34605	34609	elle	1	0	337	26	0	0	0	1153	7383	elle	nsubj	7384	PRON	PRON	Singular	Female	3
+melchior	1	7387	7388	PER	l'ivrogne	34630	34639	l' ivrogne	2	0	337	30	0	0	0	1154	7388	ivrogne	obj	7386	NOUN	NOM	Singular	Ambiguous	3
+louisa	2	7391	7391	PER	elle	34645	34649	elle	1	0	337	34	0	0	0	1155	7391	elle	nsubj	7392	PRON	PRON	Singular	Female	3
+melchior	1	7395	7395	PER	le	34671	34673	le	1	0	337	38	0	0	0	1156	7395	le	obj	7397	PRON	PRON	Singular	Male	3
+melchior	1	7400	7400	PER	il	34693	34695	il	1	0	337	43	0	0	0	1157	7400	il	nsubj	7401	PRON	PRON	Singular	Male	3
+louisa	2	7405	7405	PER	la	34724	34726	la	1	0	337	48	0	0	0	1158	7405	la	obj	7406	PRON	PRON	Singular	Female	3
+christophe	0	7410	7410	PER	Christophe	34750	34760	christophe	1	0	338	1	0	0	0	1159	7410	christophe	nsubj	7412	PROPN	PROP	Singular	Male	3
+christophe	0	7416	7416	PER	il	34784	34786	il	1	0	338	7	0	0	0	1160	7416	il	nsubj	7417	PRON	PRON	Singular	Male	3
+christophe	0	7424	7424	PER	il	34820	34822	il	1	0	338	15	0	0	0	1161	7424	il	nsubj	7426	PRON	PRON	Singular	Male	3
+melchior	1	7434	7435	PER	du père	34875	34882	du père	2	0	338	25	0	0	0	1162	7435	père	nmod	7432	NOUN	NOM	Singular	Male	3
+maison	158	7437	7438	FAC	La maison	34884	34893	la maison	2	0	339	0	0	0	0	1163	7438	maison	nsubj	7440	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	7449	7449	PER	lui	34948	34951	lui	1	0	339	12	0	0	0	1164	7449	lui	nmod	7447	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7451	7451	PER	Il	34953	34955	il	1	0	340	0	0	0	0	1165	7451	il	nsubj	7452	PRON	PRON	Singular	Male	3
+christophe	0	7455	7455	PER	son	34970	34973	son	1	0	340	4	0	0	0	1166	7455	son	det	7456	DET	PRON	Singular	Ambiguous	3
+melchior	1	7465	7465	PER	Melchior	35034	35042	melchior	1	0	340	14	0	0	0	1167	7465	melchior	nmod	7462	PROPN	PROP	Singular	Male	3
+christophe	0	7467	7467	PER	il	35045	35047	il	1	0	340	16	0	0	0	1168	7467	il	nsubj	7468	PRON	PRON	Singular	Male	3
+melchior	1	7472	7472	PER	lui	35073	35076	lui	1	0	340	21	0	0	0	1169	7472	lui	obl:mod	7468	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7475	7475	PER	il	35082	35084	il	1	0	340	24	0	0	0	1170	7475	il	nsubj	7476	PRON	PRON	Singular	Male	3
+louisa	2	7480	7481	PER	sa mère	35111	35118	sa mère	2	0	340	29	0	1	1	1171	7481	mère	nsubj	7489	NOUN	NOM	Singular	Female	3
+christophe	0	7480	7480	PER	sa	35111	35113	sa	1	0	340	29	1	0	0	1172	7480	sa	det	7481	DET	PRON	Singular	Ambiguous	3
+christophe	0	7488	7488	PER	lui	35139	35142	lui	1	0	340	37	0	0	0	1173	7488	lui	iobj	7489	PRON	PRON	Singular	Ambiguous	3
+melchior	1	7501	7502	PER	son père	35200	35208	son père	2	0	341	8	0	1	1	1174	7502	père	nsubj	7504	NOUN	NOM	Singular	Male	3
+christophe	0	7501	7501	PER	son	35200	35203	son	1	0	341	8	1	0	0	1175	7501	son	det	7502	DET	PRON	Singular	Ambiguous	3
+christophe	0	7508	7508	PER	sa	35231	35233	sa	1	0	342	2	0	0	0	1176	7508	sa	det	7510	DET	PRON	Singular	Ambiguous	3
+christophe	0	7521	7521	PER	lui	35296	35299	lui	1	0	342	15	0	0	0	1177	7521	lui	expl:subj	7524	PRON	PRON	Singular	Ambiguous	3
+melchior	1	7529	7530	PER	son père	35339	35347	son père	2	0	342	23	0	1	1	1178	7530	père	nmod	7527	NOUN	NOM	Singular	Male	3
+christophe	0	7529	7529	PER	son	35339	35342	son	1	0	342	23	1	0	0	1179	7529	son	det	7530	DET	PRON	Singular	Ambiguous	3
+christophe	0	7539	7539	PER	son	35395	35398	son	1	0	342	33	0	0	0	1180	7539	son	det	7540	DET	PRON	Singular	Ambiguous	3
+christophe	0	7547	7547	PER	il	35442	35444	il	1	0	342	41	0	0	0	1181	7547	il	nsubj	7548	PRON	PRON	Singular	Male	3
+melchior	1	7551	7551	PER	l	35467	35468	l'	1	0	342	45	0	0	0	1182	7551	l'	obj	7552	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7659	7659	PER	Christophe	35961	35971	christophe	1	0	347	0	0	0	0	1183	7659	christophe	nsubj	7660	PROPN	PROP	Singular	Male	3
+christophe	0	7663	7663	PER	ses	35991	35994	ses	1	0	347	4	0	0	0	1184	7663	ses	det	7664	DET	PRON	Singular	Ambiguous	3
+melchior	1	7666	7667	PER	son père	36009	36017	son père	2	0	347	7	0	1	1	1185	7667	père	obl:arg	7660	NOUN	NOM	Singular	Male	3
+christophe	0	7666	7666	PER	son	36009	36012	son	1	0	347	7	1	0	0	1186	7666	son	det	7667	DET	PRON	Singular	Ambiguous	3
+christophe	0	7670	7670	PER	il	36022	36024	il	1	0	347	11	0	0	0	1187	7670	il	nsubj	7672	PRON	PRON	Singular	Male	3
+melchior	1	7678	7678	PER	l	36062	36063	l'	1	0	347	19	0	0	0	1188	7678	l'	obj	7679	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7681	7681	PER	il	36074	36076	il	1	0	347	22	0	0	0	1189	7681	il	nsubj	7682	PRON	PRON	Singular	Male	3
+melchior	1	7683	7683	PER	sa	36086	36088	sa	1	0	347	24	0	0	0	1190	7683	sa	det	7684	DET	PRON	Singular	Ambiguous	3
+melchior	1	7686	7686	PER	ses	36097	36100	ses	1	0	347	27	0	0	0	1191	7686	ses	det	7687	DET	PRON	Singular	Ambiguous	3
+melchior	1	7690	7690	PER	sa	36116	36118	sa	1	0	347	31	0	0	0	1192	7690	sa	det	7691	DET	PRON	Singular	Ambiguous	3
+melchior	1	7693	7693	PER	son	36125	36128	son	1	0	347	34	0	0	0	1193	7693	son	det	7694	DET	PRON	Singular	Ambiguous	3
+melchior	1	7696	7696	PER	sa	36135	36137	sa	1	0	347	37	0	0	0	1194	7696	sa	det	7697	DET	PRON	Singular	Ambiguous	3
+melchior	1	7700	7700	PER	il	36150	36152	il	1	0	347	41	0	0	0	1195	7700	il	nsubj	7701	PRON	PRON	Singular	Male	3
+melchior	1	7706	7706	PER	il	36180	36182	il	1	0	347	47	0	0	0	1196	7706	il	nsubj	7707	PRON	PRON	Singular	Male	3
+melchior	1	7709	7709	PER	son	36201	36204	son	1	0	347	50	0	0	0	1197	7709	son	det	7710	DET	PRON	Singular	Ambiguous	3
+melchior	1	7716	7716	PER	Melchior	36234	36242	melchior	1	0	347	57	0	0	0	1198	7716	melchior	nsubj	7717	PROPN	PROP	Singular	Male	3
+melchior	1	7726	7726	PER	il	36287	36289	il	1	0	347	67	0	0	0	1199	7726	il	nsubj	7728	PRON	PRON	Singular	Male	3
+christophe	0	7730	7730	PER	Il	36303	36305	il	1	0	348	0	0	0	0	1200	7730	il	nsubj	7731	PRON	PRON	Singular	Male	3
+melchior	1	7733	7733	PER	ses	36316	36319	ses	1	0	348	3	0	0	0	1201	7733	ses	det	7734	DET	PRON	Singular	Ambiguous	3
+christophe	0	7737	7737	PER	il	36337	36339	il	1	0	348	7	0	0	0	1202	7737	il	nsubj	7738	PRON	PRON	Singular	Male	3
+melchior	1	7739	7740	PER	son père	36350	36358	son père	2	0	348	9	0	1	1	1203	7740	père	obj	7738	NOUN	NOM	Singular	Male	3
+christophe	0	7739	7739	PER	son	36350	36353	son	1	0	348	9	1	0	0	1204	7739	son	det	7740	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	7749	7749	PER	grand-père	36391	36401	grand-père	1	0	348	19	0	0	0	1205	7749	grand-père	nmod	7747	NOUN	NOM	Singular	Male	3
+T974	99	7751	7752	TIME	Un soir	36403	36410	un soir	2	0	349	0	0	0	0	1206	7752	soir	obl:mod	7759	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M14	82	7754	7756	TIME	vers sept heures	36412	36428	vers sept heures	3	0	349	3	0	0	0	1207	7756	heures	obl:mod	7759	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	7758	7758	PER	il	36430	36432	il	1	0	349	7	0	0	0	1208	7758	il	nsubj	7759	PRON	PRON	Singular	Male	3
+deux_enfants_cadets	7	7765	7767	PER	Les petits frères	36457	36474	les petits frères	3	0	350	0	0	0	0	1209	7767	frères	nsubj	7769	NOUN	NOM	Plural	Male	3
+jean_michel	3	7771	7771	PER	Jean-Michel	36495	36506	jean-michel	1	0	350	6	0	0	0	1210	7771	jean-michel	obl:mod	7769	PROPN	PROP	Singular	Male	3
+louisa	2	7773	7773	PER	Louisa	36508	36514	louisa	1	0	351	0	0	0	0	1211	7773	louisa	nsubj	7774	PROPN	PROP	Singular	Female	3
+rhin	22	7778	7779	LOC	au fleuve	36532	36541	au fleuve	2	0	351	5	0	0	0	1212	7779	fleuve	obl:mod	7774	NOUN	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	7787	7787	PER	Melchior	36565	36573	melchior	1	0	352	6	0	0	0	1213	7787	melchior	nsubj	7788	PROPN	PROP	Singular	Male	3
+melchior	1	7791	7791	PER	Il	36589	36591	il	1	0	353	0	0	0	0	1214	7791	il	nsubj	7794	PRON	PRON	Singular	Male	3
+melchior	1	7798	7798	PER	il	36624	36626	il	1	0	353	7	0	0	0	1215	7798	il	nsubj	7799	PRON	PRON	Singular	Male	3
+melchior	1	7808	7808	PER	il	36673	36675	il	1	0	353	17	0	0	0	1216	7808	il	nsubj	7809	PRON	PRON	Singular	Male	3
+christophe	0	7818	7818	PER	Christophe	36720	36730	christophe	1	0	354	0	0	0	0	1217	7818	christophe	nsubj	7819	PROPN	PROP	Singular	Male	3
+melchior	1	7831	7831	PER	ses	36782	36785	ses	1	0	354	13	0	0	0	1218	7831	ses	det	7832	DET	PRON	Singular	Ambiguous	3
+christophe	0	7836	7836	PER	il	36810	36812	il	1	0	354	18	0	0	0	1219	7836	il	nsubj	7837	PRON	PRON	Singular	Male	3
+melchior	1	7839	7839	PER	lui	36823	36826	lui	1	0	354	21	0	0	0	1220	7839	lui	obl:arg	7837	PRON	PRON	Singular	Ambiguous	3
+christophe	0	7844	7844	PER	il	36840	36842	il	1	0	355	3	0	0	0	1221	7844	il	nsubj	7846	PRON	PRON	Singular	Male	3
+melchior	1	7845	7845	PER	le	36843	36845	le	1	0	355	4	0	0	0	1222	7845	le	obj	7846	PRON	PRON	Singular	Male	3
+christophe	0	7850	7850	PER	il	36859	36861	il	1	0	355	9	0	0	0	1223	7850	il	nsubj	7852	PRON	PRON	Singular	Male	3
+melchior	1	7858	7858	PER	Melchior	36888	36896	melchior	1	0	356	0	0	0	0	1224	7858	melchior	nsubj	7860	PROPN	PROP	Singular	Male	3
+melchior	1	7869	7869	PER	lui	36949	36952	lui	1	0	356	11	0	0	0	1225	7869	lui	obl:mod	7867	PRON	PRON	Singular	Ambiguous	3
+melchior	1	7880	7880	PER	sa	36998	37000	sa	1	0	356	22	0	0	0	1226	7880	sa	det	7881	DET	PRON	Singular	Ambiguous	3
+melchior	1	7885	7885	PER	il	37026	37028	il	1	0	356	27	0	0	0	1227	7885	il	nsubj	7886	PRON	PRON	Singular	Male	3
+melchior	1	7891	7891	PER	il	37055	37057	il	1	0	356	33	0	0	0	1228	7891	il	nsubj	7893	PRON	PRON	Singular	Male	3
+christophe	0	7902	7902	PER	Christophe	37111	37121	christophe	1	0	357	0	0	0	0	1229	7902	christophe	nsubj:pass	7904	PROPN	PROP	Singular	Male	3
+christophe	0	7906	7906	PER	Il	37133	37135	il	1	0	358	0	0	0	0	1230	7906	il	nsubj	7907	PRON	PRON	Singular	Male	3
+melchior	1	7911	7912	PER	son père	37153	37161	son père	2	0	358	5	0	1	1	1231	7912	père	nsubj	7913	NOUN	NOM	Singular	Male	3
+christophe	0	7911	7911	PER	son	37153	37156	son	1	0	358	5	1	0	0	1232	7911	son	det	7912	DET	PRON	Singular	Ambiguous	3
+melchior	1	7918	7918	PER	il	37191	37193	il	1	0	358	12	0	0	0	1233	7918	il	nsubj	7920	PRON	PRON	Singular	Male	3
+christophe	0	7923	7923	PER	il	37211	37213	il	1	0	358	17	0	0	0	1234	7923	il	nsubj:pass	7925	PRON	PRON	Singular	Male	3
+melchior	1	7930	7930	PER	Papa	37234	37238	papa	1	0	359	1	0	0	0	1235	7930	papa	ROOT	7930	NOUN	NOM	Singular	Male	3
+melchior	1	7932	7932	PER	papa	37241	37245	papa	1	0	359	3	0	0	0	1236	7932	papa	nmod	7930	PROPN	NOM	Singular	Male	3
+christophe	0	7935	7935	PER	il	37255	37257	-il	1	0	359	6	0	0	0	1237	7935	il	nsubj	7934	PRON	PRON	Singular	Male	3
+melchior	1	7937	7937	PER	Melchior	37259	37267	melchior	1	0	360	0	0	0	0	1238	7937	melchior	nsubj	7938	PROPN	PROP	Singular	Male	3
+christophe	0	7945	7945	PER	Christophe	37307	37317	christophe	1	0	361	0	0	0	0	1239	7945	christophe	nsubj	7947	PROPN	PROP	Singular	Male	3
+melchior	1	7946	7946	PER	lui	37318	37321	lui	1	0	361	1	0	0	0	1240	7946	lui	iobj	7947	PRON	PRON	Singular	Ambiguous	3
+melchior	1	7954	7954	PER	le	37356	37358	le	1	0	361	9	0	0	0	1241	7954	le	obj	7955	PRON	PRON	Singular	Male	3
+melchior	1	7958	7958	PER	ses	37376	37379	ses	1	0	361	13	0	0	0	1242	7958	ses	det	7959	DET	PRON	Singular	Ambiguous	3
+melchior	1	7962	7962	PER	Papa	37391	37395	papa	1	0	361	17	0	0	0	1243	7962	papa	vocative	7967	NOUN	NOM	Singular	Male	3
+melchior	1	7964	7965	PER	cher papa	37397	37406	cher papa	2	0	361	19	0	0	0	1244	7965	papa	nmod	7962	NOUN	NOM	Singular	Male	3
+christophe	0	7968	7968	PER	moi	37417	37420	-moi	1	0	361	23	0	0	0	1245	7968	moi	dep	7967	PRON	PRON	Singular	Ambiguous	1
+christophe	0	7970	7970	PER	Je	37423	37425	je	1	0	362	0	0	0	0	1246	7970	je	nsubj	7973	PRON	PRON	Singular	Ambiguous	1
+melchior	1	7971	7971	PER	t	37426	37427	t'	1	0	362	1	0	0	0	1247	7971	t'	iobj	7973	PRON	PRON	Singular	Ambiguous	2
+melchior	1	7978	7978	PER	Melchior	37453	37461	melchior	1	0	363	3	0	0	0	1248	7978	melchior	nmod	7976	PROPN	PROP	Singular	Male	3
+melchior	1	7988	7988	PER	sa	37510	37512	sa	1	0	363	13	0	0	0	1249	7988	sa	det	7989	DET	PRON	Singular	Ambiguous	3
+christophe	0	7995	7995	PER	Christophe	37542	37552	christophe	1	0	363	20	0	0	0	1250	7995	christophe	nmod	7993	PROPN	PROP	Singular	Male	3
+melchior	1	7997	7997	PER	il	37555	37557	il	1	0	363	22	0	0	0	1251	7997	il	nsubj	7999	PRON	PRON	Singular	Male	3
+christophe	0	7998	7998	PER	le	37558	37560	le	1	0	363	23	0	0	0	1252	7998	le	obj	7999	PRON	PRON	Singular	Male	3
+christophe	0	8013	8013	PER	Christophe	37643	37653	christophe	1	0	364	4	0	0	0	1253	8013	christophe	nmod	8011	PROPN	PROP	Singular	Male	3
+christophe	0	8025	8025	PER	lui	37717	37720	lui	1	0	364	16	0	0	0	1254	8025	lui	obl:arg	8023	PRON	PRON	Singular	Ambiguous	3
+christophe	0	8027	8027	PER	Il	37722	37724	il	1	0	365	0	0	0	0	1255	8027	il	nsubj	8029	PRON	PRON	Singular	Male	3
+chambre	54	8033	8034	FAC	la chambre	37745	37755	la chambre	2	0	365	6	0	0	0	1256	8034	chambre	nmod	8031	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	8046	8046	PER	sa	37800	37802	sa	1	0	365	19	0	0	0	1257	8046	sa	det	8047	DET	PRON	Singular	Ambiguous	3
+christophe_et_melchior	23	8052	8052	PER	Ils	37826	37829	ils	1	0	366	0	0	0	0	1258	8052	ils	nsubj	8053	PRON	PRON	Plural	Ambiguous	3
+M28	78	8054	8054	TIME	longtemps	37840	37849	longtemps	1	0	366	2	0	0	0	1259	8054	longtemps	advmod	8053	ADV	NOM	Not_Assigned	Not_Assigned	3
+melchior	1	8057	8057	PER	Melchior	37857	37865	melchior	1	0	367	0	0	0	0	1260	8057	melchior	nsubj	8059	PROPN	PROP	Singular	Male	3
+melchior	1	8062	8062	PER	sa	37894	37896	sa	1	0	367	5	0	0	0	1261	8062	sa	det	8063	DET	PRON	Singular	Ambiguous	3
+christophe	0	8068	8068	PER	Christophe	37918	37928	christophe	1	0	368	0	0	0	0	1262	8068	christophe	nsubj	8070	PROPN	PROP	Singular	Male	3
+christophe	0	8080	8080	PER	il	37980	37982	il	1	0	368	12	0	0	0	1263	8080	il	nsubj	8081	PRON	PRON	Singular	Male	3
+christophe	0	8088	8088	PER	lui	38015	38018	lui	1	0	369	5	0	0	0	1264	8088	lui	obl:mod	8086	PRON	PRON	Singular	Ambiguous	3
+christophe_et_melchior	23	8123	8123	PER	ils	38184	38187	ils	1	0	370	4	0	0	0	1265	8123	ils	nsubj	8124	PRON	PRON	Plural	Ambiguous	3
+christophe_et_melchior	23	8126	8127	PER	tous deux	38204	38213	tous deux	2	0	370	7	0	0	0	1266	8127	deux	obj	8124	PRON	PRON	Plural	Ambiguous	3
+christophe	0	8137	8137	PER	Christophe	38247	38257	christophe	1	0	370	18	0	0	0	1267	8137	christophe	nmod	8135	PROPN	PROP	Singular	Male	3
+M15	61	8139	8142	TIME	de minute en minute	38269	38288	de minute en minute	4	0	370	20	0	0	0	1268	8140	minute	obl:mod	8138	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	8144	8144	PER	Il	38290	38292	il	1	0	371	0	0	0	0	1269	8144	il	nsubj	8146	PRON	PRON	Singular	Male	3
+christophe	0	8153	8153	PER	son	38329	38332	son	1	0	371	9	0	0	0	1270	8153	son	det	8154	DET	PRON	Singular	Ambiguous	3
+christophe	0	8163	8163	PER	il	38377	38379	il	1	0	371	19	0	0	0	1271	8163	il	nsubj	8165	PRON	PRON	Singular	Male	3
+christophe	0	8179	8179	PER	Il	38469	38471	il	1	0	372	0	0	0	0	1272	8179	il	nsubj	8182	PRON	PRON	Singular	Male	3
+christophe	0	8185	8185	PER	il	38487	38489	il	1	0	372	6	0	0	0	1273	8185	il	nsubj	8186	PRON	PRON	Singular	Male	3
+melchior	1	8197	8198	PER	son père	38546	38554	son père	2	0	373	8	0	1	1	1274	8198	père	obl:arg	8195	NOUN	NOM	Singular	Male	3
+christophe	0	8197	8197	PER	son	38546	38549	son	1	0	373	8	1	0	0	1275	8197	son	det	8198	DET	PRON	Singular	Ambiguous	3
+christophe	0	8201	8201	PER	Christophe	38560	38570	christophe	1	0	373	12	0	0	0	1276	8201	christophe	nsubj	8202	PROPN	PROP	Singular	Male	3
+melchior	1	8209	8209	PER	ses	38602	38605	ses	1	0	373	20	0	0	0	1277	8209	ses	det	8210	DET	PRON	Singular	Ambiguous	3
+christophe	0	8213	8213	PER	lui	38616	38619	lui	1	0	373	24	0	0	0	1278	8213	lui	iobj	8214	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8216	8216	PER	il	38632	38634	il	1	0	373	27	0	0	0	1279	8216	il	nsubj	8218	PRON	PRON	Singular	Male	3
+christophe	0	8220	8220	PER	Il	38648	38650	il	1	0	374	0	0	0	0	1280	8220	il	nsubj	8221	PRON	PRON	Singular	Male	3
+chambre	54	8237	8238	FAC	la chambre	38723	38733	la chambre	2	0	374	17	0	0	0	1281	8238	chambre	nmod	8235	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	8240	8240	PER	Il	38735	38737	il	1	0	375	0	0	0	0	1282	8240	il	nsubj	8242	PRON	PRON	Singular	Male	3
+christophe	0	8245	8245	PER	il	38756	38758	il	1	0	375	5	0	0	0	1283	8245	il	nsubj	8247	PRON	PRON	Singular	Male	3
+christophe	0	8250	8250	PER	il	38777	38779	il	1	0	375	10	0	0	0	1284	8250	il	nsubj	8252	PRON	PRON	Singular	Male	3
+melchior	1	8257	8257	PER	Melchior	38815	38823	melchior	1	0	375	17	0	0	0	1285	8257	melchior	nmod	8255	PROPN	PROP	Singular	Male	3
+melchior	1	8259	8259	PER	dont	38825	38829	dont	1	0	375	19	0	0	0	1286	8259	dont	iobj	8261	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	8260	8260	PER	il	38830	38832	il	1	0	375	20	0	0	0	1287	8260	il	nsubj	8261	PRON	PRON	Singular	Male	3
+melchior	1	8271	8272	PER	l'ivrogne	38878	38887	l' ivrogne	2	0	376	3	0	0	0	1288	8272	ivrogne	nmod	8269	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	8275	8275	PER	Christophe	38899	38909	christophe	1	0	377	0	0	0	0	1289	8275	christophe	nsubj	8276	PROPN	PROP	Singular	Male	3
+christophe	0	8286	8286	PER	il	38954	38956	il	1	0	377	11	0	0	0	1290	8286	il	nsubj	8287	PRON	PRON	Singular	Male	3
+christophe	0	8295	8295	PER	son	38992	38995	son	1	0	377	20	0	0	0	1291	8295	son	det	8296	DET	PRON	Singular	Ambiguous	3
+christophe	0	8298	8298	PER	il	39005	39007	il	1	0	377	23	0	0	0	1292	8298	il	nsubj	8300	PRON	PRON	Singular	Male	3
+melchior	1	8307	8307	PER	Melchior	39048	39056	melchior	1	0	378	0	0	0	0	1293	8307	melchior	nsubj	8309	PROPN	PROP	Singular	Male	3
+melchior	1	8317	8317	PER	il	39104	39106	il	1	0	378	10	0	0	0	1294	8317	il	nsubj	8319	PRON	PRON	Singular	Male	3
+melchior	1	8324	8324	PER	il	39141	39143	il	1	0	378	17	0	0	0	1295	8324	il	nsubj	8326	PRON	PRON	Singular	Male	3
+christophe	0	8330	8330	PER	Christophe	39167	39177	christophe	1	0	379	0	0	0	0	1296	8330	christophe	nsubj	8333	PROPN	PROP	Singular	Male	3
+christophe	0	8340	8340	PER	il	39216	39218	il	1	0	379	10	0	0	0	1297	8340	il	nsubj	8341	PRON	PRON	Singular	Male	3
+melchior	1	8347	8348	PER	son père	39249	39257	son père	2	0	379	17	0	1	1	1298	8348	père	obj	8346	NOUN	NOM	Singular	Male	3
+christophe	0	8347	8347	PER	son	39249	39252	son	1	0	379	17	1	0	0	1299	8347	son	det	8348	DET	PRON	Singular	Ambiguous	3
+melchior	1	8351	8351	PER	ses	39268	39271	ses	1	0	379	21	0	0	0	1300	8351	ses	det	8352	DET	PRON	Singular	Ambiguous	3
+christophe	0	8355	8355	PER	il	39283	39285	il	1	0	379	25	0	0	0	1301	8355	il	nsubj	8356	PRON	PRON	Singular	Male	3
+melchior	1	8365	8365	PER	Melchior	39329	39337	melchior	1	0	380	5	0	0	0	1302	8365	melchior	obj	8362	PROPN	PROP	Singular	Male	3
+melchior	1	8381	8381	PER	lui	39403	39406	lui	1	0	381	14	0	0	0	1303	8381	lui	iobj	8383	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8395	8395	PER	il	39470	39472	il	1	0	381	28	0	0	0	1304	8395	il	nsubj	8397	PRON	PRON	Singular	Male	3
+melchior	1	8399	8399	PER	son	39488	39491	son	1	0	381	32	0	0	0	1305	8399	son	det	8400	DET	PRON	Singular	Ambiguous	3
+melchior	1	8410	8410	PER	il	39529	39531	il	1	0	381	43	0	0	0	1306	8410	il	nsubj	8411	PRON	PRON	Singular	Male	3
+melchior	1	8416	8416	PER	Il	39562	39564	il	1	0	382	0	0	0	0	1307	8416	il	nsubj	8417	PRON	PRON	Singular	Male	3
+christophe	0	8418	8418	PER	Christophe	39569	39579	christophe	1	0	382	2	0	0	0	1308	8418	christophe	obj	8417	PROPN	PROP	Singular	Male	3
+christophe	0	8419	8419	LOC	qui	39580	39583	qui	1	0	382	3	0	0	0	1309	8419	qui	nsubj	8420	PRON	PRON	Not_Assigned	Not_Assigned	4
+melchior	1	8422	8422	PER	il	39595	39597	il	1	0	382	6	0	0	0	1310	8422	il	nsubj	8424	PRON	PRON	Singular	Male	3
+christophe	0	8423	8423	PER	l	39598	39599	l'	1	0	382	7	0	0	0	1311	8423	l'	obj	8424	PRON	PRON	Singular	Ambiguous	3
+christophe	0	8426	8426	PER	Christophe	39608	39618	christophe	1	0	383	0	0	0	0	1312	8426	christophe	nsubj	8427	PROPN	PROP	Singular	Male	3
+christophe	0	8431	8431	PER	il	39639	39641	il	1	0	383	5	0	0	0	1313	8431	il	nsubj	8433	PRON	PRON	Singular	Male	3
+melchior	1	8436	8436	PER	Melchior	39661	39669	melchior	1	0	384	0	0	0	0	1314	8436	melchior	nsubj	8438	PROPN	PROP	Singular	Male	3
+christophe	0	8437	8437	PER	l	39670	39671	l'	1	0	384	1	0	0	0	1315	8437	l'	obj	8438	PRON	PRON	Singular	Ambiguous	3
+christophe	0	8444	8445	PER	l'enfant	39701	39709	l' enfant	2	0	384	8	0	0	0	1316	8445	enfant	nsubj	8447	NOUN	NOM	Singular	Ambiguous	3
+melchior	1	8450	8450	PER	il	39725	39727	il	1	0	384	14	0	0	0	1317	8450	il	nsubj	8451	PRON	PRON	Singular	Male	3
+christophe	0	8455	8455	PER	Christophe	39744	39754	christophe	1	0	385	0	0	0	0	1318	8455	christophe	nsubj	8457	PROPN	PROP	Singular	Male	3
+christophe	0	8463	8463	PER	ses	39788	39791	ses	1	0	385	8	0	0	0	1319	8463	ses	det	8464	DET	PRON	Singular	Ambiguous	3
+melchior	1	8466	8466	PER	Melchior	39801	39809	melchior	1	0	386	0	0	0	0	1320	8466	melchior	nsubj	8468	PROPN	PROP	Singular	Male	3
+christophe	0	8467	8467	PER	l	39810	39811	l'	1	0	386	1	0	0	0	1321	8467	l'	obj	8468	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8470	8470	PER	lui	39824	39827	lui	1	0	386	4	0	0	0	1322	8470	lui	obl:arg	8468	PRON	PRON	Singular	Ambiguous	3
+christophe	0	8473	8473	PER	l	39832	39833	l'	1	0	386	7	0	0	0	1323	8473	l'	obj	8474	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8476	8476	PER	ses	39844	39847	ses	1	0	386	10	0	0	0	1324	8476	ses	det	8477	DET	PRON	Singular	Ambiguous	3
+melchior	1	8479	8479	PER	Il	39856	39858	il	1	0	387	0	0	0	0	1325	8479	il	nsubj	8480	PRON	PRON	Singular	Male	3
+christophe	0	8482	8482	PER	lui	39872	39875	lui	1	0	387	3	0	0	0	1326	8482	lui	iobj	8483	PRON	PRON	Singular	Ambiguous	3
+christophe	0	8488	8488	PER	lui	39899	39902	lui	1	0	387	9	0	0	0	1327	8488	lui	obj	8489	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8513	8513	PER	il	40012	40014	il	1	0	388	2	0	0	0	1328	8513	il	nsubj	8514	PRON	PRON	Singular	Male	3
+christophe	0	8520	8520	PER	le	40046	40048	le	1	0	388	9	0	0	0	1329	8520	le	obj	8522	PRON	PRON	Singular	Male	3
+melchior	1	8524	8524	PER	ses	40065	40068	ses	1	0	388	13	0	0	0	1330	8524	ses	det	8525	DET	PRON	Singular	Ambiguous	3
+melchior	1	8531	8531	PER	il	40101	40103	il	1	0	388	20	0	0	0	1331	8531	il	nsubj	8533	PRON	PRON	Singular	Male	3
+melchior	1	8543	8543	PER	il	40148	40150	il	1	0	389	6	0	0	0	1332	8543	il	nsubj	8544	PRON	PRON	Singular	Male	3
+melchior	1	8550	8550	PER	il	40179	40181	il	1	0	389	13	0	0	0	1333	8550	il	nsubj	8552	PRON	PRON	Singular	Male	3
+christophe	0	8554	8555	PER	le petit	40196	40204	le petit	2	0	389	17	0	0	0	1334	8555	petit	obl:arg	8552	ADJ	NOM	Singular	Male	3
+melchior	1	8558	8558	PER	lui-même	40212	40220	lui-même	1	0	389	21	0	0	0	1335	8558	lui-même	conj	8555	PRON	PRON	Singular	Male	3
+melchior	1	8560	8560	PER	il	40223	40225	il	1	0	389	23	0	0	0	1336	8560	il	nsubj	8562	PRON	PRON	Singular	Male	3
+christophe	0	8561	8561	PER	le	40226	40228	le	1	0	389	24	0	0	0	1337	8561	le	obj	8562	PRON	PRON	Singular	Male	3
+christophe	0	8564	8564	PER	le	40238	40240	le	1	0	389	27	0	0	0	1338	8564	le	obj	8565	PRON	PRON	Singular	Male	3
+melchior	1	8575	8575	PER	il	40291	40293	il	1	0	389	38	0	0	0	1339	8575	il	nsubj	8577	PRON	PRON	Singular	Male	3
+christophe	0	8576	8576	PER	le	40294	40296	le	1	0	389	39	0	0	0	1340	8576	le	obj	8577	PRON	PRON	Singular	Male	3
+christophe	0	8585	8585	PER	Christophe	40334	40344	christophe	1	0	390	0	0	0	0	1341	8585	christophe	nsubj	8587	PROPN	PROP	Singular	Male	3
+christophe	0	8594	8594	PER	il	40390	40392	il	1	0	390	9	0	0	0	1342	8594	il	nsubj:pass	8596	PRON	PRON	Singular	Male	3
+melchior	1	8605	8606	PER	son père	40446	40454	son père	2	0	391	5	0	1	1	1343	8606	père	nmod	8603	NOUN	NOM	Singular	Male	3
+christophe	0	8605	8605	PER	son	40446	40449	son	1	0	391	5	1	0	0	1344	8605	son	det	8606	DET	PRON	Singular	Ambiguous	3
+christophe	0	8610	8610	PER	sa	40468	40470	sa	1	0	391	10	0	0	0	1345	8610	sa	det	8611	DET	PRON	Singular	Ambiguous	3
+melchior	1	8621	8622	PER	l'ivrogne	40521	40530	l' ivrogne	2	0	391	21	0	0	0	1346	8622	ivrogne	nmod	8619	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	8633	8633	PER	il	40582	40584	il	1	0	391	33	0	0	0	1347	8633	il	nsubj	8634	PRON	PRON	Singular	Male	3
+christophe	0	8641	8641	PER	Il	40617	40619	il	1	0	392	0	0	0	0	1348	8641	il	nsubj	8643	PRON	PRON	Singular	Male	3
+christophe	0	8653	8653	PER	sa	40669	40671	sa	1	0	392	12	0	0	0	1349	8653	sa	det	8654	DET	PRON	Singular	Ambiguous	3
+christophe	0	8656	8656	PER	Il	40680	40682	il	1	0	393	0	0	0	0	1350	8656	il	nsubj	8657	PRON	PRON	Singular	Male	3
+christophe	0	8670	8670	PER	lui	40734	40737	lui	1	0	393	14	0	0	0	1351	8670	lui	iobj	8671	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8684	8684	PER	Louisa	40787	40793	louisa	1	0	393	28	0	0	0	1352	8684	louisa	nsubj	8685	PROPN	PROP	Singular	Female	3
+louisa	2	8695	8695	PER	Elle	40832	40836	elle	1	0	394	0	0	0	0	1353	8695	elle	nsubj	8696	PRON	PRON	Singular	Female	3
+christophe	0	8708	8708	PER	Christophe	40895	40905	christophe	1	0	394	13	0	0	0	1354	8708	christophe	obl:arg	8706	PROPN	PROP	Singular	Male	3
+louisa	2	8717	8717	PER	lui	40939	40942	lui	1	0	394	22	0	0	0	1355	8717	lui	iobj	8719	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8721	8721	PER	elle	40956	40960	elle	1	0	394	26	0	0	0	1356	8721	elle	nsubj	8723	PRON	PRON	Singular	Female	3
+christophe	0	8722	8722	PER	l	40961	40962	l'	1	0	394	27	0	0	0	1357	8722	l'	obj	8723	PRON	PRON	Singular	Ambiguous	3
+melchior	1	8727	8727	PER	Melchior	40983	40991	melchior	1	0	394	32	0	0	0	1358	8727	melchior	nmod	8725	PROPN	PROP	Singular	Male	3
+melchior	1	8732	8733	PER	misérable ivrogne	41001	41018	misérable ivrogne	2	0	394	37	0	0	0	1359	8733	ivrogne	ROOT	8733	NOUN	NOM	Not_Assigned	Not_Assigned	3
+louisa	2	8737	8737	PER	elle	41028	41032	-elle	1	0	394	42	0	0	0	1360	8737	elle	flat:foreign	8735	PRON	PRON	Singular	Female	3
+louisa	2	8739	8739	PER	Ses	41034	41037	ses	1	0	395	0	0	0	0	1361	8739	ses	det	8740	DET	PRON	Singular	Ambiguous	3
+christophe	0	8745	8745	PER	Christophe	41065	41075	christophe	1	0	396	0	0	0	0	1362	8745	christophe	nsubj	8746	PROPN	PROP	Singular	Male	3
+melchior	1	8748	8749	PER	son père	41085	41093	son père	2	0	396	3	0	1	1	1363	8749	père	nsubj	8750	NOUN	NOM	Singular	Male	3
+christophe	0	8748	8748	PER	son	41085	41088	son	1	0	396	3	1	0	0	1364	8748	son	det	8749	DET	PRON	Singular	Ambiguous	3
+louisa	2	8751	8751	PER	la	41101	41103	la	1	0	396	6	0	0	0	1365	8751	la	obj	8752	PRON	PRON	Singular	Female	3
+melchior	1	8755	8755	PER	Melchior	41115	41123	melchior	1	0	397	1	0	0	0	1366	8755	melchior	nsubj:pass	8758	PROPN	PROP	Singular	Male	3
+louisa	2	8764	8765	PER	sa femme	41167	41175	sa femme	2	0	397	10	0	1	1	1367	8765	femme	nmod	8761	NOUN	NOM	Singular	Female	3
+melchior	1	8764	8764	PER	sa	41167	41169	sa	1	0	397	10	1	0	0	1368	8764	sa	det	8765	DET	PRON	Singular	Ambiguous	3
+melchior	1	8767	8767	PER	il	41179	41181	il	1	0	397	13	0	0	0	1369	8767	il	nsubj	8769	PRON	PRON	Singular	Male	3
+melchior	1	8777	8777	PER	Il	41220	41222	il	1	0	398	0	0	0	0	1370	8777	il	nsubj	8779	PRON	PRON	Singular	Male	3
+melchior	1	8784	8784	PER	il	41247	41249	il	1	0	398	7	0	0	0	1371	8784	il	nsubj	8786	PRON	PRON	Singular	Male	3
+louisa	2	8796	8796	PER	elle	41303	41307	elle	1	0	398	19	0	0	0	1372	8796	elle	nsubj	8797	PRON	PRON	Singular	Female	3
+melchior	1	8801	8801	PER	il	41325	41327	il	1	0	398	24	0	0	0	1373	8801	il	nsubj	8804	PRON	PRON	Singular	Male	3
+melchior	1	8807	8807	PER	il	41349	41351	il	1	0	398	30	0	0	0	1374	8807	il	nsubj	8808	PRON	PRON	Singular	Male	3
+famille_de_melchior	156	8811	8812	PER	des siens	41371	41380	des siens	2	0	398	34	0	1	1	1375	8812	siens	nmod	8810	NOUN	PRON	Plural	Ambiguous	3
+melchior	1	8812	8812	PER	siens	41375	41380	siens	1	0	398	35	1	0	0	1376	8812	siens	nmod	8810	NOUN	PRON	Not_Assigned	Ambiguous	3
+melchior	1	8815	8815	PER	il	41385	41387	il	1	0	398	38	0	0	0	1377	8815	il	nsubj	8816	PRON	PRON	Singular	Male	3
+enfants_melchior	147	8817	8819	PER	ses pauvres enfants	41396	41415	ses pauvres enfants	3	0	398	40	0	1	1	1378	8819	enfants	obj	8816	NOUN	NOM	Plural	Ambiguous	3
+melchior	1	8817	8817	PER	ses	41396	41399	ses	1	0	398	40	1	0	0	1379	8817	ses	det	8819	DET	PRON	Singular	Ambiguous	3
+melchior	1	8823	8823	PER	il	41423	41425	il	1	0	398	46	0	0	0	1380	8823	il	nsubj	8824	PRON	PRON	Singular	Male	3
+louisa	2	8827	8827	PER	Louisa	41442	41448	louisa	1	0	399	0	0	0	0	1381	8827	louisa	nsubj	8830	PROPN	PROP	Singular	Female	3
+melchior	1	8828	8828	PER	lui	41449	41452	lui	1	0	399	1	0	0	0	1382	8828	lui	iobj	8830	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8836	8836	PER	elle	41487	41491	elle	1	0	399	9	0	0	0	1383	8836	elle	nsubj	8837	PRON	PRON	Singular	Female	3
+christophe	0	8838	8838	PER	Christophe	41502	41512	christophe	1	0	399	11	0	0	0	1384	8838	christophe	obj	8837	PROPN	PROP	Singular	Male	3
+T983	98	8840	8842	FAC	la chambre voisine	41518	41536	la chambre voisine	3	0	399	13	0	0	0	1385	8841	chambre	obl:mod	8837	NOUN	NOM	Not_Assigned	Not_Assigned	3
+louisa	2	8844	8844	PER	elle	41538	41542	elle	1	0	399	17	0	0	0	1386	8844	elle	nsubj	8846	PRON	PRON	Singular	Female	3
+christophe	0	8845	8845	PER	le	41543	41545	le	1	0	399	18	0	0	0	1387	8845	le	obj	8846	PRON	PRON	Singular	Male	3
+louisa	2	8848	8848	PER	elle	41557	41561	elle	1	0	399	21	0	0	0	1388	8848	elle	nsubj	8849	PRON	PRON	Singular	Female	3
+christophe	0	8851	8851	PER	le	41574	41576	le	1	0	399	24	0	0	0	1389	8851	le	obj	8852	PRON	PRON	Singular	Male	3
+christophe	0	8854	8855	TIME	Le petit	41587	41595	le petit	2	0	400	0	0	0	0	1390	8855	petit	nsubj	8856	ADJ	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	8861	8861	PER	il	41623	41625	il	1	0	400	7	0	0	0	1391	8861	il	nsubj	8863	PRON	PRON	Singular	Male	3
+louisa	2	8868	8869	PER	sa mère	41660	41667	sa mère	2	0	400	14	0	1	1	1392	8869	mère	nmod	8866	NOUN	NOM	Singular	Female	3
+christophe	0	8868	8868	PER	sa	41660	41662	sa	1	0	400	14	1	0	0	1393	8868	sa	det	8869	DET	PRON	Singular	Ambiguous	3
+christophe	0	8872	8872	PER	il	41675	41677	il	1	0	400	18	0	0	0	1394	8872	il	nsubj	8873	PRON	PRON	Singular	Male	3
+louisa	2	8877	8877	PER	Louisa	41698	41704	louisa	1	0	401	0	0	0	0	1395	8877	louisa	nsubj	8879	PROPN	PROP	Singular	Female	3
+christophe	0	8878	8878	PER	lui	41705	41708	lui	1	0	401	1	0	0	0	1396	8878	lui	iobj	8879	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8887	8887	PER	elle	41742	41746	elle	1	0	401	10	0	0	0	1397	8887	elle	nsubj	8889	PRON	PRON	Singular	Female	3
+christophe	0	8888	8888	PER	l	41747	41748	l'	1	0	401	11	0	0	0	1398	8888	l'	obj	8889	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8891	8891	PER	elle	41761	41765	elle	1	0	401	14	0	0	0	1399	8891	elle	nsubj	8893	PRON	PRON	Singular	Female	3
+christophe	0	8892	8892	PER	lui	41766	41769	lui	1	0	401	15	0	0	0	1400	8892	lui	iobj	8893	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8896	8896	PER	elle	41790	41794	elle	1	0	401	19	0	0	0	1401	8896	elle	nsubj	8897	PRON	PRON	Singular	Female	3
+christophe	0	8899	8899	PER	lui	41809	41812	lui	1	0	401	22	0	0	0	1402	8899	lui	obl:mod	8897	PRON	PRON	Singular	Ambiguous	3
+christophe_et_louisa	12	8903	8903	PER	ils	41821	41824	ils	1	0	402	2	0	0	0	1403	8903	ils	nsubj	8905	PRON	PRON	Plural	Ambiguous	3
+louisa	2	8909	8909	PER	Elle	41849	41853	elle	1	0	403	0	0	0	0	1404	8909	elle	nsubj	8911	PRON	PRON	Singular	Female	3
+christophe	0	8913	8913	PER	le	41868	41870	le	1	0	403	4	0	0	0	1405	8913	le	obj	8914	PRON	PRON	Singular	Male	3
+louisa	2	8919	8919	PER	elle	41893	41897	elle	1	0	403	10	0	0	0	1406	8919	elle	obl:arg	8917	PRON	PRON	Singular	Female	3
+christophe_et_louisa	12	8921	8921	PER	Ils	41899	41902	ils	1	0	404	0	0	0	0	1407	8921	ils	nsubj	8922	PRON	PRON	Plural	Ambiguous	3
+melchior	1	8929	8930	PER	le père	41940	41947	le père	2	0	404	8	0	0	0	1408	8930	père	obj	8928	NOUN	NOM	Singular	Male	3
+melchior	1	8932	8932	PER	sa	41951	41953	sa	1	0	404	11	0	0	0	1409	8932	sa	det	8934	DET	PRON	Singular	Ambiguous	3
+melchior	1	8938	8938	PER	Melchior	41982	41990	melchior	1	0	404	17	0	0	0	1410	8938	melchior	nsubj	8939	PROPN	PROP	Singular	Male	3
+louisa	2	8944	8944	PER	Louisa	42021	42027	louisa	1	0	405	0	0	0	0	1411	8944	louisa	nsubj	8945	PROPN	PROP	Singular	Female	3
+christophe	0	8946	8947	PER	l'enfant	42035	42043	l' enfant	2	0	405	2	0	0	0	1412	8947	enfant	obj	8945	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	8949	8949	PER	Il	42045	42047	il	1	0	406	0	0	0	0	1413	8949	il	nsubj	8950	PRON	PRON	Singular	Male	3
+louisa	2	8952	8952	PER	elle	42058	42062	elle	1	0	406	3	0	0	0	1414	8952	elle	nsubj	8953	PRON	PRON	Singular	Female	3
+christophe	0	8956	8956	PER	son	42078	42081	son	1	0	406	7	0	0	0	1415	8956	son	det	8957	DET	PRON	Singular	Ambiguous	3
+christophe	0	8960	8960	PER	lui	42089	42092	lui	1	0	406	11	0	0	0	1416	8960	lui	iobj	8961	PRON	PRON	Singular	Ambiguous	3
+louisa	2	8965	8965	PER	Louisa	42108	42114	louisa	1	0	407	0	0	0	0	1417	8965	louisa	nsubj	8966	PROPN	PROP	Singular	Female	3
+T984	154	8967	8971	TIME	une partie de la nuit	42121	42142	une partie de la nuit	5	0	407	2	0	0	0	1418	8968	partie	obj	8966	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	8977	8977	PER	Christophe	42164	42174	christophe	1	0	407	12	0	0	0	1419	8977	christophe	nmod	8975	PROPN	PROP	Singular	Male	3
+christophe	0	8978	8978	PER	qui	42175	42178	qui	1	0	407	13	0	0	0	1420	8978	qui	nsubj	8979	PRON	PRON	Ambiguous	Ambiguous	4
+melchior	1	8983	8984	PER	L'ivrogne	42196	42205	l' ivrogne	2	0	408	0	0	0	0	1421	8984	ivrogne	nsubj	8985	NOUN	NOM	Singular	Ambiguous	3
+M29	79	8990	8994	TIME	À quelque temps de là	42231	42252	à quelque temps de là	5	0	409	0	0	0	0	1422	8992	temps	obl:mod	9025	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ecole	24	8997	8998	FAC	l'école	42256	42263	l' école	2	0	409	7	0	0	0	1423	8998	école	nmod	8992	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ecole	24	9000	9000	FAC	où	42265	42267	où	1	0	409	10	0	0	0	1424	9000	où	iobj	9002	PRON	PRON	Not_Assigned	Not_Assigned	3
+christophe	0	9001	9001	PER	Christophe	42268	42278	christophe	1	0	409	11	0	0	0	1425	9001	christophe	nsubj	9002	PROPN	PROP	Singular	Male	3
+christophe	0	9003	9003	PER	son	42287	42290	son	1	0	409	13	0	0	0	1426	9003	son	det	9004	DET	PRON	Singular	Ambiguous	3
+voisins_ecole	57	9019	9020	PER	ses voisins	42364	42375	ses voisins	2	0	409	29	0	1	1	1427	9020	voisins	obl:arg	9013	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	9019	9019	PER	ses	42364	42367	ses	1	0	409	29	1	0	0	1428	9019	ses	det	9020	DET	PRON	Singular	Ambiguous	3
+voisins_ecole	57	9023	9023	PER	les	42382	42385	les	1	0	409	33	0	0	0	1429	9023	les	obj	9025	PRON	PRON	Plural	Ambiguous	3
+maitre	16	9029	9030	PER	le maître	42408	42417	le maître	2	0	409	39	0	0	0	1430	9030	maître	obj	9025	NOUN	NOM	Singular	Male	3
+maitre	16	9031	9031	PER	qui	42418	42421	qui	1	0	409	41	0	0	0	1431	9031	qui	nsubj	9034	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	9032	9032	PER	l	42422	42423	l'	1	0	409	42	0	0	0	1432	9032	l'	obj	9034	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9040	9040	PER	il	42455	42457	il	1	0	409	50	0	0	0	1433	9040	il	nsubj	9041	PRON	PRON	Singular	Male	3
+M30	77	9046	9046	PER	on	42485	42487	on	1	0	409	56	0	0	0	1434	9046	on	nsubj	9048	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9047	9047	PER	l	42488	42489	l'	1	0	409	57	0	0	0	1435	9047	l'	obj	9048	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9055	9055	PER	il	42527	42529	il	1	0	409	65	0	0	0	1436	9055	il	nsubj	9057	PRON	PRON	Singular	Male	3
+T1000	41	9066	9067	TIME	un jour	42586	42593	un jour	2	0	409	76	0	0	0	1437	9067	jour	obl:mod	9061	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1000	41	9068	9068	TIME	que	42594	42597	que	1	0	409	78	0	0	0	1438	9068	que	iobj	9073	PRON	PRON	Not_Assigned	Not_Assigned	4
+christophe	0	9069	9069	PER	Christophe	42598	42608	christophe	1	0	409	79	0	0	0	1439	9069	christophe	nsubj	9073	PROPN	PROP	Singular	Male	3
+christophe	0	9072	9072	PER	lui-même	42617	42625	lui-même	1	0	409	82	0	0	0	1440	9072	lui-même	det	9073	PRON	PRON	Singular	Male	3
+christophe	0	9082	9082	PER	il	42677	42679	il	1	0	409	92	0	0	0	1441	9082	il	nsubj	9083	PRON	PRON	Singular	Male	3
+T1003	94	9090	9092	PER	Tous les enfants	42728	42744	tous les enfants	3	0	410	0	0	0	0	1442	9092	enfants	nsubj	9093	NOUN	NOM	Plural	Ambiguous	3
+T1004	136	9098	9098	PER	certains	42769	42777	certains	1	0	410	8	0	0	0	1443	9098	certains	nsubj	9100	PRON	PRON	Plural	Ambiguous	3
+christophe	0	9114	9114	PER	Christophe	42864	42874	christophe	1	0	411	0	0	0	0	1444	9114	christophe	nsubj	9116	PROPN	PROP	Singular	Male	3
+christophe	0	9123	9123	PER	son	42909	42912	son	1	0	411	9	0	0	0	1445	9123	son	det	9124	DET	PRON	Singular	Ambiguous	3
+T1005	134	9135	9140	PER	du premier qu'il vit rire	42958	42983	du premier qu' il vit rire	6	0	411	21	0	1	1	1446	9139	vit	acl:relcl	9136	VERB	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9138	9138	PER	il	42972	42974	il	1	0	411	24	1	0	0	1447	9138	il	nsubj	9139	PRON	PRON	Singular	Male	3
+maitre	16	9142	9143	PER	Le maître	42985	42994	le maître	2	0	412	0	0	0	0	1448	9143	maître	nsubj	9144	NOUN	NOM	Singular	Male	3
+christophe	0	9146	9146	PER	lui	43005	43008	lui	1	0	412	4	0	0	0	1449	9146	lui	obl:arg	9144	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9152	9152	PER	il	43028	43030	il	1	0	412	10	0	0	0	1450	9152	il	nsubj:pass	9154	PRON	PRON	Singular	Male	3
+christophe	0	9167	9167	PER	Il	43090	43092	il	1	0	413	0	0	0	0	1451	9167	il	nsubj	9168	PRON	PRON	Singular	Male	3
+christophe	0	9179	9179	PER	il	43141	43143	il	1	0	413	12	0	0	0	1452	9179	il	nsubj	9180	PRON	PRON	Singular	Male	3
+christophe	0	9183	9183	PER	il	43166	43168	il	1	0	413	16	0	0	0	1453	9183	il	nsubj	9185	PRON	PRON	Singular	Male	3
+ecole	24	9188	9189	FAC	l'école	43184	43191	l' école	2	0	413	21	0	0	0	1454	9189	école	obl:arg	9185	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M31	76	9191	9191	PER	On	43193	43195	on	1	0	414	0	0	0	0	1455	9191	on	nsubj	9193	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9197	9197	PER	ses	43219	43222	ses	1	0	414	6	0	0	0	1456	9197	ses	det	9198	DET	PRON	Singular	Ambiguous	3
+T1006	135	9200	9202	TIME	Le lendemain matin	43232	43250	le lendemain matin	3	0	415	0	0	0	0	1457	9201	lendemain	obl:mod	9218	NOUN	NOM	Not_Assigned	Not_Assigned	3
+louisa	2	9205	9206	PER	sa mère	43258	43265	sa mère	2	0	415	5	0	1	1	1458	9206	mère	nsubj	9208	NOUN	NOM	Singular	Female	3
+christophe	0	9205	9205	PER	sa	43258	43260	sa	1	0	415	5	1	0	0	1459	9205	sa	det	9206	DET	PRON	Singular	Ambiguous	3
+christophe	0	9207	9207	PER	lui	43266	43269	lui	1	0	415	7	0	0	0	1460	9207	lui	iobj	9208	PRON	PRON	Singular	Ambiguous	3
+T1007	133	9212	9215	TIME	l'heure de partir	43290	43307	l' heure de partir	4	0	415	12	0	0	0	1461	9213	heure	ccomp	9208	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9217	9217	PER	il	43309	43311	il	1	0	415	17	0	0	0	1462	9217	il	nsubj	9218	PRON	PRON	Singular	Male	3
+christophe	0	9222	9222	PER	il	43342	43344	il	1	0	415	22	0	0	0	1463	9222	il	nsubj	9224	PRON	PRON	Singular	Male	3
+christophe	0	9226	9226	PER	il	43358	43360	il	1	0	415	26	0	0	0	1464	9226	il	nsubj	9228	PRON	PRON	Singular	Male	3
+louisa	2	9231	9231	PER	Louisa	43375	43381	louisa	1	0	416	0	0	0	0	1465	9231	louisa	nsubj	9232	PROPN	PROP	Singular	Female	3
+christophe	0	9245	9245	PER	Il	43429	43431	il	1	0	417	0	0	0	0	1466	9245	il	nsubj	9246	PRON	PRON	Singular	Male	3
+christophe	0	9249	9249	PER	son	43451	43454	son	1	0	417	4	0	0	0	1467	9249	son	det	9250	DET	PRON	Singular	Ambiguous	3
+melchior	1	9256	9256	PER	Melchior	43479	43487	melchior	1	0	418	0	0	0	0	1468	9256	melchior	nsubj	9258	PROPN	PROP	Singular	Male	3
+christophe	0	9257	9257	PER	le	43488	43490	le	1	0	418	1	0	0	0	1469	9257	le	obj	9258	PRON	PRON	Singular	Male	3
+christophe	0	9262	9262	PER	il	43507	43509	il	1	0	418	6	0	0	0	1470	9262	il	nsubj	9263	PRON	PRON	Singular	Male	3
+M32	75	9271	9271	PER	on	43550	43552	on	1	0	418	15	0	0	0	1471	9271	on	nsubj	9273	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9272	9272	PER	lui	43553	43556	lui	1	0	418	16	0	0	0	1472	9272	lui	iobj	9273	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9278	9278	PER	il	43590	43592	il	1	0	418	22	0	0	0	1473	9278	il	nsubj	9279	PRON	PRON	Singular	Male	3
+M33	73	9286	9286	PER	On	43627	43629	on	1	0	418	30	0	0	0	1474	9286	on	nsubj	9288	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9287	9287	PER	lui	43630	43633	lui	1	0	418	31	0	0	0	1475	9287	lui	iobj	9288	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9295	9295	PER	il	43670	43672	il	1	0	418	39	0	0	0	1476	9295	il	nsubj	9296	PRON	PRON	Singular	Male	3
+melchior	1	9305	9305	PER	Melchior	43713	43721	melchior	1	0	419	0	0	0	0	1477	9305	melchior	nsubj	9307	PROPN	PROP	Singular	Male	3
+christophe	0	9306	9306	PER	l	43722	43723	l'	1	0	419	1	0	0	0	1478	9306	l'	obj	9307	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9309	9309	PER	le	43734	43736	le	1	0	419	4	0	0	0	1479	9309	le	obj	9310	PRON	PRON	Singular	Male	3
+ecole	24	9312	9313	FAC	l'école	43745	43752	l' école	2	0	419	7	0	0	0	1480	9313	école	obl:arg	9310	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9315	9315	PER	le	43756	43758	le	1	0	419	10	0	0	0	1481	9315	le	obj	9316	PRON	PRON	Singular	Male	3
+maitre	16	9317	9318	PER	au maître	43765	43774	au maître	2	0	419	12	0	0	0	1482	9318	maître	obl:arg	9316	NOUN	NOM	Singular	Male	3
+christophe	0	9322	9322	PER	son	43785	43788	son	1	0	420	2	0	0	0	1483	9322	son	det	9323	DET	PRON	Singular	Ambiguous	3
+christophe	0	9325	9325	PER	il	43795	43797	il	1	0	420	5	0	0	0	1484	9325	il	nsubj	9326	PRON	PRON	Singular	Male	3
+christophe	0	9336	9336	PER	sa	43859	43861	sa	1	0	420	16	0	0	0	1485	9336	sa	det	9337	DET	PRON	Singular	Ambiguous	3
+christophe	0	9339	9339	PER	son	43871	43874	son	1	0	420	19	0	0	0	1486	9339	son	det	9340	DET	PRON	Singular	Ambiguous	3
+christophe	0	9342	9342	PER	sa	43884	43886	sa	1	0	420	22	0	0	0	1487	9342	sa	det	9343	DET	PRON	Singular	Ambiguous	3
+christophe	0	9345	9345	PER	il	43894	43896	il	1	0	420	25	0	0	0	1488	9345	il	nsubj	9346	PRON	PRON	Singular	Male	3
+christophe	0	9347	9347	PER	son	43905	43908	son	1	0	420	27	0	0	0	1489	9347	son	det	9348	DET	PRON	Singular	Ambiguous	3
+christophe	0	9350	9350	PER	son	43919	43922	son	1	0	420	30	0	0	0	1490	9350	son	det	9351	DET	PRON	Singular	Ambiguous	3
+maitre	16	9364	9365	PER	le maître	43979	43988	le maître	2	0	420	44	0	0	0	1491	9365	maître	obj	9363	NOUN	NOM	Singular	Male	3
+M34	72	9371	9371	PER	On	44009	44011	on	1	0	421	0	0	0	0	1492	9371	on	nsubj	9373	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9372	9372	PER	l	44012	44013	l'	1	0	421	1	0	0	0	1493	9372	l'	obj	9373	PRON	PRON	Singular	Ambiguous	3
+maitre	16	9383	9384	PER	le maître	44066	44075	le maître	2	0	422	5	0	0	0	1494	9384	maître	nsubj	9386	NOUN	NOM	Singular	Male	3
+christophe	0	9385	9385	PER	le	44076	44078	le	1	0	422	7	0	0	0	1495	9385	le	obj	9386	PRON	PRON	Singular	Male	3
+christophe	0	9388	9388	PER	son	44087	44090	son	1	0	422	10	0	0	0	1496	9388	son	det	9389	DET	PRON	Singular	Ambiguous	3
+christophe	0	9398	9398	PER	ses	44137	44140	ses	1	0	422	20	0	0	0	1497	9398	ses	det	9399	DET	PRON	Singular	Ambiguous	3
+christophe	0	9405	9405	PER	il	44169	44171	il	1	0	422	27	0	0	0	1498	9405	il	nsubj	9406	PRON	PRON	Singular	Male	3
+christophe	0	9413	9413	PER	le	44206	44208	le	1	0	423	2	0	0	0	1499	9413	le	obj	9414	PRON	PRON	Singular	Male	3
+christophe	0	9416	9416	PER	Christophe	44219	44229	christophe	1	0	424	0	0	0	0	1500	9416	christophe	nsubj	9418	PROPN	PROP	Singular	Male	3
+christophe	0	9422	9422	PER	Il	44248	44250	il	1	0	425	0	0	0	0	1501	9422	il	nsubj	9423	PRON	PRON	Singular	Male	3
+michel_et_melchior	14	9425	9430	PER	son père et de son grand-père	44261	44290	son père et de son grand-père	6	0	425	3	0	2	4	1502	9430	grand-père	conj	9426	NOUN	NOM	Plural	Not_Assigned	3
+melchior	1	9425	9426	PER	son père	44261	44269	son père	2	0	425	3	1	1	1	1503	9426	père	obl:arg	9423	NOUN	NOM	Singular	Male	3
+christophe	0	9425	9425	PER	son	44261	44264	son	1	0	425	3	2	0	0	1504	9425	son	det	9426	DET	PRON	Singular	Ambiguous	3
+jean_michel	3	9429	9430	PER	son grand-père	44276	44290	son grand-père	2	0	425	7	1	1	1	1505	9430	grand-père	conj	9426	NOUN	NOM	Singular	Male	3
+christophe	0	9429	9429	PER	son	44276	44279	son	1	0	425	7	2	0	0	1506	9429	son	det	9430	DET	PRON	Singular	Ambiguous	3
+michel_et_melchior	14	9431	9431	PER	leur	44291	44295	leur	1	0	425	9	0	0	0	1507	9431	leur	det	9433	DET	PRON	Plural	Ambiguous	3
+M35	39	9435	9435	PER	On	44318	44320	on	1	0	426	0	0	0	0	1508	9435	on	nsubj	9439	PRON	PRON	Ambiguous	Ambiguous	3
+famille	33	9441	9442	PER	la famille	44347	44357	la famille	2	0	426	6	0	0	0	1509	9442	famille	obl:mod	9439	NOUN	NOM	Plural	Ambiguous	3
+M35	39	9448	9448	PER	on	44375	44377	on	1	0	426	13	0	0	0	1510	9448	on	nsubj	9451	PRON	PRON	Ambiguous	Ambiguous	3
+michel_et_melchior	14	9465	9467	PER	des deux Krafft	44465	44480	des deux krafft	3	0	426	30	0	0	0	1511	9467	krafft	nmod	9464	NOUN	NOM	Plural	Not_Assigned	3
+michel_et_melchior	14	9469	9471	PER	père et fils	44482	44494	père et fils	3	0	426	34	0	1	2	1512	9471	fils	conj	9469	NOUN	NOM	Plural	Not_Assigned	3
+jean_michel	3	9469	9469	PER	père	44482	44486	père	1	0	426	34	1	0	0	1513	9469	père	obl:arg	9458	NOUN	NOM	Singular	Male	3
+melchior	1	9471	9471	PER	fils	44490	44494	fils	1	0	426	36	1	0	0	1514	9471	fils	conj	9469	NOUN	NOM	Ambiguous	Male	3
+michel_et_melchior	14	9473	9473	PER	Ils	44496	44499	ils	1	0	427	0	0	0	0	1515	9473	ils	nsubj	9474	PRON	PRON	Plural	Ambiguous	3
+M36	71	9482	9484	TIME	été comme hiver	44536	44551	été comme hiver	3	0	427	9	0	0	0	1516	9484	hiver	nmod	9482	NOUN	NOM	Not_Assigned	Not_Assigned	3
+M37	70	9487	9489	TIME	pendant des heures	44563	44581	pendant des heures	3	0	427	14	0	0	0	1517	9489	heures	obl:mod	9486	NOUN	NOM	Not_Assigned	Not_Assigned	3
+soleil	161	9494	9495	PER	le soleil	44599	44608	le soleil	2	0	427	21	0	0	0	1518	9495	soleil	conj	9492	NOUN	NOM	Singular	Not_Assigned	3
+louisa	2	9525	9527	PER	la pauvre Louisa	44772	44788	la pauvre louisa	3	0	427	52	0	0	0	1519	9527	louisa	obj	9520	PROPN	PROP	Singular	Female	3
+louisa	2	9529	9529	PER	qui	44790	44793	qui	1	0	427	56	0	0	0	1520	9529	qui	nsubj	9531	PRON	PRON	Ambiguous	Ambiguous	4
+louisa	2	9535	9535	PER	qui	44815	44818	qui	1	0	427	62	0	0	0	1521	9535	qui	nsubj:pass	9537	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	9557	9557	PER	Christophe	44914	44924	christophe	1	0	428	0	0	0	0	1522	9557	christophe	nsubj	9561	PROPN	PROP	Singular	Male	3
+michel_et_melchior	14	9564	9564	PER	leur	44954	44958	leur	1	0	428	7	0	0	0	1523	9564	leur	det	9565	DET	PRON	Plural	Ambiguous	3
+louisa	2	9567	9568	PER	sa mère	44971	44978	sa mère	2	0	428	10	0	1	1	1524	9568	mère	obl:mod	9563	NOUN	NOM	Singular	Female	3
+christophe	0	9567	9567	PER	sa	44971	44973	sa	1	0	428	10	1	0	0	1525	9567	sa	det	9568	DET	PRON	Singular	Ambiguous	3
+christophe	0	9570	9570	PER	il	44981	44983	il	1	0	428	13	0	0	0	1526	9570	il	nsubj	9572	PRON	PRON	Singular	Male	3
+christophe	0	9580	9580	PER	il	45027	45029	il	1	0	428	23	0	0	0	1527	9580	il	nsubj	9581	PRON	PRON	Singular	Male	3
+christophe	0	9595	9595	PER	il	45085	45087	il	1	0	428	38	0	0	0	1528	9595	il	nsubj	9597	PRON	PRON	Singular	Male	3
+christophe	0	9601	9601	PER	il	45111	45113	il	1	0	428	44	0	0	0	1529	9601	il	nsubj:pass	9603	PRON	PRON	Singular	Male	3
+melchior	1	9612	9613	PER	son père	45168	45176	son père	2	0	429	3	0	1	1	1530	9613	père	nmod	9610	NOUN	NOM	Singular	Male	3
+christophe	0	9612	9612	PER	son	45168	45171	son	1	0	429	3	1	0	0	1531	9612	son	det	9613	DET	PRON	Singular	Ambiguous	3
+polissons	27	9616	9618	PER	ses petits compagnons	45183	45204	ses petits compagnons	3	0	429	7	0	1	1	1532	9618	compagnons	conj	9613	NOUN	NOM	Plural	Ambiguous	3
+christophe	0	9616	9616	PER	ses	45183	45186	ses	1	0	429	7	1	0	0	1533	9616	ses	det	9618	DET	PRON	Singular	Ambiguous	3
+polissons	27	9620	9623	PER	les polissons des rues	45206	45228	les polissons des rues	4	0	429	11	0	1	1	1534	9621	polissons	appos	9613	NOUN	NOM	Plural	Not_Assigned	3
+M38	69	9623	9623	FAC	rues	45224	45228	rues	1	0	429	14	1	0	0	1535	9623	rues	nmod	9621	NOUN	NOM	Not_Assigned	Not_Assigned	3
+polissons	27	9626	9626	PER	qui	45235	45238	qui	1	0	429	17	0	0	0	1536	9626	qui	obl:mod	9629	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	9627	9627	PER	il	45239	45241	il	1	0	429	18	0	0	0	1537	9627	il	nsubj	9629	PRON	PRON	Singular	Male	3
+christophe	0	9631	9631	PER	le	45254	45256	le	1	0	429	22	0	0	0	1538	9631	le	expl:subj	9632	PRON	PRON	Singular	Male	3
+christophe	0	9635	9635	PER	Il	45280	45282	il	1	0	430	0	0	0	0	1539	9635	il	nsubj	9637	PRON	PRON	Singular	Male	3
+christophe	0	9643	9643	PER	il	45315	45317	il	1	0	430	8	0	0	0	1540	9643	il	nsubj	9644	PRON	PRON	Singular	Male	3
+T1011	132	9662	9663	TIME	Un jour	45396	45403	un jour	2	0	431	0	0	0	0	1541	9663	jour	obl:mod	9666	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9667	9667	PER	le	45415	45417	le	1	0	431	5	0	0	0	1542	9667	le	obj	9668	PRON	PRON	Singular	Male	3
+christophe	0	9681	9681	PER	il	45478	45480	il	1	0	431	19	0	0	0	1543	9681	il	nsubj	9683	PRON	PRON	Singular	Male	3
+adversaire	51	9685	9686	PER	son adversaire	45498	45512	son adversaire	2	0	431	23	0	1	1	1544	9686	adversaire	obl:arg	9683	NOUN	NOM	Singular	Ambiguous	3
+christophe	0	9685	9685	PER	son	45498	45501	son	1	0	431	23	1	0	0	1545	9685	son	det	9686	DET	PRON	Singular	Ambiguous	3
+adversaire	51	9688	9688	PER	qui	45514	45517	qui	1	0	431	26	0	0	0	1546	9688	qui	nsubj	9690	PRON	PRON	Ambiguous	Ambiguous	4
+christophe	0	9689	9689	PER	lui	45518	45521	lui	1	0	431	27	0	0	0	1547	9689	lui	iobj	9690	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9699	9699	PER	Il	45565	45567	il	1	0	432	0	0	0	0	1548	9699	il	nsubj	9700	PRON	PRON	Singular	Male	3
+M39	68	9712	9712	PER	on	45627	45629	on	1	0	432	13	0	0	0	1549	9712	on	nsubj	9714	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9713	9713	PER	lui	45630	45633	lui	1	0	432	14	0	0	0	1550	9713	lui	iobj	9714	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9716	9716	PER	lui-même	45644	45652	lui-même	1	0	432	17	0	0	0	1551	9716	lui-même	obl:arg	9714	PRON	PRON	Singular	Male	3
+christophe	0	9720	9720	PER	il	45665	45667	il	1	0	433	2	0	0	0	1552	9720	il	nsubj	9721	PRON	PRON	Singular	Male	3
+M40	66	9733	9733	PER	on	45718	45720	on	1	0	433	15	0	0	0	1553	9733	on	nsubj	9736	PRON	PRON	Ambiguous	Ambiguous	3
+christophe	0	9741	9741	PER	il	45742	45744	il	1	0	433	23	0	0	0	1554	9741	il	nsubj	9744	PRON	PRON	Singular	Male	3
+christophe	0	9749	9749	PER	le	45779	45781	le	1	0	433	31	0	0	0	1555	9749	le	obj	9750	PRON	PRON	Singular	Male	3
+T1015	144	9762	9763	TIME	son enfance	45852	45863	son enfance	2	0	433	44	0	1	1	1556	9763	enfance	nmod	9760	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9762	9762	PER	son	45852	45855	son	1	0	433	44	1	0	0	1557	9762	son	det	9763	DET	PRON	Singular	Ambiguous	3
+M41	97	9765	9769	TIME	Pendant deux ou trois ans	45865	45890	pendant deux ou trois ans	5	0	434	0	0	0	0	1558	9769	ans	obl:mod	9770	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9775	9775	PER	lui	45918	45921	lui	1	0	434	10	0	0	0	1559	9775	lui	obl:arg	9773	PRON	PRON	Singular	Ambiguous	3
+christophe	0	9781	9781	PER	Il	45942	45944	il	1	0	435	0	0	0	0	1560	9781	il	nsubj	9782	PRON	PRON	Singular	Male	3
+T1017	93	9837	9839	TIME	des premiers jours	46233	46251	des premiers jours	3	0	435	56	0	0	0	1561	9839	jours	nmod	9836	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9866	9866	PER	Il	46362	46364	il	1	0	436	0	0	0	0	1562	9866	il	nsubj	9867	PRON	PRON	Singular	Male	3
+grenier	155	9872	9873	FAC	du grenier	46388	46398	du grenier	2	0	436	6	0	0	0	1563	9873	grenier	nmod	9871	NOUN	NOM	Not_Assigned	Not_Assigned	3
+escalier	37	9878	9879	FAC	l'escalier	46417	46427	l' escalier	2	0	437	3	0	0	0	1564	9879	escalier	obl:arg	9876	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	9888	9888	PER	il	46476	46478	il	1	0	438	1	0	0	0	1565	9888	il	nsubj	9889	PRON	PRON	Singular	Male	3
+christophe	0	9893	9893	PER	il	46501	46503	il	1	0	438	6	0	0	0	1566	9893	il	nsubj	9894	PRON	PRON	Singular	Male	3
+christophe	0	9895	9895	PER	son	46512	46515	son	1	0	438	8	0	0	0	1567	9895	son	det	9896	DET	PRON	Singular	Ambiguous	3
+christophe	0	9899	9899	PER	il	46530	46532	il	1	0	438	12	0	0	0	1568	9899	il	nsubj	9900	PRON	PRON	Singular	Male	3
+christophe	0	9901	9901	PER	son	46541	46544	son	1	0	438	14	0	0	0	1569	9901	son	det	9902	DET	PRON	Singular	Ambiguous	3
+christophe	0	9909	9909	PER	Il	46577	46579	il	1	0	439	0	0	0	0	1570	9909	il	expl:subj	9911	PRON	PRON	Singular	Male	3
+christophe	0	9910	9910	PER	lui	46580	46583	lui	1	0	439	1	0	0	0	1571	9910	lui	iobj	9911	PRON	PRON	Singular	Ambiguous	3
+T1021	48	9923	9924	TIME	Les jours	46644	46653	les jours	2	0	440	0	0	0	0	1572	9924	jours	obl:mod	9931	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1021	48	9925	9925	TIME	où	46654	46656	où	1	0	440	2	0	0	0	1573	9925	où	iobj	9928	PRON	PRON	Not_Assigned	Not_Assigned	3
+christophe	0	9930	9930	PER	il	46676	46678	il	1	0	440	7	0	0	0	1574	9930	il	nsubj	9931	PRON	PRON	Singular	Male	3
+christophe	0	9957	9957	PER	il	46818	46820	il	1	0	441	15	0	0	0	1575	9957	il	nsubj	9958	PRON	PRON	Singular	Male	3
+christophe	0	9988	9988	PER	il	46974	46976	il	1	0	441	46	0	0	0	1576	9988	il	nsubj	9990	PRON	PRON	Singular	Male	3
+christophe	0	10000	10000	PER	Il	47026	47028	il	1	0	442	0	0	0	0	1577	10000	il	nsubj	10002	PRON	PRON	Singular	Male	3
+christophe	0	10017	10017	PER	l	47103	47104	l'	1	0	442	17	0	0	0	1578	10017	l'	expl:comp	10018	PRON	PRON	Singular	Ambiguous	3
+christophe	0	10031	10031	PER	Il	47172	47174	il	1	0	443	0	0	0	0	1579	10031	il	nsubj	10032	PRON	PRON	Singular	Male	3
+christophe	0	10042	10042	PER	lui	47212	47215	lui	1	0	444	1	0	0	0	1580	10042	lui	iobj	10043	PRON	PRON	Singular	Ambiguous	3
+jean_michel	3	10048	10049	PER	le grand-père	47243	47256	le grand-père	2	0	444	7	0	0	0	1581	10049	grand-père	obl:arg	10046	NOUN	NOM	Singular	Male	3
+T1023	142	10056	10057	TIME	le soir	47277	47284	le soir	2	0	444	15	0	0	0	1582	10057	soir	obl:mod	10055	NOUN	NOM	Not_Assigned	Not_Assigned	3
+jean_michel	3	10063	10065	PER	Le vieux Krafft	47311	47326	le vieux krafft	3	0	445	0	0	0	0	1583	10065	krafft	nsubj	10066	PROPN	PROP	Singular	Male	3
+ville	13	10072	10073	LOC	la ville	47356	47364	la ville	2	0	445	9	0	0	0	1584	10073	ville	dep	10069	NOUN	NOM	Not_Assigned	Not_Assigned	3
+maison_grand_pere	59	10075	10077	FAC	la dernière maison	47366	47384	la dernière maison	3	0	445	12	0	0	0	1585	10077	maison	obl:mod	10066	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1026	143	10079	10082	FAC	la route de Cologne	47389	47408	la route de cologne	4	0	445	16	0	1	1	1586	10080	route	nmod	10077	NOUN	PROP	Not_Assigned	Not_Assigned	3
+cologne	153	10082	10082	GPE	Cologne	47401	47408	cologne	1	0	445	19	1	0	0	1587	10082	cologne	nmod	10080	PROPN	PROP	Not_Assigned	Not_Assigned	3
+maison_grand_pere	59	10085	10086	FAC	cette maison	47416	47428	cette maison	2	0	446	1	0	0	0	1588	10086	maison	obl:mod	10098	NOUN	NOM	Not_Assigned	Not_Assigned	3
+ville	13	10093	10094	LOC	la ville	47468	47476	la ville	2	0	446	9	0	0	0	1589	10094	ville	nmod	10090	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	10111	10111	PER	Christophe	47548	47558	christophe	1	0	446	27	0	0	0	1590	10111	christophe	nmod	10109	PROPN	PROP	Singular	Male	3
+T1029	30	10117	10118	FAC	le chemin	47587	47596	le chemin	2	0	447	4	0	0	0	1591	10118	chemin	nsubj	10119	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1030	138	10130	10131	LOC	La campagne	47639	47650	la campagne	2	0	448	0	0	0	0	1592	10131	campagne	nsubj	10133	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1031	141	10135	10136	TIME	au crépuscule	47666	47679	au crépuscule	2	0	448	5	0	0	0	1593	10136	crépuscule	obl:mod	10133	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1029	30	10158	10159	FAC	la route	47790	47798	la route	2	0	449	7	0	0	0	1594	10159	route	obj	10157	NOUN	NOM	Not_Assigned	Not_Assigned	3
+T1029	30	10241	10242	FAC	du chemin	48227	48236	du chemin	2	0	453	2	0	0	0	1595	10242	chemin	nmod	10240	NOUN	NOM	Not_Assigned	Not_Assigned	3
+christophe	0	10291	10291	PER	Christophe	48458	48468	christophe	1	0	456	0	0	0	0	1596	10291	christophe	nsubj	10292	PROPN	PROP	Singular	Male	3
+T1035	140	10303	10304	LOC	la nature	48545	48554	la nature	2	0	456	12	0	0	0	1597	10304	nature	nmod	10300	NOUN	NOM	Not_Assigned	Not_Assigned	3
