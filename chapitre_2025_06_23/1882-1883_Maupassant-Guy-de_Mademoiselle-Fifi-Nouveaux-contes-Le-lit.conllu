@@ -1,0 +1,1704 @@
+# newdoc id = 1882-1883_Maupassant-Guy-de_Mademoiselle-Fifi-Nouveaux-contes-Le-lit
+# global.Entity = eid-etype-head-other
+# newpar
+# sent_id = 0
+# text = LE LIT
+1	LE	le	DET	DET	_	2	det	_	_
+2	LIT	lit	NOUN	NOUN	_	2	ROOT	_	_
+
+# newpar
+# sent_id = 1
+# text = Par un torride après-midi du dernier été, le vaste hôtel des Ventes semblait endormi, et les commissaires-priseurs adjugeaient d'une voix mourante.
+1	Par	par	ADP	ADP	_	4	case	_	_
+2	un	un	DET	DET	_	4	det	_	_
+3	torride	torride	ADJ	ADJ	_	4	amod	_	_
+4	après-midi	après-midi	NOUN	NOUN	_	14	obl:mod	_	_
+5	du	de	ADP	ADP	_	7	case	_	Entity=(TIME_25--3-
+6	dernier	dernier	ADJ	ADJ	_	7	amod	_	_
+7	été	été	NOUN	NOUN	_	4	nmod	_	Entity=TIME_25)|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	14	punct	_	_
+9	le	le	DET	DET	_	11	det	_	Entity=(FAC_28--3-
+10	vaste	vaste	ADJ	ADJ	_	11	amod	_	_
+11	hôtel	hôtel	NOUN	NOUN	_	14	nsubj	_	_
+12	des	de	ADP	ADP	_	13	case	_	_
+13	Ventes	vente	NOUN	NOUN	_	11	nmod	_	Entity=FAC_28)
+14	semblait	sembler	VERB	VERB	_	14	ROOT	_	_
+15	endormi	endormir	VERB	VERB	_	14	xcomp	_	SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	14	punct	_	_
+17	et	et	CCONJ	CCONJ	_	22	cc	_	_
+18	les	le	DET	DET	_	19	det	_	Entity=(PER_27--2-
+19	commissaires	commissaire	NOUN	NOUN	_	22	nsubj	_	SpaceAfter=No
+20	-	-	NOUN	NOUN	_	22	nsubj	_	SpaceAfter=No
+21	priseurs	priseur	NOUN	NOUN	_	20	nmod	_	Entity=PER_27)
+22	adjugeaient	adjuger	VERB	VERB	_	14	conj	_	_
+23	d'	de	ADP	ADP	_	25	case	_	SpaceAfter=No
+24	une	un	DET	DET	_	25	det	_	_
+25	voix	voix	NOUN	NOUN	_	22	obl:mod	_	_
+26	mourante	mourant	ADJ	ADJ	_	25	amod	_	SpaceAfter=No
+27	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = 2
+# text = Dans une salle du fond, au premier étage, un lot d'anciennes soieries d'église gisait en un coin.
+1	Dans	dans	ADP	ADP	_	3	case	_	_
+2	une	un	DET	DET	_	3	det	_	Entity=(FAC_23--2-
+3	salle	salle	NOUN	NOUN	_	18	obl:mod	_	_
+4	du	de	ADP	ADP	_	5	case	_	_
+5	fond	fond	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	18	punct	_	_
+7	au	au	ADP	ADP	_	9	case	_	_
+8	premier	premier	ADJ	ADJ	_	9	amod	_	_
+9	étage	étage	NOUN	NOUN	_	18	obl:mod	_	Entity=FAC_23)|SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	18	punct	_	_
+11	un	un	DET	DET	_	12	det	_	_
+12	lot	lot	NOUN	NOUN	_	18	nsubj	_	_
+13	d'	de	ADP	ADP	_	15	case	_	SpaceAfter=No
+14	anciennes	ancien	ADJ	ADJ	_	15	amod	_	_
+15	soieries	soierie	NOUN	NOUN	_	12	nmod	_	_
+16	d'	de	ADP	ADP	_	17	case	_	SpaceAfter=No
+17	église	église	NOUN	NOUN	_	15	nmod	_	_
+18	gisait	gésir	VERB	VERB	_	18	ROOT	_	_
+19	en	en	ADP	ADP	_	21	case	_	_
+20	un	un	DET	DET	_	21	det	_	_
+21	coin	coin	NOUN	NOUN	_	18	obl:mod	_	SpaceAfter=No
+22	.	.	PUNCT	PUNCT	_	18	punct	_	_
+
+# newpar
+# sent_id = 3
+# text = C'étaient des chapes solennelles et de gracieuses chasubles où des guirlandes brodées s'enroulaient autour des lettres symboliques sur un fond de soie un peu jaunie, devenue crémeuse de blanche qu'elle fut jadis.
+1	C'	ce	PRON	PRON	_	4	nsubj	_	SpaceAfter=No
+2	étaient	être	AUX	AUX	_	4	cop	_	_
+3	des	un	DET	DET	_	4	det	_	_
+4	chapes	chape	NOUN	NOUN	_	4	ROOT	_	_
+5	solennelles	solennel	ADJ	ADJ	_	4	amod	_	_
+6	et	et	CCONJ	CCONJ	_	9	cc	_	_
+7	de	de	DET	DET	_	9	det	_	_
+8	gracieuses	gracieux	ADJ	ADJ	_	9	amod	_	_
+9	chasubles	chasuble	NOUN	NOUN	_	4	conj	_	_
+10	où	où	PRON	PRON	_	15	iobj	_	_
+11	des	un	DET	DET	_	12	det	_	_
+12	guirlandes	guirlande	NOUN	NOUN	_	15	nsubj	_	_
+13	brodées	broder	VERB	VERB	_	12	acl	_	_
+14	s'	se	PRON	PRON	_	15	expl:comp	_	SpaceAfter=No
+15	enroulaient	enrouler	VERB	VERB	_	9	acl:relcl	_	_
+16	autour	autour	ADV	ADV	_	15	advmod	_	_
+17	des	de	ADP	ADP	_	18	case	_	_
+18	lettres	lettre	NOUN	NOUN	_	16	obl:arg	_	_
+19	symboliques	symbolique	ADJ	ADJ	_	18	amod	_	_
+20	sur	sur	ADP	ADP	_	22	case	_	_
+21	un	un	DET	DET	_	22	det	_	_
+22	fond	fond	NOUN	NOUN	_	15	obl:mod	_	_
+23	de	de	ADP	ADP	_	24	case	_	_
+24	soie	soie	NOUN	NOUN	_	22	nmod	_	_
+25	un	un	DET	DET	_	27	advmod	_	_
+26	peu	peu	ADV	ADV	_	25	fixed	_	_
+27	jaunie	jaunir	VERB	VERB	_	24	acl	_	SpaceAfter=No
+28	,	,	PUNCT	PUNCT	_	22	punct	_	_
+29	devenue	devenir	VERB	VERB	_	22	acl	_	_
+30	crémeuse	crémeux	ADJ	ADJ	_	29	xcomp	_	_
+31	de	de	ADP	ADP	_	32	case	_	_
+32	blanche	blanc	ADJ	ADJ	_	30	obl:mod	_	_
+33	qu'	que	PRON	PRON	_	35	obj	_	SpaceAfter=No
+34	elle	lui	PRON	PRON	_	35	nsubj	_	_
+35	fut	être	AUX	AUX	_	22	acl:relcl	_	_
+36	jadis	jadis	ADV	ADV	_	35	advmod	_	SpaceAfter=No
+37	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# newpar
+# sent_id = 4
+# text = Quelques revendeurs attendaient, deux ou trois hommes à barbes sales et une grosse femme ventrue, une de ces marchandes dites _à la toilette_, conseillères et protectrices d'amours prohibées, qui brocantent sur la chair humaine jeune et vieille autant que sur les jeunes et vieilles nippes.
+1	Quelques	quelque	DET	DET	_	2	det	_	Entity=(PER_24--2-
+2	revendeurs	revendeur	NOUN	NOUN	_	3	nsubj	_	Entity=PER_24)
+3	attendaient	attendre	VERB	VERB	_	3	ROOT	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	deux	deux	NUM	NUM	_	8	nummod	_	Entity=(PER_21--11-
+6	ou	ou	CCONJ	CCONJ	_	7	cc	_	_
+7	trois	trois	NUM	NUM	_	5	conj	_	_
+8	hommes	homme	NOUN	NOUN	_	3	obj	_	_
+9	à	à	ADP	ADP	_	10	case	_	_
+10	barbes	barbe	NOUN	NOUN	_	8	nmod	_	_
+11	sales	sale	ADJ	ADJ	_	10	amod	_	_
+12	et	et	CCONJ	CCONJ	_	15	cc	_	_
+13	une	un	DET	DET	_	15	det	_	Entity=(PER_22--3-
+14	grosse	gros	ADJ	ADJ	_	15	amod	_	_
+15	femme	femme	NOUN	NOUN	_	8	conj	_	_
+16	ventrue	ventru	ADJ	ADJ	_	15	amod	_	Entity=PER_22)PER_21)|SpaceAfter=No
+17	,	,	PUNCT	PUNCT	_	15	punct	_	_
+18	une	un	PRON	PRON	_	15	appos	_	Entity=(PER_20--4-
+19	de	de	ADP	ADP	_	21	case	_	_
+20	ces	ce	DET	DET	_	21	det	_	Entity=(PER_11--2-
+21	marchandes	marchand	NOUN	NOUN	_	18	nmod	_	_
+22	dites	dire	VERB	VERB	_	21	acl	_	_
+23	_	_	PUNCT	PUNCT	_	22	obj	_	SpaceAfter=No
+24	à	à	ADP	ADP	_	26	case	_	_
+25	la	le	DET	DET	_	26	det	_	_
+26	toilette	toilette	NOUN	NOUN	_	22	obl:mod	_	Entity=PER_11)PER_20)|SpaceAfter=No
+27	_	_	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
+28	,	,	PUNCT	PUNCT	_	29	punct	_	_
+29	conseillères	conseiller	NOUN	NOUN	_	3	conj	_	_
+30	et	et	CCONJ	CCONJ	_	31	cc	_	_
+31	protectrices	protecteur	ADJ	ADJ	_	29	conj	_	_
+32	d'	de	ADP	ADP	_	33	case	_	SpaceAfter=No
+33	amours	amour	NOUN	NOUN	_	29	nmod	_	_
+34	prohibées	prohiber	VERB	VERB	_	33	acl	_	SpaceAfter=No
+35	,	,	PUNCT	PUNCT	_	29	punct	_	_
+36	qui	qui	PRON	PRON	_	37	nsubj	_	Entity=(PER_11--1-)
+37	brocantent	brocanter	VERB	VERB	_	29	acl:relcl	_	_
+38	sur	sur	ADP	ADP	_	40	case	_	_
+39	la	le	DET	DET	_	40	det	_	_
+40	chair	chair	NOUN	NOUN	_	37	obl:arg	_	_
+41	humaine	humain	ADJ	ADJ	_	40	amod	_	_
+42	jeune	jeune	ADJ	ADJ	_	40	amod	_	_
+43	et	et	CCONJ	CCONJ	_	44	cc	_	_
+44	vieille	vieux	ADJ	ADJ	_	42	conj	_	_
+45	autant	autant	ADV	ADV	_	45	ROOT	_	_
+46	que	que	SCONJ	SCONJ	_	52	mark	_	_
+47	sur	sur	ADP	ADP	_	52	case	_	_
+48	les	le	DET	DET	_	52	det	_	Entity=(PER_19--5-
+49	jeunes	jeune	ADJ	ADJ	_	52	amod	_	_
+50	et	et	CCONJ	CCONJ	_	51	cc	_	_
+51	vieilles	vieux	ADJ	ADJ	_	49	conj	_	_
+52	nippes	nippe	NOUN	NOUN	_	45	dep	_	Entity=PER_19)|SpaceAfter=No
+53	.	.	PUNCT	PUNCT	_	53	ROOT	_	_
+
+# newpar
+# sent_id = 5
+# text = Soudain, on mit en vente une mignonne chasuble Louis XV, jolie comme une robe de marquise, restée fraîche avec une procession de muguets autour de la croix, de longs iris bleus montant jusqu'aux pieds de l'emblème sacré et, dans les coins, des couronnes de roses.
+1	Soudain	soudain	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	on	on	PRON	PRON	_	4	nsubj	_	_
+4	mit	mettre	VERB	VERB	_	4	ROOT	_	_
+5	en	en	ADP	ADP	_	6	case	_	_
+6	vente	vente	NOUN	NOUN	_	4	obl:arg	_	_
+7	une	un	DET	DET	_	9	det	_	_
+8	mignonne	mignon	ADJ	ADJ	_	9	amod	_	_
+9	chasuble	chasuble	NOUN	NOUN	_	4	obj	_	_
+10	Louis	Louis	PROPN	PROPN	_	9	nmod	_	_
+11	XV	xv	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	9	punct	_	_
+13	jolie	joli	ADJ	ADJ	_	9	amod	_	_
+14	comme	comme	ADP	ADP	_	16	case	_	_
+15	une	un	DET	DET	_	16	det	_	_
+16	robe	robe	NOUN	NOUN	_	13	obl:mod	_	_
+17	de	de	ADP	ADP	_	18	case	_	_
+18	marquise	marquis	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	PUNCT	_	9	punct	_	_
+20	restée	rester	VERB	VERB	_	9	acl	_	_
+21	fraîche	frais	ADJ	ADJ	_	20	xcomp	_	_
+22	avec	avec	ADP	ADP	_	24	case	_	_
+23	une	un	DET	DET	_	24	det	_	_
+24	procession	procession	NOUN	NOUN	_	21	obl:mod	_	_
+25	de	de	ADP	ADP	_	26	case	_	_
+26	muguets	muguet	NOUN	NOUN	_	24	nmod	_	_
+27	autour	autour	ADV	ADV	_	24	dep	_	_
+28	de	de	ADP	ADP	_	30	case	_	_
+29	la	le	DET	DET	_	30	det	_	_
+30	croix	croix	NOUN	NOUN	_	27	dep	_	SpaceAfter=No
+31	,	,	PUNCT	PUNCT	_	24	punct	_	_
+32	de	de	DET	DET	_	34	det	_	_
+33	longs	long	ADJ	ADJ	_	34	amod	_	_
+34	iris	iris	NOUN	NOUN	_	24	appos	_	_
+35	bleus	bleu	ADJ	ADJ	_	34	amod	_	_
+36	montant	monter	VERB	VERB	_	34	acl	_	_
+37	jusqu'	jusque	ADP	ADP	_	39	case	_	SpaceAfter=No
+38	aux	à	ADP	ADP	_	39	case	_	_
+39	pieds	pied	NOUN	NOUN	_	36	obl:arg	_	_
+40	de	de	ADP	ADP	_	42	case	_	_
+41	l'	le	DET	DET	_	42	det	_	SpaceAfter=No
+42	emblème	emblème	NOUN	NOUN	_	39	nmod	_	_
+43	sacré	sacrer	ADJ	ADJ	_	42	amod	_	_
+44	et	et	CCONJ	CCONJ	_	51	cc	_	SpaceAfter=No
+45	,	,	PUNCT	PUNCT	_	51	punct	_	_
+46	dans	dans	ADP	ADP	_	48	case	_	_
+47	les	le	DET	DET	_	48	det	_	_
+48	coins	coin	NOUN	NOUN	_	51	nmod	_	SpaceAfter=No
+49	,	,	PUNCT	PUNCT	_	51	punct	_	_
+50	des	un	DET	DET	_	51	det	_	_
+51	couronnes	couronne	NOUN	NOUN	_	34	conj	_	_
+52	de	de	ADP	ADP	_	53	case	_	_
+53	roses	rose	NOUN	NOUN	_	51	nmod	_	SpaceAfter=No
+54	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 6
+# text = Quand je l'eus achetée, je m'aperçus qu'elle était demeurée vaguement odorante, comme pénétrée d'un reste d'encens, ou plutôt comme habitée encore par ces si légères et si douces senteurs d'autrefois qui semblent des souvenirs de parfums, l'âme des essences évaporées.
+1	Quand	quand	SCONJ	SCONJ	_	9	mark	_	_
+2	je	je	PRON	PRON	_	4	nsubj	_	Entity=(PER_3--1-)
+3	l'	le	PRON	PRON	_	4	obj	_	SpaceAfter=No
+4	eus	avoir	VERB	VERB	_	9	nsubj	_	_
+5	achetée	acheter	VERB	VERB	_	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	je	je	PRON	PRON	_	9	nsubj	_	Entity=(PER_3--1-)
+8	m'	me	PRON	PRON	_	9	expl:comp	_	SpaceAfter=No
+9	aperçus	apercevoir	VERB	VERB	_	9	ROOT	_	_
+10	qu'	que	SCONJ	SCONJ	_	13	mark	_	SpaceAfter=No
+11	elle	lui	PRON	PRON	_	13	nsubj	_	_
+12	était	être	AUX	AUX	_	13	aux:tense	_	_
+13	demeurée	demeurer	VERB	VERB	_	9	ccomp	_	_
+14	vaguement	vaguement	ADV	ADV	_	15	advmod	_	_
+15	odorante	odorant	ADJ	ADJ	_	13	xcomp	_	SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	13	punct	_	_
+17	comme	comme	ADP	ADP	_	18	mark	_	_
+18	pénétrée	pénétrer	VERB	VERB	_	13	advcl	_	_
+19	d'	de	ADP	ADP	_	21	case	_	SpaceAfter=No
+20	un	un	DET	DET	_	21	det	_	_
+21	reste	reste	NOUN	NOUN	_	18	obl:arg	_	_
+22	d'	de	ADP	ADP	_	23	case	_	SpaceAfter=No
+23	encens	encens	NOUN	NOUN	_	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	PUNCT	_	18	punct	_	_
+25	ou	ou	CCONJ	CCONJ	_	28	cc	_	_
+26	plutôt	plutôt	ADV	ADV	_	28	advmod	_	_
+27	comme	comme	ADP	ADP	_	28	mark	_	_
+28	habitée	habiter	VERB	VERB	_	18	conj	_	_
+29	encore	encore	ADV	ADV	_	28	advmod	_	_
+30	par	par	ADP	ADP	_	37	case	_	_
+31	ces	ce	DET	DET	_	33	det	_	_
+32	si	si	ADV	ADV	_	33	advmod	_	_
+33	légères	léger	ADJ	ADJ	_	37	amod	_	_
+34	et	et	CCONJ	CCONJ	_	36	cc	_	_
+35	si	si	ADV	ADV	_	36	advmod	_	_
+36	douces	doux	ADJ	ADJ	_	33	conj	_	_
+37	senteurs	senteur	NOUN	NOUN	_	28	obl:agent	_	_
+38	d'	de	ADP	ADP	_	39	case	_	SpaceAfter=No
+39	autrefois	autrefois	ADV	ADV	_	37	nmod	_	Entity=(TIME_18--1-)
+40	qui	qui	PRON	PRON	_	41	nsubj	_	_
+41	semblent	sembler	VERB	VERB	_	37	acl:relcl	_	_
+42	des	un	DET	DET	_	43	det	_	_
+43	souvenirs	souvenir	NOUN	NOUN	_	41	obj	_	_
+44	de	de	ADP	ADP	_	45	case	_	_
+45	parfums	parfum	NOUN	NOUN	_	43	nmod	_	SpaceAfter=No
+46	,	,	PUNCT	PUNCT	_	41	punct	_	_
+47	l'	le	DET	DET	_	48	det	_	SpaceAfter=No
+48	âme	âme	NOUN	NOUN	_	41	obj	_	_
+49	des	de	ADP	ADP	_	50	case	_	_
+50	essences	essence	NOUN	NOUN	_	48	nmod	_	_
+51	évaporées	évaporer	VERB	VERB	_	50	acl	_	SpaceAfter=No
+52	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# newpar
+# sent_id = 7
+# text = Quand je l'eus chez moi, j' en voulus couvrir une petite chaise de la même époque charmante ; et, la maniant pour prendre les mesures, je sentis sous mes doigts se froisser des papiers.
+1	Quand	quand	SCONJ	SCONJ	_	4	mark	_	_
+2	je	je	PRON	PRON	_	4	nsubj	_	Entity=(PER_3--1-)
+3	l'	le	PRON	PRON	_	4	obj	_	SpaceAfter=No
+4	eus	avoir	VERB	VERB	_	11	advcl	_	_
+5	chez	chez	ADP	ADP	_	6	case	_	_
+6	moi	moi	PRON	PRON	_	4	obl:mod	_	Entity=(PER_3--1-)|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	11	punct	_	_
+8	j	j	PRON	PRON	_	9	det	_	Entity=(PER_3--2-|SpaceAfter=No
+9	'	'	SYM	SYM	_	11	nsubj	_	Entity=PER_3)
+10	en	en	PRON	PRON	_	11	iobj	_	_
+11	voulus	vouloir	VERB	VERB	_	11	ROOT	_	_
+12	couvrir	couvrir	VERB	VERB	_	11	xcomp	_	_
+13	une	un	DET	DET	_	15	det	_	_
+14	petite	petit	ADJ	ADJ	_	15	amod	_	_
+15	chaise	chaise	NOUN	NOUN	_	12	obj	_	_
+16	de	de	ADP	ADP	_	19	case	_	_
+17	la	le	DET	DET	_	19	det	_	Entity=(TIME_17--3-
+18	même	même	ADJ	ADJ	_	19	amod	_	_
+19	époque	époque	NOUN	NOUN	_	15	nmod	_	_
+20	charmante	charmant	ADJ	ADJ	_	19	amod	_	Entity=TIME_17)
+21	;	;	PUNCT	PUNCT	_	11	punct	_	_
+22	et	et	CCONJ	CCONJ	_	32	cc	_	SpaceAfter=No
+23	,	,	PUNCT	PUNCT	_	32	punct	_	_
+24	la	le	PRON	PRON	_	25	obj	_	_
+25	maniant	manier	VERB	VERB	_	32	advcl	_	_
+26	pour	pour	ADP	ADP	_	27	mark	_	_
+27	prendre	prendre	VERB	VERB	_	25	advcl	_	_
+28	les	le	DET	DET	_	29	det	_	_
+29	mesures	mesure	NOUN	NOUN	_	27	obj	_	SpaceAfter=No
+30	,	,	PUNCT	PUNCT	_	32	punct	_	_
+31	je	je	PRON	PRON	_	32	nsubj	_	Entity=(PER_3--1-)
+32	sentis	sentir	VERB	VERB	_	32	ROOT	_	_
+33	sous	sou	ADP	ADP	_	35	case	_	_
+34	mes	mon	DET	DET	_	35	det	_	Entity=(PER_3--1-)
+35	doigts	doigt	NOUN	NOUN	_	32	obl:mod	_	_
+36	se	se	PRON	PRON	_	37	expl:comp	_	_
+37	froisser	froisser	VERB	VERB	_	32	xcomp	_	_
+38	des	un	DET	DET	_	39	det	_	_
+39	papiers	papier	NOUN	NOUN	_	37	obj	_	SpaceAfter=No
+40	.	.	PUNCT	PUNCT	_	32	punct	_	_
+
+# sent_id = 8
+# text = Ayant fendu la doublure, quelques lettres tombèrent à mes pieds.
+1	Ayant	avoir	AUX	AUX	_	2	aux:tense	_	_
+2	fendu	fendre	VERB	VERB	_	8	advcl	_	_
+3	la	le	DET	DET	_	4	det	_	_
+4	doublure	doublure	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	quelques	quelque	DET	DET	_	7	det	_	_
+7	lettres	lettre	NOUN	NOUN	_	8	nsubj	_	_
+8	tombèrent	tomber	VERB	VERB	_	8	ROOT	_	_
+9	à	à	ADP	ADP	_	11	case	_	_
+10	mes	mon	DET	DET	_	11	det	_	Entity=(PER_3--1-)
+11	pieds	pied	NOUN	NOUN	_	8	obl:arg	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 9
+# text = Elles étaient jaunies ; et l'encre effacée semblait de la rouille.
+1	Elles	lui	PRON	PRON	_	3	nsubj:pass	_	_
+2	étaient	être	AUX	AUX	_	3	aux:pass	_	_
+3	jaunies	jaunir	VERB	VERB	_	3	ROOT	_	_
+4	;	;	PUNCT	PUNCT	_	3	punct	_	_
+5	et	et	CCONJ	CCONJ	_	9	cc	_	_
+6	l'	le	DET	DET	_	7	det	_	SpaceAfter=No
+7	encre	encre	NOUN	NOUN	_	9	nsubj	_	_
+8	effacée	effacer	VERB	VERB	_	7	acl	_	_
+9	semblait	sembler	VERB	VERB	_	9	ROOT	_	_
+10	de	de	ADP	ADP	_	12	det	_	_
+11	la	le	DET	DET	_	10	fixed	_	_
+12	rouille	rouille	NOUN	NOUN	_	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 10
+# text = Une main fine avait tracé sur une face de la feuille pliée à la mode ancienne : « A monsieur, monsieur l'abbé d'Argencé. »
+1	Une	un	DET	DET	_	2	det	_	_
+2	main	main	NOUN	NOUN	_	5	nsubj	_	_
+3	fine	fin	ADJ	ADJ	_	2	amod	_	_
+4	avait	avoir	AUX	AUX	_	5	aux:tense	_	_
+5	tracé	tracer	VERB	VERB	_	5	ROOT	_	_
+6	sur	sur	ADP	ADP	_	8	case	_	_
+7	une	un	DET	DET	_	8	det	_	_
+8	face	face	NOUN	NOUN	_	5	obl:mod	_	_
+9	de	de	ADP	ADP	_	11	case	_	_
+10	la	le	DET	DET	_	11	det	_	_
+11	feuille	feuille	NOUN	NOUN	_	8	nmod	_	_
+12	pliée	plier	VERB	VERB	_	11	acl	_	_
+13	à	à	ADP	ADP	_	15	case	_	_
+14	la	le	DET	DET	_	15	det	_	_
+15	mode	mode	NOUN	NOUN	_	12	obl:mod	_	_
+16	ancienne	ancien	ADJ	ADJ	_	15	amod	_	_
+17	:	:	PUNCT	PUNCT	_	5	punct	_	_
+18	«	«	PUNCT	PUNCT	_	28	punct	_	_
+19	A	à	ADP	ADP	_	20	case	_	_
+20	monsieur	Monsieur	NOUN	NOUN	_	18	nmod	_	Entity=(PER_1--1-)|SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	22	punct	_	_
+22	monsieur	Monsieur	NOUN	NOUN	_	20	conj	_	Entity=(PER_1--3-
+23	l'	le	DET	DET	_	24	det	_	SpaceAfter=No
+24	abbé	abbé	NOUN	NOUN	_	22	nmod	_	_
+25	d'	de	ADP	ADP	_	26	case	_	SpaceAfter=No
+26	Argencé	Argencé	PROPN	PROPN	_	24	nmod	_	Entity=PER_1)(GPE_31--1-)|SpaceAfter=No
+27	.	.	PUNCT	PUNCT	_	18	punct	_	_
+28	»	»	PUNCT	PUNCT	_	28	ROOT	_	_
+
+# newpar
+# sent_id = 11
+# text = Les trois premières lettres fixaient simplement des rendez-vous.
+1	Les	le	DET	DET	_	4	det	_	_
+2	trois	trois	NUM	NUM	_	4	nummod	_	_
+3	premières	premier	ADJ	ADJ	_	4	amod	_	_
+4	lettres	lettre	NOUN	NOUN	_	5	nsubj	_	_
+5	fixaient	fixer	VERB	VERB	_	5	ROOT	_	_
+6	simplement	simplement	ADV	ADV	_	5	advmod	_	_
+7	des	un	DET	DET	_	8	det	_	_
+8	rendez-vous	rendez-vous	NOUN	NOUN	_	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 12
+# text = Et voici la quatrième :
+1	Et	et	CCONJ	CCONJ	_	2	cc	_	_
+2	voici	voici	VERB	VERB	_	2	ROOT	_	_
+3	la	le	DET	DET	_	4	det	_	_
+4	quatrième	quatrième	ADJ	ADJ	_	2	obj	_	_
+5	:	:	PUNCT	PUNCT	_	2	punct	_	_
+
+# newpar
+# sent_id = 13
+# text = « Mon ami, je suis malade, toute souffrante, et je ne quitte pas mon lit.
+1	«	«	PUNCT	PUNCT	_	7	mark	_	_
+2	Mon	mon	DET	DET	_	3	det	_	Entity=(PER_1--2-(PER_0--1-)
+3	ami	ami	NOUN	NOUN	_	7	obl:mod	_	Entity=PER_1)|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	je	je	PRON	PRON	_	7	nsubj	_	Entity=(PER_0--1-)
+6	suis	être	AUX	AUX	_	7	cop	_	_
+7	malade	malade	ADJ	ADJ	_	2	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	toute	toute	ADV	ADV	_	10	advmod	_	_
+10	souffrante	souffrant	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	7	punct	_	_
+12	et	et	CCONJ	CCONJ	_	15	cc	_	_
+13	je	je	PRON	PRON	_	15	nsubj	_	Entity=(PER_0--1-)
+14	ne	ne	ADV	ADV	_	15	advmod	_	_
+15	quitte	quitte	VERB	VERB	_	7	conj	_	_
+16	pas	pas	ADV	ADV	_	15	advmod	_	_
+17	mon	mon	DET	DET	_	18	det	_	_
+18	lit	lit	NOUN	NOUN	_	15	obj	_	SpaceAfter=No
+19	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 14
+# text = La pluie bat mes vitres, et je reste chaudement, mollement rêveuse, dans la tiédeur des duvets.
+1	La	le	DET	DET	_	2	det	_	_
+2	pluie	pluie	NOUN	NOUN	_	3	nsubj	_	_
+3	bat	battre	VERB	VERB	_	3	ROOT	_	_
+4	mes	mon	DET	DET	_	5	det	_	_
+5	vitres	vitre	NOUN	NOUN	_	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	3	punct	_	_
+7	et	et	CCONJ	CCONJ	_	9	cc	_	_
+8	je	je	PRON	PRON	_	9	nsubj	_	Entity=(PER_0--1-)
+9	reste	reste	VERB	VERB	_	3	conj	_	_
+10	chaudement	chaudement	ADV	ADV	_	9	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	9	punct	_	_
+12	mollement	mollement	ADV	ADV	_	13	advmod	_	_
+13	rêveuse	rêveur	ADJ	ADJ	_	9	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	9	punct	_	_
+15	dans	dans	ADP	ADP	_	17	case	_	_
+16	la	le	DET	DET	_	17	det	_	_
+17	tiédeur	tiédeur	NOUN	NOUN	_	9	obl:mod	_	_
+18	des	de	ADP	ADP	_	19	case	_	_
+19	duvets	duvet	NOUN	NOUN	_	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 15
+# text = J'ai un livre, un livre que j'aime et qui me semble fait avec un peu de moi.
+1	J'	je	PRON	PRON	_	2	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+2	ai	avoir	VERB	VERB	_	2	ROOT	_	_
+3	un	un	DET	DET	_	4	det	_	_
+4	livre	livre	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	un	un	DET	DET	_	7	det	_	_
+7	livre	livre	NOUN	NOUN	_	4	conj	_	_
+8	que	que	PRON	PRON	_	10	obj	_	_
+9	j'	je	PRON	PRON	_	10	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+10	aime	aimer	VERB	VERB	_	7	acl:relcl	_	_
+11	et	et	CCONJ	CCONJ	_	14	cc	_	_
+12	qui	qui	PRON	PRON	_	14	nsubj	_	_
+13	me	me	PRON	PRON	_	14	iobj	_	Entity=(PER_0--1-)
+14	semble	sembler	VERB	VERB	_	10	conj	_	_
+15	fait	faire	VERB	VERB	_	14	xcomp	_	_
+16	avec	avec	ADP	ADP	_	18	case	_	_
+17	un	un	DET	DET	_	18	det	_	_
+18	peu	peu	ADV	ADV	_	15	obl:mod	_	_
+19	de	de	ADP	ADP	_	20	case	_	_
+20	moi	moi	PRON	PRON	_	18	nmod	_	Entity=(PER_0--1-)|SpaceAfter=No
+21	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 16
+# text = Vous dirai-je lequel ?
+1	Vous	vous	PRON	PRON	_	2	nsubj	_	Entity=(PER_1--1-)
+2	dirai	dire	VERB	VERB	_	2	ROOT	_	SpaceAfter=No
+3	-je	je	PRON	PRON	_	2	dep	_	Entity=(PER_0--1-)
+4	lequel	lequel	PRON	PRON	_	2	obj	_	_
+5	?	?	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 17
+# text = Non.
+1	Non	non	ADV	ADV	_	1	ROOT	_	SpaceAfter=No
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 18
+# text = Vous me gronderiez.
+1	Vous	vous	PRON	PRON	_	3	nsubj	_	Entity=(PER_1--1-)
+2	me	me	PRON	PRON	_	3	obj	_	Entity=(PER_0--1-)
+3	gronderiez	gronder	VERB	VERB	_	3	ROOT	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 19
+# text = Puis, quand j'ai lu, je songe, et je veux vous dire à quoi.
+1	Puis	pouvoir	CCONJ	CCONJ	_	9	cc	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	9	punct	_	_
+3	quand	quand	SCONJ	SCONJ	_	6	mark	_	_
+4	j'	je	PRON	PRON	_	6	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+5	ai	avoir	AUX	AUX	_	6	aux:tense	_	_
+6	lu	lire	VERB	VERB	_	9	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	je	je	PRON	PRON	_	9	nsubj	_	Entity=(PER_0--1-)
+9	songe	songer	VERB	VERB	_	9	ROOT	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	et	et	CCONJ	CCONJ	_	13	cc	_	_
+12	je	je	PRON	PRON	_	13	nsubj	_	Entity=(PER_0--1-)
+13	veux	vouloir	VERB	VERB	_	9	conj	_	_
+14	vous	vous	PRON	PRON	_	15	iobj	_	Entity=(PER_1--1-)
+15	dire	dire	VERB	VERB	_	13	xcomp	_	_
+16	à	à	ADP	ADP	_	17	case	_	_
+17	quoi	quoi	PRON	PRON	_	15	obl:arg	_	SpaceAfter=No
+18	.	.	PUNCT	PUNCT	_	15	advcl	_	_
+
+# newpar
+# sent_id = 20
+# text = « On a mis derrière ma tête des oreillers qui me tiennent assise, et je vous écris sur ce mignon pupitre que j'ai reçu de vous.
+1	«	«	PUNCT	PUNCT	_	4	punct	_	_
+2	On	on	PRON	PRON	_	4	nsubj	_	_
+3	a	avoir	AUX	AUX	_	4	aux:tense	_	_
+4	mis	mettre	VERB	VERB	_	4	ROOT	_	_
+5	derrière	derrière	ADP	ADP	_	7	case	_	_
+6	ma	mon	DET	DET	_	7	det	_	_
+7	tête	tête	NOUN	NOUN	_	4	obl:arg	_	_
+8	des	un	DET	DET	_	9	det	_	_
+9	oreillers	oreiller	NOUN	NOUN	_	4	obj	_	_
+10	qui	qui	PRON	PRON	_	12	nsubj	_	_
+11	me	me	PRON	PRON	_	12	iobj	_	Entity=(PER_0--1-)
+12	tiennent	tenir	VERB	VERB	_	9	acl:relcl	_	_
+13	assise	asseoir	ADJ	ADJ	_	12	xcomp	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	4	punct	_	_
+15	et	et	CCONJ	CCONJ	_	18	cc	_	_
+16	je	je	PRON	PRON	_	18	nsubj	_	Entity=(PER_0--1-)
+17	vous	vous	PRON	PRON	_	18	obj	_	Entity=(PER_1--1-)
+18	écris	écrire	VERB	VERB	_	4	conj	_	_
+19	sur	sur	ADP	ADP	_	22	case	_	_
+20	ce	ce	DET	DET	_	22	det	_	_
+21	mignon	mignon	ADJ	ADJ	_	22	amod	_	_
+22	pupitre	pupitre	NOUN	NOUN	_	18	obl:arg	_	_
+23	que	que	PRON	PRON	_	26	obj	_	_
+24	j'	je	PRON	PRON	_	26	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+25	ai	avoir	AUX	AUX	_	26	aux:tense	_	_
+26	reçu	recevoir	VERB	VERB	_	22	acl:relcl	_	_
+27	de	de	ADP	ADP	_	28	case	_	_
+28	vous	vous	PRON	PRON	_	26	obl:arg	_	Entity=(PER_1--1-)|SpaceAfter=No
+29	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# newpar
+# sent_id = 21
+# text = « Étant depuis trois jours en mon lit, c'est à mon lit que je pense, et même dans le sommeil j'y médite encore.
+1	«	«	PUNCT	PUNCT	_	2	punct	_	_
+2	Étant	être	VERB	VERB	_	14	obl:mod	_	_
+3	depuis	depuis	ADP	ADP	_	5	case	_	_
+4	trois	trois	NUM	NUM	_	5	nummod	_	Entity=(TIME_7--2-
+5	jours	jour	NOUN	NOUN	_	2	obl:mod	_	Entity=TIME_7)
+6	en	en	ADP	ADP	_	8	case	_	_
+7	mon	mon	DET	DET	_	8	det	_	Entity=(PER_0--1-)
+8	lit	lit	NOUN	NOUN	_	2	obl:arg	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	14	punct	_	_
+10	c'	ce	PRON	PRON	_	14	expl:subj	_	SpaceAfter=No
+11	est	être	AUX	AUX	_	14	cop	_	_
+12	à	à	ADP	ADP	_	14	case	_	_
+13	mon	mon	DET	DET	_	14	det	_	Entity=(PER_0--1-)
+14	lit	lit	NOUN	NOUN	_	9	obj	_	_
+15	que	que	PRON	PRON	_	17	iobj	_	_
+16	je	je	PRON	PRON	_	17	nsubj	_	_
+17	pense	penser	VERB	VERB	_	14	dep	_	SpaceAfter=No
+18	,	,	PUNCT	PUNCT	_	14	punct	_	_
+19	et	et	CCONJ	CCONJ	_	26	cc	_	_
+20	même	même	ADV	ADV	_	26	advmod	_	_
+21	dans	dans	ADP	ADP	_	23	case	_	_
+22	le	le	DET	DET	_	23	det	_	_
+23	sommeil	sommeil	NOUN	NOUN	_	26	obl:mod	_	_
+24	j'	je	PRON	PRON	_	26	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+25	y	y	PRON	PRON	_	26	iobj	_	_
+26	médite	méditer	VERB	VERB	_	14	conj	_	_
+27	encore	encore	ADV	ADV	_	26	advmod	_	SpaceAfter=No
+28	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+# newpar
+# sent_id = 22
+# text = « Le lit, mon ami, c'est toute notre vie.
+1	«	«	PUNCT	PUNCT	_	12	punct	_	_
+2	Le	le	DET	DET	_	3	det	_	_
+3	lit	lit	NOUN	NOUN	_	12	dep	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	mon	mon	DET	DET	_	6	det	_	Entity=(PER_1--2-(PER_0--1-)
+6	ami	ami	NOUN	NOUN	_	3	appos	_	Entity=PER_1)|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	12	punct	_	_
+8	c'	ce	PRON	PRON	_	12	nsubj	_	SpaceAfter=No
+9	est	être	AUX	AUX	_	12	cop	_	_
+10	toute	tout	ADJ	ADJ	_	12	amod	_	_
+11	notre	notre	DET	DET	_	12	det	_	_
+12	vie	vie	NOUN	NOUN	_	12	ROOT	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 23
+# text = C'est là qu'on naît, c'est là qu'on aime, c'est là qu'on meurt.
+1	C'	ce	PRON	PRON	_	6	expl:subj	_	SpaceAfter=No
+2	est	être	AUX	AUX	_	6	cop	_	_
+3	là	là	ADV	ADV	_	6	advmod	_	_
+4	qu'	que	PRON	PRON	_	6	iobj	_	SpaceAfter=No
+5	on	on	PRON	PRON	_	6	nsubj	_	_
+6	naît	naître	VERB	VERB	_	6	ROOT	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	21	punct	_	_
+8	c'	ce	PRON	PRON	_	21	expl:subj	_	SpaceAfter=No
+9	est	être	AUX	AUX	_	21	cop	_	_
+10	là	là	ADV	ADV	_	21	advmod	_	_
+11	qu'	que	PRON	PRON	_	13	iobj	_	SpaceAfter=No
+12	on	on	PRON	PRON	_	13	nsubj	_	_
+13	aime	aimer	VERB	VERB	_	10	dep	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	10	punct	_	_
+15	c'	ce	PRON	PRON	_	17	expl:subj	_	SpaceAfter=No
+16	est	être	AUX	AUX	_	17	cop	_	_
+17	là	là	ADV	ADV	_	10	dep	_	_
+18	qu'	que	PRON	PRON	_	20	iobj	_	SpaceAfter=No
+19	on	on	PRON	PRON	_	20	nsubj	_	_
+20	meurt	mourir	VERB	VERB	_	17	dep	_	SpaceAfter=No
+21	.	.	PUNCT	PUNCT	_	6	advcl	_	_
+
+# newpar
+# sent_id = 24
+# text = « Si j'avais la plume de M. de Crébillon, j'écrirais l'histoire d'un lit.
+1	«	«	PUNCT	PUNCT	_	13	punct	_	_
+2	Si	si	SCONJ	SCONJ	_	4	mark	_	_
+3	j'	je	PRON	PRON	_	4	nsubj	_	SpaceAfter=No
+4	avais	avoir	VERB	VERB	_	13	advcl	_	_
+5	la	le	DET	DET	_	6	det	_	_
+6	plume	plume	NOUN	NOUN	_	4	obj	_	_
+7	de	de	ADP	ADP	_	8	case	_	_
+8	M.	m.	NOUN	NOUN	_	6	nmod	_	Entity=(PER_32--3-
+9	de	de	ADP	ADP	_	10	case	_	_
+10	Crébillon	Crébillon	PROPN	PROPN	_	8	nmod	_	Entity=PER_32)|SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	13	punct	_	_
+12	j'	je	PRON	PRON	_	13	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+13	écrirais	écrire	VERB	VERB	_	13	ROOT	_	_
+14	l'	le	DET	DET	_	15	det	_	SpaceAfter=No
+15	histoire	histoire	NOUN	NOUN	_	13	obj	_	_
+16	d'	de	ADP	ADP	_	18	case	_	SpaceAfter=No
+17	un	un	DET	DET	_	18	det	_	_
+18	lit	lit	NOUN	NOUN	_	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 25
+# text = Et que d'aventures émouvantes, terribles, aussi que d'aventures gracieuses, aussi que d'autres attendrissantes !
+1	Et	et	CCONJ	CCONJ	_	4	cc	_	_
+2	que	que	SCONJ	SCONJ	_	4	advmod	_	_
+3	d'	de	ADP	ADP	_	4	case	_	SpaceAfter=No
+4	aventures	aventure	NOUN	NOUN	_	4	ROOT	_	_
+5	émouvantes	émouvant	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	4	punct	_	_
+7	terribles	terrible	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	4	punct	_	_
+9	aussi	aussi	ADV	ADV	_	4	advmod	_	_
+10	que	que	SCONJ	SCONJ	_	12	mark	_	_
+11	d'	de	ADP	ADP	_	12	det	_	SpaceAfter=No
+12	aventures	aventure	NOUN	NOUN	_	9	dep	_	_
+13	gracieuses	gracieux	ADJ	ADJ	_	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	4	punct	_	_
+15	aussi	aussi	ADV	ADV	_	4	advmod	_	_
+16	que	que	SCONJ	SCONJ	_	19	mark	_	_
+17	d'	de	DET	DET	_	18	det	_	SpaceAfter=No
+18	autres	autre	ADJ	ADJ	_	19	amod	_	_
+19	attendrissantes	attendrissant	ADJ	ADJ	_	15	dep	_	_
+20	!	!	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 26
+# text = Que d'enseignements n'en pourrait-on pas tirer, et de moralités pour tout le monde ?
+1	Que	que	PRON	PRON	_	1	ROOT	_	_
+2	d'	de	ADP	ADP	_	3	case	_	SpaceAfter=No
+3	enseignements	enseignement	NOUN	NOUN	_	1	obl:arg	_	_
+4	n'	ne	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+5	en	en	PRON	PRON	_	6	dep	_	_
+6	pourrait	pouvoir	VERB	VERB	_	3	acl:relcl	_	SpaceAfter=No
+7	-on	on	PRON	PRON	_	6	dep	_	_
+8	pas	pas	ADV	ADV	_	6	advmod	_	_
+9	tirer	tirer	VERB	VERB	_	6	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	3	punct	_	_
+11	et	et	CCONJ	CCONJ	_	13	cc	_	_
+12	de	de	ADP	ADP	_	13	case	_	_
+13	moralités	moralité	NOUN	NOUN	_	3	conj	_	_
+14	pour	pour	ADP	ADP	_	17	case	_	_
+15	tout	tout	ADJ	ADJ	_	17	amod	_	_
+16	le	le	DET	DET	_	17	det	_	_
+17	monde	monde	NOUN	NOUN	_	13	dep	_	_
+18	?	?	PUNCT	PUNCT	_	1	punct	_	_
+
+# newpar
+# sent_id = 27
+# text = « Vous connaissez mon lit, mon ami.
+1	«	«	PUNCT	PUNCT	_	3	punct	_	_
+2	Vous	vous	PRON	PRON	_	3	nsubj	_	Entity=(PER_1--1-)
+3	connaissez	connaître	VERB	VERB	_	3	ROOT	_	_
+4	mon	mon	DET	DET	_	5	det	_	Entity=(PER_0--1-)
+5	lit	lit	NOUN	NOUN	_	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	mon	mon	DET	DET	_	8	det	_	Entity=(PER_1--2-(PER_0--1-)
+8	ami	ami	NOUN	NOUN	_	5	nmod	_	Entity=PER_1)|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 28
+# text = Vous ne vous figurerez jamais que de choses j'y ai découvertes depuis trois jours, et comme je l'aime davantage.
+1	Vous	vous	PRON	PRON	_	4	nsubj	_	Entity=(PER_1--1-)
+2	ne	ne	ADV	ADV	_	4	advmod	_	_
+3	vous	vous	PRON	PRON	_	4	expl:comp	_	_
+4	figurerez	figurer	VERB	VERB	_	4	ROOT	_	_
+5	jamais	jamais	ADV	ADV	_	4	advmod	_	_
+6	que	que	ADV	ADV	_	8	advmod	_	_
+7	de	de	ADP	ADP	_	8	case	_	_
+8	choses	chose	NOUN	NOUN	_	4	obj	_	_
+9	j'	je	PRON	PRON	_	12	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+10	y	y	PRON	PRON	_	11	iobj	_	_
+11	ai	avoir	AUX	AUX	_	12	aux:tense	_	_
+12	découvertes	découvrir	VERB	VERB	_	8	acl	_	_
+13	depuis	depuis	ADP	ADP	_	15	case	_	_
+14	trois	trois	NUM	NUM	_	15	nummod	_	Entity=(TIME_7--2-
+15	jours	jour	NOUN	NOUN	_	12	obl:mod	_	Entity=TIME_7)|SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	8	punct	_	_
+17	et	et	CCONJ	CCONJ	_	21	cc	_	_
+18	comme	comme	SCONJ	SCONJ	_	21	mark	_	_
+19	je	je	PRON	PRON	_	21	nsubj	_	Entity=(PER_0--1-)
+20	l'	le	PRON	PRON	_	21	obj	_	SpaceAfter=No
+21	aime	aimer	VERB	VERB	_	8	conj	_	_
+22	davantage	davantage	ADV	ADV	_	21	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 29
+# text = Il me semble habité, hanté, dirai-je, par un tas de gens que je ne soupçonnais point et qui cependant ont laissée quelque chose d'eux en cette couche.
+1	Il	il	PRON	PRON	_	3	expl:subj	_	_
+2	me	me	PRON	PRON	_	3	iobj	_	Entity=(PER_0--1-)
+3	semble	sembler	VERB	VERB	_	3	ROOT	_	_
+4	habité	habiter	VERB	VERB	_	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	hanté	hanter	VERB	VERB	_	4	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	4	punct	_	_
+8	dirai	dire	VERB	VERB	_	4	parataxis	_	SpaceAfter=No
+9	-je	je	PRON	PRON	_	8	nsubj	_	Entity=(PER_0--1-)|SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	8	punct	_	_
+11	par	par	ADP	ADP	_	13	case	_	_
+12	un	un	DET	DET	_	13	det	_	Entity=(PER_30--2-
+13	tas	tas	NOUN	NOUN	_	8	obl:agent	_	_
+14	de	de	ADP	ADP	_	15	case	_	_
+15	gens	gens	NOUN	NOUN	_	13	nmod	_	Entity=PER_30)(PER_5--1-)
+16	que	que	PRON	PRON	_	19	obj	_	Entity=(PER_5--1-)
+17	je	je	PRON	PRON	_	19	nsubj	_	Entity=(PER_0--1-)
+18	ne	ne	ADV	ADV	_	19	advmod	_	_
+19	soupçonnais	soupçonner	VERB	VERB	_	15	acl:relcl	_	_
+20	point	point	ADV	ADV	_	19	advmod	_	_
+21	et	et	CCONJ	CCONJ	_	25	cc	_	_
+22	qui	qui	PRON	PRON	_	25	nsubj	_	Entity=(PER_5--1-)
+23	cependant	cependant	ADV	ADV	_	25	advmod	_	_
+24	ont	avoir	AUX	AUX	_	25	aux:tense	_	_
+25	laissée	laisser	VERB	VERB	_	19	conj	_	_
+26	quelque	quelque	DET	DET	_	27	det	_	_
+27	chose	chose	NOUN	NOUN	_	25	obj	_	_
+28	d'	de	ADP	ADP	_	29	case	_	SpaceAfter=No
+29	eux	lui	PRON	PRON	_	27	nmod	_	Entity=(PER_5--1-)
+30	en	en	ADP	ADP	_	32	case	_	_
+31	cette	ce	DET	DET	_	32	det	_	_
+32	couche	couche	NOUN	NOUN	_	25	obl:mod	_	SpaceAfter=No
+33	.	.	PUNCT	PUNCT	_	4	advcl	_	_
+
+# newpar
+# sent_id = 30
+# text = « Oh ! comme je ne comprends pas ceux qui achètent des lits nouveaux, des lits sans mémoires.
+1	«	«	PUNCT	PUNCT	_	1	ROOT	_	_
+2	Oh	Oh	INTJ	INTJ	_	2	ROOT	_	_
+3	!	!	PUNCT	PUNCT	_	3	ROOT	_	_
+4	comme	comme	SCONJ	SCONJ	_	7	mark	_	_
+5	je	je	PRON	PRON	_	7	nsubj	_	Entity=(PER_0--1-)
+6	ne	ne	ADV	ADV	_	7	advmod	_	_
+7	comprends	comprendre	VERB	VERB	_	7	ROOT	_	_
+8	pas	pas	ADV	ADV	_	7	advmod	_	_
+9	ceux	celui	PRON	PRON	_	7	obj	_	Entity=(PER_29--3-
+10	qui	qui	PRON	PRON	_	11	nsubj	_	_
+11	achètent	acheter	VERB	VERB	_	9	acl:relcl	_	_
+12	des	un	DET	DET	_	13	det	_	_
+13	lits	lit	NOUN	NOUN	_	11	obj	_	_
+14	nouveaux	nouveau	ADJ	ADJ	_	13	amod	_	Entity=PER_29)|SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	17	punct	_	_
+16	des	un	DET	DET	_	17	det	_	_
+17	lits	lit	NOUN	NOUN	_	13	conj	_	_
+18	sans	sans	ADP	ADP	_	19	case	_	_
+19	mémoires	mémoire	NOUN	NOUN	_	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 31
+# text = Le mien, le nôtre, si vieux, si usé, et si spacieux, a dû contenir bien des existences, de la naissance au tombeau.
+1	Le	le	DET	DET	_	2	det	_	_
+2	mien	mien	PRON	PRON	_	18	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	le	le	DET	DET	_	5	det	_	_
+5	nôtre	nôtre	PRON	PRON	_	18	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	si	si	ADV	ADV	_	8	advmod	_	_
+8	vieux	vieux	ADJ	ADJ	_	5	amod	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	11	punct	_	_
+10	si	si	ADV	ADV	_	11	advmod	_	_
+11	usé	user	VERB	VERB	_	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	8	punct	_	_
+13	et	et	CCONJ	CCONJ	_	15	cc	_	_
+14	si	si	ADV	ADV	_	15	advmod	_	_
+15	spacieux	spacieux	ADJ	ADJ	_	8	conj	_	SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	18	punct	_	_
+17	a	avoir	AUX	AUX	_	18	aux:tense	_	_
+18	dû	devoir	VERB	VERB	_	18	ROOT	_	_
+19	contenir	contenir	VERB	VERB	_	18	xcomp	_	_
+20	bien	bien	ADV	ADV	_	22	advmod	_	_
+21	des	un	DET	DET	_	22	det	_	_
+22	existences	existence	NOUN	NOUN	_	19	obj	_	SpaceAfter=No
+23	,	,	PUNCT	PUNCT	_	19	punct	_	_
+24	de	de	ADP	ADP	_	26	case	_	_
+25	la	le	DET	DET	_	26	det	_	_
+26	naissance	naissance	NOUN	NOUN	_	19	obl:mod	_	_
+27	au	au	ADP	ADP	_	28	case	_	_
+28	tombeau	tombeau	NOUN	NOUN	_	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	PUNCT	_	18	punct	_	_
+
+# sent_id = 32
+# text = Songez -y, mon ami ; songez à tout, revoyez des vies entières entre ces quatre colonnes, sous ce tapis à personnages tendu sur nos têtes, qui a regardé tant de choses.
+1	Songez	songer	VERB	VERB	_	1	ROOT	_	_
+2	-y	y	PRON	PRON	_	1	dep	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	1	punct	_	_
+4	mon	mon	DET	DET	_	5	det	_	Entity=(PER_1--2-(PER_0--1-)
+5	ami	ami	NOUN	NOUN	_	1	dep	_	Entity=PER_1)
+6	;	;	PUNCT	PUNCT	_	1	punct	_	_
+7	songez	songer	VERB	VERB	_	11	advcl	_	_
+8	à	à	ADP	ADP	_	9	case	_	_
+9	tout	tout	PRON	PRON	_	7	obl:arg	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	revoyez	revoir	VERB	VERB	_	11	ROOT	_	_
+12	des	un	DET	DET	_	13	det	_	_
+13	vies	vie	NOUN	NOUN	_	11	obj	_	_
+14	entières	entier	ADJ	ADJ	_	13	amod	_	_
+15	entre	entrer	ADP	ADP	_	18	case	_	_
+16	ces	ce	DET	DET	_	18	det	_	_
+17	quatre	quatre	NUM	NUM	_	18	nummod	_	_
+18	colonnes	colonne	NOUN	NOUN	_	11	obl:mod	_	SpaceAfter=No
+19	,	,	PUNCT	PUNCT	_	11	punct	_	_
+20	sous	sou	ADP	ADP	_	22	case	_	_
+21	ce	ce	DET	DET	_	22	det	_	_
+22	tapis	tapis	NOUN	NOUN	_	11	obl:mod	_	_
+23	à	à	ADP	ADP	_	24	case	_	_
+24	personnages	personnage	NOUN	NOUN	_	22	nmod	_	_
+25	tendu	tendre	VERB	VERB	_	22	acl	_	_
+26	sur	sur	ADP	ADP	_	28	case	_	_
+27	nos	notre	DET	DET	_	28	det	_	_
+28	têtes	tête	NOUN	NOUN	_	25	obl:mod	_	SpaceAfter=No
+29	,	,	PUNCT	PUNCT	_	22	punct	_	_
+30	qui	qui	PRON	PRON	_	32	nsubj	_	_
+31	a	avoir	AUX	AUX	_	32	aux:tense	_	_
+32	regardé	regarder	VERB	VERB	_	22	acl:relcl	_	_
+33	tant	tant	ADV	ADV	_	32	obj	_	_
+34	de	de	ADP	ADP	_	35	case	_	_
+35	choses	chose	NOUN	NOUN	_	33	obl:arg	_	SpaceAfter=No
+36	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 33
+# text = Qu'a-t-il vu depuis trois siècles qu' il est là ?
+1	Qu'	que	PRON	PRON	_	5	obj	_	SpaceAfter=No
+2	a	avoir	AUX	AUX	_	5	aux:tense	_	SpaceAfter=No
+3	-t	-t	PRON	PRON	_	5	nsubj	_	SpaceAfter=No
+4	-il	il	PRON	PRON	_	5	nsubj	_	_
+5	vu	voir	VERB	VERB	_	5	ROOT	_	_
+6	depuis	depuis	ADP	ADP	_	8	case	_	_
+7	trois	trois	NUM	NUM	_	8	nummod	_	Entity=(TIME_13--2-
+8	siècles	siècle	NOUN	NOUN	_	5	obl:mod	_	Entity=TIME_13)
+9	qu	qu	SCONJ	SCONJ	_	12	mark	_	Entity=(TIME_13--1-|SpaceAfter=No
+10	'	'	SCONJ	SCONJ	_	12	mark	_	Entity=TIME_13)
+11	il	il	PRON	PRON	_	12	nsubj	_	_
+12	est	être	VERB	VERB	_	5	ccomp	_	_
+13	là	là	ADV	ADV	_	12	obl:arg	_	_
+14	?	?	PUNCT	PUNCT	_	5	punct	_	_
+
+# newpar
+# sent_id = 34
+# text = « Voici une jeune femme étendue.
+1	«	«	PUNCT	PUNCT	_	2	punct	_	_
+2	Voici	voici	VERB	VERB	_	2	ROOT	_	_
+3	une	un	DET	DET	_	5	det	_	Entity=(PER_2--3-
+4	jeune	jeune	ADJ	ADJ	_	5	amod	_	_
+5	femme	femme	NOUN	NOUN	_	2	obj	_	_
+6	étendue	étendre	VERB	VERB	_	5	acl	_	Entity=PER_2)|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 35
+# text = De temps en temps elle pousse un soupir, puis elle gémit ; et les vieux parents l' entourent ; et voilà que d'elle sort un petit être miaulant comme un chat, et crispé, tout ridé.
+1	De	de	ADP	ADP	_	2	case	_	_
+2	temps	temps	NOUN	NOUN	_	6	obl:mod	_	_
+3	en	en	ADP	ADP	_	4	case	_	_
+4	temps	temps	NOUN	NOUN	_	2	nmod	_	_
+5	elle	lui	PRON	PRON	_	6	nsubj	_	Entity=(PER_2--1-)
+6	pousse	pousse	VERB	VERB	_	6	ROOT	_	_
+7	un	un	DET	DET	_	8	det	_	_
+8	soupir	soupir	NOUN	NOUN	_	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	6	punct	_	_
+10	puis	pouvoir	CCONJ	CCONJ	_	12	cc	_	_
+11	elle	lui	PRON	PRON	_	12	nsubj	_	Entity=(PER_2--1-)
+12	gémit	gémir	VERB	VERB	_	6	conj	_	_
+13	;	;	PUNCT	PUNCT	_	6	punct	_	_
+14	et	et	CCONJ	CCONJ	_	20	cc	_	_
+15	les	le	DET	DET	_	17	det	_	Entity=(PER_35--3-
+16	vieux	vieux	ADJ	ADJ	_	17	amod	_	_
+17	parents	parent	NOUN	NOUN	_	20	nsubj	_	Entity=PER_35)
+18	l	l	PRON	PRON	_	20	obj	_	Entity=(PER_2--1-|SpaceAfter=No
+19	'	'	PRON	PRON	_	20	obj	_	Entity=PER_2)
+20	entourent	entourer	VERB	VERB	_	20	ROOT	_	_
+21	;	;	PUNCT	PUNCT	_	20	punct	_	_
+22	et	et	CCONJ	CCONJ	_	23	cc	_	_
+23	voilà	voilà	VERB	VERB	_	23	ROOT	_	_
+24	que	que	SCONJ	SCONJ	_	27	mark	_	_
+25	d'	de	ADP	ADP	_	26	case	_	SpaceAfter=No
+26	elle	lui	PRON	PRON	_	27	obl:mod	_	Entity=(PER_2--1-)
+27	sort	sortir	VERB	VERB	_	23	ccomp	_	_
+28	un	un	DET	DET	_	30	det	_	Entity=(PER_6--4-
+29	petit	petit	ADJ	ADJ	_	30	amod	_	_
+30	être	être	NOUN	NOUN	_	27	obj	_	_
+31	miaulant	miauler	VERB	VERB	_	30	acl	_	_
+32	comme	comme	ADP	ADP	_	34	case	_	_
+33	un	un	DET	DET	_	34	det	_	_
+34	chat	chat	NOUN	NOUN	_	31	obl:mod	_	SpaceAfter=No
+35	,	,	PUNCT	PUNCT	_	31	punct	_	_
+36	et	et	CCONJ	CCONJ	_	37	cc	_	_
+37	crispé	crisper	VERB	VERB	_	31	conj	_	SpaceAfter=No
+38	,	,	PUNCT	PUNCT	_	31	punct	_	_
+39	tout	tout	ADV	ADV	_	40	advmod	_	_
+40	ridé	rider	VERB	VERB	_	31	advcl	_	Entity=PER_6)|SpaceAfter=No
+41	.	.	PUNCT	PUNCT	_	23	punct	_	_
+
+# sent_id = 36
+# text = C' est un homme qui commence.
+1	C	c	PRON	PRON	_	5	nsubj	_	Entity=(PER_6--1-|SpaceAfter=No
+2	'	'	PRON	PRON	_	5	nsubj	_	Entity=PER_6)
+3	est	être	AUX	AUX	_	5	cop	_	_
+4	un	un	DET	DET	_	5	det	_	Entity=(PER_6--2-
+5	homme	homme	NOUN	NOUN	_	5	ROOT	_	Entity=PER_6)
+6	qui	qui	PRON	PRON	_	7	nsubj	_	_
+7	commence	commencer	VERB	VERB	_	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 37
+# text = Elle, la jeune mère, se sent douloureusement joyeuse ; elle étouffe de bonheur à ce premier cri, et tend les bras et suffoque et, autour, on pleure avec délices ; car ce petit morceau de créature vivante séparé d'elle, c' est la famille continuée, la prolongation du sang, du coeur et de l'âme des vieux qui regardent, tout tremblants.
+1	Elle	lui	PRON	PRON	_	8	nsubj	_	Entity=(PER_2--1-)|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	la	le	DET	DET	_	5	det	_	Entity=(PER_2--3-
+4	jeune	jeune	ADJ	ADJ	_	5	amod	_	_
+5	mère	mère	NOUN	NOUN	_	1	appos	_	Entity=PER_2)|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	se	se	PRON	PRON	_	8	expl:comp	_	_
+8	sent	sentir	VERB	VERB	_	8	ROOT	_	_
+9	douloureusement	douloureusement	ADV	ADV	_	10	advmod	_	_
+10	joyeuse	joyeux	ADJ	ADJ	_	8	xcomp	_	_
+11	;	;	PUNCT	PUNCT	_	8	punct	_	_
+12	elle	lui	PRON	PRON	_	13	nsubj	_	Entity=(PER_2--1-)
+13	étouffe	étouffer	VERB	VERB	_	13	ROOT	_	_
+14	de	de	ADP	ADP	_	15	case	_	_
+15	bonheur	bonheur	NOUN	NOUN	_	13	obl:mod	_	_
+16	à	à	ADP	ADP	_	19	case	_	_
+17	ce	ce	DET	DET	_	19	det	_	_
+18	premier	premier	ADJ	ADJ	_	19	amod	_	_
+19	cri	cri	NOUN	NOUN	_	13	obl:arg	_	SpaceAfter=No
+20	,	,	PUNCT	PUNCT	_	13	punct	_	_
+21	et	et	CCONJ	CCONJ	_	22	cc	_	_
+22	tend	tendre	VERB	VERB	_	13	conj	_	_
+23	les	le	DET	DET	_	24	det	_	_
+24	bras	bras	NOUN	NOUN	_	22	obj	_	_
+25	et	et	CCONJ	CCONJ	_	26	cc	_	_
+26	suffoque	suffoquer	VERB	VERB	_	22	conj	_	_
+27	et	et	CCONJ	CCONJ	_	32	cc	_	SpaceAfter=No
+28	,	,	PUNCT	PUNCT	_	32	punct	_	_
+29	autour	autour	ADV	ADV	_	32	advmod	_	SpaceAfter=No
+30	,	,	PUNCT	PUNCT	_	32	punct	_	_
+31	on	on	PRON	PRON	_	32	nsubj	_	Entity=(PER_36--1-)
+32	pleure	pleurer	VERB	VERB	_	13	conj	_	_
+33	avec	avec	ADP	ADP	_	34	case	_	_
+34	délices	délice	NOUN	NOUN	_	32	obl:mod	_	_
+35	;	;	PUNCT	PUNCT	_	13	punct	_	_
+36	car	car	CCONJ	CCONJ	_	51	cc	_	_
+37	ce	ce	DET	DET	_	39	det	_	Entity=(PER_6--3-
+38	petit	petit	ADJ	ADJ	_	39	amod	_	_
+39	morceau	morceau	NOUN	NOUN	_	51	nsubj	_	_
+40	de	de	ADP	ADP	_	41	case	_	_
+41	créature	créature	NOUN	NOUN	_	39	nmod	_	_
+42	vivante	vivant	ADJ	ADJ	_	41	amod	_	_
+43	séparé	séparer	VERB	VERB	_	39	acl	_	_
+44	d'	de	ADP	ADP	_	45	case	_	SpaceAfter=No
+45	elle	lui	PRON	PRON	_	43	obl:arg	_	Entity=PER_6)(PER_2--1-)|SpaceAfter=No
+46	,	,	PUNCT	PUNCT	_	51	punct	_	_
+47	c	c	PRON	PRON	_	51	expl:subj	_	Entity=(PER_33--1-|SpaceAfter=No
+48	'	'	PRON	PRON	_	51	expl:subj	_	Entity=PER_33)
+49	est	être	AUX	AUX	_	51	cop	_	_
+50	la	le	DET	DET	_	51	det	_	Entity=(PER_34--2-
+51	famille	famille	NOUN	NOUN	_	51	ROOT	_	_
+52	continuée	continuer	VERB	VERB	_	51	acl	_	Entity=PER_34)|SpaceAfter=No
+53	,	,	PUNCT	PUNCT	_	55	punct	_	_
+54	la	le	DET	DET	_	55	det	_	_
+55	prolongation	prolongation	NOUN	NOUN	_	51	conj	_	_
+56	du	de	ADP	ADP	_	57	case	_	_
+57	sang	sang	NOUN	NOUN	_	55	nmod	_	SpaceAfter=No
+58	,	,	PUNCT	PUNCT	_	60	punct	_	_
+59	du	de	ADP	ADP	_	60	case	_	_
+60	coeur	coeur	NOUN	NOUN	_	57	conj	_	_
+61	et	et	CCONJ	CCONJ	_	64	cc	_	_
+62	de	de	ADP	ADP	_	64	case	_	_
+63	l'	le	DET	DET	_	64	det	_	SpaceAfter=No
+64	âme	âme	NOUN	NOUN	_	57	conj	_	_
+65	des	de	ADP	ADP	_	66	case	_	Entity=(PER_12--2-
+66	vieux	vieux	NOUN	NOUN	_	57	nmod	_	Entity=PER_12)
+67	qui	qui	PRON	PRON	_	68	nsubj	_	Entity=(PER_12--1-)
+68	regardent	regarder	VERB	VERB	_	66	acl:relcl	_	SpaceAfter=No
+69	,	,	PUNCT	PUNCT	_	68	punct	_	_
+70	tout	tout	ADV	ADV	_	71	advmod	_	_
+71	tremblants	tremblant	ADJ	ADJ	_	51	amod	_	SpaceAfter=No
+72	.	.	PUNCT	PUNCT	_	51	punct	_	_
+
+# newpar
+# sent_id = 38
+# text = « Puis voici que pour la première fois deux amants se trouvent chair à chair dans ce tabernacle de la vie.
+1	«	«	PUNCT	PUNCT	_	3	punct	_	_
+2	Puis	pouvoir	CCONJ	CCONJ	_	3	cc	_	_
+3	voici	voici	VERB	VERB	_	3	ROOT	_	_
+4	que	que	SCONJ	SCONJ	_	12	mark	_	_
+5	pour	pour	ADP	ADP	_	8	case	_	_
+6	la	le	DET	DET	_	8	det	_	_
+7	première	premier	ADJ	ADJ	_	8	amod	_	_
+8	fois	fois	NOUN	NOUN	_	12	obl:mod	_	_
+9	deux	deux	NUM	NUM	_	10	nummod	_	Entity=(PER_4--2-
+10	amants	amant	NOUN	NOUN	_	12	nsubj	_	Entity=PER_4)
+11	se	se	PRON	PRON	_	12	expl:comp	_	_
+12	trouvent	trouver	VERB	VERB	_	3	ccomp	_	_
+13	chair	chair	NOUN	NOUN	_	12	obj	_	_
+14	à	à	ADP	ADP	_	15	case	_	_
+15	chair	chair	NOUN	NOUN	_	13	nmod	_	_
+16	dans	dans	ADP	ADP	_	18	case	_	_
+17	ce	ce	DET	DET	_	18	det	_	_
+18	tabernacle	tabernacle	NOUN	NOUN	_	12	obl:mod	_	_
+19	de	de	ADP	ADP	_	21	case	_	_
+20	la	le	DET	DET	_	21	det	_	_
+21	vie	vie	NOUN	NOUN	_	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 39
+# text = Ils tremblent, mais transportés d'allégresse, ils se sentent délicieusement l'un près de l'autre ; et, peu à peu, leurs bouches s'approchent.
+1	Ils	il	PRON	PRON	_	2	nsubj	_	Entity=(PER_4--1-)
+2	tremblent	trembler	VERB	VERB	_	2	ROOT	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	mais	mais	CCONJ	CCONJ	_	11	cc	_	_
+5	transportés	transporter	VERB	VERB	_	11	advcl	_	_
+6	d'	de	ADP	ADP	_	7	case	_	SpaceAfter=No
+7	allégresse	allégresse	NOUN	NOUN	_	5	obl:arg	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	11	punct	_	_
+9	ils	il	PRON	PRON	_	11	nsubj	_	Entity=(PER_4--1-)
+10	se	se	PRON	PRON	_	11	expl:comp	_	_
+11	sentent	sentir	VERB	VERB	_	2	conj	_	_
+12	délicieusement	délicieusement	ADV	ADV	_	11	advmod	_	_
+13	l'	le	DET	DET	_	14	det	_	SpaceAfter=No
+14	un	un	PRON	PRON	_	11	obj	_	_
+15	près	près	ADV	ADV	_	14	dep	_	_
+16	de	de	ADP	ADP	_	18	case	_	_
+17	l'	le	DET	DET	_	18	det	_	SpaceAfter=No
+18	autre	autre	PRON	PRON	_	11	obl:mod	_	_
+19	;	;	PUNCT	PUNCT	_	2	punct	_	_
+20	et	et	CCONJ	CCONJ	_	29	cc	_	SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	29	punct	_	_
+22	peu	peu	ADV	ADV	_	29	advmod	_	_
+23	à	à	ADP	ADP	_	22	fixed	_	_
+24	peu	peu	ADV	ADV	_	22	fixed	_	SpaceAfter=No
+25	,	,	PUNCT	PUNCT	_	29	punct	_	_
+26	leurs	leur	DET	DET	_	27	det	_	Entity=(PER_4--1-)
+27	bouches	bouche	NOUN	NOUN	_	29	nsubj	_	_
+28	s'	se	PRON	PRON	_	29	expl:comp	_	SpaceAfter=No
+29	approchent	approcher	VERB	VERB	_	29	ROOT	_	SpaceAfter=No
+30	.	.	PUNCT	PUNCT	_	29	punct	_	_
+
+# sent_id = 40
+# text = Ce baiser divin les confond, ce baiser, porte du ciel terrestre, ce baiser qui chante les délices humaines, qui les promet toutes, les annonce et les devance.
+1	Ce	ce	DET	DET	_	2	det	_	_
+2	baiser	baiser	NOUN	NOUN	_	5	nsubj	_	_
+3	divin	divin	ADJ	ADJ	_	2	amod	_	_
+4	les	le	PRON	PRON	_	5	obj	_	Entity=(PER_4--1-)
+5	confond	confondre	VERB	VERB	_	5	ROOT	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	29	punct	_	_
+7	ce	ce	DET	DET	_	8	det	_	_
+8	baiser	baiser	NOUN	NOUN	_	29	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	porte	porte	NOUN	NOUN	_	8	appos	_	_
+11	du	de	ADP	ADP	_	12	case	_	_
+12	ciel	ciel	NOUN	NOUN	_	10	nmod	_	_
+13	terrestre	terrestre	ADJ	ADJ	_	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	16	punct	_	_
+15	ce	ce	DET	DET	_	16	det	_	_
+16	baiser	baiser	NOUN	NOUN	_	8	conj	_	_
+17	qui	qui	PRON	PRON	_	18	nsubj	_	_
+18	chante	cher	VERB	VERB	_	16	acl:relcl	_	_
+19	les	le	DET	DET	_	20	det	_	_
+20	délices	délice	NOUN	NOUN	_	18	obj	_	_
+21	humaines	humain	ADJ	ADJ	_	20	amod	_	SpaceAfter=No
+22	,	,	PUNCT	PUNCT	_	25	punct	_	_
+23	qui	qui	PRON	PRON	_	25	nsubj	_	_
+24	les	le	PRON	PRON	_	25	obj	_	Entity=(PER_4--1-)
+25	promet	promettre	VERB	VERB	_	18	conj	_	_
+26	toutes	tout	ADJ	ADJ	_	25	advmod	_	SpaceAfter=No
+27	,	,	PUNCT	PUNCT	_	29	punct	_	_
+28	les	le	PRON	PRON	_	29	obj	_	_
+29	annonce	annoncer	VERB	VERB	_	5	advcl	_	_
+30	et	et	CCONJ	CCONJ	_	32	cc	_	_
+31	les	le	PRON	PRON	_	32	obj	_	_
+32	devance	devancer	VERB	VERB	_	29	conj	_	SpaceAfter=No
+33	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 41
+# text = Et leur lit s'émeut comme une mer soulevée, ploie et murmure, semble lui-même animé, joyeux, car sur lui le délirant mystère d'amour s'accomplit.
+1	Et	et	CCONJ	CCONJ	_	5	cc	_	_
+2	leur	son	DET	DET	_	3	det	_	Entity=(PER_4--1-)
+3	lit	lit	NOUN	NOUN	_	5	nsubj	_	_
+4	s'	se	PRON	PRON	_	5	expl:comp	_	SpaceAfter=No
+5	émeut	émouvoir	VERB	VERB	_	15	advcl	_	_
+6	comme	comme	ADP	ADP	_	8	case	_	_
+7	une	un	DET	DET	_	8	det	_	_
+8	mer	mer	NOUN	NOUN	_	5	obl:mod	_	_
+9	soulevée	soulever	VERB	VERB	_	8	acl	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	ploie	ployer	VERB	VERB	_	5	conj	_	_
+12	et	et	CCONJ	CCONJ	_	13	cc	_	_
+13	murmure	murmure	VERB	VERB	_	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	15	punct	_	_
+15	semble	sembler	VERB	VERB	_	15	ROOT	_	_
+16	lui-même	lui-même	PRON	PRON	_	15	nsubj	_	_
+17	animé	animer	VERB	VERB	_	15	xcomp	_	SpaceAfter=No
+18	,	,	PUNCT	PUNCT	_	15	punct	_	_
+19	joyeux	joyeux	ADJ	ADJ	_	15	amod	_	SpaceAfter=No
+20	,	,	PUNCT	PUNCT	_	15	punct	_	_
+21	car	car	CCONJ	CCONJ	_	30	cc	_	_
+22	sur	sur	ADP	ADP	_	23	case	_	_
+23	lui	luire	PRON	PRON	_	30	obl:mod	_	_
+24	le	le	DET	DET	_	26	det	_	_
+25	délirant	délirant	ADJ	ADJ	_	26	amod	_	_
+26	mystère	mystère	NOUN	NOUN	_	30	nsubj	_	_
+27	d'	de	ADP	ADP	_	28	case	_	SpaceAfter=No
+28	amour	amour	NOUN	NOUN	_	26	nmod	_	_
+29	s'	se	PRON	PRON	_	30	expl:pass	_	SpaceAfter=No
+30	accomplit	accomplir	VERB	VERB	_	15	conj	_	SpaceAfter=No
+31	.	.	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = 42
+# text = Quoi de plus suave, de plus parfait en ce monde que ces étreintes faisant de deux êtres un seul, et donnant à chacun, dans le même moment, la même pensée, la même attente et la même joie éperdue qui descend en eux comme un feu dévorant et céleste ?
+1	Quoi	quoi	PRON	PRON	_	4	advmod	_	_
+2	de	de	ADP	ADP	_	4	mark	_	_
+3	plus	plus	ADV	ADV	_	4	advmod	_	_
+4	suave	suave	ADJ	ADJ	_	4	ROOT	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	de	de	ADP	ADP	_	8	mark	_	_
+7	plus	plus	ADV	ADV	_	8	advmod	_	_
+8	parfait	parfait	ADJ	ADJ	_	4	conj	_	_
+9	en	en	ADP	ADP	_	11	case	_	_
+10	ce	ce	DET	DET	_	11	det	_	_
+11	monde	monde	NOUN	NOUN	_	8	obl:mod	_	_
+12	que	que	SCONJ	SCONJ	_	14	mark	_	_
+13	ces	ce	DET	DET	_	14	det	_	_
+14	étreintes	étreinte	NOUN	NOUN	_	4	dep	_	_
+15	faisant	faire	VERB	VERB	_	14	acl	_	_
+16	de	de	ADP	ADP	_	18	case	_	_
+17	deux	deux	NUM	NUM	_	18	nummod	_	Entity=(PER_10--2-
+18	êtres	être	NOUN	NOUN	_	15	obl:arg	_	Entity=PER_10)
+19	un	un	DET	DET	_	20	det	_	Entity=(PER_39--2-
+20	seul	seul	ADJ	ADJ	_	15	obj	_	Entity=PER_39)|SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	15	punct	_	_
+22	et	et	CCONJ	CCONJ	_	23	cc	_	_
+23	donnant	donner	VERB	VERB	_	15	conj	_	_
+24	à	à	ADP	ADP	_	25	case	_	_
+25	chacun	chacun	PRON	PRON	_	23	obl:arg	_	Entity=(PER_40--1-)|SpaceAfter=No
+26	,	,	PUNCT	PUNCT	_	23	punct	_	_
+27	dans	dans	ADP	ADP	_	30	case	_	_
+28	le	le	DET	DET	_	30	det	_	_
+29	même	même	ADJ	ADJ	_	30	amod	_	_
+30	moment	moment	NOUN	NOUN	_	23	obl:mod	_	SpaceAfter=No
+31	,	,	PUNCT	PUNCT	_	23	punct	_	_
+32	la	le	DET	DET	_	34	det	_	_
+33	même	même	ADJ	ADJ	_	34	amod	_	_
+34	pensée	pensée	NOUN	NOUN	_	23	obj	_	SpaceAfter=No
+35	,	,	PUNCT	PUNCT	_	38	punct	_	_
+36	la	le	DET	DET	_	38	det	_	_
+37	même	même	ADJ	ADJ	_	38	amod	_	_
+38	attente	attente	NOUN	NOUN	_	34	conj	_	_
+39	et	et	CCONJ	CCONJ	_	42	cc	_	_
+40	la	le	DET	DET	_	42	det	_	_
+41	même	même	ADJ	ADJ	_	42	amod	_	_
+42	joie	joie	NOUN	NOUN	_	34	conj	_	_
+43	éperdue	éperdu	ADJ	ADJ	_	42	amod	_	_
+44	qui	qui	PRON	PRON	_	45	nsubj	_	_
+45	descend	descendre	VERB	VERB	_	42	acl:relcl	_	_
+46	en	en	ADP	ADP	_	47	case	_	_
+47	eux	lui	PRON	PRON	_	45	obl:arg	_	Entity=(PER_10--1-)
+48	comme	comme	ADP	ADP	_	50	case	_	_
+49	un	un	DET	DET	_	50	det	_	_
+50	feu	feu	NOUN	NOUN	_	45	obl:mod	_	_
+51	dévorant	dévorant	ADJ	ADJ	_	50	amod	_	_
+52	et	et	CCONJ	CCONJ	_	53	cc	_	_
+53	céleste	céleste	ADJ	ADJ	_	51	conj	_	_
+54	?	?	PUNCT	PUNCT	_	54	ROOT	_	_
+
+# newpar
+# sent_id = 43
+# text = « Vous rappelez-vous ces vers que vous m'avez lus, l'autre année, dans quelque poète antique, je ne sais lequel, peut-être le doux Ronsard ?
+1	«	«	PUNCT	PUNCT	_	3	punct	_	_
+2	Vous	vous	PRON	PRON	_	3	nsubj	_	_
+3	rappelez	rappeler	VERB	VERB	_	3	ROOT	_	SpaceAfter=No
+4	-vous	vous	PRON	PRON	_	3	nsubj	_	Entity=(PER_1--1-)
+5	ces	ce	DET	DET	_	6	det	_	_
+6	vers	vers	NOUN	NOUN	_	3	obj	_	_
+7	que	que	PRON	PRON	_	11	obj	_	_
+8	vous	vous	PRON	PRON	_	11	nsubj	_	Entity=(PER_1--1-)
+9	m'	me	PRON	PRON	_	11	iobj	_	Entity=(PER_0--1-)|SpaceAfter=No
+10	avez	avoir	AUX	AUX	_	11	aux:tense	_	_
+11	lus	lire	VERB	VERB	_	6	acl:relcl	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	l'	le	DET	DET	_	15	det	_	Entity=(TIME_38--3-|SpaceAfter=No
+14	autre	autre	ADJ	ADJ	_	15	amod	_	_
+15	année	année	NOUN	NOUN	_	11	obl:mod	_	Entity=TIME_38)|SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	11	punct	_	_
+17	dans	dans	ADP	ADP	_	19	case	_	_
+18	quelque	quelque	DET	DET	_	19	det	_	Entity=(PER_37--2-
+19	poète	poète	NOUN	NOUN	_	11	obl:mod	_	_
+20	antique	antique	ADJ	ADJ	_	19	amod	_	Entity=PER_37)|SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	24	punct	_	_
+22	je	je	PRON	PRON	_	24	nsubj	_	Entity=(PER_0--1-)
+23	ne	ne	ADV	ADV	_	24	advmod	_	_
+24	sais	savoir	VERB	VERB	_	3	parataxis	_	_
+25	lequel	lequel	PRON	PRON	_	24	obj	_	SpaceAfter=No
+26	,	,	PUNCT	PUNCT	_	24	punct	_	_
+27	peut-être	peut-être	ADV	ADV	_	30	advmod	_	_
+28	le	le	DET	DET	_	30	det	_	Entity=(PER_42--3-
+29	doux	doux	ADJ	ADJ	_	30	amod	_	_
+30	Ronsard	Ronsard	PROPN	PROPN	_	24	appos	_	Entity=PER_42)
+31	?	?	PUNCT	PUNCT	_	3	punct	_	_
+
+# newpar
+# sent_id = 44
+# text = Et quand au lit nous serons Entrelacés, nous ferons Les lascifs, selon les guises Des amants qui librement Pratiquent folâtrement Sous les draps cent mignardises
+1	Et	et	CCONJ	CCONJ	_	7	cc	_	_
+2	quand	quand	ADV	ADV	_	7	mark	_	_
+3	au	au	ADP	ADP	_	4	case	_	_
+4	lit	lit	NOUN	NOUN	_	7	obl:mod	_	_
+5	nous	nous	PRON	PRON	_	7	nsubj:pass	_	Entity=(PER_16--1-)
+6	serons	être	AUX	AUX	_	7	aux:pass	_	_
+7	Entrelacés	entrelacer	VERB	VERB	_	10	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+9	nous	nous	PRON	PRON	_	10	nsubj	_	Entity=(PER_16--1-)
+10	ferons	faire	VERB	VERB	_	10	ROOT	_	_
+11	Les	le	DET	DET	_	12	det	_	Entity=(PER_41--2-
+12	lascifs	lascif	NOUN	NOUN	_	10	obj	_	Entity=PER_41)|SpaceAfter=No
+13	,	,	PUNCT	PUNCT	_	10	punct	_	_
+14	selon	selon	ADP	ADP	_	16	case	_	_
+15	les	le	DET	DET	_	16	det	_	_
+16	guises	guise	NOUN	NOUN	_	10	obl:mod	_	_
+17	Des	de	ADP	ADP	_	18	case	_	Entity=(PER_4--2-
+18	amants	amant	NOUN	NOUN	_	16	nmod	_	Entity=PER_4)
+19	qui	qui	PRON	PRON	_	20	cc	_	_
+20	librement	librement	ADV	ADV	_	18	acl:relcl	_	_
+21	Pratiquent	pratiquer	VERB	VERB	_	21	ROOT	_	_
+22	folâtrement	folâtrement	ADV	ADV	_	21	advmod	_	_
+23	Sous	sou	ADP	ADP	_	25	case	_	_
+24	les	le	DET	DET	_	25	det	_	_
+25	draps	drap	NOUN	NOUN	_	25	ROOT	_	_
+26	cent	cent	NUM	NUM	_	27	nummod	_	_
+27	mignardises	mignardise	NOUN	NOUN	_	25	nmod	_	_
+
+# newpar
+# sent_id = 45
+# text = « Ces vers-là, je les voudrais avoir brodés en ce plafond de mon lit, d'où Pyrame et Thisbé me regardent sans fin avec leurs yeux de tapisserie.
+1	«	«	PUNCT	PUNCT	_	8	punct	_	_
+2	Ces	ce	DET	DET	_	3	det	_	_
+3	vers	vers	NOUN	NOUN	_	4	nmod	_	SpaceAfter=No
+4	-là	-là	NOUN	NOUN	_	8	obl:mod	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	je	je	PRON	PRON	_	8	nsubj	_	_
+7	les	le	PRON	PRON	_	8	obj	_	_
+8	voudrais	vouloir	VERB	VERB	_	8	ROOT	_	_
+9	avoir	avoir	AUX	AUX	_	10	aux:tense	_	_
+10	brodés	broder	VERB	VERB	_	8	xcomp	_	_
+11	en	en	ADP	ADP	_	13	case	_	_
+12	ce	ce	DET	DET	_	13	det	_	_
+13	plafond	plafond	NOUN	NOUN	_	10	obl:mod	_	_
+14	de	de	ADP	ADP	_	16	case	_	_
+15	mon	mon	DET	DET	_	16	det	_	Entity=(PER_0--1-)
+16	lit	lit	NOUN	NOUN	_	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	PUNCT	_	10	punct	_	_
+18	d'	de	ADP	ADP	_	19	case	_	SpaceAfter=No
+19	où	où	PRON	PRON	_	24	obl:mod	_	_
+20	Pyrame	Pyrame	PROPN	PROPN	_	24	nsubj	_	Entity=(PER_14--3-(PER_26--1-)
+21	et	et	CCONJ	CCONJ	_	22	cc	_	_
+22	Thisbé	Thisbé	PROPN	PROPN	_	20	conj	_	Entity=PER_14)(PER_44--1-)
+23	me	me	PRON	PRON	_	24	iobj	_	Entity=(PER_0--1-)
+24	regardent	regarder	VERB	VERB	_	10	acl:relcl	_	_
+25	sans	sans	ADP	ADP	_	26	case	_	_
+26	fin	fin	NOUN	NOUN	_	24	obl:mod	_	_
+27	avec	avec	ADP	ADP	_	29	case	_	_
+28	leurs	leur	DET	DET	_	29	det	_	Entity=(PER_14--1-)
+29	yeux	oeil	NOUN	NOUN	_	24	obl:mod	_	_
+30	de	de	ADP	ADP	_	31	case	_	_
+31	tapisserie	tapisserie	NOUN	NOUN	_	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# newpar
+# sent_id = 46
+# text = « Et songez à la mort, mon ami, à tous ceux qui ont exhalé vers Dieu leur dernier souffle en ce lit.
+1	«	«	PUNCT	PUNCT	_	3	punct	_	_
+2	Et	et	CCONJ	CCONJ	_	3	cc	_	_
+3	songez	songer	VERB	VERB	_	3	ROOT	_	_
+4	à	à	ADP	ADP	_	6	case	_	_
+5	la	le	DET	DET	_	6	det	_	_
+6	mort	mort	NOUN	NOUN	_	3	obl:arg	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	mon	mon	DET	DET	_	9	det	_	Entity=(PER_1--2-(PER_0--1-)
+9	ami	ami	NOUN	NOUN	_	6	appos	_	Entity=PER_1)|SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	6	punct	_	_
+11	à	à	ADP	ADP	_	13	case	_	_
+12	tous	tout	ADJ	ADJ	_	13	amod	_	Entity=(PER_43--5-
+13	ceux	celui	PRON	PRON	_	3	obl:arg	_	_
+14	qui	qui	PRON	PRON	_	16	nsubj	_	_
+15	ont	avoir	AUX	AUX	_	16	aux:tense	_	_
+16	exhalé	exhaler	VERB	VERB	_	13	acl:relcl	_	_
+17	vers	vers	ADP	ADP	_	18	case	_	_
+18	Dieu	Dieu	PROPN	PROPN	_	16	obl:arg	_	Entity=(PER_45--1-)
+19	leur	son	DET	DET	_	21	det	_	_
+20	dernier	dernier	ADJ	ADJ	_	21	amod	_	_
+21	souffle	souffle	NOUN	NOUN	_	16	obj	_	_
+22	en	en	ADP	ADP	_	24	case	_	_
+23	ce	ce	DET	DET	_	24	det	_	_
+24	lit	lit	NOUN	NOUN	_	16	obl:mod	_	Entity=PER_43)|SpaceAfter=No
+25	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 47
+# text = Car il est aussi le tombeau des espérances finies, la porte qui ferme tout après avoir été celle qui ouvre le monde.
+1	Car	car	CCONJ	CCONJ	_	6	cc	_	_
+2	il	il	PRON	PRON	_	6	nsubj	_	_
+3	est	être	AUX	AUX	_	6	cop	_	_
+4	aussi	aussi	ADV	ADV	_	6	advmod	_	_
+5	le	le	DET	DET	_	6	det	_	_
+6	tombeau	tombeau	NOUN	NOUN	_	6	ROOT	_	_
+7	des	de	ADP	ADP	_	8	case	_	_
+8	espérances	espérance	NOUN	NOUN	_	6	nmod	_	_
+9	finies	fini	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	6	punct	_	_
+11	la	le	DET	DET	_	12	det	_	_
+12	porte	porte	NOUN	NOUN	_	6	appos	_	_
+13	qui	qui	PRON	PRON	_	14	nsubj	_	_
+14	ferme	ferme	VERB	VERB	_	12	acl:relcl	_	_
+15	tout	tout	ADV	ADV	_	14	advmod	_	_
+16	après	après	ADP	ADP	_	19	case	_	_
+17	avoir	avoir	AUX	AUX	_	19	aux:tense	_	_
+18	été	être	AUX	AUX	_	19	cop	_	_
+19	celle	celui	PRON	PRON	_	14	obl:mod	_	_
+20	qui	qui	PRON	PRON	_	21	nsubj	_	_
+21	ouvre	ouvrir	VERB	VERB	_	19	acl:relcl	_	_
+22	le	le	DET	DET	_	23	det	_	_
+23	monde	monde	NOUN	NOUN	_	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 48
+# text = Que de cris, que d'angoisses, de souffrances, de désespoirs épouvantables, de gémissements d'agonie, de bras tendus vers les choses passées, d'appels aux bonheurs terminés à jamais ; que de convulsions, de râles, de grimaces, de bouches tordues, d'yeux retournés, dans ce lit, où je vous écris, depuis trois siècles qu' il prête aux hommes son abri !
+1	Que	que	PRON	PRON	_	1	ROOT	_	_
+2	de	de	ADP	ADP	_	3	case	_	_
+3	cris	cri	NOUN	NOUN	_	1	obl:arg	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	que	que	ADV	ADV	_	7	advmod	_	_
+6	d'	de	ADP	ADP	_	7	case	_	SpaceAfter=No
+7	angoisses	angoisse	NOUN	NOUN	_	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+9	de	de	ADP	ADP	_	10	case	_	_
+10	souffrances	souffrance	NOUN	NOUN	_	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	13	punct	_	_
+12	de	de	ADP	ADP	_	13	case	_	_
+13	désespoirs	désespoir	NOUN	NOUN	_	7	conj	_	_
+14	épouvantables	épouvantable	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	17	punct	_	_
+16	de	de	ADP	ADP	_	17	case	_	_
+17	gémissements	gémissement	NOUN	NOUN	_	7	conj	_	_
+18	d'	de	ADP	ADP	_	19	case	_	SpaceAfter=No
+19	agonie	agonie	NOUN	NOUN	_	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	PUNCT	_	22	punct	_	_
+21	de	de	ADP	ADP	_	22	case	_	_
+22	bras	bras	NOUN	NOUN	_	7	conj	_	_
+23	tendus	tendre	VERB	VERB	_	22	acl	_	_
+24	vers	vers	ADP	ADP	_	26	case	_	_
+25	les	le	DET	DET	_	26	det	_	_
+26	choses	chose	NOUN	NOUN	_	23	obl:arg	_	_
+27	passées	passer	VERB	VERB	_	26	acl	_	SpaceAfter=No
+28	,	,	PUNCT	PUNCT	_	30	punct	_	_
+29	d'	de	ADP	ADP	_	30	case	_	SpaceAfter=No
+30	appels	appel	NOUN	NOUN	_	3	conj	_	_
+31	aux	à	ADP	ADP	_	32	case	_	_
+32	bonheurs	bonheur	NOUN	NOUN	_	30	nmod	_	_
+33	terminés	terminer	VERB	VERB	_	32	acl	_	_
+34	à	à	ADP	ADP	_	35	case	_	_
+35	jamais	jamais	ADV	ADV	_	33	obl:mod	_	_
+36	;	;	PUNCT	PUNCT	_	1	punct	_	_
+37	que	que	SCONJ	SCONJ	_	39	advmod	_	_
+38	de	de	ADP	ADP	_	39	case	_	_
+39	convulsions	convulsion	NOUN	NOUN	_	39	ROOT	_	SpaceAfter=No
+40	,	,	PUNCT	PUNCT	_	42	punct	_	_
+41	de	de	ADP	ADP	_	42	case	_	_
+42	râles	râle	NOUN	NOUN	_	39	conj	_	SpaceAfter=No
+43	,	,	PUNCT	PUNCT	_	45	punct	_	_
+44	de	de	ADP	ADP	_	45	case	_	_
+45	grimaces	grimace	NOUN	NOUN	_	39	conj	_	SpaceAfter=No
+46	,	,	PUNCT	PUNCT	_	48	punct	_	_
+47	de	de	ADP	ADP	_	48	case	_	_
+48	bouches	bouche	NOUN	NOUN	_	39	conj	_	_
+49	tordues	tordre	VERB	VERB	_	48	acl	_	SpaceAfter=No
+50	,	,	PUNCT	PUNCT	_	52	punct	_	_
+51	d'	de	ADP	ADP	_	52	case	_	SpaceAfter=No
+52	yeux	oeil	NOUN	NOUN	_	39	conj	_	_
+53	retournés	retourner	VERB	VERB	_	52	acl	_	SpaceAfter=No
+54	,	,	PUNCT	PUNCT	_	39	punct	_	_
+55	dans	dans	ADP	ADP	_	57	case	_	_
+56	ce	ce	DET	DET	_	57	det	_	_
+57	lit	lit	NOUN	NOUN	_	39	obl:mod	_	SpaceAfter=No
+58	,	,	PUNCT	PUNCT	_	57	punct	_	_
+59	où	où	PRON	PRON	_	62	iobj	_	_
+60	je	je	PRON	PRON	_	62	nsubj	_	Entity=(PER_0--1-)
+61	vous	vous	PRON	PRON	_	62	iobj	_	Entity=(PER_1--1-)
+62	écris	écrire	VERB	VERB	_	57	acl:relcl	_	SpaceAfter=No
+63	,	,	PUNCT	PUNCT	_	62	punct	_	_
+64	depuis	depuis	ADP	ADP	_	66	case	_	_
+65	trois	trois	NUM	NUM	_	66	nummod	_	Entity=(TIME_15--2-
+66	siècles	siècle	NOUN	NOUN	_	62	obl:mod	_	Entity=TIME_15)
+67	qu	que	PRON	PRON	_	70	obj	_	Entity=(TIME_15--1-|SpaceAfter=No
+68	'	'	PRON	PRON	_	70	mark	_	Entity=TIME_15)
+69	il	il	PRON	PRON	_	70	nsubj	_	_
+70	prête	prêt	VERB	VERB	_	66	acl:relcl	_	_
+71	aux	à	ADP	ADP	_	72	case	_	Entity=(PER_46--2-
+72	hommes	homme	NOUN	NOUN	_	70	obl:arg	_	Entity=PER_46)
+73	son	son	DET	DET	_	74	det	_	_
+74	abri	abri	NOUN	NOUN	_	70	obj	_	_
+75	!	!	PUNCT	PUNCT	_	39	punct	_	_
+
+# newpar
+# sent_id = 49
+# text = « Le lit, songez -y, c'est le symbole de la vie ; je me suis aperçue de cela depuis trois jours.
+1	«	«	PUNCT	PUNCT	_	5	punct	_	_
+2	Le	le	DET	DET	_	3	det	_	_
+3	lit	lit	NOUN	NOUN	_	5	dep	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	songez	songer	VERB	VERB	_	5	ROOT	_	_
+6	-y	y	PRON	PRON	_	5	dep	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	11	punct	_	_
+8	c'	ce	PRON	PRON	_	11	nsubj	_	SpaceAfter=No
+9	est	être	AUX	AUX	_	11	cop	_	_
+10	le	le	DET	DET	_	11	det	_	_
+11	symbole	symbole	NOUN	NOUN	_	5	dep	_	_
+12	de	de	ADP	ADP	_	14	case	_	_
+13	la	le	DET	DET	_	14	det	_	_
+14	vie	vie	NOUN	NOUN	_	11	nmod	_	_
+15	;	;	PUNCT	PUNCT	_	5	punct	_	_
+16	je	je	PRON	PRON	_	19	nsubj	_	Entity=(PER_0--1-)
+17	me	me	PRON	PRON	_	19	expl:comp	_	_
+18	suis	être	AUX	AUX	_	19	aux:tense	_	_
+19	aperçue	apercevoir	VERB	VERB	_	19	ROOT	_	_
+20	de	de	ADP	ADP	_	21	case	_	_
+21	cela	celer	PRON	PRON	_	19	obl:arg	_	_
+22	depuis	depuis	ADP	ADP	_	24	case	_	_
+23	trois	trois	NUM	NUM	_	24	nummod	_	Entity=(TIME_7--2-
+24	jours	jour	NOUN	NOUN	_	19	obl:mod	_	Entity=TIME_7)|SpaceAfter=No
+25	.	.	PUNCT	PUNCT	_	19	punct	_	_
+
+# sent_id = 50
+# text = Rien n'est excellent hors du lit.
+1	Rien	rien	PRON	PRON	_	4	nsubj	_	_
+2	n'	ne	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+3	est	être	AUX	AUX	_	4	cop	_	_
+4	excellent	excellent	ADJ	ADJ	_	4	ROOT	_	_
+5	hors	hors	ADP	ADP	_	7	case	_	_
+6	du	de	ADP	ADP	_	7	case	_	_
+7	lit	lit	NOUN	NOUN	_	4	obl:mod	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# newpar
+# sent_id = 51
+# text = « Le sommeil n'est-il pas encore un de nos instants les meilleurs ?
+1	«	«	PUNCT	PUNCT	_	9	punct	_	_
+2	Le	le	DET	DET	_	3	det	_	_
+3	sommeil	sommeil	NOUN	NOUN	_	9	nsubj	_	_
+4	n'	ne	ADV	ADV	_	9	advmod	_	SpaceAfter=No
+5	est	être	AUX	AUX	_	9	cop	_	SpaceAfter=No
+6	-il	il	PRON	PRON	_	8	expl:subj	_	_
+7	pas	pas	ADV	ADV	_	8	advmod	_	_
+8	encore	encore	ADV	ADV	_	9	advmod	_	_
+9	un	un	PRON	PRON	_	9	ROOT	_	_
+10	de	de	ADP	ADP	_	12	case	_	_
+11	nos	notre	DET	DET	_	12	det	_	_
+12	instants	instant	NOUN	NOUN	_	9	nmod	_	_
+13	les	le	DET	DET	_	14	det	_	_
+14	meilleurs	meilleur	ADJ	ADJ	_	12	amod	_	_
+15	?	?	PUNCT	PUNCT	_	9	punct	_	_
+
+# newpar
+# sent_id = 52
+# text = « Mais c'est aussi là qu'on souffre !
+1	«	«	PUNCT	PUNCT	_	1	ROOT	_	_
+2	Mais	mais	CCONJ	CCONJ	_	6	cc	_	_
+3	c'	ce	PRON	PRON	_	6	expl:subj	_	SpaceAfter=No
+4	est	être	AUX	AUX	_	6	cop	_	_
+5	aussi	aussi	ADV	ADV	_	6	advmod	_	_
+6	là	là	ADV	ADV	_	1	conj	_	_
+7	qu'	que	PRON	PRON	_	9	iobj	_	SpaceAfter=No
+8	on	on	PRON	PRON	_	9	nsubj	_	_
+9	souffre	souffrir	VERB	VERB	_	6	dep	_	_
+10	!	!	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 53
+# text = Il est le refuge des malades, un lieu de douleurs aux corps épuisés.
+1	Il	il	PRON	PRON	_	4	nsubj	_	_
+2	est	être	AUX	AUX	_	4	cop	_	_
+3	le	le	DET	DET	_	4	det	_	_
+4	refuge	refuge	NOUN	NOUN	_	4	ROOT	_	_
+5	des	de	ADP	ADP	_	6	case	_	Entity=(PER_47--2-
+6	malades	malade	NOUN	NOUN	_	4	nmod	_	Entity=PER_47)|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	4	punct	_	_
+8	un	un	DET	DET	_	9	det	_	_
+9	lieu	lieu	NOUN	NOUN	_	4	appos	_	_
+10	de	de	ADP	ADP	_	11	case	_	_
+11	douleurs	douleur	NOUN	NOUN	_	9	nmod	_	_
+12	aux	à	ADP	ADP	_	13	case	_	_
+13	corps	corps	NOUN	NOUN	_	9	nmod	_	_
+14	épuisés	épuiser	VERB	VERB	_	13	acl	_	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# newpar
+# sent_id = 54
+# text = « Le lit, c'est l'homme.
+1	«	«	PUNCT	PUNCT	_	8	punct	_	_
+2	Le	le	DET	DET	_	3	det	_	_
+3	lit	lit	NOUN	NOUN	_	8	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	8	punct	_	_
+5	c'	ce	PRON	PRON	_	8	expl:subj	_	SpaceAfter=No
+6	est	être	AUX	AUX	_	8	cop	_	_
+7	l'	le	DET	DET	_	8	det	_	SpaceAfter=No
+8	homme	homme	NOUN	NOUN	_	8	ROOT	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 55
+# text = Notre Seigneur Jésus, pour prouver qu'il n'avait rien d'humain, ne semble pas avoir jamais eu besoin d'un lit.
+1	Notre	notre	DET	DET	_	2	det	_	Entity=(PER_9--2-
+2	Seigneur	seigneur	NOUN	NOUN	_	16	nsubj	_	_
+3	Jésus	Jésus	PROPN	PROPN	_	2	flat:name	_	Entity=PER_9)|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	16	punct	_	_
+5	pour	pour	ADP	ADP	_	6	mark	_	_
+6	prouver	prouver	VERB	VERB	_	16	advcl	_	_
+7	qu'	que	SCONJ	SCONJ	_	10	mark	_	SpaceAfter=No
+8	il	il	PRON	PRON	_	10	nsubj	_	Entity=(PER_9--1-)
+9	n'	ne	ADV	ADV	_	10	advmod	_	SpaceAfter=No
+10	avait	avoir	VERB	VERB	_	6	ccomp	_	_
+11	rien	rien	PRON	PRON	_	10	obj	_	_
+12	d'	de	ADP	ADP	_	13	mark	_	SpaceAfter=No
+13	humain	humain	ADJ	ADJ	_	11	acl	_	SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	16	punct	_	_
+15	ne	ne	ADV	ADV	_	16	advmod	_	_
+16	semble	sembler	VERB	VERB	_	16	ROOT	_	_
+17	pas	pas	ADV	ADV	_	16	advmod	_	_
+18	avoir	avoir	AUX	AUX	_	20	aux:tense	_	_
+19	jamais	jamais	ADV	ADV	_	20	advmod	_	_
+20	eu	avoir	VERB	VERB	_	16	xcomp	_	_
+21	besoin	besoin	NOUN	NOUN	_	20	obj	_	_
+22	d'	de	ADP	ADP	_	24	case	_	SpaceAfter=No
+23	un	un	DET	DET	_	24	det	_	_
+24	lit	lit	NOUN	NOUN	_	20	obl:arg	_	SpaceAfter=No
+25	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 56
+# text = Il est né sur la paille et mort sur la croix, laissant aux créatures comme nous leur couche de mollesse et de repos.
+1	Il	il	PRON	PRON	_	3	nsubj	_	Entity=(PER_9--1-)
+2	est	être	AUX	AUX	_	3	aux:tense	_	_
+3	né	naître	VERB	VERB	_	3	ROOT	_	_
+4	sur	sur	ADP	ADP	_	6	case	_	_
+5	la	le	DET	DET	_	6	det	_	_
+6	paille	paille	NOUN	NOUN	_	3	obl:mod	_	_
+7	et	et	CCONJ	CCONJ	_	8	cc	_	_
+8	mort	mourir	VERB	VERB	_	3	conj	_	_
+9	sur	sur	ADP	ADP	_	11	case	_	_
+10	la	le	DET	DET	_	11	det	_	_
+11	croix	croix	NOUN	NOUN	_	8	obl:mod	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	3	punct	_	_
+13	laissant	laisser	VERB	VERB	_	3	advcl	_	_
+14	aux	à	ADP	ADP	_	15	case	_	_
+15	créatures	créature	NOUN	NOUN	_	13	obl:arg	_	Entity=(GPE_8--1-)
+16	comme	comme	ADP	ADP	_	17	case	_	_
+17	nous	nous	PRON	PRON	_	13	obl:mod	_	Entity=(PER_8--1-)
+18	leur	son	DET	DET	_	19	det	_	Entity=(PER_8--1-)
+19	couche	couche	NOUN	NOUN	_	13	obj	_	_
+20	de	de	ADP	ADP	_	21	case	_	_
+21	mollesse	mollesse	NOUN	NOUN	_	19	nmod	_	_
+22	et	et	CCONJ	CCONJ	_	24	cc	_	_
+23	de	de	ADP	ADP	_	24	case	_	_
+24	repos	repos	NOUN	NOUN	_	21	conj	_	SpaceAfter=No
+25	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# newpar
+# sent_id = 57
+# text = « Que d'autres choses me sont encore venues ! mais je n'ai le temps de vous les marquer, et puis me les rappellerais-je toutes ? et puis je suis déjà tant fatiguée que je vais retirer mes oreillers, m'étendre tout au long et dormir quelque peu.
+1	«	«	PUNCT	PUNCT	_	9	punct	_	_
+2	Que	que	SCONJ	SCONJ	_	9	mark	_	_
+3	d'	de	DET	DET	_	5	det	_	SpaceAfter=No
+4	autres	autre	ADJ	ADJ	_	5	amod	_	_
+5	choses	chose	NOUN	NOUN	_	9	nsubj	_	_
+6	me	me	PRON	PRON	_	9	iobj	_	Entity=(PER_0--1-)
+7	sont	être	AUX	AUX	_	9	aux:tense	_	_
+8	encore	encore	ADV	ADV	_	9	advmod	_	_
+9	venues	venir	VERB	VERB	_	9	ROOT	_	_
+10	!	!	PUNCT	PUNCT	_	9	punct	_	_
+11	mais	mais	CCONJ	CCONJ	_	14	cc	_	_
+12	je	je	PRON	PRON	_	14	nsubj	_	Entity=(PER_0--1-)
+13	n'	ne	ADV	ADV	_	14	advmod	_	SpaceAfter=No
+14	ai	avoir	VERB	VERB	_	14	ROOT	_	_
+15	le	le	DET	DET	_	16	det	_	_
+16	temps	temps	NOUN	NOUN	_	14	obj	_	_
+17	de	de	ADP	ADP	_	20	mark	_	_
+18	vous	vous	PRON	PRON	_	20	iobj	_	Entity=(PER_1--1-)
+19	les	le	PRON	PRON	_	20	obj	_	_
+20	marquer	marquer	VERB	VERB	_	14	xcomp	_	SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	14	punct	_	_
+22	et	et	CCONJ	CCONJ	_	26	cc	_	_
+23	puis	pouvoir	CCONJ	CCONJ	_	26	cc	_	_
+24	me	me	PRON	PRON	_	25	iobj	_	Entity=(PER_0--1-)
+25	les	le	PRON	PRON	_	26	dep	_	_
+26	rappellerais	rappeler	VERB	VERB	_	14	conj	_	SpaceAfter=No
+27	-je	je	PRON	PRON	_	26	nsubj	_	_
+28	toutes	tout	ADJ	ADJ	_	26	advmod	_	_
+29	?	?	PUNCT	PUNCT	_	14	punct	_	_
+30	et	et	CCONJ	CCONJ	_	36	cc	_	_
+31	puis	pouvoir	CCONJ	CCONJ	_	36	cc	_	_
+32	je	je	PRON	PRON	_	36	nsubj:pass	_	Entity=(PER_0--1-)
+33	suis	être	AUX	AUX	_	36	aux:tense	_	_
+34	déjà	déjà	ADV	ADV	_	36	advmod	_	_
+35	tant	tant	ADV	ADV	_	36	advmod	_	_
+36	fatiguée	fatiguer	VERB	VERB	_	36	ROOT	_	_
+37	que	que	SCONJ	SCONJ	_	39	mark	_	_
+38	je	je	PRON	PRON	_	39	nsubj	_	Entity=(PER_0--1-)
+39	vais	aller	VERB	VERB	_	36	ccomp	_	_
+40	retirer	retirer	VERB	VERB	_	39	xcomp	_	_
+41	mes	mon	DET	DET	_	42	det	_	Entity=(PER_0--1-)
+42	oreillers	oreiller	NOUN	NOUN	_	40	obj	_	SpaceAfter=No
+43	,	,	PUNCT	PUNCT	_	45	punct	_	_
+44	m'	me	PRON	PRON	_	45	expl:comp	_	Entity=(PER_0--1-)|SpaceAfter=No
+45	étendre	étendre	VERB	VERB	_	40	conj	_	_
+46	tout	tout	ADV	ADV	_	45	advmod	_	_
+47	au	au	ADP	ADP	_	46	fixed	_	_
+48	long	long	NOUN	NOUN	_	46	fixed	_	_
+49	et	et	CCONJ	CCONJ	_	50	cc	_	_
+50	dormir	dormir	VERB	VERB	_	45	conj	_	_
+51	quelque	quelque	DET	DET	_	53	advmod	_	_
+52	peu	peu	ADV	ADV	_	51	fixed	_	SpaceAfter=No
+53	.	.	PUNCT	PUNCT	_	50	obl:mod	_	_
+
+# newpar
+# sent_id = 58
+# text = « Venez me voir demain à trois heures ; peut-être serai-je mieux et vous le pourrai-je montrer.
+1	«	«	PUNCT	PUNCT	_	1	ROOT	_	_
+2	Venez	venir	VERB	VERB	_	2	ROOT	_	_
+3	me	me	PRON	PRON	_	4	obj	_	Entity=(PER_0--1-)
+4	voir	voir	VERB	VERB	_	2	xcomp	_	_
+5	demain	demain	ADV	ADV	_	4	advmod	_	_
+6	à	à	ADP	ADP	_	8	case	_	_
+7	trois	trois	NUM	NUM	_	8	nummod	_	Entity=(TIME_48--2-
+8	heures	heure	NOUN	NOUN	_	4	obl:mod	_	Entity=TIME_48)
+9	;	;	PUNCT	PUNCT	_	2	punct	_	_
+10	peut-être	peut-être	ADV	ADV	_	13	advmod	_	_
+11	serai	être	AUX	AUX	_	13	cop	_	SpaceAfter=No
+12	-je	je	PRON	PRON	_	13	nsubj	_	Entity=(PER_0--1-)
+13	mieux	mieux	ADV	ADV	_	13	ROOT	_	_
+14	et	et	CCONJ	CCONJ	_	17	cc	_	_
+15	vous	vous	PRON	PRON	_	17	nsubj	_	Entity=(PER_1--1-)
+16	le	le	PRON	PRON	_	17	obj	_	_
+17	pourrai	pouvoir	VERB	VERB	_	13	conj	_	SpaceAfter=No
+18	-je	je	PRON	PRON	_	17	dep	_	Entity=(PER_0--1-)
+19	montrer	montrer	VERB	VERB	_	17	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# newpar
+# sent_id = 59
+# text = « Adieu, mon ami ; voici mes mains pour que vous les baisiez, et je vous tends aussi mes lèvres.
+1	«	«	PUNCT	PUNCT	_	2	punct	_	_
+2	Adieu	adieu	NOUN	NOUN	_	2	ROOT	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	mon	mon	DET	DET	_	5	det	_	Entity=(PER_1--2-(PER_0--1-)
+5	ami	ami	NOUN	NOUN	_	2	nmod	_	Entity=PER_1)
+6	;	;	PUNCT	PUNCT	_	2	punct	_	_
+7	voici	voici	VERB	VERB	_	2	parataxis	_	_
+8	mes	mon	DET	DET	_	9	det	_	Entity=(PER_0--1-)
+9	mains	main	NOUN	NOUN	_	7	obj	_	_
+10	pour	pour	ADP	ADP	_	14	mark	_	_
+11	que	que	SCONJ	SCONJ	_	14	mark	_	_
+12	vous	vous	PRON	PRON	_	14	nsubj	_	Entity=(PER_1--1-)
+13	les	le	PRON	PRON	_	14	obj	_	_
+14	baisiez	baiser	VERB	VERB	_	7	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	7	punct	_	_
+16	et	et	CCONJ	CCONJ	_	19	cc	_	_
+17	je	je	PRON	PRON	_	19	nsubj	_	Entity=(PER_0--1-)
+18	vous	vous	PRON	PRON	_	19	iobj	_	Entity=(PER_1--1-)
+19	tends	tendre	VERB	VERB	_	7	conj	_	_
+20	aussi	aussi	ADV	ADV	_	19	advmod	_	_
+21	mes	mon	DET	DET	_	22	det	_	Entity=(PER_0--1-)
+22	lèvres	lèvre	NOUN	NOUN	_	19	obj	_	SpaceAfter=No
+23	.	.	PUNCT	PUNCT	_	23	ROOT	_	_
+
